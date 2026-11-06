@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore: মণ্ডলী-পরিচালিত বাইবেল অনুবাদের উন্মুক্ত টুল",
+  "title": "translationCore | মণ্ডলী-পরিচালিত বাইবেল অনুবাদের উন্মুক্ত টুল",
   "description": "মণ্ডলী ও অনুবাদ দলগুলোর জন্য শাস্ত্র বোঝা, অনুবাদ করা ও যাচাই করার উন্মুক্ত টুল। translationCore Desktop ও Mobile বিনামূল্যে ও ওপেন সোর্স।"
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "মোবাইল ডাউনলোড করুন",
   "a5": "মোবাইল দেখুন",
   "p3": "সাহায্য দরকার? <a href=\"/tc-help/\">শুরু করার নির্দেশিকা</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">রিলিজ নোট</a>"
+ },
+ "faq": {
+  "h2": "সচরাচর জিজ্ঞাসিত প্রশ্ন",
+  "q1": "translationCore কি বিনামূল্যে পাওয়া যায়?",
+  "a1": "হ্যাঁ। translationCore Desktop ও translationCore Mobile বিনামূল্যে ও ওপেন সোর্স, আর <a href=\"/resources/\">বাইবেল-ভিত্তিক সহায়িকাগুলো</a> উন্মুক্ত লাইসেন্সে, বিনামূল্যে ব্যবহার, ভাগ ও পরিবর্তন করা যায়।",
+  "q2": "translationCore কি অফলাইনে কাজ করে?",
+  "a2": "হ্যাঁ। translationCore Desktop ও translationCore Mobile দুটোই অফলাইনে কাজ করে।",
+  "q3": "translationCore কোন কোন ডিভাইসে চলে?",
+  "a3": "translationCore Desktop চলে Windows, Mac ও Linux-এ। translationCore Mobile চলে Android, iPhone ও ওয়েবে।",
+  "q4": "translationCore কারা তৈরি করে?",
+  "a4": "translationCore হলো unfoldingWord-এর একটি উদ্যোগ। এর টুলগুলো মণ্ডলী ও অনুবাদ দলগুলোকে শাস্ত্র বুঝতে, অনুবাদ করতে ও যাচাই করতে সাহায্য করে।"
  }
 }

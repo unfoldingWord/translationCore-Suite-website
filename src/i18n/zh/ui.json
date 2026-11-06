@@ -32,6 +32,7 @@
   "menu": "菜单",
   "languageLabel": "语言",
   "skipToContent": "跳到正文",
-  "ogImageAlt": "translationCore：为教会主导的圣经翻译提供开放工具"
+  "ogImageAlt": "translationCore：为教会主导的圣经翻译提供开放工具",
+  "lastUpdated": "最后更新：{date}"
  }
 }

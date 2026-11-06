@@ -21,6 +21,15 @@ export const CONTENT_LICENSE_URL = 'https://creativecommons.org/licenses/by-sa/4
 export const DEFINITION =
   'translationCore is a free, open-source set of tools from unfoldingWord for churches and translation teams to understand, translate, and check Scripture: translationCore Desktop for Windows, macOS and Linux, and translationCore Mobile for Android, iPhone and the web.';
 
+/** When the site's content last changed (YYYY-MM-DD). Shown in every page's
+ *  footer ("Last updated") and emitted as the WebPage dateModified, so the
+ *  two always agree. Update it whenever page copy or facts change. */
+export const LAST_UPDATED = '2026-11-06';
+
+/** GitHub's Atom feed of translationCore Desktop releases, linked from every
+ *  page's <head> as the site's update feed. */
+export const RELEASES_FEED_URL = 'https://github.com/unfoldingWord/translationCore4/releases.atom';
+
 // The current Desktop release, as linked from the Download section of
 // /desktop/ (src/components/pages/DesktopPage.astro). Update both together.
 export const DESKTOP_VERSION = '4.1.0-preview';
@@ -70,6 +79,50 @@ export function websiteNode(inLanguage: string) {
     description: DEFINITION,
     inLanguage,
     publisher: { '@id': PUBLISHER_ID },
+    author: { '@id': PUBLISHER_ID },
+  };
+}
+
+/** The page itself: its own title and meta description (the same strings
+ *  as <title> and <meta name="description">), who wrote it, and when it
+ *  last changed (the date the footer shows). */
+export function webPageNode(url: string, name: string, description: string | undefined, inLanguage: string) {
+  return {
+    '@type': 'WebPage',
+    '@id': `${url}#webpage`,
+    url,
+    name,
+    ...(description ? { description } : {}),
+    inLanguage,
+    isPartOf: { '@id': WEBSITE_ID },
+    author: { '@id': PUBLISHER_ID },
+    publisher: { '@id': PUBLISHER_ID },
+    dateModified: LAST_UPDATED,
+  };
+}
+
+/** FAQPage built from the same strings the page shows (Google requires the
+ *  questions and answers to be visible on the page). Answers may carry the
+ *  inline HTML the i18n strings use; it is stripped here. */
+export function faqNode(url: string, inLanguage: string, items: { q: string; a: string }[]) {
+  const text = (s: string) =>
+    s
+      .replace(/<[^>]+>/g, '')
+      .replace(/&amp;/g, '&')
+      .replace(/&rsquo;/g, '’')
+      .replace(/&nbsp;/g, ' ')
+      .trim();
+  return {
+    '@type': 'FAQPage',
+    '@id': `${url}#faq`,
+    url,
+    inLanguage,
+    isPartOf: { '@id': WEBSITE_ID },
+    mainEntity: items.map(({ q, a }) => ({
+      '@type': 'Question',
+      name: text(q),
+      acceptedAnswer: { '@type': 'Answer', text: text(a) },
+    })),
   };
 }
 

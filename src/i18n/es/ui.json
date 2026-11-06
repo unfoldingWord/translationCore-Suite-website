@@ -32,6 +32,7 @@
   "menu": "Menú",
   "languageLabel": "Idioma",
   "skipToContent": "Saltar al contenido",
-  "ogImageAlt": "translationCore: herramientas abiertas para la traducción bíblica dirigida por la iglesia"
+  "ogImageAlt": "translationCore: herramientas abiertas para la traducción bíblica dirigida por la iglesia",
+  "lastUpdated": "Última actualización: {date}"
  }
 }

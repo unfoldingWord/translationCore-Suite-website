@@ -32,6 +32,7 @@
   "menu": "Trình đơn",
   "languageLabel": "Ngôn ngữ",
   "skipToContent": "Chuyển đến nội dung chính",
-  "ogImageAlt": "translationCore: công cụ mở cho việc dịch Kinh Thánh do Hội Thánh dẫn dắt"
+  "ogImageAlt": "translationCore: công cụ mở cho việc dịch Kinh Thánh do Hội Thánh dẫn dắt",
+  "lastUpdated": "Cập nhật lần cuối: {date}"
  }
 }

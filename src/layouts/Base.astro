@@ -23,7 +23,7 @@ import { content } from '../i18n/content';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
-import { organizationNode, websiteNode, serializeGraph } from '../lib/jsonld';
+import { organizationNode, websiteNode, webPageNode, serializeGraph, RELEASES_FEED_URL } from '../lib/jsonld';
 
 interface Props {
   locale: string;
@@ -44,7 +44,12 @@ const isNotFound = slug === '404';
 const canonical = new URL(localePath(locale, slug), Astro.site);
 const ogImage = new URL('/assets/img/og-image.png', Astro.site);
 const fontHref = fontHrefFor(locale);
-const graph = serializeGraph([organizationNode(), websiteNode(def.tag), ...jsonLd]);
+const graph = serializeGraph([
+  organizationNode(),
+  websiteNode(def.tag),
+  ...(isNotFound ? [] : [webPageNode(canonical.href, title, description, def.tag)]),
+  ...jsonLd,
+]);
 // Open Graph locale tags use underscores (es_MX), not BCP-47 hyphens.
 const ogLocale = (l: string) => byCode(l).tag.replace('-', '_');
 
@@ -68,6 +73,8 @@ const localeMeta = JSON.stringify({
 <title>{title}</title>
 {description && <meta name="description" content={description}>}
 {isNotFound ? <meta name="robots" content="noindex"> : <link rel="canonical" href={canonical}>}
+<meta name="author" content="unfoldingWord">
+<link rel="alternate" type="application/atom+xml" title="translationCore Desktop releases" href={RELEASES_FEED_URL}>
 <meta name="theme-color" content="#014263">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content={ui.siteTitle}>

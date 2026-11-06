@@ -32,6 +32,7 @@
   "menu": "القائمة",
   "languageLabel": "اللغة",
   "skipToContent": "انتقل إلى المحتوى",
-  "ogImageAlt": "translationCore: أدوات مفتوحة لترجمة الكتاب المقدس بقيادة الكنيسة"
+  "ogImageAlt": "translationCore: أدوات مفتوحة لترجمة الكتاب المقدس بقيادة الكنيسة",
+  "lastUpdated": "آخر تحديث: {date}"
  }
 }

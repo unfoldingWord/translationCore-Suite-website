@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore: Zana huria za makanisa kutafsiri Biblia",
+  "title": "translationCore | Zana huria za makanisa kutafsiri Biblia",
   "description": "Zana huria kwa makanisa na timu za tafsiri ili kuelewa, kutafsiri na kukagua Maandiko. translationCore Desktop na Mobile ni bure na za chanzo huria."
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "Pakua Mobile",
   "a5": "Gundua Mobile",
   "p3": "Unahitaji msaada? <a href=\"/tc-help/\">Jinsi ya Kuanza</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Maelezo ya Toleo</a>"
+ },
+ "faq": {
+  "h2": "Maswali yanayoulizwa mara kwa mara",
+  "q1": "Je, translationCore ni bure?",
+  "a1": "Ndiyo. translationCore Desktop na translationCore Mobile ni bure na za chanzo huria, na <a href=\"/resources/\">Rasilimali za Biblia</a> zina leseni huria; ni bure kutumia, kushiriki na kurekebisha.",
+  "q2": "Je, translationCore inafanya kazi bila intaneti?",
+  "a2": "Ndiyo. translationCore Desktop na translationCore Mobile zote zinafanya kazi bila intaneti.",
+  "q3": "translationCore inafanya kazi kwenye vifaa gani?",
+  "a3": "translationCore Desktop inafanya kazi kwenye Windows, Mac na Linux. translationCore Mobile inafanya kazi kwenye Android, iPhone na wavuti.",
+  "q4": "Nani anatengeneza translationCore?",
+  "a4": "translationCore ni mpango wa unfoldingWord. Zana zake husaidia makanisa na timu za tafsiri kuelewa, kutafsiri na kukagua Maandiko."
  }
 }

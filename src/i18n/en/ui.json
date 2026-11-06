@@ -20,6 +20,7 @@
   "menu": "Menu",
   "languageLabel": "Language",
   "skipToContent": "Skip to content",
-  "ogImageAlt": "translationCore: open tools for church-led Bible translation"
+  "ogImageAlt": "translationCore: open tools for church-led Bible translation",
+  "lastUpdated": "Last updated {date}"
  }
 }

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore: Alat terbuka penerjemahan Alkitab oleh gereja",
+  "title": "translationCore | Alat terbuka penerjemahan Alkitab oleh gereja",
   "description": "Alat terbuka bagi gereja dan tim penerjemah untuk memahami, menerjemahkan, dan memeriksa Alkitab. translationCore Desktop dan Mobile gratis dan bersumber terbuka."
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "Unduh Mobile",
   "a5": "Jelajahi Mobile",
   "p3": "Butuh bantuan? <a href=\"/tc-help/\">Panduan Memulai</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Catatan Rilis</a>"
+ },
+ "faq": {
+  "h2": "Pertanyaan yang sering diajukan",
+  "q1": "Apakah translationCore gratis?",
+  "a1": "Ya. translationCore Desktop dan translationCore Mobile gratis dan bersumber terbuka, dan <a href=\"/resources/\">Sumber Daya Alkitab</a> berlisensi terbuka serta gratis untuk digunakan, dibagikan, dan disesuaikan.",
+  "q2": "Apakah translationCore dapat digunakan secara offline?",
+  "a2": "Ya. translationCore Desktop dan translationCore Mobile sama-sama dapat digunakan secara offline.",
+  "q3": "Di perangkat apa saja translationCore dapat digunakan?",
+  "a3": "translationCore Desktop berjalan di Windows, Mac, dan Linux. translationCore Mobile berjalan di Android, iPhone, dan web.",
+  "q4": "Siapa yang membuat translationCore?",
+  "a4": "translationCore adalah inisiatif dari unfoldingWord. Alat-alatnya membantu gereja dan tim penerjemah memahami, menerjemahkan, dan memeriksa Alkitab."
  }
 }
