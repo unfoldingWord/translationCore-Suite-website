@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "Kompyuta",
+   "slug": "desktop"
+  },
+  {
+   "label": "Simu",
+   "slug": "mobile"
+  },
+  {
+   "label": "Rasilimali za Biblia",
+   "slug": "resources"
+  },
+  {
+   "label": "Mafunzo &amp; Msaada",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "Mpango wa",
+ "footerTagline": "Zana huria kwa tafsiri ya Biblia inayoongozwa na kanisa.",
+ "footerInitiative": "translationCore ni mpango wa <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a>.",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "Leseni na Alama ya Biashara",
+  "privacy": "Sera ya Faragha",
+  "about": "Kuhusu unfoldingWord"
+ },
+ "give": "Saidia tafsiri ya Biblia inayoongozwa na makanisa",
+ "strings": {
+  "menu": "Menyu",
+  "languageLabel": "Lugha",
+  "skipToContent": "Ruka hadi maudhui",
+  "ogImageAlt": "translationCore: zana huria kwa tafsiri ya Biblia inayoongozwa na kanisa"
+ }
+}

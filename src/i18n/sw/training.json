@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "title": "Mafunzo na Msaada | translationCore",
+  "description": "Mafunzo, mwongozo na hadithi za Biblia kwa watafsiri: Foundations BT, Church-Based Training, BT Servant na Open Bible Stories."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Nyumbani</a> &nbsp;/&nbsp; Mafunzo &amp; Msaada",
+  "h1": "Msaada kwa kila mtafsiri",
+  "p2": "Mafunzo, mwongozo na hadithi za Biblia kutoka kwa mipango yenye lengo moja: Biblia katika kila lugha.",
+  "a": "Tazama hapa chini"
+ },
+ "initiatives": {
+  "h2": "Mafunzo na mwongozo",
+  "p": "Kila mpango huwasaidia watafsiri na makanisa. Unaweza kutumia yoyote kati yake pamoja na translationCore.",
+  "h3": "Foundations BT",
+  "p2": "Mwanzo wenye mwongozo kwa tafsiri ya Biblia inayoongozwa na kanisa.",
+  "a": "Tembelea Foundations BT",
+  "h32": "Church-Based Training",
+  "p3": "Kuyaandaa makanisa kushiriki katika kazi ya tafsiri.",
+  "a2": "Tembelea Church-Based Training",
+  "h33": "BT Servant",
+  "p4": "Kocha wa AI anayetegemea rasilimali za kuaminika. Uliza swali kuhusu kifungu.",
+  "a3": "Jaribu BT Servant",
+  "h34": "Open Bible Stories",
+  "p5": "Hadithi 50 rahisi za Biblia zenye picha.",
+  "a4": "Tembelea Open Bible Stories"
+ },
+ "help": {
+  "h2": "Unahitaji msaada?",
+  "h3": "Discord",
+  "p": "Uliza maswali na zungumza na jumuiya.",
+  "a": "Jiunge na Discord yetu",
+  "h32": "Wasiliana na unfoldingWord",
+  "p2": "Una maswali kwa timu ya unfoldingWord? Wasiliana nasi.",
+  "a2": "Wasiliana nasi"
+ },
+ "academy": {
+  "h2": "Chuo cha Tafsiri",
+  "p": "Mwongozo wa nadharia na utendaji wa tafsiri, bure kusoma mtandaoni.",
+  "a": "Tazama Chuo cha Tafsiri"
+ }
+}
