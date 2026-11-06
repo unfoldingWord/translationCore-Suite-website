@@ -4,7 +4,7 @@
  "docs": [
   {
    "id": "gs-install",
-   "url": "gs-install.html",
+   "url": "gs-install",
    "title": "Install and start tC4",
    "section": "Getting started",
    "status": "partial",
@@ -24,7 +24,7 @@
   },
   {
    "id": "gs-home",
-   "url": "gs-home.html",
+   "url": "gs-home",
    "title": "The Home screen",
    "section": "Getting started",
    "status": "shipped",
@@ -59,7 +59,7 @@
   },
   {
    "id": "gs-modes",
-   "url": "gs-modes.html",
+   "url": "gs-modes",
    "title": "Understand, Translate and Check — the three modes",
    "section": "Getting started",
    "status": "shipped",
@@ -82,7 +82,7 @@
   },
   {
    "id": "gs-save",
-   "url": "gs-save.html",
+   "url": "gs-save",
    "title": "Saving and checkpoints",
    "section": "Getting started",
    "status": "shipped",
@@ -107,7 +107,7 @@
   },
   {
    "id": "gs-resume",
-   "url": "gs-resume.html",
+   "url": "gs-resume",
    "title": "Resume where you left off",
    "section": "Getting started",
    "status": "shipped",
@@ -129,7 +129,7 @@
   },
   {
    "id": "gs-switch-project",
-   "url": "gs-switch-project.html",
+   "url": "gs-switch-project",
    "title": "Switch project or go back Home",
    "section": "Getting started",
    "status": "shipped",
@@ -148,7 +148,7 @@
   },
   {
    "id": "bp-new-bible",
-   "url": "bp-new-bible.html",
+   "url": "bp-new-bible",
    "title": "Create a Bible project",
    "section": "Bible projects",
    "status": "shipped",
@@ -178,7 +178,7 @@
   },
   {
    "id": "bp-add-book",
-   "url": "bp-add-book.html",
+   "url": "bp-add-book",
    "title": "Add a book",
    "section": "Bible projects",
    "status": "shipped",
@@ -205,7 +205,7 @@
   },
   {
    "id": "bp-open-book",
-   "url": "bp-open-book.html",
+   "url": "bp-open-book",
    "title": "Open a book and move between chapters",
    "section": "Bible projects",
    "status": "shipped",
@@ -225,7 +225,7 @@
   },
   {
    "id": "bp-import",
-   "url": "bp-import.html",
+   "url": "bp-import",
    "title": "Import a project (translationCore 3, USFM or Scripture Burrito)",
    "section": "Bible projects",
    "status": "shipped",
@@ -257,7 +257,7 @@
   },
   {
    "id": "bp-export-pdf",
-   "url": "bp-export-pdf.html",
+   "url": "bp-export-pdf",
    "title": "Export a book as PDF",
    "section": "Bible projects",
    "status": "shipped",
@@ -280,7 +280,7 @@
   },
   {
    "id": "bp-export-usfm",
-   "url": "bp-export-usfm.html",
+   "url": "bp-export-usfm",
    "title": "Export a book as USFM (aligned or plain)",
    "section": "Bible projects",
    "status": "shipped",
@@ -305,7 +305,7 @@
   },
   {
    "id": "bp-export-burrito",
-   "url": "bp-export-burrito.html",
+   "url": "bp-export-burrito",
    "title": "Export a project as a Scripture Burrito",
    "section": "Bible projects",
    "status": "shipped",
@@ -332,7 +332,7 @@
   },
   {
    "id": "tr-screen",
-   "url": "tr-screen.html",
+   "url": "tr-screen",
    "title": "The Translate screen",
    "section": "Translate",
    "status": "shipped",
@@ -366,7 +366,7 @@
   },
   {
    "id": "tr-source-texts",
-   "url": "tr-source-texts.html",
+   "url": "tr-source-texts",
    "title": "Source tabs — gateway texts and the original language",
    "section": "Translate",
    "status": "shipped",
@@ -391,7 +391,7 @@
   },
   {
    "id": "tr-draft-section",
-   "url": "tr-draft-section.html",
+   "url": "tr-draft-section",
    "title": "Draft a section",
    "section": "Translate",
    "status": "shipped",
@@ -417,7 +417,7 @@
   },
   {
    "id": "tr-place-verse-numbers",
-   "url": "tr-place-verse-numbers.html",
+   "url": "tr-place-verse-numbers",
    "title": "Place verse numbers",
    "section": "Translate",
    "status": "shipped",
@@ -439,7 +439,7 @@
   },
   {
    "id": "tr-verse-spans",
-   "url": "tr-verse-spans.html",
+   "url": "tr-verse-spans",
    "title": "Make or break a verse span",
    "section": "Translate",
    "status": "shipped",
@@ -462,7 +462,7 @@
   },
   {
    "id": "tr-verse-by-verse",
-   "url": "tr-verse-by-verse.html",
+   "url": "tr-verse-by-verse",
    "title": "Draft or revise one verse",
    "section": "Translate",
    "status": "shipped",
@@ -485,7 +485,7 @@
   },
   {
    "id": "tr-formatting",
-   "url": "tr-formatting.html",
+   "url": "tr-formatting",
    "title": "Paragraphs and poetry",
    "section": "Translate",
    "status": "shipped",
@@ -506,7 +506,7 @@
   },
   {
    "id": "tr-helps-panel",
-   "url": "tr-helps-panel.html",
+   "url": "tr-helps-panel",
    "title": "The helps panel in Translate",
    "section": "Translate",
    "status": "shipped",
@@ -536,7 +536,7 @@
   },
   {
    "id": "tr-edit-after-check",
-   "url": "tr-edit-after-check.html",
+   "url": "tr-edit-after-check",
    "title": "Editing a verse you already checked or aligned",
    "section": "Translate",
    "status": "shipped",
@@ -558,7 +558,7 @@
   },
   {
    "id": "un-read-passage",
-   "url": "un-read-passage.html",
+   "url": "un-read-passage",
    "title": "Read a passage before you translate",
    "section": "Understand",
    "status": "shipped",
@@ -588,7 +588,7 @@
   },
   {
    "id": "un-notes",
-   "url": "un-notes.html",
+   "url": "un-notes",
    "title": "Translation notes and Translation Academy articles",
    "section": "Understand",
    "status": "shipped",
@@ -609,7 +609,7 @@
   },
   {
    "id": "un-word-links",
-   "url": "un-word-links.html",
+   "url": "un-word-links",
    "title": "Word links (Translation Words)",
    "section": "Understand",
    "status": "shipped",
@@ -629,7 +629,7 @@
   },
   {
    "id": "un-questions",
-   "url": "un-questions.html",
+   "url": "un-questions",
    "title": "Translation questions",
    "section": "Understand",
    "status": "shipped",
@@ -649,7 +649,7 @@
   },
   {
    "id": "un-simplified",
-   "url": "un-simplified.html",
+   "url": "un-simplified",
    "title": "The simplified text tab",
    "section": "Understand",
    "status": "shipped",
@@ -670,7 +670,7 @@
   },
   {
    "id": "un-user-comments",
-   "url": "un-user-comments.html",
+   "url": "un-user-comments",
    "title": "Write a user comment",
    "section": "Understand",
    "status": "shipped",
@@ -693,7 +693,7 @@
   },
   {
    "id": "ck-tool-picker",
-   "url": "ck-tool-picker.html",
+   "url": "ck-tool-picker",
    "title": "Choose a checking tool",
    "section": "Check",
    "status": "shipped",
@@ -719,7 +719,7 @@
   },
   {
    "id": "ck-translation-notes",
-   "url": "ck-translation-notes.html",
+   "url": "ck-translation-notes",
    "title": "Check with Translation Notes",
    "section": "Check",
    "status": "shipped",
@@ -752,7 +752,7 @@
   },
   {
    "id": "ck-translation-words",
-   "url": "ck-translation-words.html",
+   "url": "ck-translation-words",
    "title": "Check with Translation Words",
    "section": "Check",
    "status": "shipped",
@@ -787,7 +787,7 @@
   },
   {
    "id": "ck-decide",
-   "url": "ck-decide.html",
+   "url": "ck-decide",
    "title": "Decide on a check item (valid, invalid, to do)",
    "section": "Check",
    "status": "shipped",
@@ -812,7 +812,7 @@
   },
   {
    "id": "ck-bookmarks",
-   "url": "ck-bookmarks.html",
+   "url": "ck-bookmarks",
    "title": "Bookmark a check",
    "section": "Check",
    "status": "shipped",
@@ -830,7 +830,7 @@
   },
   {
    "id": "ck-comments",
-   "url": "ck-comments.html",
+   "url": "ck-comments",
    "title": "Write a check comment",
    "section": "Check",
    "status": "shipped",
@@ -853,7 +853,7 @@
   },
   {
    "id": "ck-filter-sort",
-   "url": "ck-filter-sort.html",
+   "url": "ck-filter-sort",
    "title": "Filter and sort check items",
    "section": "Check",
    "status": "shipped",
@@ -881,7 +881,7 @@
   },
   {
    "id": "ck-community-checking",
-   "url": "ck-community-checking.html",
+   "url": "ck-community-checking",
    "title": "Community Checking preview",
    "section": "Check",
    "status": "shipped",
@@ -914,7 +914,7 @@
   },
   {
    "id": "al-open",
-   "url": "al-open.html",
+   "url": "al-open",
    "title": "Open the Align tool",
    "section": "Align",
    "status": "shipped",
@@ -943,7 +943,7 @@
   },
   {
    "id": "al-link-words",
-   "url": "al-link-words.html",
+   "url": "al-link-words",
    "title": "Link your words to the source",
    "section": "Align",
    "status": "shipped",
@@ -967,7 +967,7 @@
   },
   {
    "id": "al-phrases",
-   "url": "al-phrases.html",
+   "url": "al-phrases",
    "title": "Align a phrase (merge and split cards)",
    "section": "Align",
    "status": "shipped",
@@ -986,7 +986,7 @@
   },
   {
    "id": "al-modes",
-   "url": "al-modes.html",
+   "url": "al-modes",
    "title": "Align to the gateway text or the original language",
    "section": "Align",
    "status": "shipped",
@@ -1007,7 +1007,7 @@
   },
   {
    "id": "al-suggestions",
-   "url": "al-suggestions.html",
+   "url": "al-suggestions",
    "title": "Alignment suggestions",
    "section": "Align",
    "status": "shipped",
@@ -1031,7 +1031,7 @@
   },
   {
    "id": "al-mark-valid",
-   "url": "al-mark-valid.html",
+   "url": "al-mark-valid",
    "title": "Mark an alignment done",
    "section": "Align",
    "status": "shipped",
@@ -1049,7 +1049,7 @@
   },
   {
    "id": "obs-create",
-   "url": "obs-create.html",
+   "url": "obs-create",
    "title": "Start an Open Bible Stories project",
    "section": "Open Bible Stories",
    "status": "shipped",
@@ -1076,7 +1076,7 @@
   },
   {
    "id": "obs-story-tiles",
-   "url": "obs-story-tiles.html",
+   "url": "obs-story-tiles",
    "title": "Find a story on Home",
    "section": "Open Bible Stories",
    "status": "shipped",
@@ -1097,7 +1097,7 @@
   },
   {
    "id": "obs-translate",
-   "url": "obs-translate.html",
+   "url": "obs-translate",
    "title": "Translate a story",
    "section": "Open Bible Stories",
    "status": "shipped",
@@ -1119,7 +1119,7 @@
   },
   {
    "id": "obs-understand",
-   "url": "obs-understand.html",
+   "url": "obs-understand",
    "title": "Understand a story",
    "section": "Open Bible Stories",
    "status": "shipped",
@@ -1140,7 +1140,7 @@
   },
   {
    "id": "obs-check",
-   "url": "obs-check.html",
+   "url": "obs-check",
    "title": "Check a story",
    "section": "Open Bible Stories",
    "status": "shipped",
@@ -1166,7 +1166,7 @@
   },
   {
    "id": "obs-community-checking",
-   "url": "obs-community-checking.html",
+   "url": "obs-community-checking",
    "title": "Story preview and export",
    "section": "Open Bible Stories",
    "status": "shipped",
@@ -1191,7 +1191,7 @@
   },
   {
    "id": "obs-export-markdown-pdf",
-   "url": "obs-export-markdown-pdf.html",
+   "url": "obs-export-markdown-pdf",
    "title": "Export stories as PDF or Markdown",
    "section": "Open Bible Stories",
    "status": "shipped",
@@ -1213,7 +1213,7 @@
   },
   {
    "id": "rs-whats-included",
-   "url": "rs-whats-included.html",
+   "url": "rs-whats-included",
    "title": "What comes with the app",
    "section": "Resources and offline",
    "status": "shipped",
@@ -1231,7 +1231,7 @@
   },
   {
    "id": "rs-source-texts",
-   "url": "rs-source-texts.html",
+   "url": "rs-source-texts",
    "title": "Download source texts",
    "section": "Resources and offline",
    "status": "shipped",
@@ -1258,7 +1258,7 @@
   },
   {
    "id": "rs-checking-language",
-   "url": "rs-checking-language.html",
+   "url": "rs-checking-language",
    "title": "Change the checking language",
    "section": "Resources and offline",
    "status": "shipped",
@@ -1278,7 +1278,7 @@
   },
   {
    "id": "rs-upgrade-helps",
-   "url": "rs-upgrade-helps.html",
+   "url": "rs-upgrade-helps",
    "title": "Update pinned helps",
    "section": "Resources and offline",
    "status": "shipped",
@@ -1303,7 +1303,7 @@
   },
   {
    "id": "rs-upgrade-texts",
-   "url": "rs-upgrade-texts.html",
+   "url": "rs-upgrade-texts",
    "title": "Update scripture texts",
    "section": "Resources and offline",
    "status": "shipped",
@@ -1328,7 +1328,7 @@
   },
   {
    "id": "rs-guided-fix",
-   "url": "rs-guided-fix.html",
+   "url": "rs-guided-fix",
    "title": "Fix a missing resource",
    "section": "Resources and offline",
    "status": "shipped",
@@ -1351,7 +1351,7 @@
   },
   {
    "id": "rs-offline",
-   "url": "rs-offline.html",
+   "url": "rs-offline",
    "title": "Working offline",
    "section": "Resources and offline",
    "status": "shipped",
@@ -1372,7 +1372,7 @@
   },
   {
    "id": "st-project-settings",
-   "url": "st-project-settings.html",
+   "url": "st-project-settings",
    "title": "Project settings",
    "section": "Settings",
    "status": "partial",
@@ -1398,7 +1398,7 @@
   },
   {
    "id": "st-where-projects-live",
-   "url": "st-where-projects-live.html",
+   "url": "st-where-projects-live",
    "title": "Where your projects are stored",
    "section": "Settings",
    "status": "shipped",
@@ -1414,7 +1414,7 @@
   },
   {
    "id": "st-app-language",
-   "url": "st-app-language.html",
+   "url": "st-app-language",
    "title": "Change the app language",
    "section": "Settings",
    "status": "shipped",
@@ -1441,7 +1441,7 @@
   },
   {
    "id": "ts-save-problems",
-   "url": "ts-save-problems.html",
+   "url": "ts-save-problems",
    "title": "When a save fails",
    "section": "Troubleshooting and known limits",
    "status": "shipped",
@@ -1464,7 +1464,7 @@
   },
   {
    "id": "ts-protect-messages",
-   "url": "ts-protect-messages.html",
+   "url": "ts-protect-messages",
    "title": "Messages that protect your project",
    "section": "Troubleshooting and known limits",
    "status": "shipped",
@@ -1486,7 +1486,7 @@
   },
   {
    "id": "ts-crash-recovery",
-   "url": "ts-crash-recovery.html",
+   "url": "ts-crash-recovery",
    "title": "If the app closed unexpectedly or the window went blank",
    "section": "Troubleshooting and known limits",
    "status": "shipped",
@@ -1503,7 +1503,7 @@
   },
   {
    "id": "ts-platform",
-   "url": "ts-platform.html",
+   "url": "ts-platform",
    "title": "Windows, macOS and Linux notes",
    "section": "Troubleshooting and known limits",
    "status": "partial",
@@ -1519,7 +1519,7 @@
   },
   {
    "id": "ts-share-door43",
-   "url": "ts-share-door43.html",
+   "url": "ts-share-door43",
    "title": "Share to Door43",
    "section": "Troubleshooting and known limits",
    "status": "shipped",
@@ -1540,7 +1540,7 @@
   },
   {
    "id": "ts-team-sync",
-   "url": "ts-team-sync.html",
+   "url": "ts-team-sync",
    "title": "Working as a team on several computers",
    "section": "Troubleshooting and known limits",
    "status": "shipped",
@@ -1560,7 +1560,7 @@
   },
   {
    "id": "ts-not-yet",
-   "url": "ts-not-yet.html",
+   "url": "ts-not-yet",
    "title": "Features not built yet",
    "section": "Troubleshooting and known limits",
    "status": "not-yet",
@@ -1576,7 +1576,7 @@
   },
   {
    "id": "wn-alpha1",
-   "url": "wn-alpha1.html",
+   "url": "wn-alpha1",
    "title": "alpha.1 — First public build",
    "section": "Release notes",
    "status": "",
@@ -1592,7 +1592,7 @@
   },
   {
    "id": "wn-alpha2",
-   "url": "wn-alpha2.html",
+   "url": "wn-alpha2",
    "title": "alpha.2 — Check and align",
    "section": "Release notes",
    "status": "",
@@ -1607,7 +1607,7 @@
   },
   {
    "id": "wn-alpha4",
-   "url": "wn-alpha4.html",
+   "url": "wn-alpha4",
    "title": "alpha.4 — Open and resume",
    "section": "Release notes",
    "status": "",
@@ -1623,7 +1623,7 @@
   },
   {
    "id": "wn-alpha5",
-   "url": "wn-alpha5.html",
+   "url": "wn-alpha5",
    "title": "alpha.5 — Drafting for real",
    "section": "Release notes",
    "status": "",
@@ -1638,7 +1638,7 @@
   },
   {
    "id": "wn-alpha6",
-   "url": "wn-alpha6.html",
+   "url": "wn-alpha6",
    "title": "alpha.6 — Suggestions and resources",
    "section": "Release notes",
    "status": "",
@@ -1654,7 +1654,7 @@
   },
   {
    "id": "wn-alpha7",
-   "url": "wn-alpha7.html",
+   "url": "wn-alpha7",
    "title": "alpha.7 — Open Bible Stories",
    "section": "Release notes",
    "status": "",
@@ -1670,7 +1670,7 @@
   },
   {
    "id": "wn-add-a-project",
-   "url": "wn-add-a-project.html",
+   "url": "wn-add-a-project",
    "title": "Sep 27, 2026 — one + Add a project button on Home",
    "section": "Release notes",
    "status": "",
@@ -1694,7 +1694,7 @@
   },
   {
    "id": "wn-rc1",
-   "url": "wn-rc1.html",
+   "url": "wn-rc1",
    "title": "What's new in 4.0 rc.1",
    "section": "Release notes",
    "status": "",
@@ -1728,7 +1728,7 @@
   },
   {
    "id": "wn-rc2",
-   "url": "wn-rc2.html",
+   "url": "wn-rc2",
    "title": "What's new in 4.0 rc.2",
    "section": "Release notes",
    "status": "",
