@@ -1,6 +1,6 @@
 // Post-build route check (run after `npm run build`), the translationCore
 // counterpart of openbiblestories.org's check:routes. Fails when:
-//  - a sitemap URL, hreflang alternate, canonical or /llms.txt URL has no
+//  - a sitemap URL, hreflang alternate, canonical, /llms.txt or /llms-full.txt URL has no
 //    built file behind it
 //  - an internal link or image (href/src) on any built page does not resolve
 //    — including the /tc-help/ pages' own relative links
@@ -10,6 +10,7 @@
 //  - a page has no <h1>, more than one, or a canonical that is not its own URL
 //  - a localized page is missing a locale, or its hreflang set is incomplete
 //  - a _redirects target was not built, or a redirect chains into another
+//  - /llms-full.txt has a raw HTML tag, an undecoded entity or unbalanced **
 //  - the output passes Cloudflare Pages' 20,000-file limit
 import { readFileSync, readdirSync, statSync, existsSync } from 'node:fs';
 import { join, dirname, posix } from 'node:path';
@@ -130,6 +131,18 @@ for (const m of llms.matchAll(/\((https:\/\/translationcore\.com[^)\s]*)\)/g)) {
   if (!resolves(m[1].slice(SITE.length))) err(`llms.txt: ${m[1]} not built`);
   if (/\.html$/.test(m[1])) err(`llms.txt: ${m[1]} uses .html (Pages redirects it)`);
 }
+
+// llms-full.txt: every URL built, and the HTML → Markdown conversion left no
+// raw tags, undecoded entities, or unbalanced ** on any line.
+const llmsFull = readFileSync(join(DIST, 'llms-full.txt'), 'utf8');
+for (const m of llmsFull.matchAll(/\((https:\/\/translationcore\.com[^)\s]*)\)/g)) {
+  if (!resolves(m[1].slice(SITE.length))) err(`llms-full.txt: ${m[1]} not built`);
+}
+llmsFull.split('\n').forEach((line, i) => {
+  if (/<\/?[a-z][^>]*>/i.test(line)) err(`llms-full.txt:${i + 1}: raw HTML tag: ${line}`);
+  if (/&(#x?[0-9a-f]+|[a-z]+);/i.test(line)) err(`llms-full.txt:${i + 1}: undecoded entity: ${line}`);
+  if ((line.match(/\*\*/g) || []).length % 2) err(`llms-full.txt:${i + 1}: unbalanced **: ${line}`);
+});
 
 // Redirects: every target built (or external), no chains.
 for (const [from, to, status] of redirects) {

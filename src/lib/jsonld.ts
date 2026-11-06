@@ -5,7 +5,7 @@
 // Every fact here is one the site itself states in its copy (the Desktop and
 // Mobile pages, the License page) — nothing is added that a visitor could not
 // read on the page. Keep the two in step when either changes.
-import { localePath, byCode } from '../i18n/config';
+import { localePath, byCode, type PageSlug } from '../i18n/config';
 
 export const SITE_URL = 'https://translationcore.com';
 export const PRODUCT_NAME = 'translationCore';
@@ -21,10 +21,22 @@ export const CONTENT_LICENSE_URL = 'https://creativecommons.org/licenses/by-sa/4
 export const DEFINITION =
   'translationCore is a free, open-source set of tools from unfoldingWord for churches and translation teams to understand, translate, and check Scripture: translationCore Desktop for Windows, macOS and Linux, and translationCore Mobile for Android, iPhone and the web.';
 
-/** When the site's content last changed (YYYY-MM-DD). Shown in every page's
- *  footer ("Last updated") and emitted as the WebPage dateModified, so the
- *  two always agree. Update it whenever page copy or facts change. */
-export const LAST_UPDATED = '2026-11-06';
+/** When each page's content last changed (YYYY-MM-DD). A page's date is
+ *  shown in its footer ("Last updated") and emitted as its WebPage
+ *  dateModified, so the two always agree. When you change a page's copy or
+ *  facts, update that page's date only. Strings shared by every page (the
+ *  header, the footer, `ui.json`) change every page: update them all. */
+export const PAGE_UPDATED: Record<PageSlug, string> = {
+  home: '2026-11-06',
+  desktop: '2026-11-06',
+  mobile: '2026-11-06',
+  resources: '2026-11-06',
+  training: '2026-11-06',
+  'previous-version': '2026-11-06',
+  license: '2026-11-06',
+  privacy: '2026-11-06',
+  '404': '2026-11-06',
+};
 
 /** GitHub's Atom feed of translationCore Desktop releases, linked from every
  *  page's <head> as the site's update feed. */
@@ -85,8 +97,8 @@ export function websiteNode(inLanguage: string) {
 
 /** The page itself: its own title and meta description (the same strings
  *  as <title> and <meta name="description">), who wrote it, and when it
- *  last changed (the date the footer shows). */
-export function webPageNode(url: string, name: string, description: string | undefined, inLanguage: string) {
+ *  last changed (PAGE_UPDATED: the date the page's footer shows). */
+export function webPageNode(url: string, name: string, description: string | undefined, inLanguage: string, dateModified: string) {
   return {
     '@type': 'WebPage',
     '@id': `${url}#webpage`,
@@ -97,7 +109,7 @@ export function webPageNode(url: string, name: string, description: string | und
     isPartOf: { '@id': WEBSITE_ID },
     author: { '@id': PUBLISHER_ID },
     publisher: { '@id': PUBLISHER_ID },
-    dateModified: LAST_UPDATED,
+    dateModified,
   };
 }
 

@@ -23,7 +23,7 @@ import { content } from '../i18n/content';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import GoogleAnalytics from '../components/GoogleAnalytics.astro';
-import { organizationNode, websiteNode, webPageNode, serializeGraph, RELEASES_FEED_URL } from '../lib/jsonld';
+import { organizationNode, websiteNode, webPageNode, serializeGraph, RELEASES_FEED_URL, PAGE_UPDATED } from '../lib/jsonld';
 
 interface Props {
   locale: string;
@@ -47,7 +47,7 @@ const fontHref = fontHrefFor(locale);
 const graph = serializeGraph([
   organizationNode(),
   websiteNode(def.tag),
-  ...(isNotFound ? [] : [webPageNode(canonical.href, title, description, def.tag)]),
+  ...(isNotFound ? [] : [webPageNode(canonical.href, title, description, def.tag, PAGE_UPDATED[slug])]),
   ...jsonLd,
 ]);
 // Open Graph locale tags use underscores (es_MX), not BCP-47 hyphens.
@@ -117,7 +117,7 @@ const localeMeta = JSON.stringify({
 <main id="main">
 <slot />
 </main>
-<Footer locale={locale} ui={ui} github={github} />
+<Footer locale={locale} ui={ui} github={github} updated={PAGE_UPDATED[slug]} />
 </div>
 <slot name="after" />
 <slot name="scripts" />

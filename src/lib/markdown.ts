@@ -9,6 +9,7 @@ import { localePath, localizedSlugs, englishOnlySlugs, locales, type PageSlug } 
 import { content } from '../i18n/content';
 import { SITE_URL, DEFINITION } from './jsonld';
 import { helpPages } from './sitemap';
+import { inlineToMarkdown } from './inline-markdown';
 
 export function textResponse(body: string, type = 'text/plain'): Response {
   return new Response(body, { headers: { 'Content-Type': `${type}; charset=utf-8` } });
@@ -82,30 +83,11 @@ ${legal.join('\n')}
 // are left out, as are image alt texts.
 const SKIP_SECTIONS = new Set(['meta', 'dialog', 'helps']);
 
-function inlineToMarkdown(s: string): string {
-  return s
-    .replace(/<a href="([^"]+)"[^>]*>(.*?)<\/a>/g, (_m, href: string, text: string) => {
-      const url = href.startsWith('/') ? `${SITE_URL}${href}` : href;
-      return `[${text}](${url})`;
-    })
-    .replace(/<\/?(strong|b)>/g, '**')
-    .replace(/<br\s*\/?>/g, ' ')
-    .replace(/<[^>]+>/g, '')
-    .replace(/&amp;/g, '&')
-    .replace(/&rsquo;/g, '’')
-    .replace(/&lsquo;/g, '‘')
-    .replace(/&ldquo;/g, '“')
-    .replace(/&rdquo;/g, '”')
-    .replace(/&middot;/g, '·')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&reg;/g, '®')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
+const toMarkdown = (s: string) => inlineToMarkdown(s, SITE_URL);
 
 function pageText(node: unknown, out: string[]): void {
   if (typeof node === 'string') {
-    const line = inlineToMarkdown(node);
+    const line = toMarkdown(node);
     if (line) out.push(line);
   } else if (Array.isArray(node)) {
     for (const v of node) pageText(v, out);
@@ -114,7 +96,7 @@ function pageText(node: unknown, out: string[]): void {
       if (/^alt\d*$/.test(k)) continue;
       if (typeof v === 'string' && /^h[1-3]\d*$/.test(k)) {
         const level = Number(k[1]) + 1; // page h1 → ##, h2 → ###, h3 → ####
-        out.push(`${'#'.repeat(level)} ${inlineToMarkdown(v)}`);
+        out.push(`${'#'.repeat(level)} ${toMarkdown(v)}`);
       } else pageText(v, out);
     }
   }
