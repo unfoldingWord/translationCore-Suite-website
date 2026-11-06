@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "title": "translationCore Mobile | سجّل الكتاب المقدس بلغتك",
+  "description": "سجّل الكتاب المقدس بلغتك على Android أو iPhone أو الويب. مجاني ومفتوح المصدر، ويعمل دون اتصال بالإنترنت."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">الرئيسية</a> &nbsp;/&nbsp; translationCore Mobile",
+  "alt": "شعار translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h1": "سجّل الكتاب المقدس بلغتك",
+  "p3": "مقطعًا تلو الآخر، على الهاتف الذي بين يديك. يعمل دون اتصال بالإنترنت.",
+  "a": "احصل على التطبيق",
+  "span": "مجاني &middot; مفتوح المصدر",
+  "alt2": "تسجيل مقطع"
+ },
+ "what": {
+  "h2": "تطبيق بسيط للترجمة الشفهية",
+  "p": "سجّل حسب السفر والأصحاح والمقطع. استمع، وصحّح، وشارك، وكل ذلك على هاتفك."
+ },
+ "why": {
+  "h3": "يعمل دون إنترنت",
+  "p": "بعد التثبيت، لا حاجة إلى الإنترنت.",
+  "h32": "يبقى على هاتفك",
+  "p2": "بلا حسابات، وبلا إعلانات، وبلا تتبّع.",
+  "h33": "أزرار بسيطة",
+  "p3": "أزرار بأيقونات كبيرة، مصمّمة للفرق التي تعمل بالسمع.",
+  "h34": "مجاني ومفتوح المصدر",
+  "p4": "من unfoldingWord، وقد شارك في تشكيله الميسّرون والمختبِرون."
+ },
+ "how": {
+  "h2": "طريقة الاستخدام",
+  "alt": "الأسفار والأصحاحات",
+  "figcaption": "الأسفار والأصحاحات",
+  "alt2": "المقاطع، واحدًا تلو الآخر",
+  "figcaption2": "المقاطع، واحدًا تلو الآخر",
+  "alt3": "التسجيل",
+  "figcaption3": "التسجيل",
+  "alt4": "القص والتصحيح في المكان نفسه",
+  "figcaption4": "القص والتصحيح في المكان نفسه",
+  "span": "<strong style=\"color:#014263\">سجّل</strong> مقطعًا، ثم استمع إليه.",
+  "span2": "<strong style=\"color:#014263\">صحّحه</strong> بقصّ جزء من الموجة الصوتية، أو سجّله من جديد.",
+  "span3": "<strong style=\"color:#014263\">أشِر إلى أنه مكتمل</strong> عندما يصبح المقطع جاهزًا.",
+  "span4": "<strong style=\"color:#014263\">شارك</strong> أصحاحًا بصيغة MP3، أو سفرًا كاملًا بملف zip."
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "ناقش النص قبل أن تسجّل.",
+  "p": "اسأل بصوتك أو بالكتابة، واستمع إلى الإرشاد، ثم عُد إلى translationCore Mobile لتسجّل.",
+  "a": "جرّب BT Servant &larr;"
+ },
+ "install": {
+  "h2": "احصل على translationCore Mobile",
+  "h3": "Android",
+  "p": "ابحث عن «translationCore Mobile» في Google Play.",
+  "p2": "Android 7.0 أو أحدث، مع تحديث WebView.",
+  "a": "احصل عليه من Google Play",
+  "h32": "iPhone",
+  "p3": "ابحث عن «translationCore Mobile» في App Store.",
+  "p4": "iOS 15.4 أو أحدث.",
+  "a2": "احصل عليه من App Store",
+  "h33": "الويب",
+  "p5": "افتحه في متصفحك. لا حاجة إلى التثبيت.",
+  "p6": "tcmobile.app",
+  "a3": "افتح tcmobile.app",
+  "p7": "لديك أسئلة؟ <a href=\"https://unfoldingword.org/contact\">تواصل مع unfoldingWord</a> &middot; <a href=\"https://github.com/unfoldingWord/tc-mobile\">الشيفرة المصدرية على GitHub</a>"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | বাইবেল অনুবাদের কর্মক্ষেত্র",
+  "description": "বাইবেল অনুবাদের খসড়া, যাচাই, সমন্বয় ও ভাগ করার বিনামূল্যের ওপেন সোর্স কর্মক্ষেত্র, unfoldingWord সহায়িকাসহ। অফলাইনেও কাজ করে।"
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">হোম</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "বাইবেল অনুবাদের জন্য শুরু থেকে শেষ পর্যন্ত একটি কর্মক্ষেত্র",
+  "p2": "একটি অ্যাপেই অনুবাদের খসড়া, যাচাই, সমন্বয় ও ভাগ করুন। অফলাইনেও কাজ করে।",
+  "a": "ডাউনলোড করুন",
+  "a2": "GitHub-এ দেখুন",
+  "span": "নতুন: translationCore v4 Beta &middot; Windows, Mac, Linux"
+ },
+ "screenshot": {
+  "alt": "অনুবাদ মোডে translationCore Desktop",
+  "p": "অনুবাদ মোড, পাশে টীকা ও উৎস পাঠ।"
+ },
+ "modes": {
+  "h2": "বুঝুন। অনুবাদ করুন। যাচাই করুন।",
+  "p": "translationNotes, translationWords, translationQuestions, translationAcademy, ULT ও UST একই কর্মক্ষেত্রে একসাথে কাজ করে, যাতে আপনি শাস্ত্র বুঝতে পারেন এবং নির্ভুল ও স্পষ্টভাবে অনুবাদ করতে পারেন।",
+  "label": "বুঝুন, অনুবাদ করুন, যাচাই করুন",
+  "button": "বুঝুন",
+  "button2": "অনুবাদ করুন",
+  "button3": "যাচাই করুন",
+  "alt": "বোঝার মোডে translationCore Desktop",
+  "figcaption": "<strong style=\"color:#014263\">বুঝুন।</strong> শুরু করার আগে অনুচ্ছেদ ও এর টীকাগুলো পড়ুন।",
+  "alt2": "অনুবাদ মোডে translationCore Desktop",
+  "figcaption2": "<strong style=\"color:#014263\">অনুবাদ করুন।</strong> উৎস পাঠের পাশে, একবারে একটি অংশের খসড়া লিখুন।",
+  "alt3": "যাচাই মোডে translationCore Desktop",
+  "figcaption3": "<strong style=\"color:#014263\">যাচাই করুন।</strong> প্রতিটি বিষয় মূল পাঠের সাথে মিলিয়ে দেখুন, তারপর সঠিক হিসেবে চিহ্নিত করুন।"
+ },
+ "checking": {
+  "h2": "আপনার দলের যা প্রয়োজন, সব এক জায়গায়",
+  "h3": "একটি অংশের খসড়া লিখুন",
+  "p": "একটি অংশ লিখুন, তারপর পদ নম্বর বসান।",
+  "h32": "মূল ভাষা আপনার পাশেই",
+  "p2": "ULT ও UST-এর পাশে গ্রিক বা হিব্রু দেখুন।",
+  "h33": "সহায়িকা ও পরামর্শ",
+  "p3": "টীকা, শব্দ, মন্তব্য এবং সমন্বয়ের পরামর্শ।",
+  "h34": "যাচাই ও সমন্বয়",
+  "p4": "মূল শব্দগুলো যাচাই করুন, তারপর মূল ভাষার সাথে সমন্বয় করুন।",
+  "h35": "Open Bible Stories",
+  "p5": "গল্প অনুবাদ ও যাচাই করুন। Markdown বা PDF হিসেবে এক্সপোর্ট করুন।",
+  "h36": "এক্সপোর্ট ও ভাগ করুন",
+  "p6": "সমন্বিত USFM, Scripture Burrito বা PDF এক্সপোর্ট করুন, অথবা Door43-এ ভাগ করুন।"
+ },
+ "how": {
+  "h2": "যেভাবে কাজ করে",
+  "span": "একটি প্রকল্প <strong style=\"color:#014263\">শুরু করুন</strong>, অথবা ইমপোর্ট করুন।",
+  "span2": "একবারে একটি অংশের <strong style=\"color:#014263\">খসড়া লিখুন</strong>।",
+  "span3": "পাশে সহায়িকা রেখে <strong style=\"color:#014263\">যাচাই করুন</strong>।",
+  "span4": "মূল ভাষার সাথে <strong style=\"color:#014263\">সমন্বয় করুন</strong>।",
+  "span5": "<strong style=\"color:#014263\">এক্সপোর্ট করুন</strong> অথবা Door43-এ ভাগ করুন।",
+  "alt": "ULT, UST ও গ্রিক উৎসের মধ্যে বদল করুন",
+  "figcaption": "ULT, UST ও গ্রিক উৎসের মধ্যে বদল করুন",
+  "alt2": "পুরো অংশের খসড়া লিখুন, তারপর পদ নম্বর বসান",
+  "figcaption2": "পুরো অংশের খসড়া লিখুন, তারপর পদ নম্বর বসান",
+  "alt3": "টীকাগুলো অনুবাদ একাডেমির সাথে যুক্ত",
+  "figcaption3": "টীকাগুলো অনুবাদ একাডেমির সাথে যুক্ত"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "অনুবাদ নিয়ে কোনো প্রশ্ন আছে? <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">BT Servant-কে জিজ্ঞাসা করুন।</a>",
+  "p": "বিশ্বস্ত সহায়িকার ওপর ভিত্তি করে নির্দেশনা পান, আপনার ভাষায়।"
+ },
+ "downloads": {
+  "h2": "translationCore v4 Beta ডাউনলোড করুন",
+  "p": "আপনার কম্পিউটার বেছে নিন।",
+  "h3": "Windows",
+  "p2": "ইনস্টলার (.exe), 64-বিট",
+  "p3": "unfoldingWord স্বাক্ষরিত। Windows যদি “Windows protected your PC” দেখায়, তাহলে More info বেছে নিন, প্রকাশক unfoldingWord কি না দেখে নিন, তারপর Run anyway বেছে নিন।",
+  "a": "Windows-এর জন্য ডাউনলোড করুন",
+  "h32": "Mac",
+  "p4": "ইনস্টলার (.pkg), Apple silicon",
+  "p5": "Intel Mac এখনো সমর্থিত নয়। এই বিল্ডটি এখনো স্বাক্ষরিত নয়, তাই macOS এটি আটকে দিতে পারে। System Settings &gt; Privacy &amp; Security খুলে Open Anyway বেছে নিন, অথবা ইনস্টলারে Control-ক্লিক করে Open বেছে নিন। এটি অ্যাডমিনিস্ট্রেটর পাসওয়ার্ড চাইবে।",
+  "a2": "Mac-এর জন্য ডাউনলোড করুন",
+  "h33": "Linux",
+  "p6": "Zip (.zip), 64-বিট",
+  "p7": "zip ফাইলটি খুলে <code>start-tc4.sh</code> চালান।",
+  "a3": "Linux-এর জন্য ডাউনলোড করুন",
+  "p8": "<strong>নতুন: translationCore v4 Beta।</strong> আপনার প্রকল্পের কপি দিয়ে পরীক্ষা করুন এবং ব্যাকআপ রাখুন।",
+  "p9": "সাহায্য দরকার? <a href=\"/tc-help/\">সহায়তা সাইট</a> বা <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">রিলিজ নোট</a> দেখুন।"
+ },
+ "previous": {
+  "h2": "translationCore-এর আগের সংস্করণ দরকার?",
+  "p": "v4 Beta স্থিতিশীল না হওয়া পর্যন্ত আগের সংস্করণটি পাওয়া যাবে।",
+  "a": "আগের সংস্করণে যান"
+ },
+ "open": {
+  "h2": "ওপেন সোর্স। বিনামূল্যে ব্যবহার করুন।",
+  "p": "CC BY-SA 4.0 লাইসেন্সের অধীনে।",
+  "a": "আমাদের Discord-এ যোগ দিন",
+  "a2": "GitHub"
+ }
+}

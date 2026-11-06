@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "title": "Đào tạo và Hỗ trợ | translationCore",
+  "description": "Đào tạo, hướng dẫn và câu chuyện Kinh Thánh cho người dịch: Foundations BT, Church-Based Training, BT Servant và Open Bible Stories."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Trang chủ</a> &nbsp;/&nbsp; Đào tạo &amp; Hỗ trợ",
+  "h1": "Hỗ trợ cho mọi người dịch",
+  "p2": "Đào tạo, hướng dẫn và câu chuyện Kinh Thánh từ những sáng kiến cùng chung một mục tiêu: Kinh Thánh bằng mọi ngôn ngữ.",
+  "a": "Xem bên dưới"
+ },
+ "initiatives": {
+  "h2": "Đào tạo và hướng dẫn",
+  "p": "Mỗi sáng kiến đều giúp người dịch và Hội Thánh. Bạn có thể dùng bất kỳ sáng kiến nào cùng với translationCore.",
+  "h3": "Foundations BT",
+  "p2": "Bước khởi đầu có hướng dẫn cho việc dịch Kinh Thánh do Hội Thánh dẫn dắt.",
+  "a": "Truy cập Foundations BT",
+  "h32": "Church-Based Training",
+  "p3": "Trang bị cho Hội Thánh tham gia vào công việc dịch thuật.",
+  "a2": "Truy cập Church-Based Training",
+  "h33": "BT Servant",
+  "p4": "Trợ lý AI dựa trên các tài liệu đáng tin cậy. Hãy đặt câu hỏi về một phân đoạn.",
+  "a3": "Dùng thử BT Servant",
+  "h34": "Open Bible Stories",
+  "p5": "50 câu chuyện Kinh Thánh đơn giản, có hình minh họa.",
+  "a4": "Truy cập Open Bible Stories"
+ },
+ "help": {
+  "h2": "Cần trợ giúp?",
+  "h3": "Discord",
+  "p": "Đặt câu hỏi và trò chuyện với cộng đồng.",
+  "a": "Tham gia Discord",
+  "h32": "Liên hệ unfoldingWord",
+  "p2": "Bạn có câu hỏi cho nhóm unfoldingWord? Hãy liên hệ với chúng tôi.",
+  "a2": "Liên hệ"
+ },
+ "academy": {
+  "h2": "Học viện Dịch thuật",
+  "p": "Cẩm nang về lý thuyết và thực hành dịch thuật, đọc trực tuyến miễn phí.",
+  "a": "Xem Học viện Dịch thuật"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "title": "translationCore Mobile | Thu âm Kinh Thánh bằng tiếng của bạn",
+  "description": "Thu âm Kinh Thánh bằng chính ngôn ngữ của bạn trên Android, iPhone hoặc trình duyệt web. Miễn phí, mã nguồn mở, hoạt động không cần mạng."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Trang chủ</a> &nbsp;/&nbsp; translationCore Mobile",
+  "alt": "Biểu tượng translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h1": "Thu âm Kinh Thánh bằng chính ngôn ngữ của bạn",
+  "p3": "Từng phân đoạn một, ngay trên chiếc điện thoại bạn đang có. Hoạt động không cần mạng.",
+  "a": "Tải ứng dụng",
+  "span": "Miễn phí &middot; Mã nguồn mở",
+  "alt2": "Thu âm một đoạn"
+ },
+ "what": {
+  "h2": "Ứng dụng đơn giản cho việc dịch truyền khẩu",
+  "p": "Thu âm theo sách, chương và từng đoạn. Nghe lại, sửa và chia sẻ, tất cả trên điện thoại."
+ },
+ "why": {
+  "h3": "Hoạt động không cần mạng",
+  "p": "Sau khi cài đặt, không cần Internet.",
+  "h32": "Dữ liệu ở trên điện thoại của bạn",
+  "p2": "Không tài khoản, không quảng cáo, không theo dõi.",
+  "h33": "Điều khiển đơn giản",
+  "p3": "Nút biểu tượng lớn, dành cho các nhóm làm việc chủ yếu bằng cách nghe.",
+  "h34": "Miễn phí và mã nguồn mở",
+  "p4": "Từ unfoldingWord, được định hình bởi những người hướng dẫn và người thử nghiệm."
+ },
+ "how": {
+  "h2": "Cách sử dụng",
+  "alt": "Sách và chương",
+  "figcaption": "Sách và chương",
+  "alt2": "Từng đoạn một",
+  "figcaption2": "Từng đoạn một",
+  "alt3": "Thu âm",
+  "figcaption3": "Thu âm",
+  "alt4": "Cắt và sửa ngay tại chỗ",
+  "figcaption4": "Cắt và sửa ngay tại chỗ",
+  "span": "<strong style=\"color:#014263\">Thu âm</strong> một đoạn, rồi nghe lại.",
+  "span2": "<strong style=\"color:#014263\">Sửa</strong> bằng cách cắt một phần sóng âm, hoặc thu âm lại.",
+  "span3": "<strong style=\"color:#014263\">Đánh dấu Xong</strong> khi đoạn đã sẵn sàng.",
+  "span4": "<strong style=\"color:#014263\">Chia sẻ</strong> một chương dưới dạng MP3, hoặc một sách dưới dạng zip."
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Trò chuyện về phân đoạn trước khi thu âm.",
+  "p": "Hỏi bằng giọng nói hoặc tin nhắn, nghe hướng dẫn, rồi quay lại translationCore Mobile để thu âm.",
+  "a": "Dùng thử BT Servant &rarr;"
+ },
+ "install": {
+  "h2": "Tải translationCore Mobile",
+  "h3": "Android",
+  "p": "Tìm &ldquo;translationCore Mobile&rdquo; trên Google Play.",
+  "p2": "Android 7.0 trở lên, với WebView đã cập nhật.",
+  "a": "Tải trên Google Play",
+  "h32": "iPhone",
+  "p3": "Tìm &ldquo;translationCore Mobile&rdquo; trên App Store.",
+  "p4": "iOS 15.4 trở lên.",
+  "a2": "Tải trên App Store",
+  "h33": "Web",
+  "p5": "Mở trong trình duyệt. Không cần cài đặt.",
+  "p6": "tcmobile.app",
+  "a3": "Mở tcmobile.app",
+  "p7": "Có câu hỏi? <a href=\"https://unfoldingword.org/contact\">Liên hệ unfoldingWord</a> &middot; <a href=\"https://github.com/unfoldingWord/tc-mobile\">Mã nguồn trên GitHub</a>"
+ }
+}

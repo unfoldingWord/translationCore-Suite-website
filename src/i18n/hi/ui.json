@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "डेस्कटॉप",
+   "slug": "desktop"
+  },
+  {
+   "label": "मोबाइल",
+   "slug": "mobile"
+  },
+  {
+   "label": "बाइबल संसाधन",
+   "slug": "resources"
+  },
+  {
+   "label": "प्रशिक्षण और सहायता",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "एक पहल:",
+ "footerTagline": "कलीसियाओं के नेतृत्व में बाइबल अनुवाद के लिए खुले उपकरण।",
+ "footerInitiative": "translationCore, <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a> की एक पहल है।",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "लाइसेंस और ट्रेडमार्क",
+  "privacy": "गोपनीयता नीति",
+  "about": "unfoldingWord के बारे में"
+ },
+ "give": "कलीसिया-केंद्रित बाइबल अनुवाद में सहयोग करें",
+ "strings": {
+  "menu": "मेनू",
+  "languageLabel": "भाषा",
+  "skipToContent": "मुख्य सामग्री पर जाएँ",
+  "ogImageAlt": "translationCore: कलीसियाओं के नेतृत्व में बाइबल अनुवाद के लिए खुले उपकरण"
+ }
+}

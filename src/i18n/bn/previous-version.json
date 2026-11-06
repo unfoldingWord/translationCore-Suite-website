@@ -1,0 +1,32 @@
+{
+ "meta": {
+  "title": "translationCore-এর আগের সংস্করণ | ডাউনলোড",
+  "description": "Windows, macOS ও Linux-এর জন্য translationCore-এর আগের সংস্করণ, পূর্ণ (Full) ও সংক্ষিপ্ত (Minimal) ইনস্টলে ডাউনলোড করুন।"
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">হোম</a> &nbsp;/&nbsp; আগের সংস্করণ",
+  "h1": "translationCore-এর আগের সংস্করণ",
+  "p2": "আপনার চেনা সংস্করণটি এখনো দরকার? v4 Beta স্থিতিশীল না হওয়া পর্যন্ত এটি এখানে থাকবে।",
+  "a": "translationCore v4 Beta-তে যান"
+ },
+ "downloads": {
+  "h2": "ডাউনলোড",
+  "p": "translationCore&reg; Windows, macOS ও Linux-এর জন্য পূর্ণ (Full) ও সংক্ষিপ্ত (Minimal/Lite) দুই ধরনের ইনস্টল প্যাকেজে পাওয়া যায়।",
+  "h3": "পূর্ণ ইনস্টল",
+  "p2": "অফলাইনে ব্যবহারের জন্য সব সহায়িকা অন্তর্ভুক্ত।",
+  "p3": "<strong style=\"color:#014263\">Windows:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-win-x64-3.6.10-MAX-c3947fe.exe\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-win-x32-3.6.10-MAX-c3947fe.exe\">x86</a>",
+  "p4": "<strong style=\"color:#014263\">macOS:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-macos-x64-3.6.10-MAX-c3947fe.dmg\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-macos-universal-3.6.10-MAX-c3947fe.dmg\">ইউনিভার্সাল</a>",
+  "p5": "<strong style=\"color:#014263\">Linux:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-linux-x64-3.6.10-MAX-c3947fe.deb\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-linux-arm64-3.6.10-MAX-c3947fe.deb\">ARM64</a>",
+  "h32": "সংক্ষিপ্ত ইনস্টল",
+  "p6": "হালকা ডাউনলোড; প্রয়োজন অনুযায়ী সহায়িকা নামিয়ে নেয়।",
+  "p7": "<strong style=\"color:#014263\">Windows:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-win-x64-3.7.0-LITE-c16e207.exe\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-win-x32-3.7.0-LITE-c16e207.exe\">x86</a>",
+  "p8": "<strong style=\"color:#014263\">macOS:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-macos-x64-3.7.0-LITE-c16e207.dmg\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-macos-universal-3.7.0-LITE-c16e207.dmg\">ইউনিভার্সাল</a>",
+  "p9": "<strong style=\"color:#014263\">Linux:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-linux-x64-3.7.0-LITE-c16e207.deb\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-linux-arm64-3.7.0-LITE-c16e207.deb\">ARM64</a>",
+  "p10": "ইনস্টল করার নির্দেশনার জন্য <a href=\"https://github.com/unfoldingWord/translationCore/releases\">রিলিজ নোট</a> দেখুন।"
+ },
+ "open": {
+  "h2": "সবচেয়ে নতুন সংস্করণ খুঁজছেন?",
+  "p": "translationCore v4 Beta আমাদের সর্বশেষ সংস্করণ।",
+  "a": "translationCore v4 Beta-তে যান"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "meta": {
+  "title": "translationCore anterior | Downloads",
+  "description": "Baixe a versão anterior do translationCore para Windows, macOS e Linux, em instalação completa ou mínima."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Início</a> &nbsp;/&nbsp; Versão anterior",
+  "h1": "A versão anterior do translationCore",
+  "p2": "Ainda precisa da versão que você conhece? Ela fica aqui até que a v4 Beta esteja estável.",
+  "a": "Ir para o translationCore v4 Beta"
+ },
+ "downloads": {
+  "h2": "Baixar",
+  "p": "O translationCore&reg; está disponível para Windows, macOS e Linux, em pacotes de instalação completa e mínima (Lite).",
+  "h3": "Instalação completa",
+  "p2": "Inclui todos os recursos para uso off-line.",
+  "p3": "<strong style=\"color:#014263\">Windows:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-win-x64-3.6.10-MAX-c3947fe.exe\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-win-x32-3.6.10-MAX-c3947fe.exe\">x86</a>",
+  "p4": "<strong style=\"color:#014263\">macOS:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-macos-x64-3.6.10-MAX-c3947fe.dmg\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-macos-universal-3.6.10-MAX-c3947fe.dmg\">Universal</a>",
+  "p5": "<strong style=\"color:#014263\">Linux:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-linux-x64-3.6.10-MAX-c3947fe.deb\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-linux-arm64-3.6.10-MAX-c3947fe.deb\">ARM64</a>",
+  "h32": "Instalação mínima",
+  "p6": "Download mais leve; busca os recursos conforme a necessidade.",
+  "p7": "<strong style=\"color:#014263\">Windows:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-win-x64-3.7.0-LITE-c16e207.exe\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-win-x32-3.7.0-LITE-c16e207.exe\">x86</a>",
+  "p8": "<strong style=\"color:#014263\">macOS:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-macos-x64-3.7.0-LITE-c16e207.dmg\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-macos-universal-3.7.0-LITE-c16e207.dmg\">Universal</a>",
+  "p9": "<strong style=\"color:#014263\">Linux:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-linux-x64-3.7.0-LITE-c16e207.deb\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-linux-arm64-3.7.0-LITE-c16e207.deb\">ARM64</a>",
+  "p10": "Veja as <a href=\"https://github.com/unfoldingWord/translationCore/releases\">notas da versão</a> para as instruções de instalação."
+ },
+ "open": {
+  "h2": "Procurando a versão mais recente?",
+  "p": "O translationCore v4 Beta é a nossa versão mais recente.",
+  "a": "Ir para o translationCore v4 Beta"
+ }
+}

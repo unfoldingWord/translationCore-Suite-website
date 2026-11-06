@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | Không gian dịch Kinh Thánh",
+  "description": "Không gian làm việc miễn phí, mã nguồn mở để soạn thảo, kiểm tra, căn chỉnh và chia sẻ bản dịch Kinh Thánh, có sẵn tài liệu unfoldingWord. Hoạt động không cần mạng."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Trang chủ</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "Không gian làm việc trọn vẹn cho việc dịch Kinh Thánh",
+  "p2": "Soạn thảo, kiểm tra, căn chỉnh và chia sẻ bản dịch trong một ứng dụng. Hoạt động không cần mạng.",
+  "a": "Tải xuống",
+  "a2": "Xem trên GitHub",
+  "span": "Mới: translationCore v4 Beta &middot; Windows, Mac, Linux"
+ },
+ "screenshot": {
+  "alt": "translationCore Desktop ở chế độ Dịch",
+  "p": "Chế độ Dịch, với ghi chú và văn bản nguồn ngay bên cạnh."
+ },
+ "modes": {
+  "h2": "Hiểu. Dịch. Kiểm tra.",
+  "p": "translationNotes, translationWords, translationQuestions, translationAcademy, ULT và UST cùng hoạt động trong một không gian làm việc, để bạn hiểu Kinh Thánh và dịch cách chính xác, rõ ràng.",
+  "label": "Hiểu, Dịch, Kiểm tra",
+  "button": "Hiểu",
+  "button2": "Dịch",
+  "button3": "Kiểm tra",
+  "alt": "translationCore Desktop ở chế độ Hiểu",
+  "figcaption": "<strong style=\"color:#014263\">Hiểu.</strong> Đọc phân đoạn và các ghi chú trước khi bắt đầu.",
+  "alt2": "translationCore Desktop ở chế độ Dịch",
+  "figcaption2": "<strong style=\"color:#014263\">Dịch.</strong> Soạn bản nháp bên cạnh văn bản nguồn, từng đoạn một.",
+  "alt3": "translationCore Desktop ở chế độ Kiểm tra",
+  "figcaption3": "<strong style=\"color:#014263\">Kiểm tra.</strong> Xem lại từng mục so với nguyên bản, rồi đánh dấu là hợp lệ."
+ },
+ "checking": {
+  "h2": "Mọi điều nhóm dịch cần, ở cùng một nơi",
+  "h3": "Soạn bản nháp một đoạn",
+  "p": "Viết một đoạn, rồi đặt số câu.",
+  "h32": "Nguyên ngữ ngay bên cạnh",
+  "p2": "Xem tiếng Hy Lạp hoặc Hê-bơ-rơ cạnh ULT và UST.",
+  "h33": "Tài liệu trợ giúp và gợi ý",
+  "p3": "Ghi chú, từ ngữ, nhận xét và gợi ý căn chỉnh.",
+  "h34": "Kiểm tra và căn chỉnh",
+  "p4": "Kiểm tra thuật ngữ chính, rồi căn chỉnh với nguyên bản.",
+  "h35": "Open Bible Stories",
+  "p5": "Dịch và kiểm tra các câu chuyện. Xuất ra Markdown hoặc PDF.",
+  "h36": "Xuất và chia sẻ",
+  "p6": "Xuất USFM đã căn chỉnh, Scripture Burrito hoặc PDF, hay chia sẻ lên Door43."
+ },
+ "how": {
+  "h2": "Cách hoạt động",
+  "span": "<strong style=\"color:#014263\">Bắt đầu</strong> một dự án, hoặc nhập dự án có sẵn.",
+  "span2": "<strong style=\"color:#014263\">Soạn bản nháp</strong> từng đoạn một.",
+  "span3": "<strong style=\"color:#014263\">Kiểm tra</strong> với tài liệu trợ giúp bên cạnh.",
+  "span4": "<strong style=\"color:#014263\">Căn chỉnh</strong> với nguyên ngữ.",
+  "span5": "<strong style=\"color:#014263\">Xuất</strong> hoặc chia sẻ lên Door43.",
+  "alt": "Chuyển đổi giữa ULT, UST và nguyên bản Hy Lạp",
+  "figcaption": "Chuyển đổi giữa ULT, UST và nguyên bản Hy Lạp",
+  "alt2": "Soạn bản nháp cả một đoạn, rồi đặt số câu",
+  "figcaption2": "Soạn bản nháp cả một đoạn, rồi đặt số câu",
+  "alt3": "Ghi chú liên kết đến Học viện Dịch thuật",
+  "figcaption3": "Ghi chú liên kết đến Học viện Dịch thuật"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Bạn có câu hỏi về dịch thuật? <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">Hãy hỏi BT Servant.</a>",
+  "p": "Nhận hướng dẫn dựa trên các tài liệu đáng tin cậy, bằng ngôn ngữ của bạn."
+ },
+ "downloads": {
+  "h2": "Tải translationCore v4 Beta",
+  "p": "Chọn loại máy tính của bạn.",
+  "h3": "Windows",
+  "p2": "Trình cài đặt (.exe), 64-bit",
+  "p3": "Được unfoldingWord ký số. Nếu Windows hiện thông báo &ldquo;Windows protected your PC&rdquo;, hãy chọn More info, kiểm tra nhà phát hành là unfoldingWord, rồi chọn Run anyway.",
+  "a": "Tải cho Windows",
+  "h32": "Mac",
+  "p4": "Trình cài đặt (.pkg), chip Apple",
+  "p5": "Chưa hỗ trợ máy Mac dùng chip Intel. Bản này chưa được ký số, nên macOS có thể chặn. Hãy mở System Settings &gt; Privacy &amp; Security và chọn Open Anyway, hoặc nhấn Control và bấm vào trình cài đặt rồi chọn Open. Máy sẽ yêu cầu mật khẩu quản trị.",
+  "a2": "Tải cho Mac",
+  "h33": "Linux",
+  "p6": "Tệp nén (.zip), 64-bit",
+  "p7": "Giải nén tệp zip và chạy <code>start-tc4.sh</code>.",
+  "a3": "Tải cho Linux",
+  "p8": "<strong>Mới: translationCore v4 Beta.</strong> Hãy thử với bản sao của dự án và luôn giữ bản sao lưu.",
+  "p9": "Cần trợ giúp? Xem <a href=\"/tc-help/\">trang trợ giúp</a> hoặc <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">ghi chú phát hành</a>."
+ },
+ "previous": {
+  "h2": "Bạn cần translationCore phiên bản cũ?",
+  "p": "Phiên bản trước vẫn được cung cấp cho đến khi v4 Beta ổn định.",
+  "a": "Đến phiên bản trước"
+ },
+ "open": {
+  "h2": "Mã nguồn mở. Miễn phí sử dụng.",
+  "p": "Cấp phép theo CC BY-SA 4.0.",
+  "a": "Tham gia Discord",
+  "a2": "GitHub"
+ }
+}

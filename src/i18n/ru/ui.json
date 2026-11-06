@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "Для компьютера",
+   "slug": "desktop"
+  },
+  {
+   "label": "Для телефона",
+   "slug": "mobile"
+  },
+  {
+   "label": "Библейские ресурсы",
+   "slug": "resources"
+  },
+  {
+   "label": "Обучение и поддержка",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "Инициатива",
+ "footerTagline": "Открытые инструменты для перевода Библии, который ведут церкви.",
+ "footerInitiative": "translationCore — инициатива <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a>.",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "Лицензия и товарный знак",
+  "privacy": "Политика конфиденциальности",
+  "about": "Об unfoldingWord"
+ },
+ "give": "Поддержите перевод Библии, который ведут церкви",
+ "strings": {
+  "menu": "Меню",
+  "languageLabel": "Язык",
+  "skipToContent": "Перейти к содержанию",
+  "ogImageAlt": "translationCore: открытые инструменты для перевода Библии, который ведут церкви"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "title": "translationCore Mobile | Grave as Escrituras na sua língua",
+  "description": "Grave as Escrituras na sua própria língua no Android, no iPhone ou na web. Gratuito, de código aberto e funciona off-line."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Início</a> &nbsp;/&nbsp; translationCore Mobile",
+  "alt": "Logotipo do translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h1": "Grave as Escrituras na sua própria língua",
+  "p3": "Uma passagem por vez, no celular que você já tem. Funciona off-line.",
+  "a": "Baixe o aplicativo",
+  "span": "Gratuito &middot; Código aberto",
+  "alt2": "Gravando um trecho"
+ },
+ "what": {
+  "h2": "Um aplicativo simples para a tradução oral",
+  "p": "Grave por livro, capítulo e trecho. Ouça, corrija e compartilhe, tudo no seu celular."
+ },
+ "why": {
+  "h3": "Funciona off-line",
+  "p": "Depois de instalado, não precisa de internet.",
+  "h32": "Fica no seu celular",
+  "p2": "Sem contas, sem anúncios e sem rastreamento.",
+  "h33": "Controles simples",
+  "p3": "Botões grandes com ícones, feitos para equipes que trabalham de ouvido.",
+  "h34": "Gratuito e de código aberto",
+  "p4": "Da unfoldingWord, moldado por facilitadores e testadores."
+ },
+ "how": {
+  "h2": "Como usar",
+  "alt": "Livros e capítulos",
+  "figcaption": "Livros e capítulos",
+  "alt2": "Trechos, um por um",
+  "figcaption2": "Trechos, um por um",
+  "alt3": "Gravar",
+  "figcaption3": "Gravar",
+  "alt4": "Cortar e corrigir no lugar",
+  "figcaption4": "Cortar e corrigir no lugar",
+  "span": "<strong style=\"color:#014263\">Grave</strong> um trecho e depois ouça.",
+  "span2": "<strong style=\"color:#014263\">Corrija</strong> cortando parte da onda sonora, ou grave de novo.",
+  "span3": "<strong style=\"color:#014263\">Marque como Pronto</strong> quando o trecho estiver concluído.",
+  "span4": "<strong style=\"color:#014263\">Compartilhe</strong> um capítulo como MP3 ou um livro como arquivo zip."
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Converse sobre uma passagem antes de gravar.",
+  "p": "Pergunte por voz ou por texto, ouça a orientação e depois volte ao translationCore Mobile para gravar.",
+  "a": "Experimente o BT Servant &rarr;"
+ },
+ "install": {
+  "h2": "Baixe o translationCore Mobile",
+  "h3": "Android",
+  "p": "Pesquise “translationCore Mobile” no Google Play.",
+  "p2": "Android 7.0 ou mais recente, com o WebView atualizado.",
+  "a": "Disponível no Google Play",
+  "h32": "iPhone",
+  "p3": "Pesquise “translationCore Mobile” na App Store.",
+  "p4": "iOS 15.4 ou mais recente.",
+  "a2": "Baixar na App Store",
+  "h33": "Web",
+  "p5": "Abra no seu navegador. Não precisa instalar nada.",
+  "p6": "tcmobile.app",
+  "a3": "Abrir tcmobile.app",
+  "p7": "Dúvidas? <a href=\"https://unfoldingword.org/contact\">Fale com a unfoldingWord</a> &middot; <a href=\"https://github.com/unfoldingWord/tc-mobile\">Código-fonte no GitHub</a>"
+ }
+}

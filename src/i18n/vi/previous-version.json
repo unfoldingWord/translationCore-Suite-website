@@ -1,0 +1,32 @@
+{
+ "meta": {
+  "title": "translationCore phiên bản trước | Tải xuống",
+  "description": "Tải translationCore phiên bản trước cho Windows, macOS và Linux, với gói cài đặt Đầy đủ và Tối giản."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Trang chủ</a> &nbsp;/&nbsp; Phiên bản trước",
+  "h1": "translationCore phiên bản trước",
+  "p2": "Bạn vẫn cần phiên bản quen thuộc? Phiên bản này vẫn ở đây cho đến khi v4 Beta ổn định.",
+  "a": "Đến translationCore v4 Beta"
+ },
+ "downloads": {
+  "h2": "Tải xuống",
+  "p": "translationCore&reg; có cho Windows, macOS và Linux, với cả gói cài đặt Đầy đủ và Tối giản (Lite).",
+  "h3": "Cài đặt Đầy đủ",
+  "p2": "Bao gồm mọi tài liệu để dùng không cần mạng.",
+  "p3": "<strong style=\"color:#014263\">Windows:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-win-x64-3.6.10-MAX-c3947fe.exe\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-win-x32-3.6.10-MAX-c3947fe.exe\">x86</a>",
+  "p4": "<strong style=\"color:#014263\">macOS:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-macos-x64-3.6.10-MAX-c3947fe.dmg\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-macos-universal-3.6.10-MAX-c3947fe.dmg\">Universal</a>",
+  "p5": "<strong style=\"color:#014263\">Linux:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-linux-x64-3.6.10-MAX-c3947fe.deb\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-linux-arm64-3.6.10-MAX-c3947fe.deb\">ARM64</a>",
+  "h32": "Cài đặt Tối giản",
+  "p6": "Dung lượng tải nhẹ hơn; tải tài liệu khi cần.",
+  "p7": "<strong style=\"color:#014263\">Windows:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-win-x64-3.7.0-LITE-c16e207.exe\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-win-x32-3.7.0-LITE-c16e207.exe\">x86</a>",
+  "p8": "<strong style=\"color:#014263\">macOS:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-macos-x64-3.7.0-LITE-c16e207.dmg\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-macos-universal-3.7.0-LITE-c16e207.dmg\">Universal</a>",
+  "p9": "<strong style=\"color:#014263\">Linux:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-linux-x64-3.7.0-LITE-c16e207.deb\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-linux-arm64-3.7.0-LITE-c16e207.deb\">ARM64</a>",
+  "p10": "Xem <a href=\"https://github.com/unfoldingWord/translationCore/releases\">Ghi chú phát hành</a> để biết hướng dẫn cài đặt."
+ },
+ "open": {
+  "h2": "Bạn đang tìm phiên bản mới nhất?",
+  "p": "translationCore v4 Beta là bản phát hành mới nhất của chúng tôi.",
+  "a": "Đến translationCore v4 Beta"
+ }
+}
