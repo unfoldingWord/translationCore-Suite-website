@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | بائبل ترجمے کی ورک اسپیس",
+  "description": "بائبل ترجمے کا مسودہ لکھنے، جانچنے، ملانے اور شیئر کرنے کی مفت، اوپن سورس ورک اسپیس، unfoldingWord کے وسائل کے ساتھ۔ انٹرنیٹ کے بغیر کام کرتی ہے۔"
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">ہوم</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "بائبل ترجمے کے لیے مکمل ورک اسپیس",
+  "p2": "ایک ہی ایپ میں ترجمے کا مسودہ لکھیں، جانچیں، اصل سے ملائیں اور شیئر کریں۔ انٹرنیٹ کے بغیر بھی کام کرتی ہے۔",
+  "a": "ڈاؤن لوڈ",
+  "a2": "GitHub پر دیکھیں",
+  "span": "نیا: translationCore v4 Beta &middot; Windows، Mac، Linux"
+ },
+ "screenshot": {
+  "alt": "translationCore Desktop ترجمہ موڈ میں",
+  "p": "ترجمہ موڈ، نوٹس اور ماخذ متن آپ کے ساتھ۔"
+ },
+ "modes": {
+  "h2": "سمجھیں۔ ترجمہ کریں۔ جانچیں۔",
+  "p": "translationNotes، translationWords، translationQuestions، translationAcademy، ULT اور UST ایک ہی ورک اسپیس میں مل کر کام کرتے ہیں، تاکہ آپ کلامِ مقدس کو سمجھ سکیں اور اس کا درست اور واضح ترجمہ کر سکیں۔",
+  "label": "سمجھیں، ترجمہ کریں، جانچیں",
+  "button": "سمجھیں",
+  "button2": "ترجمہ کریں",
+  "button3": "جانچیں",
+  "alt": "translationCore Desktop سمجھنے کے موڈ میں",
+  "figcaption": "<strong style=\"color:#014263\">سمجھیں۔</strong> شروع کرنے سے پہلے حوالہ اور اس کے نوٹس پڑھیں۔",
+  "alt2": "translationCore Desktop ترجمہ موڈ میں",
+  "figcaption2": "<strong style=\"color:#014263\">ترجمہ کریں۔</strong> ماخذ متن کے ساتھ، ایک ایک حصے کا مسودہ لکھیں۔",
+  "alt3": "translationCore Desktop جانچ کے موڈ میں",
+  "figcaption3": "<strong style=\"color:#014263\">جانچیں۔</strong> ہر نکتے کو اصل متن سے ملا کر دیکھیں، پھر اسے درست قرار دیں۔"
+ },
+ "checking": {
+  "h2": "آپ کی ٹیم کی ضرورت کی ہر چیز، ایک ہی جگہ",
+  "h3": "ایک حصے کا مسودہ",
+  "p": "ایک حصہ لکھیں، پھر آیات کے نمبر لگائیں۔",
+  "h32": "اصل زبان آپ کے ساتھ",
+  "p2": "ULT اور UST کے ساتھ یونانی یا عبرانی متن دیکھیں۔",
+  "h33": "مدد اور تجاویز",
+  "p3": "نوٹس، الفاظ، تبصرے اور اصل سے ملانے کی تجاویز۔",
+  "h34": "جانچیں اور ملائیں",
+  "p4": "اہم اصطلاحات کو جانچیں، پھر ترجمے کو اصل متن سے ملائیں۔",
+  "h35": "Open Bible Stories",
+  "p5": "کہانیوں کا ترجمہ کریں اور انہیں جانچیں۔ Markdown یا PDF میں ایکسپورٹ کریں۔",
+  "h36": "ایکسپورٹ اور شیئر کریں",
+  "p6": "اصل سے ملایا ہوا USFM، Scripture Burrito یا PDF ایکسپورٹ کریں، یا Door43 پر شیئر کریں۔"
+ },
+ "how": {
+  "h2": "یہ کیسے کام کرتا ہے",
+  "span": "نیا پروجیکٹ <strong style=\"color:#014263\">شروع کریں</strong> یا کوئی پروجیکٹ امپورٹ کریں۔",
+  "span2": "ایک ایک حصے کا <strong style=\"color:#014263\">مسودہ لکھیں</strong>۔",
+  "span3": "مددگار وسائل کو ساتھ رکھ کر <strong style=\"color:#014263\">جانچیں</strong>۔",
+  "span4": "اصل زبان سے <strong style=\"color:#014263\">ملائیں</strong>۔",
+  "span5": "<strong style=\"color:#014263\">ایکسپورٹ کریں</strong> یا Door43 پر شیئر کریں۔",
+  "alt": "ULT، UST اور یونانی ماخذ کے درمیان تبدیل کریں",
+  "figcaption": "ULT، UST اور یونانی ماخذ کے درمیان تبدیل کریں",
+  "alt2": "پورے حصے کا مسودہ لکھیں، پھر آیات کے نمبر لگائیں",
+  "figcaption2": "پورے حصے کا مسودہ لکھیں، پھر آیات کے نمبر لگائیں",
+  "alt3": "نوٹس ترجمہ اکیڈمی سے جڑے ہیں",
+  "figcaption3": "نوٹس ترجمہ اکیڈمی سے جڑے ہیں"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "ترجمے کے بارے میں کوئی سوال ہے؟ <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">BT Servant سے پوچھیں۔</a>",
+  "p": "قابلِ اعتماد وسائل پر مبنی رہنمائی، آپ کی زبان میں۔"
+ },
+ "downloads": {
+  "h2": "translationCore v4 Beta ڈاؤن لوڈ کریں",
+  "p": "اپنا کمپیوٹر منتخب کریں۔",
+  "h3": "Windows",
+  "p2": "انسٹالر (.exe)، 64-bit",
+  "p3": "unfoldingWord کی طرف سے دستخط شدہ۔ اگر Windows پر “Windows protected your PC” کا پیغام آئے تو “More info” منتخب کریں، دیکھیں کہ پبلشر unfoldingWord ہے، پھر “Run anyway” منتخب کریں۔",
+  "a": "Windows کے لیے ڈاؤن لوڈ کریں",
+  "h32": "Mac",
+  "p4": "انسٹالر (.pkg)، Apple silicon کے لیے",
+  "p5": "Intel والے Mac ابھی سپورٹ نہیں ہیں۔ یہ ورژن ابھی دستخط شدہ نہیں، اس لیے macOS اسے روک سکتا ہے۔ System Settings &gt; Privacy &amp; Security کھولیں اور “Open Anyway” منتخب کریں، یا Control دبا کر انسٹالر پر کلک کریں اور “Open” منتخب کریں۔ یہ ایڈمنسٹریٹر کا پاس ورڈ مانگے گا۔",
+  "a2": "Mac کے لیے ڈاؤن لوڈ کریں",
+  "h33": "Linux",
+  "p6": "زپ فائل (.zip)، 64-bit",
+  "p7": "زپ فائل کو کھولیں (unzip کریں) اور <code>start-tc4.sh</code> چلائیں۔",
+  "a3": "Linux کے لیے ڈاؤن لوڈ کریں",
+  "p8": "<strong>نیا: translationCore v4 Beta۔</strong> اپنے پروجیکٹس کی کاپیوں پر آزمائیں اور بیک اپ رکھیں۔",
+  "p9": "مدد چاہیے؟ <a href=\"/tc-help/\">ہیلپ سائٹ</a> یا <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">ریلیز نوٹس</a> دیکھیں۔"
+ },
+ "previous": {
+  "h2": "پہلے والا translationCore چاہیے؟",
+  "p": "پچھلا ورژن اس وقت تک دستیاب رہے گا جب تک v4 Beta مستحکم نہ ہو جائے۔",
+  "a": "پچھلے ورژن پر جائیں"
+ },
+ "open": {
+  "h2": "اوپن سورس۔ استعمال کے لیے مفت۔",
+  "p": "CC BY-SA 4.0 کے تحت لائسنس یافتہ۔",
+  "a": "ہمارے Discord میں شامل ہوں",
+  "a2": "GitHub"
+ }
+}
