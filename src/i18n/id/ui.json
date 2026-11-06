@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "Desktop",
+   "slug": "desktop"
+  },
+  {
+   "label": "Seluler",
+   "slug": "mobile"
+  },
+  {
+   "label": "Sumber Daya Alkitab",
+   "slug": "resources"
+  },
+  {
+   "label": "Pelatihan &amp; Dukungan",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "Sebuah inisiatif dari",
+ "footerTagline": "Alat terbuka untuk penerjemahan Alkitab yang dipimpin gereja.",
+ "footerInitiative": "translationCore adalah inisiatif dari <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a>.",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "Lisensi dan Merek Dagang",
+  "privacy": "Kebijakan Privasi",
+  "about": "Tentang unfoldingWord"
+ },
+ "give": "Dukung penerjemahan Alkitab yang berpusat pada gereja",
+ "strings": {
+  "menu": "Menu",
+  "languageLabel": "Bahasa",
+  "skipToContent": "Langsung ke konten",
+  "ogImageAlt": "translationCore: alat terbuka untuk penerjemahan Alkitab yang dipimpin gereja"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | مساحة عمل لترجمة الكتاب المقدس",
+  "description": "مساحة عمل مجانية ومفتوحة المصدر لكتابة ترجمات الكتاب المقدس ومراجعتها ومطابقتها ومشاركتها، مع موارد unfoldingWord. تعمل دون إنترنت."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">الرئيسية</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "مساحة عمل متكاملة لترجمة الكتاب المقدس",
+  "p2": "اكتب الترجمة وراجعها وطابقها وشاركها في تطبيق واحد. يعمل دون اتصال بالإنترنت.",
+  "a": "تنزيل",
+  "a2": "عرض على GitHub",
+  "span": "جديد: translationCore v4 Beta &middot; Windows وMac وLinux"
+ },
+ "screenshot": {
+  "alt": "translationCore Desktop في وضع الترجمة",
+  "p": "وضع الترجمة، والملاحظات والنص المصدر بجانبك."
+ },
+ "modes": {
+  "h2": "افهم. ترجم. راجع.",
+  "p": "تعمل translationNotes وtranslationWords وtranslationQuestions وtranslationAcademy وULT وUST معًا في مساحة عمل واحدة، لتفهم الكتاب المقدس وتترجمه بدقة ووضوح.",
+  "label": "افهم، ترجم، راجع",
+  "button": "افهم",
+  "button2": "ترجم",
+  "button3": "راجع",
+  "alt": "translationCore Desktop في وضع الفهم",
+  "figcaption": "<strong style=\"color:#014263\">افهم.</strong> اقرأ النص وملاحظاته قبل أن تبدأ.",
+  "alt2": "translationCore Desktop في وضع الترجمة",
+  "figcaption2": "<strong style=\"color:#014263\">ترجم.</strong> اكتب المسودة بجانب النص المصدر، قسمًا تلو الآخر.",
+  "alt3": "translationCore Desktop في وضع المراجعة",
+  "figcaption3": "<strong style=\"color:#014263\">راجع.</strong> راجع كل بند مقابل النص الأصلي، ثم أشِر إلى أنه سليم."
+ },
+ "checking": {
+  "h2": "كل ما يحتاج إليه فريقك في مكان واحد",
+  "h3": "اكتب مسودة قسم",
+  "p": "اكتب قسمًا كاملًا، ثم ضع أرقام الآيات.",
+  "h32": "اللغة الأصلية بجانبك",
+  "p2": "شاهد النص اليوناني أو العبري بجانب ULT وUST.",
+  "h33": "مساعدات واقتراحات",
+  "p3": "ملاحظات ومفردات وتعليقات واقتراحات للمطابقة.",
+  "h34": "راجع وطابِق",
+  "p4": "راجع المصطلحات الرئيسية، ثم طابِق الترجمة مع الأصل.",
+  "h35": "Open Bible Stories",
+  "p5": "ترجم القصص وراجعها. صدّرها بصيغة Markdown أو PDF.",
+  "h36": "صدّر وشارك",
+  "p6": "صدّر ملف USFM مطابقًا، أو Scripture Burrito، أو PDF، أو شارك عبر Door43."
+ },
+ "how": {
+  "h2": "كيف يعمل",
+  "span": "<strong style=\"color:#014263\">ابدأ</strong> مشروعًا، أو استورد مشروعًا.",
+  "span2": "<strong style=\"color:#014263\">اكتب المسودة</strong> قسمًا تلو الآخر.",
+  "span3": "<strong style=\"color:#014263\">راجع</strong> والمساعدات بجانبك.",
+  "span4": "<strong style=\"color:#014263\">طابِق</strong> الترجمة مع اللغة الأصلية.",
+  "span5": "<strong style=\"color:#014263\">صدّر</strong> أو شارك عبر Door43.",
+  "alt": "التبديل بين ULT وUST والنص اليوناني",
+  "figcaption": "التبديل بين ULT وUST والنص اليوناني",
+  "alt2": "اكتب قسمًا كاملًا، ثم ضع أرقام الآيات",
+  "figcaption2": "اكتب قسمًا كاملًا، ثم ضع أرقام الآيات",
+  "alt3": "الملاحظات مرتبطة بأكاديمية الترجمة",
+  "figcaption3": "الملاحظات مرتبطة بأكاديمية الترجمة"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "لديك سؤال عن الترجمة؟ <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">اسأل BT Servant.</a>",
+  "p": "احصل على إرشاد يستند إلى موارد موثوقة، بلغتك."
+ },
+ "downloads": {
+  "h2": "نزّل translationCore v4 Beta",
+  "p": "اختر نوع جهازك.",
+  "h3": "Windows",
+  "p2": "برنامج تثبيت (.exe)، 64 بت",
+  "p3": "موقَّع من unfoldingWord. إذا ظهرت رسالة «Windows protected your PC» (حمى Windows جهازك)، فاختر «More info» (مزيد من المعلومات)، وتأكّد أن الناشر هو unfoldingWord، ثم اختر «Run anyway» (تشغيل على أي حال).",
+  "a": "تنزيل لـ Windows",
+  "h32": "Mac",
+  "p4": "برنامج تثبيت (.pkg)، لمعالجات Apple silicon",
+  "p5": "أجهزة Mac بمعالجات Intel غير مدعومة بعد. هذا الإصدار غير موقَّع بعد، لذا قد يحظره macOS. افتح إعدادات النظام &gt; الخصوصية والأمن واختر «فتح على أي حال»، أو اضغط على برنامج التثبيت مع مفتاح Control واختر «فتح». سيُطلب منك إدخال كلمة مرور المسؤول.",
+  "a2": "تنزيل لـ Mac",
+  "h33": "Linux",
+  "p6": "ملف مضغوط (.zip)، 64 بت",
+  "p7": "فكّ ضغط الملف وشغّل <code>start-tc4.sh</code>.",
+  "a3": "تنزيل لـ Linux",
+  "p8": "<strong>جديد: translationCore v4 Beta.</strong> جرّبه على نسخ من مشاريعك واحتفظ بنسخ احتياطية.",
+  "p9": "تحتاج إلى مساعدة؟ راجع <a href=\"/tc-help/\">موقع المساعدة</a> أو <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">ملاحظات الإصدار</a>."
+ },
+ "previous": {
+  "h2": "تحتاج إلى الإصدار السابق من translationCore؟",
+  "p": "يبقى الإصدار السابق متاحًا حتى يستقر v4 Beta.",
+  "a": "انتقل إلى الإصدار السابق"
+ },
+ "open": {
+  "h2": "مفتوح المصدر. مجاني للاستخدام.",
+  "p": "مرخَّص بموجب CC BY-SA 4.0.",
+  "a": "انضم إلينا على Discord",
+  "a2": "GitHub"
+ }
+}

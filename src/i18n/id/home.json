@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "title": "translationCore: Alat terbuka penerjemahan Alkitab oleh gereja",
+  "description": "Alat terbuka bagi gereja dan tim penerjemah untuk memahami, menerjemahkan, dan memeriksa Alkitab. translationCore Desktop dan Mobile gratis dan bersumber terbuka."
+ },
+ "hero": {
+  "h1": "Terjemahkan Alkitab ke dalam bahasa Anda",
+  "p": "Alat bagi gereja dan tim penerjemah untuk memahami, menerjemahkan, dan memeriksa Alkitab.",
+  "a": "Jelajahi Desktop",
+  "a2": "Jelajahi Mobile",
+  "alt": "translationCore Desktop: teks sumber, draf, dan catatan terjemahan berdampingan",
+  "alt2": "Merekam satu segmen di translationCore Mobile"
+ },
+ "cycle": {
+  "h3": "Pahami",
+  "p": "Gali makna firman Tuhan.",
+  "h32": "Terjemahkan",
+  "p2": "Ungkapkan secara wajar, dalam tulisan maupun lisan.",
+  "h33": "Periksa",
+  "p3": "Tinjau ketepatan dan kejelasannya."
+ },
+ "desktop": {
+  "p": "translationCore Desktop",
+  "h2": "Dari memahami hingga membagikan firman Tuhan",
+  "p2": "Satu ruang kerja yang menyatukan sumber daya terjemahan unfoldingWord, agar penerjemah dapat memahami Alkitab dan menerjemahkannya dengan tepat dan jelas. Dapat digunakan secara offline.",
+  "span": "<strong>Pahami</strong> perikopnya",
+  "span2": "<strong>Susun draf dan revisi</strong> bersama",
+  "span3": "<strong>Periksa</strong> dan selaraskan",
+  "span4": "<strong>Ekspor</strong> dan bagikan",
+  "a": "Unduh Desktop",
+  "a2": "Pelajari lebih lanjut",
+  "p3": "<strong>Baru:</strong> kami baru saja merilis translationCore v4 Beta. <a href=\"/previous-version/\">Versi sebelumnya</a>",
+  "alt": "Menyusun draf satu bagian dengan catatan di sampingnya",
+  "p4": "Menyusun draf satu bagian dengan catatan di sampingnya."
+ },
+ "mobile": {
+  "alt": "Merekam satu segmen dari sebuah pasal",
+  "p": "Merekam satu segmen dari sebuah pasal.",
+  "alt2": "Logo translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h2": "Bicara. Rekam. Dengarkan. Terjemahkan.",
+  "p3": "Rekam dengan ponsel, dengarkan kembali, lalu perbaiki. Dapat digunakan secara offline.",
+  "a": "Unduh Mobile",
+  "a2": "Jelajahi Mobile"
+ },
+ "impact": {
+  "h2": "Gereja dan tim, dalam bahasa mereka sendiri",
+  "p": "translationCore Desktop",
+  "h3": "Terjemahan yang dapat dipercaya jemaat Anda",
+  "p2": "Susun draf, periksa, dan selaraskan dalam satu ruang kerja, bahkan secara offline.",
+  "blockquote": "“translationCore adalah perangkat lunak tercepat yang pernah kami lihat.”",
+  "figcaption": "Ibrahim, pelatih penerjemahan",
+  "alt": "Seorang penerjemah bekerja di laptop sementara rekan-rekannya bekerja di sampingnya",
+  "figcaption2": "Menerjemahkan bersama, berdampingan.",
+  "p3": "translationCore Mobile",
+  "h32": "Terjemahan lisan, cukup dengan ponsel",
+  "p4": "Para pemimpin dalam sebuah lokakarya di Nairobi merekam cerita Alkitab dalam bahasa mereka sendiri, hanya dengan ponsel.",
+  "blockquote2": "“Dengan aplikasi ini, kami dapat membawa pelatihan dan teknologi kepada orang-orang yang ingin kami jangkau.”",
+  "figcaption3": "Penerjemah Alkitab setempat",
+  "alt2": "Seorang penerjemah mendengarkan kembali rekaman di translationCore Mobile",
+  "figcaption4": "Mendengarkan kembali rekaman.",
+  "span": "Dukung penerjemahan Alkitab yang berpusat pada gereja"
+ },
+ "support": {
+  "h2": "Sumber Daya Alkitab",
+  "p": "Berlisensi terbuka dan gratis untuk digunakan, dibagikan, dan disesuaikan.",
+  "a": "Catatan Terjemahan",
+  "span": "Konteks untuk setiap ayat",
+  "a2": "Daftar Istilah",
+  "span2": "Istilah kunci, nama, dan tempat",
+  "a3": "Akademi Penerjemahan",
+  "span3": "Pelatihan bagi penerjemah",
+  "a4": "Teks Sumber",
+  "span4": "Alkitab harfiah dan sederhana",
+  "a5": "Pertanyaan Terjemahan",
+  "span5": "Uji apakah terjemahannya jelas",
+  "a6": "Lihat semua sumber daya",
+  "h22": "Pelatihan &amp; Dukungan",
+  "p2": "Inisiatif yang mendukung setiap penerjemah.",
+  "a7": "Foundations BT",
+  "span6": "Awal yang terarah untuk penerjemahan yang dipimpin gereja",
+  "a8": "Church-Based Training",
+  "span7": "Memperlengkapi gereja untuk penerjemahan",
+  "a9": "BT Servant",
+  "span8": "Pendamping AI yang bersandar pada sumber tepercaya",
+  "a10": "Open Bible Stories",
+  "span9": "50 cerita Alkitab bergambar yang sederhana",
+  "a11": "Jelajahi pelatihan &amp; dukungan"
+ },
+ "open": {
+  "h2": "Alat terbuka untuk penerjemahan yang berpusat pada gereja",
+  "p": "Berlisensi terbuka, gratis, dan dirancang untuk bekerja secara offline."
+ },
+ "start": {
+  "h2": "Mulai",
+  "h3": "Desktop",
+  "p": "Windows, Mac, dan Linux. Baru: translationCore v4 Beta.",
+  "a": "Unduh Desktop",
+  "a2": "Petunjuk",
+  "a3": "Mencari versi sebelumnya?",
+  "h32": "Seluler",
+  "p2": "Gratis di Android, iPhone, dan web.",
+  "a4": "Unduh Mobile",
+  "a5": "Jelajahi Mobile",
+  "p3": "Butuh bantuan? <a href=\"/tc-help/\">Panduan Memulai</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Catatan Rilis</a>"
+ }
+}

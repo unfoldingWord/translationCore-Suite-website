@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "ڈیسک ٹاپ",
+   "slug": "desktop"
+  },
+  {
+   "label": "موبائل",
+   "slug": "mobile"
+  },
+  {
+   "label": "بائبلی وسائل",
+   "slug": "resources"
+  },
+  {
+   "label": "تربیت اور معاونت",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "ایک اقدام منجانب",
+ "footerTagline": "کلیسیا کی قیادت میں بائبل کے ترجمے کے لیے کھلے ٹولز۔",
+ "footerInitiative": "translationCore، <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a> کا ایک اقدام ہے۔",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "لائسنس اور ٹریڈ مارک",
+  "privacy": "رازداری کی پالیسی",
+  "about": "unfoldingWord کے بارے میں"
+ },
+ "give": "کلیسیا کی قیادت میں بائبل کے ترجمے میں تعاون کریں",
+ "strings": {
+  "menu": "مینو",
+  "languageLabel": "زبان",
+  "skipToContent": "مواد پر جائیں",
+  "ogImageAlt": "translationCore: کلیسیا کی قیادت میں بائبل کے ترجمے کے لیے کھلے ٹولز"
+ }
+}

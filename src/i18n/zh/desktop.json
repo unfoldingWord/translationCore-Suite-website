@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | 圣经翻译工作区",
+  "description": "免费开源的工作区，可起草、检查、对齐和分享圣经译文，内置 unfoldingWord 资源。可离线使用。"
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">首页</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "一站式圣经翻译工作区",
+  "p2": "在一个应用中起草、检查、对齐和分享译文。可离线使用。",
+  "a": "下载",
+  "a2": "在 GitHub 上查看",
+  "span": "新版：translationCore v4 Beta &middot; Windows、Mac、Linux"
+ },
+ "screenshot": {
+  "alt": "翻译模式下的 translationCore Desktop",
+  "p": "翻译模式：注释和原文就在旁边。"
+ },
+ "modes": {
+  "h2": "理解。翻译。检查。",
+  "p": "translationNotes、translationWords、translationQuestions、translationAcademy、ULT 和 UST 在同一个工作区中协同运作，帮助你理解圣经，并准确、清楚地翻译。",
+  "label": "理解、翻译、检查",
+  "button": "理解",
+  "button2": "翻译",
+  "button3": "检查",
+  "alt": "理解模式下的 translationCore Desktop",
+  "figcaption": "<strong style=\"color:#014263\">理解。</strong>开始之前，先阅读经文段落及其注释。",
+  "alt2": "翻译模式下的 translationCore Desktop",
+  "figcaption2": "<strong style=\"color:#014263\">翻译。</strong>对照原文起草，一次一个段落。",
+  "alt3": "检查模式下的 translationCore Desktop",
+  "figcaption3": "<strong style=\"color:#014263\">检查。</strong>逐项对照原文核查，然后标记为有效。"
+ },
+ "checking": {
+  "h2": "团队所需的一切，尽在一处",
+  "h3": "起草段落",
+  "p": "先写好一个段落，再标上节号。",
+  "h32": "原文就在旁边",
+  "p2": "在 ULT 和 UST 旁查看希腊文或希伯来文。",
+  "h33": "辅助资源与建议",
+  "p3": "注释、词汇、评论和对齐建议。",
+  "h34": "检查与对齐",
+  "p4": "检查关键词，再与原文对齐。",
+  "h35": "Open Bible Stories",
+  "p5": "翻译并检查故事。导出为 Markdown 或 PDF。",
+  "h36": "导出与分享",
+  "p6": "导出已对齐的 USFM、Scripture Burrito 或 PDF，或分享到 Door43。"
+ },
+ "how": {
+  "h2": "使用流程",
+  "span": "<strong style=\"color:#014263\">新建</strong>项目，或导入现有项目。",
+  "span2": "一次<strong style=\"color:#014263\">起草</strong>一个段落。",
+  "span3": "借助身旁的辅助资源<strong style=\"color:#014263\">检查</strong>。",
+  "span4": "与原文<strong style=\"color:#014263\">对齐</strong>。",
+  "span5": "<strong style=\"color:#014263\">导出</strong>或分享到 Door43。",
+  "alt": "在 ULT、UST 和希腊文原文之间切换",
+  "figcaption": "在 ULT、UST 和希腊文原文之间切换",
+  "alt2": "起草整个段落，再标上节号",
+  "figcaption2": "起草整个段落，再标上节号",
+  "alt3": "注释链接到翻译学院",
+  "figcaption3": "注释链接到翻译学院"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "有翻译问题？<a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">问问 BT Servant。</a>",
+  "p": "以可信资源为根基，用你的语言获得指导。"
+ },
+ "downloads": {
+  "h2": "下载 translationCore v4 Beta",
+  "p": "选择你的电脑系统。",
+  "h3": "Windows",
+  "p2": "安装程序（.exe），64 位",
+  "p3": "由 unfoldingWord 签名。如果 Windows 显示“Windows 已保护你的电脑”（Windows protected your PC），请点击“更多信息”，确认发布者是 unfoldingWord，然后点击“仍要运行”。",
+  "a": "下载 Windows 版",
+  "h32": "Mac",
+  "p4": "安装程序（.pkg），Apple 芯片",
+  "p5": "暂不支持 Intel 芯片的 Mac。此版本尚未签名，macOS 可能会阻止运行。请打开“系统设置” &gt; “隐私与安全性”，点击“仍要打开”；或按住 Control 键点击安装程序，选择“打开”。系统会要求输入管理员密码。",
+  "a2": "下载 Mac 版",
+  "h33": "Linux",
+  "p6": "压缩包（.zip），64 位",
+  "p7": "解压后运行 <code>start-tc4.sh</code>。",
+  "a3": "下载 Linux 版",
+  "p8": "<strong>新版：translationCore v4 Beta。</strong>请用项目副本测试，并保留备份。",
+  "p9": "需要帮助？请查看<a href=\"/tc-help/\">帮助网站</a>或<a href=\"https://github.com/unfoldingWord/translationCore4/releases\">版本说明</a>。"
+ },
+ "previous": {
+  "h2": "需要旧版 translationCore？",
+  "p": "在 v4 Beta 稳定之前，旧版本仍可下载。",
+  "a": "前往旧版本"
+ },
+ "open": {
+  "h2": "开源。免费使用。",
+  "p": "采用 CC BY-SA 4.0 许可。",
+  "a": "加入我们的 Discord",
+  "a2": "GitHub"
+ }
+}

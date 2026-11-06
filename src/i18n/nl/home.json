@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "title": "translationCore: open tools voor Bijbelvertaling door de kerk",
+  "description": "Open tools voor kerken en vertaalteams om de Bijbel te begrijpen, te vertalen en te controleren. translationCore Desktop en Mobile zijn gratis en open source."
+ },
+ "hero": {
+  "h1": "Vertaal de Bijbel in je eigen taal",
+  "p": "Hulpmiddelen voor kerken en vertaalteams om de Bijbel te begrijpen, te vertalen en te controleren.",
+  "a": "Bekijk Desktop",
+  "a2": "Bekijk Mobile",
+  "alt": "translationCore Desktop: brontekst, concept en vertaalnotities naast elkaar",
+  "alt2": "Een fragment opnemen in translationCore Mobile"
+ },
+ "cycle": {
+  "h3": "Begrijpen",
+  "p": "Ontdek wat de Bijbel bedoelt.",
+  "h32": "Vertalen",
+  "p2": "Breng het natuurlijk onder woorden, geschreven of gesproken.",
+  "h33": "Controleren",
+  "p3": "Controleer of het juist en helder is."
+ },
+ "desktop": {
+  "p": "translationCore Desktop",
+  "h2": "Van de Bijbel begrijpen tot de Bijbel delen",
+  "p2": "Eén werkplek die de vertaalhulpmiddelen van unfoldingWord samenbrengt, zodat vertalers de Bijbel kunnen begrijpen en nauwkeurig en helder kunnen vertalen. Werkt offline.",
+  "span": "<strong>Begrijp</strong> de passage",
+  "span2": "<strong>Schrijf en herzie</strong> samen",
+  "span3": "<strong>Controleer</strong> en lijn uit",
+  "span4": "<strong>Exporteer</strong> en deel",
+  "a": "Desktop downloaden",
+  "a2": "Meer informatie",
+  "p3": "<strong>Nieuw:</strong> we hebben onlangs translationCore v4 Beta uitgebracht. <a href=\"/previous-version/\">Vorige versie</a>",
+  "alt": "Een gedeelte schrijven met de notities ernaast",
+  "p4": "Een gedeelte schrijven met de notities ernaast."
+ },
+ "mobile": {
+  "alt": "Eén fragment van een hoofdstuk opnemen",
+  "p": "Eén fragment van een hoofdstuk opnemen.",
+  "alt2": "Logo van translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h2": "Spreek. Neem op. Luister. Vertaal.",
+  "p3": "Neem op met je telefoon, luister terug en verbeter. Werkt offline.",
+  "a": "Mobile downloaden",
+  "a2": "Bekijk Mobile"
+ },
+ "impact": {
+  "h2": "Kerken en teams, in hun eigen talen",
+  "p": "translationCore Desktop",
+  "h3": "Een vertaling waar je gemeenschap op kan vertrouwen",
+  "p2": "Schrijven, controleren en uitlijnen in één werkplek, ook offline.",
+  "blockquote": "“translationCore is de snelste software die we ooit hebben gezien.”",
+  "figcaption": "Ibrahim, vertaaltrainer",
+  "alt": "Een vertaler werkt op een laptop, met teamgenoten naast zich aan het werk",
+  "figcaption2": "Samen vertalen, zij aan zij.",
+  "p3": "translationCore Mobile",
+  "h32": "Mondeling vertalen, met alleen een telefoon",
+  "p4": "Leiders op een workshop in Nairobi namen Bijbelverhalen op in hun eigen talen, met alleen hun telefoon.",
+  "blockquote2": "“Met deze app kunnen we de training en de technologie meenemen naar de mensen die we willen bereiken.”",
+  "figcaption3": "Plaatselijke Bijbelvertaler",
+  "alt2": "Een vertaler luistert een opname terug in translationCore Mobile",
+  "figcaption4": "Een opname terugluisteren.",
+  "span": "Steun Bijbelvertaling door de kerk"
+ },
+ "support": {
+  "h2": "Bijbelse bronnen",
+  "p": "Met open licentie: gratis te gebruiken, te delen en aan te passen.",
+  "a": "Vertaalnotities",
+  "span": "Achtergrond bij elk vers",
+  "a2": "Bijbelse begrippen",
+  "span2": "Kernbegrippen, namen en plaatsen",
+  "a3": "Vertaalacademie",
+  "span3": "Training voor vertalers",
+  "a4": "Bronteksten",
+  "span4": "Letterlijke en vereenvoudigde Bijbels",
+  "a5": "Vertaalvragen",
+  "span5": "Test of de vertaling helder is",
+  "a6": "Alle bronnen bekijken",
+  "h22": "Training &amp; ondersteuning",
+  "p2": "Initiatieven die elke vertaler ondersteunen.",
+  "a7": "Foundations BT",
+  "span6": "Een begeleide start voor Bijbelvertaling door de kerk",
+  "a8": "Church-Based Training",
+  "span7": "Kerken toerusten om te vertalen",
+  "a9": "BT Servant",
+  "span8": "Een AI-coach die put uit betrouwbare bronnen",
+  "a10": "Open Bible Stories",
+  "span9": "50 eenvoudige, geïllustreerde Bijbelverhalen",
+  "a11": "Training &amp; ondersteuning bekijken"
+ },
+ "open": {
+  "h2": "Open hulpmiddelen voor vertaalwerk door de kerk",
+  "p": "Met open licentie, gratis en gemaakt om offline te werken."
+ },
+ "start": {
+  "h2": "Aan de slag",
+  "h3": "Desktop",
+  "p": "Windows, Mac en Linux. Nieuw: translationCore v4 Beta.",
+  "a": "Desktop downloaden",
+  "a2": "Instructies",
+  "a3": "Op zoek naar de vorige versie?",
+  "h32": "Mobiel",
+  "p2": "Gratis op Android, iPhone en het web.",
+  "a4": "Mobile downloaden",
+  "a5": "Bekijk Mobile",
+  "p3": "Hulp nodig? <a href=\"/tc-help/\">Aan de slag</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Releasenotes</a>"
+ }
+}

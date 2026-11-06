@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "ဒက်စ်တော့ပ်",
+   "slug": "desktop"
+  },
+  {
+   "label": "မိုဘိုင်း",
+   "slug": "mobile"
+  },
+  {
+   "label": "ကျမ်းစာ အရင်းအမြစ်များ",
+   "slug": "resources"
+  },
+  {
+   "label": "သင်တန်းနှင့် အကူအညီ",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "စီမံဆောင်ရွက်သူ -",
+ "footerTagline": "အသင်းတော်များ ဦးဆောင်သော ကျမ်းစာဘာသာပြန်ခြင်းအတွက် ပွင့်လင်းကိရိယာများ။",
+ "footerInitiative": "translationCore သည် <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a> ၏ စီမံချက်တစ်ခု ဖြစ်သည်။",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "လိုင်စင်နှင့် ကုန်အမှတ်တံဆိပ်",
+  "privacy": "ကိုယ်ရေးအချက်အလက် မူဝါဒ",
+  "about": "unfoldingWord အကြောင်း"
+ },
+ "give": "အသင်းတော်ဗဟိုပြု ကျမ်းစာဘာသာပြန်ခြင်းကို ကူညီပံ့ပိုးပါ",
+ "strings": {
+  "menu": "မီနူး",
+  "languageLabel": "ဘာသာစကား",
+  "skipToContent": "အဓိကအကြောင်းအရာသို့ ကျော်သွားရန်",
+  "ogImageAlt": "translationCore: အသင်းတော်များ ဦးဆောင်သော ကျမ်းစာဘာသာပြန်ခြင်းအတွက် ပွင့်လင်းကိရိယာများ"
+ }
+}

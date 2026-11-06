@@ -1,0 +1,13 @@
+{
+  // Cloudflare Pages config for translationcore.com.
+  //
+  // `name` MUST match the Cloudflare Pages project name ("translationcore-website").
+  // A mismatch fails the build. See README → Deployment for the one-time setup.
+  "name": "translationcore-website",
+  "compatibility_date": "2026-11-01",
+
+  // Astro builds the static site into dist/. Pages serves clean URLs
+  // (/desktop/ -> /desktop/index.html) and reads `_redirects` and `_headers`
+  // from the output (copied there from public/).
+  "pages_build_output_dir": "dist"
+}

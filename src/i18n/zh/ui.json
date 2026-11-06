@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "桌面版",
+   "slug": "desktop"
+  },
+  {
+   "label": "手机版",
+   "slug": "mobile"
+  },
+  {
+   "label": "圣经资源",
+   "slug": "resources"
+  },
+  {
+   "label": "培训与支持",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "发起机构",
+ "footerTagline": "为教会主导的圣经翻译提供开放工具。",
+ "footerInitiative": "translationCore 是 <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a> 发起的一项事工。",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "许可与商标",
+  "privacy": "隐私政策",
+  "about": "关于 unfoldingWord"
+ },
+ "give": "支持以教会为中心的圣经翻译",
+ "strings": {
+  "menu": "菜单",
+  "languageLabel": "语言",
+  "skipToContent": "跳到正文",
+  "ogImageAlt": "translationCore：为教会主导的圣经翻译提供开放工具"
+ }
+}

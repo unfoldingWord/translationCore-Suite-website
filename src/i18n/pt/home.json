@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "title": "translationCore: ferramentas para a tradução da Bíblia",
+  "description": "Ferramentas abertas para igrejas e equipes de tradução entenderem, traduzirem e revisarem as Escrituras. translationCore Desktop e Mobile são gratuitos."
+ },
+ "hero": {
+  "h1": "Traduza as Escrituras para a sua língua",
+  "p": "Ferramentas para igrejas e equipes de tradução entenderem, traduzirem e revisarem as Escrituras.",
+  "a": "Conheça a versão para computador",
+  "a2": "Conheça a versão para celular",
+  "alt": "translationCore Desktop: texto-fonte, um rascunho e notas de tradução lado a lado",
+  "alt2": "Gravando um trecho no translationCore Mobile"
+ },
+ "cycle": {
+  "h3": "Entender",
+  "p": "Descubra o que as Escrituras significam.",
+  "h32": "Traduzir",
+  "p2": "Expresse com naturalidade, por escrito ou oralmente.",
+  "h33": "Revisar",
+  "p3": "Confira se está fiel e claro."
+ },
+ "desktop": {
+  "p": "translationCore Desktop",
+  "h2": "Do entendimento ao compartilhamento das Escrituras",
+  "p2": "Um só espaço de trabalho que reúne os recursos de tradução da unfoldingWord, para que os tradutores entendam as Escrituras e as traduzam com fidelidade e clareza. Funciona off-line.",
+  "span": "<strong>Entenda</strong> a passagem",
+  "span2": "<strong>Escreva e revise</strong> em equipe",
+  "span3": "<strong>Revise</strong> e alinhe",
+  "span4": "<strong>Exporte</strong> e compartilhe",
+  "a": "Baixar o Desktop",
+  "a2": "Saiba mais",
+  "p3": "<strong>Novidade:</strong> lançamos recentemente o translationCore v4 Beta. <a href=\"/previous-version/\">Versão anterior</a>",
+  "alt": "Escrevendo uma seção com as notas ao lado",
+  "p4": "Escrevendo uma seção com as notas ao lado."
+ },
+ "mobile": {
+  "alt": "Gravando um trecho de um capítulo",
+  "p": "Gravando um trecho de um capítulo.",
+  "alt2": "Logotipo do translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h2": "Fale. Grave. Ouça. Traduza.",
+  "p3": "Grave no celular, ouça de novo e melhore. Funciona off-line.",
+  "a": "Baixar o Mobile",
+  "a2": "Conheça a versão para celular"
+ },
+ "impact": {
+  "h2": "Igrejas e equipes, em suas próprias línguas",
+  "p": "translationCore Desktop",
+  "h3": "Uma tradução em que sua comunidade pode confiar",
+  "p2": "Escreva, revise e alinhe em um só espaço de trabalho, mesmo off-line.",
+  "blockquote": "“O translationCore é o programa mais rápido que já vimos.”",
+  "figcaption": "Ibrahim, instrutor de tradução",
+  "alt": "Um tradutor trabalha em um notebook enquanto os colegas trabalham ao lado",
+  "figcaption2": "Traduzindo juntos, lado a lado.",
+  "p3": "translationCore Mobile",
+  "h32": "Tradução oral, só com um celular",
+  "p4": "Líderes em um workshop em Nairóbi gravaram histórias bíblicas em suas próprias línguas, usando apenas celulares.",
+  "blockquote2": "“Com este aplicativo, podemos levar a capacitação e a tecnologia às pessoas que queremos alcançar.”",
+  "figcaption3": "Tradutor local da Bíblia",
+  "alt2": "Um tradutor ouve uma gravação no translationCore Mobile",
+  "figcaption4": "Ouvindo uma gravação.",
+  "span": "Apoie a tradução da Bíblia centrada na igreja"
+ },
+ "support": {
+  "h2": "Recursos bíblicos",
+  "p": "Com licença aberta e livres para usar, compartilhar e adaptar.",
+  "a": "Notas de Tradução",
+  "span": "Contexto para cada versículo",
+  "a2": "Palavras de Tradução",
+  "span2": "Termos-chave, nomes e lugares",
+  "a3": "Academia de Tradução",
+  "span3": "Capacitação para tradutores",
+  "a4": "Textos-fonte",
+  "span4": "Bíblias literal e simplificada",
+  "a5": "Perguntas de Tradução",
+  "span5": "Verifique se está claro",
+  "a6": "Ver todos os recursos",
+  "h22": "Capacitação e suporte",
+  "p2": "Iniciativas que apoiam cada tradutor.",
+  "a7": "Foundations BT",
+  "span6": "Um começo guiado para a tradução liderada pela igreja",
+  "a8": "Church-Based Training",
+  "span7": "Prepare as igrejas para a tradução",
+  "a9": "BT Servant",
+  "span8": "Um assistente de IA baseado em recursos confiáveis",
+  "a10": "Open Bible Stories",
+  "span9": "50 histórias bíblicas simples e ilustradas",
+  "a11": "Conheça a capacitação e o suporte"
+ },
+ "open": {
+  "h2": "Ferramentas abertas para a tradução centrada na igreja",
+  "p": "Com licença aberta, gratuitas e feitas para funcionar off-line."
+ },
+ "start": {
+  "h2": "Comece agora",
+  "h3": "Computador",
+  "p": "Windows, Mac e Linux. Novidade: translationCore v4 Beta.",
+  "a": "Baixar o Desktop",
+  "a2": "Instruções",
+  "a3": "Procurando a versão anterior?",
+  "h32": "Celular",
+  "p2": "Gratuito para Android, iPhone e web.",
+  "a4": "Baixar o Mobile",
+  "a5": "Conheça a versão para celular",
+  "p3": "Precisa de ajuda? <a href=\"/tc-help/\">Primeiros passos</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Notas da versão</a>"
+ }
+}

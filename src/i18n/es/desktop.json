@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | Espacio para traducir la Biblia",
+  "description": "Espacio gratuito y de código abierto para redactar, revisar, alinear y compartir traducciones bíblicas, con recursos de unfoldingWord. Funciona sin conexión."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Inicio</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "Un espacio de trabajo completo para la traducción bíblica",
+  "p2": "Redacte, revise, alinee y comparta una traducción en una sola aplicación. Funciona sin conexión.",
+  "a": "Descargar",
+  "a2": "Ver en GitHub",
+  "span": "Nuevo: translationCore v4 Beta &middot; Windows, Mac, Linux"
+ },
+ "screenshot": {
+  "alt": "translationCore Desktop en el modo Traducir",
+  "p": "Modo Traducir, con las notas y el texto fuente a su lado."
+ },
+ "modes": {
+  "h2": "Comprender. Traducir. Revisar.",
+  "p": "translationNotes, translationWords, translationQuestions, translationAcademy, ULT y UST trabajan juntos en un solo espacio, para que usted comprenda las Escrituras y las traduzca con fidelidad y claridad.",
+  "label": "Comprender, Traducir, Revisar",
+  "button": "Comprender",
+  "button2": "Traducir",
+  "button3": "Revisar",
+  "alt": "translationCore Desktop en el modo Comprender",
+  "figcaption": "<strong style=\"color:#014263\">Comprender.</strong> Lea el pasaje y sus notas antes de empezar.",
+  "alt2": "translationCore Desktop en el modo Traducir",
+  "figcaption2": "<strong style=\"color:#014263\">Traducir.</strong> Redacte junto al texto fuente, una sección a la vez.",
+  "alt3": "translationCore Desktop en el modo Revisar",
+  "figcaption3": "<strong style=\"color:#014263\">Revisar.</strong> Compare cada elemento con el original y luego márquelo como válido."
+ },
+ "checking": {
+  "h2": "Todo lo que su equipo necesita, en un solo lugar",
+  "h3": "Redacte una sección",
+  "p": "Escriba una sección y luego coloque los números de versículo.",
+  "h32": "El idioma original a su lado",
+  "p2": "Vea el griego o el hebreo junto a la ULT y la UST.",
+  "h33": "Ayudas y sugerencias",
+  "p3": "Notas, palabras, comentarios y sugerencias de alineación.",
+  "h34": "Revise y alinee",
+  "p4": "Revise los términos clave y luego alinee con el original.",
+  "h35": "Open Bible Stories",
+  "p5": "Traduzca y revise historias. Exporte en Markdown o PDF.",
+  "h36": "Exporte y comparta",
+  "p6": "Exporte USFM alineado, un Scripture Burrito o PDF, o comparta en Door43."
+ },
+ "how": {
+  "h2": "Cómo funciona",
+  "span": "<strong style=\"color:#014263\">Inicie</strong> un proyecto o importe uno.",
+  "span2": "<strong style=\"color:#014263\">Redacte</strong> una sección a la vez.",
+  "span3": "<strong style=\"color:#014263\">Revise</strong> con las ayudas a su lado.",
+  "span4": "<strong style=\"color:#014263\">Alinee</strong> con el idioma original.",
+  "span5": "<strong style=\"color:#014263\">Exporte</strong> o comparta en Door43.",
+  "alt": "Cambie entre la ULT, la UST y el texto fuente griego",
+  "figcaption": "Cambie entre la ULT, la UST y el texto fuente griego",
+  "alt2": "Redacte una sección completa y luego coloque los números de versículo",
+  "figcaption2": "Redacte una sección completa y luego coloque los números de versículo",
+  "alt3": "Las notas enlazan con la Academia de traducción",
+  "figcaption3": "Las notas enlazan con la Academia de traducción"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "¿Tiene una pregunta de traducción? <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">Pregúntele a BT Servant.</a>",
+  "p": "Reciba orientación basada en recursos confiables, en su idioma."
+ },
+ "downloads": {
+  "h2": "Descargue translationCore v4 Beta",
+  "p": "Elija su computadora.",
+  "h3": "Windows",
+  "p2": "Instalador (.exe), 64 bits",
+  "p3": "Firmado por unfoldingWord. Si Windows muestra “Windows protegió su PC”, elija Más información, verifique que el editor sea unfoldingWord y luego elija Ejecutar de todas formas.",
+  "a": "Descargar para Windows",
+  "h32": "Mac",
+  "p4": "Instalador (.pkg), Apple silicon",
+  "p5": "Aún no es compatible con Mac con procesador Intel. Esta versión todavía no está firmada, así que macOS podría bloquearla. Abra Configuración del Sistema &gt; Privacidad y seguridad y elija Abrir de todas formas, o haga Control-clic en el instalador y elija Abrir. Le pedirá una contraseña de administrador.",
+  "a2": "Descargar para Mac",
+  "h33": "Linux",
+  "p6": "Archivo zip (.zip), 64 bits",
+  "p7": "Descomprima el archivo zip y ejecute <code>start-tc4.sh</code>.",
+  "a3": "Descargar para Linux",
+  "p8": "<strong>Nuevo: translationCore v4 Beta.</strong> Haga pruebas con copias de sus proyectos y guarde respaldos.",
+  "p9": "¿Necesita ayuda? Consulte el <a href=\"/tc-help/\">sitio de ayuda</a> o las <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">notas de la versión</a>."
+ },
+ "previous": {
+  "h2": "¿Necesita la versión anterior de translationCore?",
+  "p": "La versión anterior seguirá disponible hasta que v4 Beta sea estable.",
+  "a": "Ir a la versión anterior"
+ },
+ "open": {
+  "h2": "Código abierto. De uso gratuito.",
+  "p": "Con licencia CC BY-SA 4.0.",
+  "a": "Únase a nuestro Discord",
+  "a2": "GitHub"
+ }
+}

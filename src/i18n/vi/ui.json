@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "Máy tính",
+   "slug": "desktop"
+  },
+  {
+   "label": "Di động",
+   "slug": "mobile"
+  },
+  {
+   "label": "Tài liệu Kinh Thánh",
+   "slug": "resources"
+  },
+  {
+   "label": "Đào tạo &amp; Hỗ trợ",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "Một sáng kiến của",
+ "footerTagline": "Công cụ mở cho việc dịch Kinh Thánh do Hội Thánh dẫn dắt.",
+ "footerInitiative": "translationCore là một sáng kiến của <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a>.",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "Giấy phép và Thương hiệu",
+  "privacy": "Chính sách quyền riêng tư",
+  "about": "Về unfoldingWord"
+ },
+ "give": "Hỗ trợ việc dịch Kinh Thánh do Hội Thánh làm chủ",
+ "strings": {
+  "menu": "Trình đơn",
+  "languageLabel": "Ngôn ngữ",
+  "skipToContent": "Chuyển đến nội dung chính",
+  "ogImageAlt": "translationCore: công cụ mở cho việc dịch Kinh Thánh do Hội Thánh dẫn dắt"
+ }
+}

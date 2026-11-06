@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "title": "translationCore Mobile | Record Scripture in your language",
+  "description": "Record Scripture in your own language on Android, iPhone, or the web. Free, open source, and works offline."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Home</a> &nbsp;/&nbsp; translationCore Mobile",
+  "alt": "translationCore Mobile logo",
+  "p2": "translationCore Mobile",
+  "h1": "Record Scripture in your own language",
+  "p3": "One passage at a time, on the phone you already have. Works offline.",
+  "a": "Get the app",
+  "span": "Free &middot; Open source",
+  "alt2": "Recording a segment"
+ },
+ "what": {
+  "h2": "A simple app for oral translation",
+  "p": "Record by book, chapter, and segment. Listen back, fix, and share, all on your phone."
+ },
+ "why": {
+  "h3": "Works offline",
+  "p": "Once installed, no internet needed.",
+  "h32": "Stays on your phone",
+  "p2": "No accounts, no ads, and no tracking.",
+  "h33": "Simple controls",
+  "p3": "Large icon buttons, built for teams who work by ear.",
+  "h34": "Free and open source",
+  "p4": "From unfoldingWord, shaped by facilitators and testers."
+ },
+ "how": {
+  "h2": "How to use it",
+  "alt": "Books and chapters",
+  "figcaption": "Books and chapters",
+  "alt2": "Segments, one by one",
+  "figcaption2": "Segments, one by one",
+  "alt3": "Record",
+  "figcaption3": "Record",
+  "alt4": "Cut and fix in place",
+  "figcaption4": "Cut and fix in place",
+  "span": "<strong style=\"color:#014263\">Record</strong> a segment, then listen back.",
+  "span2": "<strong style=\"color:#014263\">Fix it</strong> by cutting part of the waveform, or record it again.",
+  "span3": "<strong style=\"color:#014263\">Mark Done</strong> when the segment is ready.",
+  "span4": "<strong style=\"color:#014263\">Share</strong> a chapter as an MP3, or a book as a zip."
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Talk through a passage before you record.",
+  "p": "Ask by voice or text, listen to the guidance, then return to translationCore Mobile to record.",
+  "a": "Try BT Servant &rarr;"
+ },
+ "install": {
+  "h2": "Get translationCore Mobile",
+  "h3": "Android",
+  "p": "Search &ldquo;translationCore Mobile&rdquo; on Google Play.",
+  "p2": "Android 7.0 or later, with WebView up to date.",
+  "a": "Get it on Google Play",
+  "h32": "iPhone",
+  "p3": "Search &ldquo;translationCore Mobile&rdquo; on the App Store.",
+  "p4": "iOS 15.4 or later.",
+  "a2": "Get it on the App Store",
+  "h33": "Web",
+  "p5": "Open it in your browser. Nothing to install.",
+  "p6": "tcmobile.app",
+  "a3": "Open tcmobile.app",
+  "p7": "Questions? <a href=\"https://unfoldingword.org/contact\">Contact unfoldingWord</a> &middot; <a href=\"https://github.com/unfoldingWord/tc-mobile\">Source on GitHub</a>"
+ }
+}

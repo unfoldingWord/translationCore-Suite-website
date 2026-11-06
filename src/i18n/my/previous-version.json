@@ -1,0 +1,32 @@
+{
+ "meta": {
+  "title": "translationCore ယခင်ဗားရှင်း | ဒေါင်းလုဒ်များ",
+  "description": "Windows၊ macOS နှင့် Linux အတွက် translationCore ယခင်ဗားရှင်းကို Full နှင့် Minimal ထည့်သွင်းမှုများဖြင့် ဒေါင်းလုဒ်လုပ်ပါ။"
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">ပင်မစာမျက်နှာ</a> &nbsp;/&nbsp; ယခင်ဗားရှင်း",
+  "h1": "translationCore ယခင်ဗားရှင်း",
+  "p2": "သင် သိကျွမ်းပြီးသား ဗားရှင်းကို လိုအပ်နေဆဲလား။ v4 Beta တည်ငြိမ်သည်အထိ ဤနေရာတွင် ရှိနေပါမည်။",
+  "a": "translationCore v4 Beta သို့ သွားရန်"
+ },
+ "downloads": {
+  "h2": "ဒေါင်းလုဒ်",
+  "p": "translationCore&reg; ကို Windows၊ macOS နှင့် Linux အတွက် Full (အပြည့်အစုံ) နှင့် Minimal (Lite) ထည့်သွင်းရေး ပက်ကေ့ချ် နှစ်မျိုးလုံးဖြင့် ရယူနိုင်သည်။",
+  "h3": "အပြည့်အစုံ ထည့်သွင်းမှု",
+  "p2": "အင်တာနက်မရှိဘဲ အသုံးပြုရန် အရင်းအမြစ်အားလုံး ပါဝင်သည်။",
+  "p3": "<strong style=\"color:#014263\">Windows:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-win-x64-3.6.10-MAX-c3947fe.exe\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-win-x32-3.6.10-MAX-c3947fe.exe\">x86</a>",
+  "p4": "<strong style=\"color:#014263\">macOS:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-macos-x64-3.6.10-MAX-c3947fe.dmg\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-macos-universal-3.6.10-MAX-c3947fe.dmg\">Universal</a>",
+  "p5": "<strong style=\"color:#014263\">Linux:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-linux-x64-3.6.10-MAX-c3947fe.deb\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.6.10/tC-linux-arm64-3.6.10-MAX-c3947fe.deb\">ARM64</a>",
+  "h32": "အနည်းဆုံး ထည့်သွင်းမှု",
+  "p6": "ဒေါင်းလုဒ် ပေါ့ပါးသည်၊ လိုအပ်သလို အရင်းအမြစ်များကို ရယူသည်။",
+  "p7": "<strong style=\"color:#014263\">Windows:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-win-x64-3.7.0-LITE-c16e207.exe\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-win-x32-3.7.0-LITE-c16e207.exe\">x86</a>",
+  "p8": "<strong style=\"color:#014263\">macOS:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-macos-x64-3.7.0-LITE-c16e207.dmg\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-macos-universal-3.7.0-LITE-c16e207.dmg\">Universal</a>",
+  "p9": "<strong style=\"color:#014263\">Linux:</strong> <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-linux-x64-3.7.0-LITE-c16e207.deb\">x64</a> | <a href=\"https://github.com/unfoldingWord/translationCore/releases/download/v3.7.0-lite/tC-linux-arm64-3.7.0-LITE-c16e207.deb\">ARM64</a>",
+  "p10": "ထည့်သွင်းနည်းအတွက် <a href=\"https://github.com/unfoldingWord/translationCore/releases\">ထုတ်ပြန်ချက် မှတ်စုများ</a> ကို ကြည့်ပါ။"
+ },
+ "open": {
+  "h2": "နောက်ဆုံးဗားရှင်းကို ရှာနေပါသလား။",
+  "p": "translationCore v4 Beta သည် ကျွန်ုပ်တို့၏ နောက်ဆုံးထွက် ဗားရှင်း ဖြစ်သည်။",
+  "a": "translationCore v4 Beta သို့ သွားရန်"
+ }
+}

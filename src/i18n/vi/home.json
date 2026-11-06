@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "title": "translationCore: Công cụ mở để Hội Thánh dịch Kinh Thánh",
+  "description": "Công cụ mở giúp Hội Thánh và nhóm dịch hiểu, dịch và kiểm tra Kinh Thánh. translationCore Desktop và Mobile miễn phí, mã nguồn mở."
+ },
+ "hero": {
+  "h1": "Dịch Kinh Thánh sang ngôn ngữ của bạn",
+  "p": "Công cụ giúp Hội Thánh và nhóm dịch hiểu, dịch và kiểm tra Kinh Thánh.",
+  "a": "Tìm hiểu bản máy tính",
+  "a2": "Tìm hiểu bản di động",
+  "alt": "translationCore Desktop: văn bản nguồn, bản nháp và ghi chú dịch thuật đặt cạnh nhau",
+  "alt2": "Thu âm một đoạn trong translationCore Mobile"
+ },
+ "cycle": {
+  "h3": "Hiểu",
+  "p": "Tìm hiểu ý nghĩa của Kinh Thánh.",
+  "h32": "Dịch",
+  "p2": "Diễn đạt tự nhiên, bằng chữ viết hoặc lời nói.",
+  "h33": "Kiểm tra",
+  "p3": "Xem lại để bảo đảm chính xác và rõ ràng."
+ },
+ "desktop": {
+  "p": "translationCore Desktop",
+  "h2": "Từ hiểu biết đến chia sẻ Lời Chúa",
+  "p2": "Một không gian làm việc quy tụ các tài liệu dịch thuật của unfoldingWord, để người dịch hiểu Kinh Thánh và dịch cách chính xác, rõ ràng. Hoạt động không cần mạng.",
+  "span": "<strong>Hiểu</strong> phân đoạn",
+  "span2": "<strong>Soạn và sửa</strong> cùng nhau",
+  "span3": "<strong>Kiểm tra</strong> và căn chỉnh",
+  "span4": "<strong>Xuất</strong> và chia sẻ",
+  "a": "Tải bản máy tính",
+  "a2": "Tìm hiểu thêm",
+  "p3": "<strong>Mới:</strong> chúng tôi vừa phát hành translationCore v4 Beta. <a href=\"/previous-version/\">Phiên bản trước</a>",
+  "alt": "Soạn bản nháp một đoạn với ghi chú bên cạnh",
+  "p4": "Soạn bản nháp một đoạn với ghi chú bên cạnh."
+ },
+ "mobile": {
+  "alt": "Thu âm một đoạn của một chương",
+  "p": "Thu âm một đoạn của một chương.",
+  "alt2": "Biểu tượng translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h2": "Nói. Thu âm. Nghe lại. Dịch.",
+  "p3": "Thu âm trên điện thoại, nghe lại và sửa cho tốt hơn. Hoạt động không cần mạng.",
+  "a": "Tải bản di động",
+  "a2": "Tìm hiểu bản di động"
+ },
+ "impact": {
+  "h2": "Hội Thánh và các nhóm dịch, bằng chính ngôn ngữ của họ",
+  "p": "translationCore Desktop",
+  "h3": "Một bản dịch cộng đồng của bạn có thể tin cậy",
+  "p2": "Soạn thảo, kiểm tra và căn chỉnh trong một không gian làm việc, kể cả khi không có mạng.",
+  "blockquote": "“translationCore là phần mềm nhanh nhất mà chúng tôi từng thấy.”",
+  "figcaption": "Ibrahim, giảng viên dịch thuật",
+  "alt": "Một người dịch làm việc trên máy tính xách tay, đồng đội làm việc bên cạnh",
+  "figcaption2": "Cùng nhau dịch, bên cạnh nhau.",
+  "p3": "translationCore Mobile",
+  "h32": "Dịch truyền khẩu, chỉ cần một chiếc điện thoại",
+  "p4": "Các lãnh đạo tại một hội thảo ở Nairobi đã thu âm các câu chuyện Kinh Thánh bằng chính ngôn ngữ của họ, chỉ với điện thoại.",
+  "blockquote2": "“Với ứng dụng này, chúng tôi có thể đem việc đào tạo và công nghệ đến với những người chúng tôi đang tìm cách tiếp cận.”",
+  "figcaption3": "Một người dịch Kinh Thánh địa phương",
+  "alt2": "Một người dịch nghe lại bản thu âm trên translationCore Mobile",
+  "figcaption4": "Nghe lại bản thu âm.",
+  "span": "Hỗ trợ việc dịch Kinh Thánh do Hội Thánh làm chủ"
+ },
+ "support": {
+  "h2": "Tài liệu Kinh Thánh",
+  "p": "Giấy phép mở, miễn phí để dùng, chia sẻ và điều chỉnh.",
+  "a": "Ghi chú Dịch thuật",
+  "span": "Bối cảnh cho từng câu",
+  "a2": "Từ ngữ Dịch thuật",
+  "span2": "Thuật ngữ chính, tên người và địa danh",
+  "a3": "Học viện Dịch thuật",
+  "span3": "Đào tạo cho người dịch",
+  "a4": "Văn bản Nguồn",
+  "span4": "Kinh Thánh sát nghĩa và giản dị",
+  "a5": "Câu hỏi Dịch thuật",
+  "span5": "Kiểm tra xem bản dịch có rõ ràng không",
+  "a6": "Xem tất cả tài liệu",
+  "h22": "Đào tạo &amp; Hỗ trợ",
+  "p2": "Những sáng kiến hỗ trợ mọi người dịch.",
+  "a7": "Foundations BT",
+  "span6": "Bước khởi đầu có hướng dẫn cho việc dịch do Hội Thánh dẫn dắt",
+  "a8": "Church-Based Training",
+  "span7": "Trang bị Hội Thánh cho công việc dịch thuật",
+  "a9": "BT Servant",
+  "span8": "Trợ lý AI dựa trên các tài liệu đáng tin cậy",
+  "a10": "Open Bible Stories",
+  "span9": "50 câu chuyện Kinh Thánh đơn giản, có hình minh họa",
+  "a11": "Tìm hiểu đào tạo &amp; hỗ trợ"
+ },
+ "open": {
+  "h2": "Công cụ mở cho công việc dịch thuật do Hội Thánh làm chủ",
+  "p": "Giấy phép mở, miễn phí và hoạt động không cần mạng."
+ },
+ "start": {
+  "h2": "Bắt đầu",
+  "h3": "Máy tính",
+  "p": "Windows, Mac và Linux. Mới: translationCore v4 Beta.",
+  "a": "Tải bản máy tính",
+  "a2": "Hướng dẫn",
+  "a3": "Bạn cần phiên bản trước?",
+  "h32": "Di động",
+  "p2": "Miễn phí trên Android, iPhone và trình duyệt web.",
+  "a4": "Tải bản di động",
+  "a5": "Tìm hiểu bản di động",
+  "p3": "Cần trợ giúp? <a href=\"/tc-help/\">Bắt đầu sử dụng</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Ghi chú phát hành</a>"
+ }
+}

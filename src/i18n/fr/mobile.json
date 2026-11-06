@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "title": "translationCore Mobile | Enregistrez les Écritures",
+  "description": "Enregistrez les Écritures dans votre langue sur Android, iPhone ou le web. Gratuit, open source et fonctionne hors ligne."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Accueil</a> &nbsp;/&nbsp; translationCore Mobile",
+  "alt": "Logo de translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h1": "Enregistrez les Écritures dans votre langue",
+  "p3": "Un passage à la fois, sur le téléphone que vous avez déjà. Fonctionne hors ligne.",
+  "a": "Obtenir l’application",
+  "span": "Gratuit &middot; Open source",
+  "alt2": "Enregistrement d’un segment"
+ },
+ "what": {
+  "h2": "Une application simple pour la traduction orale",
+  "p": "Enregistrez par livre, chapitre et segment. Réécoutez, corrigez et partagez, le tout sur votre téléphone."
+ },
+ "why": {
+  "h3": "Fonctionne hors ligne",
+  "p": "Une fois installée, plus besoin d’internet.",
+  "h32": "Reste sur votre téléphone",
+  "p2": "Pas de compte, pas de publicité, pas de pistage.",
+  "h33": "Des commandes simples",
+  "p3": "De grands boutons à icônes, conçus pour les équipes qui travaillent à l’oral.",
+  "h34": "Gratuite et open source",
+  "p4": "Par unfoldingWord, façonnée avec des animateurs et des testeurs."
+ },
+ "how": {
+  "h2": "Comment l’utiliser",
+  "alt": "Livres et chapitres",
+  "figcaption": "Livres et chapitres",
+  "alt2": "Les segments, un par un",
+  "figcaption2": "Les segments, un par un",
+  "alt3": "Enregistrer",
+  "figcaption3": "Enregistrer",
+  "alt4": "Couper et corriger sur place",
+  "figcaption4": "Couper et corriger sur place",
+  "span": "<strong style=\"color:#014263\">Enregistrez</strong> un segment, puis réécoutez-le.",
+  "span2": "<strong style=\"color:#014263\">Corrigez-le</strong> en coupant une partie de la forme d’onde, ou réenregistrez-le.",
+  "span3": "<strong style=\"color:#014263\">Marquez Terminé</strong> quand le segment est prêt.",
+  "span4": "<strong style=\"color:#014263\">Partagez</strong> un chapitre en MP3, ou un livre en archive zip."
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Parlez d’un passage avant de l’enregistrer.",
+  "p": "Posez votre question à la voix ou par écrit, écoutez les conseils, puis revenez à translationCore Mobile pour enregistrer.",
+  "a": "Essayer BT Servant &rarr;"
+ },
+ "install": {
+  "h2": "Obtenir translationCore Mobile",
+  "h3": "Android",
+  "p": "Recherchez « translationCore Mobile » sur Google Play.",
+  "p2": "Android 7.0 ou version ultérieure, avec WebView à jour.",
+  "a": "Disponible sur Google Play",
+  "h32": "iPhone",
+  "p3": "Recherchez « translationCore Mobile » sur l’App Store.",
+  "p4": "iOS 15.4 ou version ultérieure.",
+  "a2": "Télécharger dans l’App Store",
+  "h33": "Web",
+  "p5": "Ouvrez-la dans votre navigateur. Rien à installer.",
+  "p6": "tcmobile.app",
+  "a3": "Ouvrir tcmobile.app",
+  "p7": "Des questions ? <a href=\"https://unfoldingword.org/contact\">Contacter unfoldingWord</a> &middot; <a href=\"https://github.com/unfoldingWord/tc-mobile\">Code source sur GitHub</a>"
+ }
+}

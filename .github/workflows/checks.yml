@@ -1,0 +1,28 @@
+# Runs the repository's own checks on every pull request and push to main:
+# unit tests, the locale integrity check, a production build, and the
+# post-build route check. Cloudflare Pages builds and deploys separately
+# (see README → Deployment); this only tells a reviewer the PR is sound.
+name: checks
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run check:locales
+      - run: npm run build
+      - run: npm run check:routes

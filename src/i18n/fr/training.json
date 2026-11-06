@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "title": "Formation et assistance | translationCore",
+  "description": "Formation, conseils et récits bibliques pour les traducteurs : Foundations BT, Church-Based Training, BT Servant et Open Bible Stories."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Accueil</a> &nbsp;/&nbsp; Formation et assistance",
+  "h1": "Un soutien pour chaque traducteur",
+  "p2": "Formation, conseils et récits bibliques, proposés par des initiatives qui partagent un même but : la Bible dans chaque langue.",
+  "a": "Découvrir ci-dessous"
+ },
+ "initiatives": {
+  "h2": "Formation et conseils",
+  "p": "Chacune aide les traducteurs et les Églises. Vous pouvez toutes les utiliser avec translationCore.",
+  "h3": "Foundations BT",
+  "p2": "Un démarrage guidé pour la traduction biblique portée par l’Église.",
+  "a": "Visiter Foundations BT",
+  "h32": "Church-Based Training",
+  "p3": "Équiper les Églises pour participer à la traduction.",
+  "a2": "Visiter Church-Based Training",
+  "h33": "BT Servant",
+  "p4": "Un assistant IA fondé sur des ressources fiables. Posez une question sur un passage.",
+  "a3": "Essayer BT Servant",
+  "h34": "Open Bible Stories",
+  "p5": "50 récits bibliques simples et illustrés.",
+  "a4": "Visiter Open Bible Stories"
+ },
+ "help": {
+  "h2": "Besoin d’aide ?",
+  "h3": "Discord",
+  "p": "Posez vos questions et échangez avec la communauté.",
+  "a": "Rejoignez notre Discord",
+  "h32": "Contacter unfoldingWord",
+  "p2": "Des questions pour l’équipe d’unfoldingWord ? Écrivez-nous.",
+  "a2": "Nous contacter"
+ },
+ "academy": {
+  "h2": "Académie de traduction",
+  "p": "Un manuel de théorie et de pratique de la traduction, à lire gratuitement en ligne.",
+  "a": "Voir l’Académie de traduction"
+ }
+}

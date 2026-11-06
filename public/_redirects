@@ -1,0 +1,28 @@
+# One canonical host. https://translationcore.com is canonical (the `site` in
+# astro.config.mjs and every canonical, hreflang, sitemap and JSON-LD URL);
+# www is 301'd to it. Host rules only fire when BOTH hostnames are attached to
+# the Pages project as custom domains. Host rules must come first.
+https://www.translationcore.com/*  https://translationcore.com/:splat  301
+
+# Addresses of the previous translationCore site (the Netlify version,
+# archived in archive/old-site/), so existing links keep working.
+# /translation-helps/#translation-words etc. still land on the right section:
+# the fragment survives the redirect, and resources/ keeps those anchors.
+/translationcore     /desktop/    301
+/translationcore/*   /desktop/    301
+/tc4                 /desktop/    301
+/tc4/*               /desktop/    301
+/translation-helps   /resources/  301
+/translation-helps/* /resources/  301
+
+# The static test build used .html file names; Pages would serve the
+# extensionless form, but these send them straight to the canonical
+# trailing-slash URL in one hop.
+/index.html             /                   301
+/desktop.html           /desktop/           301
+/mobile.html            /mobile/            301
+/resources.html         /resources/         301
+/training.html          /training/          301
+/previous-version.html  /previous-version/  301
+/license.html           /license/           301
+/privacy.html           /privacy/           301

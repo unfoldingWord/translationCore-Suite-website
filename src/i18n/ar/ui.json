@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "سطح المكتب",
+   "slug": "desktop"
+  },
+  {
+   "label": "الجوّال",
+   "slug": "mobile"
+  },
+  {
+   "label": "موارد كتابية",
+   "slug": "resources"
+  },
+  {
+   "label": "التدريب والدعم",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "مبادرة من",
+ "footerTagline": "أدوات مفتوحة لترجمة الكتاب المقدس بقيادة الكنيسة.",
+ "footerInitiative": "translationCore مبادرة من <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a>.",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "الترخيص والعلامة التجارية",
+  "privacy": "سياسة الخصوصية",
+  "about": "عن unfoldingWord"
+ },
+ "give": "ادعم ترجمة الكتاب المقدس بقيادة الكنيسة",
+ "strings": {
+  "menu": "القائمة",
+  "languageLabel": "اللغة",
+  "skipToContent": "انتقل إلى المحتوى",
+  "ogImageAlt": "translationCore: أدوات مفتوحة لترجمة الكتاب المقدس بقيادة الكنيسة"
+ }
+}

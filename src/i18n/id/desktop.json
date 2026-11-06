@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | Ruang kerja penerjemahan Alkitab",
+  "description": "Ruang kerja gratis dan bersumber terbuka untuk menyusun, memeriksa, menyelaraskan, dan membagikan terjemahan Alkitab, dengan sumber daya unfoldingWord. Bisa offline."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Beranda</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "Ruang kerja lengkap untuk penerjemahan Alkitab",
+  "p2": "Susun draf, periksa, selaraskan, dan bagikan terjemahan dalam satu aplikasi. Dapat digunakan secara offline.",
+  "a": "Unduh",
+  "a2": "Lihat di GitHub",
+  "span": "Baru: translationCore v4 Beta &middot; Windows, Mac, Linux"
+ },
+ "screenshot": {
+  "alt": "translationCore Desktop dalam mode Terjemahkan",
+  "p": "Mode Terjemahkan, dengan catatan dan teks sumber di samping Anda."
+ },
+ "modes": {
+  "h2": "Pahami. Terjemahkan. Periksa.",
+  "p": "translationNotes, translationWords, translationQuestions, translationAcademy, ULT, dan UST bekerja bersama dalam satu ruang kerja, agar Anda dapat memahami Alkitab dan menerjemahkannya dengan tepat dan jelas.",
+  "label": "Pahami, Terjemahkan, Periksa",
+  "button": "Pahami",
+  "button2": "Terjemahkan",
+  "button3": "Periksa",
+  "alt": "translationCore Desktop dalam mode Pahami",
+  "figcaption": "<strong style=\"color:#014263\">Pahami.</strong> Baca perikop dan catatannya sebelum Anda mulai.",
+  "alt2": "translationCore Desktop dalam mode Terjemahkan",
+  "figcaption2": "<strong style=\"color:#014263\">Terjemahkan.</strong> Susun draf di samping teks sumber, satu bagian demi satu bagian.",
+  "alt3": "translationCore Desktop dalam mode Periksa",
+  "figcaption3": "<strong style=\"color:#014263\">Periksa.</strong> Tinjau setiap butir dengan teks asli, lalu tandai sebagai valid."
+ },
+ "checking": {
+  "h2": "Semua yang dibutuhkan tim Anda, di satu tempat",
+  "h3": "Susun draf satu bagian",
+  "p": "Tulis satu bagian, lalu tempatkan nomor ayatnya.",
+  "h32": "Bahasa asli di samping Anda",
+  "p2": "Lihat teks Yunani atau Ibrani di samping ULT dan UST.",
+  "h33": "Bantuan dan saran",
+  "p3": "Catatan, istilah, komentar, dan saran penyelarasan.",
+  "h34": "Periksa dan selaraskan",
+  "p4": "Periksa istilah kunci, lalu selaraskan dengan teks asli.",
+  "h35": "Open Bible Stories",
+  "p5": "Terjemahkan dan periksa cerita. Ekspor ke Markdown atau PDF.",
+  "h36": "Ekspor dan bagikan",
+  "p6": "Ekspor USFM yang sudah diselaraskan, Scripture Burrito, atau PDF, atau bagikan ke Door43."
+ },
+ "how": {
+  "h2": "Cara kerjanya",
+  "span": "<strong style=\"color:#014263\">Mulai</strong> proyek baru, atau impor proyek.",
+  "span2": "<strong style=\"color:#014263\">Susun draf</strong> satu bagian demi satu bagian.",
+  "span3": "<strong style=\"color:#014263\">Periksa</strong> dengan bantuan di samping Anda.",
+  "span4": "<strong style=\"color:#014263\">Selaraskan</strong> dengan bahasa asli.",
+  "span5": "<strong style=\"color:#014263\">Ekspor</strong> atau bagikan ke Door43.",
+  "alt": "Beralih antara ULT, UST, dan teks sumber Yunani",
+  "figcaption": "Beralih antara ULT, UST, dan teks sumber Yunani",
+  "alt2": "Susun draf satu bagian utuh, lalu tempatkan nomor ayat",
+  "figcaption2": "Susun draf satu bagian utuh, lalu tempatkan nomor ayat",
+  "alt3": "Catatan terhubung ke Akademi Penerjemahan",
+  "figcaption3": "Catatan terhubung ke Akademi Penerjemahan"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Punya pertanyaan tentang terjemahan? <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">Tanyakan kepada BT Servant.</a>",
+  "p": "Dapatkan arahan yang bersandar pada sumber tepercaya, dalam bahasa Anda."
+ },
+ "downloads": {
+  "h2": "Unduh translationCore v4 Beta",
+  "p": "Pilih komputer Anda.",
+  "h3": "Windows",
+  "p2": "Penginstal (.exe), 64-bit",
+  "p3": "Ditandatangani oleh unfoldingWord. Jika Windows menampilkan &ldquo;Windows melindungi PC Anda&rdquo;, pilih Info selengkapnya, pastikan penerbitnya unfoldingWord, lalu pilih Tetap jalankan.",
+  "a": "Unduh untuk Windows",
+  "h32": "Mac",
+  "p4": "Penginstal (.pkg), Apple silicon",
+  "p5": "Mac Intel belum didukung. Versi ini belum ditandatangani, sehingga macOS mungkin memblokirnya. Buka Pengaturan Sistem &gt; Privasi &amp; Keamanan lalu pilih Tetap Buka, atau klik penginstal sambil menekan Control lalu pilih Buka. Anda akan diminta kata sandi administrator.",
+  "a2": "Unduh untuk Mac",
+  "h33": "Linux",
+  "p6": "Zip (.zip), 64-bit",
+  "p7": "Ekstrak file zip lalu jalankan <code>start-tc4.sh</code>.",
+  "a3": "Unduh untuk Linux",
+  "p8": "<strong>Baru: translationCore v4 Beta.</strong> Ujilah dengan salinan proyek Anda dan simpan cadangannya.",
+  "p9": "Butuh bantuan? Lihat <a href=\"/tc-help/\">situs bantuan</a> atau <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">catatan rilis</a>."
+ },
+ "previous": {
+  "h2": "Butuh translationCore versi sebelumnya?",
+  "p": "Versi sebelumnya tetap tersedia sampai v4 Beta stabil.",
+  "a": "Ke versi sebelumnya"
+ },
+ "open": {
+  "h2": "Sumber terbuka. Gratis digunakan.",
+  "p": "Berlisensi CC BY-SA 4.0.",
+  "a": "Bergabung di Discord kami",
+  "a2": "GitHub"
+ }
+}

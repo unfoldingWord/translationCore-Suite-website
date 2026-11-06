@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "title": "培训与支持 | translationCore",
+  "description": "为译者提供的培训、指导和圣经故事：Foundations BT、Church-Based Training、BT Servant 和 Open Bible Stories。"
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">首页</a> &nbsp;/&nbsp; 培训与支持",
+  "h1": "支持每一位译者",
+  "p2": "培训、指导和圣经故事，来自目标一致的多项事工：让每种语言都有圣经。",
+  "a": "往下了解"
+ },
+ "initiatives": {
+  "h2": "培训与指导",
+  "p": "每一项都在帮助译者和教会，都可以与 translationCore 配合使用。",
+  "h3": "Foundations BT",
+  "p2": "教会主导圣经翻译的入门引导。",
+  "a": "访问 Foundations BT",
+  "h32": "Church-Based Training",
+  "p3": "装备教会参与翻译事工。",
+  "a2": "访问 Church-Based Training",
+  "h33": "BT Servant",
+  "p4": "以可信资源为根基的 AI 助手。可以就一段经文提问。",
+  "a3": "试用 BT Servant",
+  "h34": "Open Bible Stories",
+  "p5": "50 个简明的图解圣经故事。",
+  "a4": "访问 Open Bible Stories"
+ },
+ "help": {
+  "h2": "需要帮助？",
+  "h3": "Discord",
+  "p": "提出问题，与社区交流。",
+  "a": "加入我们的 Discord",
+  "h32": "联系 unfoldingWord",
+  "p2": "有问题想问 unfoldingWord 团队？欢迎联系我们。",
+  "a2": "联系我们"
+ },
+ "academy": {
+  "h2": "翻译学院",
+  "p": "翻译理论与实践手册，可免费在线阅读。",
+  "a": "查看翻译学院"
+ }
+}

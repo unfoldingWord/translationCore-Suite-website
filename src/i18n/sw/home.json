@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "title": "translationCore: Zana huria za makanisa kutafsiri Biblia",
+  "description": "Zana huria kwa makanisa na timu za tafsiri ili kuelewa, kutafsiri na kukagua Maandiko. translationCore Desktop na Mobile ni bure na za chanzo huria."
+ },
+ "hero": {
+  "h1": "Tafsiri Maandiko katika lugha yako",
+  "p": "Zana kwa makanisa na timu za tafsiri ili kuelewa, kutafsiri na kukagua Maandiko.",
+  "a": "Gundua Desktop",
+  "a2": "Gundua Mobile",
+  "alt": "translationCore Desktop: maandishi chanzo, rasimu na maelezo ya tafsiri kando kwa kando",
+  "alt2": "Kurekodi kipande katika translationCore Mobile"
+ },
+ "cycle": {
+  "h3": "Elewa",
+  "p": "Chunguza maana ya Maandiko.",
+  "h32": "Tafsiri",
+  "p2": "Yaeleze kwa lugha ya kawaida, kwa maandishi au kwa sauti.",
+  "h33": "Kagua",
+  "p3": "Hakikisha ni sahihi na yanaeleweka."
+ },
+ "desktop": {
+  "p": "translationCore Desktop",
+  "h2": "Kutoka kuelewa hadi kushiriki Maandiko",
+  "p2": "Mahali pamoja pa kazi panapoleta pamoja rasilimali za tafsiri za unfoldingWord, ili watafsiri waelewe Maandiko na kuyatafsiri kwa usahihi na uwazi. Inafanya kazi bila intaneti.",
+  "span": "<strong>Elewa</strong> kifungu",
+  "span2": "<strong>Andika rasimu na rekebisha</strong> pamoja",
+  "span3": "<strong>Kagua</strong> na oanisha",
+  "span4": "<strong>Hamisha</strong> na shiriki",
+  "a": "Pakua Desktop",
+  "a2": "Jifunze zaidi",
+  "p3": "<strong>Mpya:</strong> hivi karibuni tumetoa translationCore v4 Beta. <a href=\"/previous-version/\">Toleo lililopita</a>",
+  "alt": "Kuandika rasimu ya sehemu huku maelezo yakiwa kando",
+  "p4": "Kuandika rasimu ya sehemu huku maelezo yakiwa kando."
+ },
+ "mobile": {
+  "alt": "Kurekodi kipande kimoja cha sura",
+  "p": "Kurekodi kipande kimoja cha sura.",
+  "alt2": "Nembo ya translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h2": "Ongea. Rekodi. Sikiliza. Tafsiri.",
+  "p3": "Rekodi kwa simu, sikiliza tena, kisha boresha. Inafanya kazi bila intaneti.",
+  "a": "Pakua Mobile",
+  "a2": "Gundua Mobile"
+ },
+ "impact": {
+  "h2": "Makanisa na timu, katika lugha zao wenyewe",
+  "p": "translationCore Desktop",
+  "h3": "Tafsiri ambayo jamii yako inaweza kuiamini",
+  "p2": "Andika rasimu, kagua na oanisha mahali pamoja, hata bila intaneti.",
+  "blockquote": "“translationCore ndiyo programu yenye kasi zaidi ambayo tumewahi kuona.”",
+  "figcaption": "Ibrahim, mkufunzi wa tafsiri",
+  "alt": "Mtafsiri akifanya kazi kwenye kompyuta mpakato huku wenzake wakifanya kazi kando yake",
+  "figcaption2": "Kutafsiri pamoja, bega kwa bega.",
+  "p3": "translationCore Mobile",
+  "h32": "Tafsiri ya mdomo, kwa simu tu",
+  "p4": "Viongozi katika warsha jijini Nairobi walirekodi hadithi za Biblia katika lugha zao wenyewe, kwa kutumia simu tu.",
+  "blockquote2": "“Kwa programu hii, tunaweza kupeleka mafunzo na teknolojia kwa watu tunaotaka kuwafikia.”",
+  "figcaption3": "Mtafsiri wa Biblia wa eneo hilo",
+  "alt2": "Mtafsiri akisikiliza tena rekodi kwenye translationCore Mobile",
+  "figcaption4": "Kusikiliza tena rekodi.",
+  "span": "Saidia tafsiri ya Biblia inayoongozwa na makanisa"
+ },
+ "support": {
+  "h2": "Rasilimali za Biblia",
+  "p": "Zina leseni huria; ni bure kutumia, kushiriki na kurekebisha.",
+  "a": "Maelezo ya Tafsiri",
+  "span": "Muktadha wa kila mstari",
+  "a2": "Maneno Muhimu",
+  "span2": "Istilahi, majina na mahali",
+  "a3": "Chuo cha Tafsiri",
+  "span3": "Mafunzo kwa watafsiri",
+  "a4": "Maandishi Chanzo",
+  "span4": "Biblia za neno kwa neno na zilizorahisishwa",
+  "a5": "Maswali ya Tafsiri",
+  "span5": "Pima kama tafsiri inaeleweka",
+  "a6": "Tazama rasilimali zote",
+  "h22": "Mafunzo &amp; Msaada",
+  "p2": "Mipango inayomsaidia kila mtafsiri.",
+  "a7": "Foundations BT",
+  "span6": "Mwanzo wenye mwongozo kwa tafsiri inayoongozwa na kanisa",
+  "a8": "Church-Based Training",
+  "span7": "Kuyaandaa makanisa kwa kazi ya tafsiri",
+  "a9": "BT Servant",
+  "span8": "Kocha wa AI anayetegemea rasilimali za kuaminika",
+  "a10": "Open Bible Stories",
+  "span9": "Hadithi 50 rahisi za Biblia zenye picha",
+  "a11": "Gundua mafunzo &amp; msaada"
+ },
+ "open": {
+  "h2": "Zana huria kwa kazi ya tafsiri inayoongozwa na kanisa",
+  "p": "Zina leseni huria, ni bure, na zimeundwa kufanya kazi bila intaneti."
+ },
+ "start": {
+  "h2": "Anza",
+  "h3": "Kompyuta",
+  "p": "Windows, Mac na Linux. Mpya: translationCore v4 Beta.",
+  "a": "Pakua Desktop",
+  "a2": "Maelekezo",
+  "a3": "Unatafuta toleo lililopita?",
+  "h32": "Simu",
+  "p2": "Bure kwenye Android, iPhone na wavuti.",
+  "a4": "Pakua Mobile",
+  "a5": "Gundua Mobile",
+  "p3": "Unahitaji msaada? <a href=\"/tc-help/\">Jinsi ya Kuanza</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Maelezo ya Toleo</a>"
+ }
+}

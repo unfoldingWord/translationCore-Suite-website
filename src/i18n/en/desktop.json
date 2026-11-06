@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | Bible translation workspace",
+  "description": "A free, open-source workspace to draft, check, align, and share Bible translations, with unfoldingWord resources built in. Works offline."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Home</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "An end-to-end workspace for Bible translation",
+  "p2": "Draft, check, align, and share a translation in one app. Works offline.",
+  "a": "Download",
+  "a2": "View on GitHub",
+  "span": "New: translationCore v4 Beta &middot; Windows, Mac, Linux"
+ },
+ "screenshot": {
+  "alt": "translationCore Desktop in Translate mode",
+  "p": "Translate mode, with notes and source text beside you."
+ },
+ "modes": {
+  "h2": "Understand. Translate. Check.",
+  "p": "translationNotes, translationWords, translationQuestions, translationAcademy, ULT, and UST work together in one workspace, so you can understand Scripture and translate it accurately and clearly.",
+  "label": "Understand, Translate, Check",
+  "button": "Understand",
+  "button2": "Translate",
+  "button3": "Check",
+  "alt": "translationCore Desktop in Understand mode",
+  "figcaption": "<strong style=\"color:#014263\">Understand.</strong> Read the passage and its notes before you start.",
+  "alt2": "translationCore Desktop in Translate mode",
+  "figcaption2": "<strong style=\"color:#014263\">Translate.</strong> Draft beside the source text, a section at a time.",
+  "alt3": "translationCore Desktop in Check mode",
+  "figcaption3": "<strong style=\"color:#014263\">Check.</strong> Review each item against the original, then mark it valid."
+ },
+ "checking": {
+  "h2": "Everything your team needs, in one place",
+  "h3": "Draft a section",
+  "p": "Write a section, then place verse numbers.",
+  "h32": "Original language beside you",
+  "p2": "See Greek or Hebrew next to the ULT and UST.",
+  "h33": "Helps and suggestions",
+  "p3": "Notes, words, comments, and alignment suggestions.",
+  "h34": "Check and align",
+  "p4": "Check key terms, then align to the original.",
+  "h35": "Open Bible Stories",
+  "p5": "Translate and check stories. Export Markdown or PDF.",
+  "h36": "Export and share",
+  "p6": "Export aligned USFM, a Scripture Burrito, or PDF, or share to Door43."
+ },
+ "how": {
+  "h2": "How it works",
+  "span": "<strong style=\"color:#014263\">Start</strong> a project, or import one.",
+  "span2": "<strong style=\"color:#014263\">Draft</strong> a section at a time.",
+  "span3": "<strong style=\"color:#014263\">Check</strong> with helps beside you.",
+  "span4": "<strong style=\"color:#014263\">Align</strong> to the original language.",
+  "span5": "<strong style=\"color:#014263\">Export</strong> or share to Door43.",
+  "alt": "Switch between ULT, UST, and the Greek source",
+  "figcaption": "Switch between ULT, UST, and the Greek source",
+  "alt2": "Draft a whole section, then place verse numbers",
+  "figcaption2": "Draft a whole section, then place verse numbers",
+  "alt3": "Notes link to Translation Academy",
+  "figcaption3": "Notes link to Translation Academy"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Have a translation question? <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">Ask BT Servant.</a>",
+  "p": "Get guidance grounded in trusted resources, in your language."
+ },
+ "downloads": {
+  "h2": "Download translationCore v4 Beta",
+  "p": "Choose your computer.",
+  "h3": "Windows",
+  "p2": "Installer (.exe), 64-bit",
+  "p3": "Signed by unfoldingWord. If Windows shows &ldquo;Windows protected your PC&rdquo;, choose More info, check that the publisher is unfoldingWord, then choose Run anyway.",
+  "a": "Download for Windows",
+  "h32": "Mac",
+  "p4": "Installer (.pkg), Apple silicon",
+  "p5": "Intel Macs are not supported yet. This build is not signed yet, so macOS may block it. Open System Settings &gt; Privacy &amp; Security and choose Open Anyway, or Control-click the installer and choose Open. It asks for an administrator password.",
+  "a2": "Download for Mac",
+  "h33": "Linux",
+  "p6": "Zip (.zip), 64-bit",
+  "p7": "Unpack the zip and run <code>start-tc4.sh</code>.",
+  "a3": "Download for Linux",
+  "p8": "<strong>New: translationCore v4 Beta.</strong> Test with copies of your projects and keep backups.",
+  "p9": "Need help? See the <a href=\"/tc-help/\">help site</a> or the <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">release notes</a>."
+ },
+ "previous": {
+  "h2": "Need the earlier translationCore?",
+  "p": "The previous version stays available until v4 Beta is stable.",
+  "a": "Go to the previous version"
+ },
+ "open": {
+  "h2": "Open source. Free to use.",
+  "p": "Licensed CC BY-SA 4.0.",
+  "a": "Join our Discord",
+  "a2": "GitHub"
+ }
+}

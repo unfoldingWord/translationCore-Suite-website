@@ -1,0 +1,25 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  { "label": "Desktop", "slug": "desktop" },
+  { "label": "Mobile", "slug": "mobile" },
+  { "label": "Biblical Resources", "slug": "resources" },
+  { "label": "Training &amp; Support", "slug": "training" }
+ ],
+ "initiativeOf": "An initiative of",
+ "footerTagline": "Open tools for church-led Bible translation.",
+ "footerInitiative": "translationCore is an initiative of <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a>.",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "License and Trademark",
+  "privacy": "Privacy Policy",
+  "about": "About unfoldingWord"
+ },
+ "give": "Support Church Centric Bible translation",
+ "strings": {
+  "menu": "Menu",
+  "languageLabel": "Language",
+  "skipToContent": "Skip to content",
+  "ogImageAlt": "translationCore: open tools for church-led Bible translation"
+ }
+}

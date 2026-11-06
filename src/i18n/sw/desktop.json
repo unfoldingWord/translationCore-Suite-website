@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | Mahali pa kazi ya tafsiri ya Biblia",
+  "description": "Programu ya bure na chanzo huria ya kuandika rasimu, kukagua, kuoanisha na kushiriki tafsiri za Biblia, ikiwa na rasilimali za unfoldingWord. Haihitaji intaneti."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Nyumbani</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "Mahali pamoja kwa kazi yote ya tafsiri ya Biblia",
+  "p2": "Andika rasimu, kagua, oanisha na shiriki tafsiri katika programu moja. Inafanya kazi bila intaneti.",
+  "a": "Pakua",
+  "a2": "Tazama kwenye GitHub",
+  "span": "Mpya: translationCore v4 Beta &middot; Windows, Mac, Linux"
+ },
+ "screenshot": {
+  "alt": "translationCore Desktop katika hali ya Tafsiri",
+  "p": "Hali ya Tafsiri, maelezo na maandishi chanzo yakiwa kando yako."
+ },
+ "modes": {
+  "h2": "Elewa. Tafsiri. Kagua.",
+  "p": "translationNotes, translationWords, translationQuestions, translationAcademy, ULT na UST hufanya kazi pamoja mahali pamoja, ili uweze kuelewa Maandiko na kuyatafsiri kwa usahihi na uwazi.",
+  "label": "Elewa, Tafsiri, Kagua",
+  "button": "Elewa",
+  "button2": "Tafsiri",
+  "button3": "Kagua",
+  "alt": "translationCore Desktop katika hali ya Elewa",
+  "figcaption": "<strong style=\"color:#014263\">Elewa.</strong> Soma kifungu na maelezo yake kabla ya kuanza.",
+  "alt2": "translationCore Desktop katika hali ya Tafsiri",
+  "figcaption2": "<strong style=\"color:#014263\">Tafsiri.</strong> Andika rasimu kando ya maandishi chanzo, sehemu moja baada ya nyingine.",
+  "alt3": "translationCore Desktop katika hali ya Kagua",
+  "figcaption3": "<strong style=\"color:#014263\">Kagua.</strong> Linganisha kila kipengele na lugha asilia, kisha kiwekee alama kuwa sahihi."
+ },
+ "checking": {
+  "h2": "Kila kitu ambacho timu yako inahitaji, mahali pamoja",
+  "h3": "Andika rasimu ya sehemu",
+  "p": "Andika sehemu, kisha weka namba za mistari.",
+  "h32": "Lugha asilia kando yako",
+  "p2": "Ona Kigiriki au Kiebrania kando ya ULT na UST.",
+  "h33": "Misaada na mapendekezo",
+  "p3": "Maelezo, maneno, maoni na mapendekezo ya kuoanisha.",
+  "h34": "Kagua na oanisha",
+  "p4": "Kagua istilahi muhimu, kisha oanisha na lugha asilia.",
+  "h35": "Open Bible Stories",
+  "p5": "Tafsiri na kagua hadithi. Hamisha kama Markdown au PDF.",
+  "h36": "Hamisha na shiriki",
+  "p6": "Hamisha USFM iliyooanishwa, Scripture Burrito au PDF, au shiriki kwenye Door43."
+ },
+ "how": {
+  "h2": "Jinsi inavyofanya kazi",
+  "span": "<strong style=\"color:#014263\">Anzisha</strong> mradi, au leta mradi uliopo.",
+  "span2": "<strong style=\"color:#014263\">Andika rasimu</strong> sehemu moja baada ya nyingine.",
+  "span3": "<strong style=\"color:#014263\">Kagua</strong> ukiwa na misaada kando yako.",
+  "span4": "<strong style=\"color:#014263\">Oanisha</strong> na lugha asilia.",
+  "span5": "<strong style=\"color:#014263\">Hamisha</strong> au shiriki kwenye Door43.",
+  "alt": "Badilisha kati ya ULT, UST na maandishi chanzo ya Kigiriki",
+  "figcaption": "Badilisha kati ya ULT, UST na maandishi chanzo ya Kigiriki",
+  "alt2": "Andika rasimu ya sehemu nzima, kisha weka namba za mistari",
+  "figcaption2": "Andika rasimu ya sehemu nzima, kisha weka namba za mistari",
+  "alt3": "Maelezo yanaunganisha na Chuo cha Tafsiri",
+  "figcaption3": "Maelezo yanaunganisha na Chuo cha Tafsiri"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Una swali kuhusu tafsiri? <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">Muulize BT Servant.</a>",
+  "p": "Pata mwongozo unaotegemea rasilimali za kuaminika, katika lugha yako."
+ },
+ "downloads": {
+  "h2": "Pakua translationCore v4 Beta",
+  "p": "Chagua kompyuta yako.",
+  "h3": "Windows",
+  "p2": "Kisakinishi (.exe), biti 64",
+  "p3": "Imesainiwa na unfoldingWord. Windows ikionyesha &ldquo;Windows protected your PC&rdquo;, chagua More info, hakikisha kwamba mchapishaji ni unfoldingWord, kisha uchague Run anyway.",
+  "a": "Pakua kwa Windows",
+  "h32": "Mac",
+  "p4": "Kisakinishi (.pkg), Apple silicon",
+  "p5": "Mac zenye Intel bado hazitumiki. Toleo hili bado halijasainiwa, kwa hiyo macOS inaweza kulizuia. Fungua System Settings &gt; Privacy &amp; Security na uchague Open Anyway, au bofya kisakinishi huku ukibonyeza Control kisha uchague Open. Utaombwa nenosiri la msimamizi.",
+  "a2": "Pakua kwa Mac",
+  "h33": "Linux",
+  "p6": "Zip (.zip), biti 64",
+  "p7": "Fungua faili ya zip kisha endesha <code>start-tc4.sh</code>.",
+  "a3": "Pakua kwa Linux",
+  "p8": "<strong>Mpya: translationCore v4 Beta.</strong> Jaribu kwa nakala za miradi yako na uhifadhi nakala rudufu.",
+  "p9": "Unahitaji msaada? Tazama <a href=\"/tc-help/\">tovuti ya msaada</a> au <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">maelezo ya toleo</a>."
+ },
+ "previous": {
+  "h2": "Unahitaji translationCore ya awali?",
+  "p": "Toleo lililopita litaendelea kupatikana hadi v4 Beta itakapokuwa thabiti.",
+  "a": "Nenda kwenye toleo lililopita"
+ },
+ "open": {
+  "h2": "Chanzo huria. Bure kutumia.",
+  "p": "Ina leseni ya CC BY-SA 4.0.",
+  "a": "Jiunge na Discord yetu",
+  "a2": "GitHub"
+ }
+}

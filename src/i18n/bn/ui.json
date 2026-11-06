@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "ডেস্কটপ",
+   "slug": "desktop"
+  },
+  {
+   "label": "মোবাইল",
+   "slug": "mobile"
+  },
+  {
+   "label": "বাইবেল-ভিত্তিক সহায়িকা",
+   "slug": "resources"
+  },
+  {
+   "label": "প্রশিক্ষণ ও সহায়তা",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "একটি উদ্যোগ:",
+ "footerTagline": "মণ্ডলী-পরিচালিত বাইবেল অনুবাদের জন্য উন্মুক্ত টুল।",
+ "footerInitiative": "translationCore হলো <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a>-এর একটি উদ্যোগ।",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "লাইসেন্স ও ট্রেডমার্ক",
+  "privacy": "গোপনীয়তা নীতি",
+  "about": "unfoldingWord সম্পর্কে"
+ },
+ "give": "মণ্ডলী-কেন্দ্রিক বাইবেল অনুবাদে সহায়তা করুন",
+ "strings": {
+  "menu": "মেনু",
+  "languageLabel": "ভাষা",
+  "skipToContent": "মূল বিষয়বস্তুতে যান",
+  "ogImageAlt": "translationCore: মণ্ডলী-পরিচালিত বাইবেল অনুবাদের জন্য উন্মুক্ত টুল"
+ }
+}

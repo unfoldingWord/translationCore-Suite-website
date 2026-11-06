@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "title": "translationCore Mobile | Rekodi Maandiko katika lugha yako",
+  "description": "Rekodi Maandiko katika lugha yako mwenyewe kwenye Android, iPhone au wavuti. Bure, chanzo huria, na inafanya kazi bila intaneti."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Nyumbani</a> &nbsp;/&nbsp; translationCore Mobile",
+  "alt": "Nembo ya translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h1": "Rekodi Maandiko katika lugha yako mwenyewe",
+  "p3": "Kifungu kimoja baada ya kingine, kwenye simu uliyo nayo tayari. Inafanya kazi bila intaneti.",
+  "a": "Pata programu",
+  "span": "Bure &middot; Chanzo huria",
+  "alt2": "Kurekodi kipande"
+ },
+ "what": {
+  "h2": "Programu rahisi kwa tafsiri ya mdomo",
+  "p": "Rekodi kwa kitabu, sura na kipande. Sikiliza tena, rekebisha na shiriki, yote kwenye simu yako."
+ },
+ "why": {
+  "h3": "Inafanya kazi bila intaneti",
+  "p": "Ikishasakinishwa, huhitaji intaneti.",
+  "h32": "Hubaki kwenye simu yako",
+  "p2": "Hakuna akaunti, hakuna matangazo, na hakuna ufuatiliaji.",
+  "h33": "Vidhibiti rahisi",
+  "p3": "Vitufe vikubwa vyenye picha, vimeundwa kwa timu zinazofanya kazi kwa kusikiliza.",
+  "h34": "Bure na chanzo huria",
+  "p4": "Kutoka unfoldingWord, imeundwa pamoja na wawezeshaji na wajaribu."
+ },
+ "how": {
+  "h2": "Jinsi ya kuitumia",
+  "alt": "Vitabu na sura",
+  "figcaption": "Vitabu na sura",
+  "alt2": "Vipande, kimoja baada ya kingine",
+  "figcaption2": "Vipande, kimoja baada ya kingine",
+  "alt3": "Rekodi",
+  "figcaption3": "Rekodi",
+  "alt4": "Kata na urekebishe papo hapo",
+  "figcaption4": "Kata na urekebishe papo hapo",
+  "span": "<strong style=\"color:#014263\">Rekodi</strong> kipande, kisha ukisikilize tena.",
+  "span2": "<strong style=\"color:#014263\">Kirekebishe</strong> kwa kukata sehemu ya mawimbi ya sauti, au ukirekodi upya.",
+  "span3": "<strong style=\"color:#014263\">Weka alama Imekamilika</strong> kipande kikiwa tayari.",
+  "span4": "<strong style=\"color:#014263\">Shiriki</strong> sura kama MP3, au kitabu kama zip."
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Jadili kifungu kabla ya kurekodi.",
+  "p": "Uliza kwa sauti au kwa maandishi, sikiliza mwongozo, kisha urudi kwenye translationCore Mobile kurekodi.",
+  "a": "Jaribu BT Servant &rarr;"
+ },
+ "install": {
+  "h2": "Pata translationCore Mobile",
+  "h3": "Android",
+  "p": "Tafuta &ldquo;translationCore Mobile&rdquo; kwenye Google Play.",
+  "p2": "Android 7.0 au toleo jipya zaidi, na WebView iliyosasishwa.",
+  "a": "Ipate kwenye Google Play",
+  "h32": "iPhone",
+  "p3": "Tafuta &ldquo;translationCore Mobile&rdquo; kwenye App Store.",
+  "p4": "iOS 15.4 au toleo jipya zaidi.",
+  "a2": "Ipakue kwenye App Store",
+  "h33": "Wavuti",
+  "p5": "Ifungue kwenye kivinjari chako. Hakuna cha kusakinisha.",
+  "p6": "tcmobile.app",
+  "a3": "Fungua tcmobile.app",
+  "p7": "Una maswali? <a href=\"https://unfoldingword.org/contact\">Wasiliana na unfoldingWord</a> &middot; <a href=\"https://github.com/unfoldingWord/tc-mobile\">Msimbo chanzo kwenye GitHub</a>"
+ }
+}
