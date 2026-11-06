@@ -1,0 +1,87 @@
+# translationCore — crawl policy
+#
+# Everything on this site is public: the software is MIT-licensed and the
+# content CC BY-SA 4.0, and the point of the site is to be found. Every
+# crawler is allowed: search engines, live-retrieval agents (the fetchers
+# behind ChatGPT search, Perplexity, Claude search, Copilot, Gemini
+# grounding) AND bulk training crawlers. Each is named in its own group so a
+# broader per-agent rule elsewhere cannot override it.
+#
+# TRAINING POLICY: allow all, including training, the same decision as
+# openbiblestories.org (unfoldingWord/obs-website#15). Cloudflare's managed
+# robots.txt for this zone must therefore NOT prepend ai-train=no or
+# Disallow: / for GPTBot, Google-Extended, ClaudeBot, CCBot and the rest; that
+# setting lives in the Cloudflare dashboard, not in this file. See README ->
+# Crawlers and AI policy.
+
+User-agent: *
+Allow: /
+
+# Search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Live retrieval / answer engines (not training)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+# Training crawlers (allowed on purpose — see the policy note above)
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# /llms.txt is a markdown index of the pages and the Desktop help, for
+# fetchers that prefer markdown; the sitemap below is the inventory search
+# engines should use.
+
+Sitemap: https://translationcore.com/sitemap-index.xml

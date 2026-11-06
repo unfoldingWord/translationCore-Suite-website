@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "title": "Training and Support | translationCore",
+  "description": "Training, guidance, and Bible stories for translators: Foundations BT, Church-Based Training, BT Servant, and Open Bible Stories."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Home</a> &nbsp;/&nbsp; Training &amp; Support",
+  "h1": "Support for every translator",
+  "p2": "Training, guidance, and Bible stories from initiatives that share one goal: the Bible in every language.",
+  "a": "Explore below"
+ },
+ "initiatives": {
+  "h2": "Training and guidance",
+  "p": "Each one helps translators and churches. Use any of them with translationCore.",
+  "h3": "Foundations BT",
+  "p2": "A guided start for church-led Bible translation.",
+  "a": "Visit Foundations BT",
+  "h32": "Church-Based Training",
+  "p3": "Equip churches to take part in translation.",
+  "a2": "Visit Church-Based Training",
+  "h33": "BT Servant",
+  "p4": "An AI coach grounded in trusted resources. Ask a question about a passage.",
+  "a3": "Try BT Servant",
+  "h34": "Open Bible Stories",
+  "p5": "50 simple, illustrated Bible stories.",
+  "a4": "Visit Open Bible Stories"
+ },
+ "help": {
+  "h2": "Need help?",
+  "h3": "Discord",
+  "p": "Ask questions and talk with the community.",
+  "a": "Join our Discord",
+  "h32": "Contact unfoldingWord",
+  "p2": "Questions for the unfoldingWord team? Get in touch.",
+  "a2": "Contact us"
+ },
+ "academy": {
+  "h2": "Translation Academy",
+  "p": "A manual of translation theory and practice, free to read online.",
+  "a": "See Translation Academy"
+ }
+}

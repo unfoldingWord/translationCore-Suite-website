@@ -1,0 +1,16 @@
+---
+// Google Analytics 4 for translationcore.com.
+//
+// Production builds only (PUBLIC_GA_DEBUG=1 loads it in dev to test the tag
+// itself). /assets/js/analytics.js then also checks the hostname, so pages.dev
+// previews — which are production builds too — send nothing; see the HOSTS
+// list in that file. It records page views (IP anonymization on) and three
+// click events: download_click, store_click and partner_click.
+//
+// The measurement ID is a public identifier (it ships in the page source);
+// PUBLIC_GA_MEASUREMENT_ID overrides it if the property ever changes.
+const measurementId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID ?? 'G-LT1CE2F1PZ';
+const enabled = Boolean(measurementId) && (import.meta.env.PROD || import.meta.env.PUBLIC_GA_DEBUG === '1');
+---
+
+{enabled && <script is:inline src="/assets/js/analytics.js" data-ga-id={measurementId} defer></script>}

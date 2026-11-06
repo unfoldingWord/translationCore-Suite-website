@@ -1,0 +1,23 @@
+---
+// PreviousVersionPage: the /previous-version/ page, rendered once per locale.
+// Markup migrated verbatim from the hand-written previous-version.html of the static
+// site; every visible string comes from src/i18n/{locale}/previous-version.json.
+import Base from '../../layouts/Base.astro';
+import { content } from '../../i18n/content';
+import { localePath, localizeLinks, type PageSlug } from '../../i18n/config';
+import { pageJsonLd } from '../../lib/jsonld';
+
+interface Props {
+  locale: string;
+}
+const { locale } = Astro.props;
+const t = content<any>(locale, 'previous-version');
+const h = (s: string) => localizeLinks(s, locale);
+const p = (slug: PageSlug, hash = '') => localePath(locale, slug) + hash;
+---
+
+<Base locale={locale} slug="previous-version" title={t.meta.title} description={t.meta.description} jsonLd={pageJsonLd('previous-version', locale)} github="https://github.com/unfoldingWord/translationCore4">
+<section style="background:linear-gradient(135deg,#01263a 0%,#014263 55%,#0a6f9c 100%);color:#fff"><div class="wrap" style="padding-top:36px;padding-bottom:88px;gap:20px"><p style="font-size:14px;color:#CDEBF1" set:html={h(t['hero']['p'])}></p><h1 style="font-size:56px;color:#fff;max-width:860px;margin-top:14px" set:html={h(t['hero']['h1'])}></h1><p style="font-size:21px;color:#EEF1F6;max-width:640px" set:html={h(t['hero']['p2'])}></p><div style="display:flex;flex-wrap:wrap;gap:14px;align-items:center"><a class="btn" href={p('desktop', '#downloads')} style="background:#fff;color:#231F20" set:html={h(t['hero']['a'])}></a></div></div></section>
+<section id="downloads" style="background:#fff"><div class="wrap" style="padding-top:64px;padding-bottom:64px;gap:30px"><div style="max-width:700px;display:flex;flex-direction:column;gap:10px"><h2 style="font-size:38px;color:#014263" set:html={h(t['downloads']['h2'])}></h2><p style="font-size:18px" set:html={h(t['downloads']['p'])}></p></div><div style="display:flex;flex-wrap:wrap;gap:20px"><div class="card" style="flex:1 1 360px;border:2px solid #014263;gap:12px"><h3 style="font-size:26px;color:#014263" set:html={h(t['downloads']['h3'])}></h3><p style="font-size:16px;color:#3A3638" set:html={h(t['downloads']['p2'])}></p><p style="font-size:17px" set:html={h(t['downloads']['p3'])}></p><p style="font-size:17px" set:html={h(t['downloads']['p4'])}></p><p style="font-size:17px" set:html={h(t['downloads']['p5'])}></p></div><div class="card" style="flex:1 1 360px;border:2px solid #014263;gap:12px"><h3 style="font-size:26px;color:#014263" set:html={h(t['downloads']['h32'])}></h3><p style="font-size:16px;color:#3A3638" set:html={h(t['downloads']['p6'])}></p><p style="font-size:17px" set:html={h(t['downloads']['p7'])}></p><p style="font-size:17px" set:html={h(t['downloads']['p8'])}></p><p style="font-size:17px" set:html={h(t['downloads']['p9'])}></p></div></div><p style="font-size:16px" set:html={h(t['downloads']['p10'])}></p></div></section>
+<section id="open" style="background:#EEF1F6"><div class="wrap" style="padding-top:48px;padding-bottom:48px;gap:30px"><div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:24px"><div style="flex:1 1 480px"><h2 style="font-size:32px;color:#014263" set:html={h(t['open']['h2'])}></h2><p style="font-size:18px;margin-top:8px" set:html={h(t['open']['p'])}></p></div><a class="btn btn-primary" href={p('desktop', '#downloads')} set:html={h(t['open']['a'])}></a></div></div></section>
+</Base>

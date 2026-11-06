@@ -1,0 +1,42 @@
+# Public HTML (and everything not matched by a more specific rule below).
+#
+# A static Astro site: a page only changes when a new build is deployed, and
+# Cloudflare Pages purges its edge cache on every deploy. So the edge may hold
+# pages for a day (s-maxage) while browsers keep a copy for five minutes and
+# then revalidate. (Same policy as openbiblestories.org.)
+/*
+  Cache-Control: public, max-age=300, s-maxage=86400, stale-while-revalidate=86400
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# Pages concatenates same-named headers from every matching rule, so each
+# more-specific rule first detaches the /* Cache-Control and then sets its own.
+
+# Images and fonts are static under their filenames: long, immutable caching.
+/assets/img/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/fonts/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+
+# JS and CSS are edited in place under the SAME filenames (no content
+# hashing), so browsers must revalidate rather than trust an old copy.
+# "no-cache" means "check before using", not "don't cache".
+/assets/js/*
+  ! Cache-Control
+  Cache-Control: public, no-cache, s-maxage=86400
+
+/assets/css/*
+  ! Cache-Control
+  Cache-Control: public, no-cache, s-maxage=86400
+
+# The Desktop help site's own images, scripts and stylesheet.
+/tc-help/img/*
+  ! Cache-Control
+  Cache-Control: public, max-age=86400
+
+/tc-help/assets/*
+  ! Cache-Control
+  Cache-Control: public, no-cache, s-maxage=86400

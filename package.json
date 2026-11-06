@@ -1,0 +1,30 @@
+{
+  "name": "translationcore-website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/build-font-css.mjs",
+    "dev": "astro dev",
+    "prebuild": "node scripts/build-font-css.mjs",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check:locales": "node scripts/check-locales.mjs",
+    "check:routes": "node scripts/check-routes.mjs",
+    "review": "node scripts/review-strings.mjs",
+    "test": "node --test scripts/*.test.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "@fontsource/noto-nastaliq-urdu": "^5.3.0",
+    "@fontsource/noto-sans-arabic": "^5.3.0",
+    "@fontsource/noto-sans-bengali": "^5.3.0",
+    "@fontsource/noto-sans-devanagari": "^5.3.0",
+    "@fontsource/noto-sans-myanmar": "^5.3.0",
+    "@fontsource/noto-sans-sc": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.20"
+  }
+}

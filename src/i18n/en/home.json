@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "title": "translationCore: Open tools for church-led Bible translation",
+  "description": "Open tools for churches and translation teams to understand, translate, and check Scripture. translationCore Desktop and Mobile are free and open source."
+ },
+ "hero": {
+  "h1": "Translate Scripture in your language",
+  "p": "Tools for churches and translation teams to understand, translate, and check Scripture.",
+  "a": "Explore Desktop",
+  "a2": "Explore Mobile",
+  "alt": "translationCore Desktop: source text, a draft, and translation notes side by side",
+  "alt2": "Recording a segment in translationCore Mobile"
+ },
+ "cycle": {
+  "h3": "Understand",
+  "p": "Explore what Scripture means.",
+  "h32": "Translate",
+  "p2": "Express it naturally, in writing or speech.",
+  "h33": "Check",
+  "p3": "Review for accuracy and clarity."
+ },
+ "desktop": {
+  "p": "translationCore Desktop",
+  "h2": "From understanding to sharing Scripture",
+  "p2": "One workspace that brings unfoldingWord&rsquo;s translation resources together, so translators can understand Scripture and translate it accurately and clearly. Works offline.",
+  "span": "<strong>Understand</strong> the passage",
+  "span2": "<strong>Draft and revise</strong> together",
+  "span3": "<strong>Check</strong> and align",
+  "span4": "<strong>Export</strong> and share",
+  "a": "Download Desktop",
+  "a2": "Learn more",
+  "p3": "<strong>New:</strong> we recently rolled out translationCore v4 Beta. <a href=\"/previous-version/\">Previous version</a>",
+  "alt": "Drafting a section with notes alongside",
+  "p4": "Drafting a section with notes alongside."
+ },
+ "mobile": {
+  "alt": "Recording one segment of a chapter",
+  "p": "Recording one segment of a chapter.",
+  "alt2": "translationCore Mobile logo",
+  "p2": "translationCore Mobile",
+  "h2": "Speak. Record. Listen. Translate.",
+  "p3": "Record on a phone, listen back, and improve. Works offline.",
+  "a": "Download Mobile",
+  "a2": "Explore Mobile"
+ },
+ "impact": {
+  "h2": "Churches and teams, in their own languages",
+  "p": "translationCore Desktop",
+  "h3": "A translation your community can trust",
+  "p2": "Draft, check, and align in one workspace, even offline.",
+  "blockquote": "“translationCore is the fastest software we have ever seen.”",
+  "figcaption": "Ibrahim, translation trainer",
+  "alt": "A translator working on a laptop while teammates work alongside",
+  "figcaption2": "Translating together, side by side.",
+  "p3": "translationCore Mobile",
+  "h32": "Oral translation, with just a phone",
+  "p4": "Leaders at a Nairobi workshop recorded Bible stories in their own languages, using only phones.",
+  "blockquote2": "“With this app, we can take the training and the technology to the people we are trying to reach.”",
+  "figcaption3": "Local Bible translator",
+  "alt2": "A translator listens back to a recording on translationCore Mobile",
+  "figcaption4": "Listening back to a recording.",
+  "span": "Support Church Centric Bible translation"
+ },
+ "support": {
+  "h2": "Biblical Resources",
+  "p": "Open-licensed and free to use, share, and adapt.",
+  "a": "Translation Notes",
+  "span": "Context for every verse",
+  "a2": "Translation Words",
+  "span2": "Key terms, names, and places",
+  "a3": "Translation Academy",
+  "span3": "Training for translators",
+  "a4": "Source Texts",
+  "span4": "Literal and simplified Bibles",
+  "a5": "Translation Questions",
+  "span5": "Test whether it is clear",
+  "a6": "Browse all resources",
+  "h22": "Training &amp; Support",
+  "p2": "Initiatives that support every translator.",
+  "a7": "Foundations BT",
+  "span6": "A guided start for church-led translation",
+  "a8": "Church-Based Training",
+  "span7": "Equip churches for translation",
+  "a9": "BT Servant",
+  "span8": "An AI coach grounded in trusted resources",
+  "a10": "Open Bible Stories",
+  "span9": "50 simple, illustrated Bible stories",
+  "a11": "Explore training &amp; support"
+ },
+ "open": {
+  "h2": "Open tools for Church Centric translation work",
+  "p": "Open-licensed, free, and built to work offline."
+ },
+ "start": {
+  "h2": "Get started",
+  "h3": "Desktop",
+  "p": "Windows, Mac, and Linux. New: translationCore v4 Beta.",
+  "a": "Download Desktop",
+  "a2": "Instructions",
+  "a3": "Looking for the previous version?",
+  "h32": "Mobile",
+  "p2": "Free on Android, iPhone, and the web.",
+  "a4": "Download Mobile",
+  "a5": "Explore Mobile",
+  "p3": "Need help? <a href=\"/tc-help/\">Getting Started</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Release Notes</a>"
+ }
+}
