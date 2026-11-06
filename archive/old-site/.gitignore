@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Claude Code
+.claude/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Netlify
+.netlify/

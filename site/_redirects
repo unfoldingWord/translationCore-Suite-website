@@ -1,0 +1,7 @@
+# Old translationCore site addresses (so existing links keep working)
+/translationcore /desktop 301
+/translationcore/ /desktop 301
+/tc4 /desktop 301
+/tc4/ /desktop 301
+/translation-helps /resources 301
+/translation-helps/ /resources 301

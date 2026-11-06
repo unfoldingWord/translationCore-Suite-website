@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://translationcore.com/sitemap.xml

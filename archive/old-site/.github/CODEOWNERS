@@ -1,0 +1,4 @@
+# The help pages ship inside translationCore 4 and run in the app (unfoldingWord/translationCore4#519).
+# Every change to them needs the review of a code owner.
+/tc-help/ @birchamp
+/.github/CODEOWNERS @birchamp
