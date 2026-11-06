@@ -1,0 +1,775 @@
+# translationCore
+
+> translationCore is a set of free, open-source tools from unfoldingWord that help churches and translation teams understand, translate, and check Scripture in their own languages. translationCore Desktop (Windows, Mac, and Linux) is a workspace to draft, check, align, and share a translation. translationCore Mobile (Android, iPhone, and the web) is for oral translation: record, listen back, and improve. Both work offline.
+
+
+---
+
+Source: https://translationcore.com/
+Page title: translationCore | Open tools for church-led Bible translation
+
+An initiative of
+
+## Translate Scripture in your language
+
+Tools for churches and translation teams to understand, translate, and check Scripture.
+
+Explore Desktop Explore Mobile
+
+#### Understand
+
+Explore what Scripture means.
+
+#### Translate
+
+Express it naturally, in writing or speech.
+
+#### Check
+
+Review for accuracy and clarity.
+
+translationCore Desktop
+
+### From understanding to sharing Scripture
+
+One workspace that brings unfoldingWord’s translation resources together, so translators can understand Scripture and translate it accurately and clearly. Works offline.
+
+Understand the passage
+
+Draft and revise together
+
+Check and align
+
+Export and share
+
+Download Desktop Learn more
+
+New: we recently rolled out translationCore v4 Beta. Previous version
+
+Drafting a section with notes alongside.
+
+Recording one segment of a chapter.
+
+translationCore Mobile
+
+### Speak. Record. Listen. Translate.
+
+Record on a phone, listen back, and improve. Works offline.
+
+Download Mobile Explore Mobile
+
+### Churches and teams, in their own languages
+
+translationCore Desktop
+
+#### A translation your community can trust
+
+Draft, check, and align in one workspace, even offline.
+
+“translationCore is the fastest software we have ever seen.”
+
+Ibrahim, translation trainer
+
+Translating together, side by side.
+
+translationCore Mobile
+
+#### Oral translation, with just a phone
+
+Leaders at a Nairobi workshop recorded Bible stories in their own languages, using only phones.
+
+“With this app, we can take the training and the technology to the people we are trying to reach.”
+
+Local Bible translator
+
+Listening back to a recording. Support Church Centric Bible translation
+
+### Biblical Resources
+
+Open-licensed and free to use, share, and adapt.
+
+Translation Notes Context for every verse
+
+Translation Words Key terms, names, and places
+
+Translation Academy Training for translators
+
+Source Texts Literal and simplified Bibles
+
+Translation Questions Test whether it is clear Browse all resources
+
+### Training & Support
+
+Initiatives that support every translator.
+
+Foundations BT A guided start for church-led translation
+
+Church-Based Training Equip churches for translation
+
+BT Servant An AI coach grounded in trusted resources
+
+Open Bible Stories 50 simple, illustrated Bible stories Explore training & support
+
+### Open tools for Church Centric translation work
+
+Open-licensed, free, and built to work offline.
+
+### Get started
+
+#### Desktop
+
+Windows, Mac, and Linux. New: translationCore v4 Beta. Download Desktop Instructions
+
+Looking for the previous version?
+
+#### Mobile
+
+Free on Android, iPhone, and the web. Download Mobile Explore Mobile
+
+Need help? Getting Started · Release Notes
+
+### Frequently asked questions
+
+#### Is translationCore free?
+
+Yes. translationCore Desktop and Mobile are free and open source, and the Biblical Resources are open-licensed and free to use, share, and adapt.
+
+#### Does translationCore work offline?
+
+Yes. Both translationCore Desktop and translationCore Mobile work offline.
+
+#### Which devices does translationCore run on?
+
+translationCore Desktop runs on Windows, Mac, and Linux. translationCore Mobile runs on Android, iPhone, and the web.
+
+#### Who makes translationCore?
+
+translationCore is an initiative of unfoldingWord.
+
+
+---
+
+Source: https://translationcore.com/desktop
+Page title: translationCore Desktop | Bible translation workspace
+
+An initiative of
+
+Home / translationCore Desktop
+
+## An end-to-end workspace for Bible translation
+
+Draft, check, align, and share a translation in one app. Works offline. Download View on GitHub New: translationCore v4 Beta · Windows, Mac, Linux
+
+Translate mode, with notes and source text beside you.
+
+### Understand. Translate. Check.
+
+translationNotes, translationWords, translationQuestions, translationAcademy, ULT, and UST work together in one workspace, so you can understand Scripture and translate it accurately and clearly. Understand Translate Check
+
+Understand. Read the passage and its notes before you start.
+
+Translate. Draft beside the source text, a section at a time.
+
+Check. Review each item against the original, then mark it valid.
+
+### Everything your team needs, in one place
+
+#### Draft a section
+
+Write a section, then place verse numbers.
+
+#### Original language beside you
+
+See Greek or Hebrew next to the ULT and UST.
+
+#### Helps and suggestions
+
+Notes, words, comments, and alignment suggestions.
+
+#### Check and align
+
+Check key terms, then align to the original.
+
+#### Open Bible Stories
+
+Translate and check stories. Export Markdown or PDF.
+
+#### Export and share
+
+Export aligned USFM, a Scripture Burrito, or PDF, or share to Door43.
+
+### How it works
+
+1 Start a project, or import one.
+
+2 Draft a section at a time.
+
+3 Check with helps beside you.
+
+4 Align to the original language.
+
+5 Export or share to Door43.
+
+Switch between ULT, UST, and the Greek source
+
+Draft a whole section, then place verse numbers
+
+Notes link to Translation Academy
+
+### Have a translation question? Ask BT Servant.
+
+Get guidance grounded in trusted resources, in your language.
+
+### Download translationCore v4 Beta
+
+Choose your computer.
+
+#### Windows
+
+Installer (.exe), 64-bit
+
+Signed by unfoldingWord. If Windows shows “Windows protected your PC”, choose More info, check that the publisher is unfoldingWord, then choose Run anyway. Download for Windows
+
+#### Mac
+
+Installer (.pkg), Apple silicon
+
+Intel Macs are not supported yet. This build is not signed yet, so macOS may block it. Open System Settings > Privacy & Security and choose Open Anyway, or Control-click the installer and choose Open. It asks for an administrator password. Download for Mac
+
+#### Linux
+
+Zip (.zip), 64-bit
+
+Unpack the zip and run start-tc4.sh . Download for Linux
+
+New: translationCore v4 Beta. Test with copies of your projects and keep backups.
+
+Need help? See the help site or the release notes .
+
+### Need the earlier translationCore?
+
+The previous version stays available until v4 Beta is stable. Go to the previous version
+
+### Open source. Free to use.
+
+Licensed CC BY-SA 4.0. Join our Discord GitHub
+
+
+---
+
+Source: https://translationcore.com/mobile
+Page title: translationCore Mobile | Record Scripture in your language
+
+An initiative of
+
+Home / translationCore Mobile
+
+translationCore Mobile
+
+## Record Scripture in your own language
+
+One passage at a time, on the phone you already have. Works offline.
+
+Get the app Free · Open source
+
+### A simple app for oral translation
+
+Record by book, chapter, and segment. Listen back, fix, and share, all on your phone.
+
+#### Works offline
+
+Once installed, no internet needed.
+
+#### Stays on your phone
+
+No accounts, no ads, and no tracking.
+
+#### Simple controls
+
+Large icon buttons, built for teams who work by ear.
+
+#### Free and open source
+
+From unfoldingWord, shaped by facilitators and testers.
+
+### How to use it
+
+Books and chapters
+
+Segments, one by one
+
+Record
+
+Cut and fix in place
+
+1 Record a segment, then listen back.
+
+2 Fix it by cutting part of the waveform, or record it again.
+
+3 Mark Done when the segment is ready.
+
+4 Share a chapter as an MP3, or a book as a zip.
+
+### Talk through a passage before you record.
+
+Ask by voice or text, listen to the guidance, then return to translationCore Mobile to record. Try BT Servant →
+
+### Get translationCore Mobile
+
+#### Android
+
+Search “translationCore Mobile” on Google Play.
+
+Android 7.0 or later, with WebView up to date. Get it on Google Play
+
+#### iPhone
+
+Search “translationCore Mobile” on the App Store.
+
+iOS 15.4 or later. Get it on the App Store
+
+#### Web
+
+Open it in your browser. Nothing to install.
+
+tcmobile.app Open tcmobile.app
+
+Questions? Contact unfoldingWord · Source on GitHub
+
+
+---
+
+Source: https://translationcore.com/resources
+Page title: Biblical Resources | translationCore
+
+An initiative of
+
+Home / Biblical Resources
+
+## Resources that light up every verse
+
+Open-licensed notes, key terms, training, and source texts. Download resources Browse Resources
+
+### Translation Notes
+
+Context for every verse.
+
+Figures of speech
+
+Cultural and historical background
+
+Alternate translations Download by book Read online
+
+### Translation Words
+
+A lexicon written for translators.
+
+Key terms
+
+Names and places
+
+Translation suggestions Download PDF Read online WORDS
+
+#### Inside each entry
+
+Definition What the term means in Scripture. Translation suggestions Ways to say it in your language. Bible references Where the term appears.
+
+### Translation Academy
+
+A manual of translation theory and practice.
+
+Process Manual
+
+Translation Manual
+
+Checking Manual Download PDF Read online ACADEMY
+
+#### Inside the manual
+
+Process Manual Answers the question, “What next?” Translation Manual Translation theory basics and practical Bible translation help. Checking Manual Checking theory basics and best practices.
+
+### Source Texts
+
+Two English Bibles, used side by side.
+
+#### Literal Text (ULT)
+
+Follows the form of the original languages. Download ULT
+
+#### Simplified Text (UST)
+
+States the meaning plainly. Download UST
+
+### Translation Questions
+
+Test whether your translation is clear.
+
+1 Read the passage aloud.
+
+2 Ask the chapter questions.
+
+3 Listen for correct answers. Download all books Read online
+
+### Explore these resources through conversation.
+
+Ask about a passage or a translation choice. BT Servant answers from unfoldingWord resources, in your language. Try BT Servant →
+
+
+---
+
+Source: https://translationcore.com/training
+Page title: Training and Support | translationCore
+
+An initiative of
+
+Home / Training & Support
+
+## Support for every translator
+
+Training, guidance, and Bible stories from initiatives that share one goal: the Bible in every language. Explore below
+
+### Training and guidance
+
+Each one helps translators and churches. Use any of them with translationCore.
+
+#### Foundations BT
+
+A guided start for church-led Bible translation. Visit Foundations BT
+
+#### Church-Based Training
+
+Equip churches to take part in translation. Visit Church-Based Training
+
+#### BT Servant
+
+An AI coach grounded in trusted resources. Ask a question about a passage. Try BT Servant
+
+#### Open Bible Stories
+
+50 simple, illustrated Bible stories. Visit Open Bible Stories
+
+### Need help?
+
+#### Discord
+
+Ask questions and talk with the community. Join our Discord
+
+#### Contact unfoldingWord
+
+Questions for the unfoldingWord team? Get in touch. Contact us
+
+### Translation Academy
+
+A manual of translation theory and practice, free to read online. See Translation Academy
+
+
+---
+
+Source: https://translationcore.com/previous-version
+Page title: Previous translationCore | Downloads
+
+An initiative of
+
+Home / Previous version
+
+## The earlier translationCore
+
+Still need the version you know? It stays here until v4 Beta is stable. Go to translationCore v4 Beta
+
+### Download
+
+translationCore® is available for Windows, macOS, and Linux in both Full and Minimal (Lite) install packages.
+
+#### Full Install
+
+Includes all resources for offline use.
+
+Windows: x64 | x86
+
+macOS: x64 | Universal
+
+Linux: x64 | ARM64
+
+#### Minimal Install
+
+Lighter download; fetches resources as needed.
+
+Windows: x64 | x86
+
+macOS: x64 | Universal
+
+Linux: x64 | ARM64
+
+See the Release Notes for installation instructions.
+
+### Looking for the newest version?
+
+translationCore v4 Beta is our latest release. Go to translationCore v4 Beta
+
+
+---
+
+Source: https://translationcore.com/license
+Page title: License and Trademark | translationCore
+
+An initiative of
+
+Home / License and Trademark
+
+## License and Trademark
+
+Open source, open content, and a trademark to protect the name. Back to Home
+
+#### Software
+
+The translationCore source code is open source, released under the MIT License . You are free to use, copy, modify, and distribute the code, as long as the copyright and license notice stay with it.
+
+#### Content
+
+Documentation, guides, and other non-code materials are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). You are free to share and adapt them, as long as you give credit to unfoldingWord, indicate any changes, and share your adaptations under the same license.
+
+#### Trademark
+
+translationCore is a trademark of unfoldingWord®. These licenses do not grant the right to use the translationCore name or logo, other than to refer to the project truthfully. For other uses, please contact us .
+
+
+---
+
+Source: https://translationcore.com/privacy
+Page title: Privacy Policy | translationCore
+
+An initiative of
+
+Home / Privacy Policy
+
+## Website Privacy Policy
+
+How unfoldingWord collects, uses, and protects information on this website. Back to Home
+
+Last revised: November 5, 2026
+
+### Introduction
+
+unfoldingWord ( "Company" or "We" ) respects your privacy and is committed to protecting it through our compliance with this policy.
+
+This policy describes the types of information we may collect from you or that you may provide when you visit the website translationcore.com (our " Website ") and our practices for collecting, using, maintaining, protecting, and disclosing that information. As used in this Privacy Policy, our Website includes the translationcore.com website, other unfoldingWord websites, as well as the Door43 Discussion Forums, which are linked to in various locations on unfoldingword.org.
+
+This policy applies to information we collect:
+
+On this Website, to include the Discussion Forums at forum.door43.org.
+
+In email, text, and other electronic messages between you and this Website.
+
+Through mobile and desktop applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website.
+
+It does not apply to information collected by:
+
+Us offline or through any other means, including on any other website operated by any third party; or
+
+Any third party, including through any application or content (including advertising) that may link to or be accessible from the Website.
+
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is to not use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy ). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+
+### Children Under the Age of 18
+
+OUR WEBSITE IS NOT INTENDED FOR CHILDREN UNDER 18 YEARS OF AGE. No one under age 18 should use this website, to include providing any personal information to or on the Website. We do not knowingly collect personal information from children under 18.
+
+If you are under 18, do not use or provide any information on this Website, to include any information about yourself such as your name, address, telephone number, email address, or any screen name or user name you may use. Please have your parent or guardian use the site on your behalf.
+
+If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at:
+
+13485 Veterans Way, Suite 460
+
+Attention: Privacy
+
+Orlando, FL 32827
+
+California residents under 16 years of age may have additional rights regarding the collection and sale of their personal information. Please see Your California Privacy Rights for more information.
+
+### Information We Collect About You and How We Collect It
+
+We collect several types of information from and about users of our Website, including information:
+
+By which you may be personally identified, such as name, postal address, e-mail address, telephone number, or other personally identifiable information you may provide to us (" personal information ");
+
+Information you provide through communications, such as posts on Discussion Forums and through contact forms on the Website; and
+
+About your internet connection, the equipment you use to access our Website, and usage details.
+
+We collect this information:
+
+Directly from you when you provide it to us.
+
+Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies or other legal tracking technologies.
+
+Information You Provide to Us
+
+The information we collect on or through our Website may include:
+
+Information that you provide by filling in forms on our Website.
+
+Information when you download an application from our Website.
+
+Information when you report a problem with our Website.
+
+Records and copies of your correspondence (including email addresses), if you contact us.
+
+Details of donations you carry out through our Website. You may be required to provide financial information before making a donation through our Website.
+
+Your search queries on the Website.
+
+Information you provide on Discussion Forums.
+
+You also may provide information to be published or displayed (hereinafter, " posted ") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, " User Contributions "). Your User Contributions are posted on and transmitted to others at your own risk. Information you provide on public areas of the Website, to include the Discussion Forums, will be viewable to other users.
+
+### Information We Collect Through Automatic Data Collection Technologies
+
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
+
+Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
+
+Information about your computer and internet connection, including your IP address, operating system, and browser type.
+
+The information we collect automatically may include personal information, and we may maintain it or associate it with personal information we collect in other ways. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
+
+Estimate our audience size, broad demographic trends, and usage patterns.
+
+Store information about your preferences, allowing us to customize our Website according to your individual interests.
+
+Speed up your searches.
+
+Recognize you when you return to our Website.
+
+Enhance website security.
+
+The technologies we use for this automatic data collection may include:
+
+Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+
+Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices About How We Use and Disclose Your Information .
+
+Analytics. We use Google Analytics to count visits and downloads on this Website, such as which pages are viewed and which download links are selected. Google Analytics uses cookies and similar technologies.
+
+Web Beacons. Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+
+### How We Use Your Information
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+To present our Website and its contents to you.
+
+To provide you with information, products, or services that you request from us.
+
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us.
+
+To notify you about changes to our Website or any products or services we offer or provide though it.
+
+To allow you to participate in interactive features on our Website.
+
+To respond to your questions and feedback provided through webforms.
+
+To interact with you through interactive sections of our Website or the Door43 Forums.
+
+In any other way we may describe when you provide the information.
+
+To fulfill any other purpose for which you provide it.
+
+We may also use your information to contact you about our own and third-parties' missions and services that may be of interest to you. For more information, see Choices About How We Use and Disclose Your Information.
+
+### Disclosure of Your Information
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or that you provide as described in this privacy policy:
+
+To our subsidiaries and affiliates.
+
+To contractors, service providers, and other third parties we use to support our business.
+
+To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of unfoldingWord's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by unfoldingWord about our Website users is among the assets transferred.
+
+To fulfill the purpose for which you provide it.
+
+Pursuant to a Court Order requesting the disclosure of specific information.
+
+Where we determine that the disclosure of specific information is necessary to comply with the request of a law enforcement or regulatory agency.
+
+For any other purpose disclosed by us when you provide the information.
+
+With your consent.
+
+To enforce or apply our terms of use.
+
+If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of unfoldingWord, our customers, or others.
+
+### Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+
+Promotional Offers from the Company. If you do not wish to have your email address used by the Company to promote our services, you can opt-out by replying to an email from us, stating your request to be omitted from future email distributions.
+
+California residents may have additional personal information rights and choices. Please see Your California Privacy Rights for more information.
+
+Nevada residents who wish to exercise their sale opt-out rights under Nevada Revised Statutes Chapter 603A may submit a request to this designated address:
+
+13485 Veterans Way, Suite 460
+
+Attention: Privacy
+
+Orlando, FL 32827
+
+We do not currently sell data triggering that statute's opt-out requirements.
+
+### Links and Third Party Privacy Practices
+
+The Website may contain links to other websites that are not operated by us. WE ARE NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF THIRD PARTY WEBSITES. We provide these links only as a convenience and the inclusion of a link on this Website does not imply endorsement of the linked website by us. If you provide any personally identifiable information through any third party website, your transaction will occur on the third party’s website and not on this Website. The personally identifiable information you provide will be collected by and controlled by the privacy policy of that third party. We recommend that you review the privacy policy of all third party websites arrived at from links on the Website.
+
+### Accessing and Correcting Your Information
+
+You can review and change your personal information by contacting us by mail at:
+
+13485 Veterans Way, Suite 460
+
+Attention: Privacy
+
+Orlando, FL 32827
+
+Or by calling us at: (407) 900-3005.
+
+Please note that changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that, despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes (e.g. records related to donations for purposes of complying with tax and reporting laws). There may be residual information that will remain within our databases and other records that will not be removed or changed. We also reserve the right, from time to time, to re-contact former users of the site for important administrative purposes. Finally, we are not responsible for informing third parties with whom we have already shared your personally identifiable information pursuant to this agreement of any changes requested pursuant to this section or for removing information or causing information to be removed from the databases or records of third parties.
+
+California residents may have additional personal information rights and choices. Please see Your California Privacy Rights for more information.
+
+### Your California Privacy Rights
+
+If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit The California Department of Justice website at https://oag.ca.gov/privacy/ccpa.
+
+### Data Security
+
+Our Website has security measures in place to help protect against the loss, misuse and alteration of the personally identifiable information under its control. We employ reasonable security measures consistent with standard industry practice to help protect against public access to personally identifiable and account activity information collected on the Website and used by us. For instance, access to our databases with personally identifiable information is logged for security purposes and access is limited to key personnel. Personally identifiable information and account activity are also protected through the use of user names and passwords.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like the Door43 Forums. The information you share in public areas may be viewed by any user of the Website.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+### Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. The date the privacy policy was last revised is identified at the top of the page. You are responsible periodically visiting our Website and this privacy policy to check for any changes.
+
+### Governing Law
+
+This Privacy Policy is governed by the laws of the State of Florida, USA, without regard to its choice of law provisions.
+
+### Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, or to raise a concern, contact us at:
+
+13485 Veterans Way, Suite 460
+
+Attention: Privacy
+
+Orlando, FL 32827
+
+or you may call us at the following number: (407) 900-3005

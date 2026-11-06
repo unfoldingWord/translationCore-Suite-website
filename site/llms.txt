@@ -1,0 +1,23 @@
+# translationCore
+
+> translationCore is a set of free, open-source tools from unfoldingWord that help churches and translation teams understand, translate, and check Scripture in their own languages. translationCore Desktop (Windows, Mac, and Linux) is a workspace to draft, check, align, and share a translation. translationCore Mobile (Android, iPhone, and the web) is for oral translation: record, listen back, and improve. Both work offline.
+
+## Apps
+
+- [translationCore Desktop](https://translationcore.com/desktop): An end-to-end workspace for Bible translation. Draft, check, align, and share a translation in one app. Works offline.
+- [translationCore Mobile](https://translationcore.com/mobile): A simple app for oral translation. Record by book, chapter, and segment, listen back, fix, and share on a phone. Works offline.
+- [Previous version](https://translationcore.com/previous-version): Downloads for the previous version of translationCore Desktop.
+
+## Resources
+
+- [Biblical Resources](https://translationcore.com/resources): Open-licensed Translation Notes, Translation Words, Translation Academy, Translation Questions, and source texts.
+- [Training & Support](https://translationcore.com/training): Foundations BT, Church-Based Training, BT Servant, and Open Bible Stories.
+- [translationCore Desktop help](https://translationcore.com/tc-help/): How to use translationCore Desktop.
+
+## Optional
+
+- [Full text of this site](https://translationcore.com/llms-full.txt)
+- [License and Trademark](https://translationcore.com/license)
+- [Privacy Policy](https://translationcore.com/privacy)
+- [Source code on GitHub](https://github.com/unfoldingWord/translationCore4)
+- [unfoldingWord](https://unfoldingword.org/)

@@ -1,0 +1,4 @@
+# AI usage for translationCore (https://translationcore.com)
+# Site content is open-licensed (CC BY-SA 4.0); see https://translationcore.com/license
+User-Agent: *
+Allow: /

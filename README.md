@@ -56,7 +56,25 @@ All links are relative, so the site works at a domain root or under a repo sub-p
 
 ## SEO
 
-Every page has a unique title and description, a canonical address, Open Graph and Twitter tags, a social image (`assets/og-image.png`, 1200 x 630), and JSON-LD structured data (unfoldingWord as the organization, translationCore as the website, plus a free software application entry on the Desktop and Mobile pages). Each page has one `h1`, and every image has alt text. `robots.txt` allows all crawlers and points to `sitemap.xml`.
+Every page has a unique title and description, a canonical address, Open Graph and Twitter tags, a social image (`assets/og-image.png`, 1200 x 630), and JSON-LD structured data (unfoldingWord as the organization, translationCore as the website, plus a free software application entry on the Desktop and Mobile pages). Each page has one `h1`, and every image has alt text. `robots.txt` allows all crawlers, names the main AI search crawlers explicitly, and points to `sitemap.xml`.
+
+### AI search (GEO)
+
+These files and tags help AI search tools read and cite the site. They were added after an audit with `geo-optimizer-skill` (homepage went from 57 to 91 out of 100 on the go-live build).
+
+- `llms.txt`: a short Markdown summary of the site with links to every page. `llms-full.txt`: the text of every page in one file. Regenerate `llms-full.txt` when page copy changes.
+- `.well-known/ai.txt` and `ai/summary.json`: AI crawler permissions and a machine-readable site summary.
+- JSON-LD on every page: the Organization has a logo, contact page, `areaServed` and `sameAs` links (GitHub, Twitter, Facebook); the WebSite has a description and author; each page has a `WebPage` entry with its description and `dateModified`. The Home page also has an `FAQPage` entry that matches the visible FAQ section. Keep the two in step.
+- `<meta name="author">` and a link to the translationCore Desktop releases feed on GitHub are in every page's head.
+- The footer shows "Last updated". **When you change content, update the date in three places:** the footer `<time>`, `dateModified` in each page's JSON-LD, and `lastmod` in `sitemap.xml`.
+
+To re-run the audit after going live:
+
+```
+uvx --from geo-optimizer-skill geo audit --url https://translationcore.com
+```
+
+To raise the score further: add `sameAs` links to unfoldingWord's Wikipedia, Wikidata or LinkedIn pages once confirmed (worth up to 4 points; there is no Wikidata item for unfoldingWord or translationCore yet), and add a few concrete figures to the Home page.
 
 The canonical addresses, Open Graph URLs, `robots.txt`, and `sitemap.xml` use **https://translationcore.com**. If the domain changes, search and replace it across the files.
 

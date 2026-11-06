@@ -1,0 +1,13 @@
+{
+  "name": "translationCore",
+  "description": "Open tools for churches and translation teams to understand, translate, and check Scripture. translationCore Desktop and Mobile are free and open source.",
+  "url": "https://translationcore.com/",
+  "publisher": "unfoldingWord",
+  "inLanguage": "en",
+  "dateModified": "2026-11-06",
+  "products": [
+    {"name": "translationCore Desktop", "url": "https://translationcore.com/desktop", "platforms": ["Windows", "macOS", "Linux"]},
+    {"name": "translationCore Mobile", "url": "https://translationcore.com/mobile", "platforms": ["Android", "iOS", "Web"]}
+  ],
+  "llms": "https://translationcore.com/llms.txt"
+}
