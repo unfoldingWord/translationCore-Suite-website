@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | محیط کار ترجمهٔ کتاب‌مقدس",
+  "description": "محیطی رایگان و متن‌باز برای نوشتن، بازبینی، هم‌ترازسازی و اشتراک ترجمهٔ کتاب‌مقدس، همراه با منابع unfoldingWord. بدون اینترنت کار می‌کند."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">خانه</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "محیط کاری کامل برای ترجمهٔ کتاب‌مقدس",
+  "p2": "پیش‌نویس، بازبینی، هم‌ترازسازی و اشتراک ترجمه در یک برنامه. بدون اینترنت هم کار می‌کند.",
+  "a": "دانلود",
+  "a2": "مشاهده در GitHub",
+  "span": "تازه: translationCore v4 Beta &middot; Windows، Mac، Linux"
+ },
+ "screenshot": {
+  "alt": "translationCore Desktop در حالت ترجمه",
+  "p": "حالت ترجمه، با یادداشت‌ها و متن مبدأ در کنار شما."
+ },
+ "modes": {
+  "h2": "بفهمید. ترجمه کنید. بازبینی کنید.",
+  "p": "translationNotes، translationWords، translationQuestions، translationAcademy، ULT و UST در یک محیط کاری با هم کار می‌کنند تا کتاب‌مقدس را بفهمید و آن را دقیق و روشن ترجمه کنید.",
+  "label": "فهم، ترجمه، بازبینی",
+  "button": "فهم",
+  "button2": "ترجمه",
+  "button3": "بازبینی",
+  "alt": "translationCore Desktop در حالت فهم",
+  "figcaption": "<strong style=\"color:#014263\">فهم.</strong> پیش از شروع، متن و یادداشت‌هایش را بخوانید.",
+  "alt2": "translationCore Desktop در حالت ترجمه",
+  "figcaption2": "<strong style=\"color:#014263\">ترجمه.</strong> کنار متن مبدأ، بخش به بخش پیش‌نویس کنید.",
+  "alt3": "translationCore Desktop در حالت بازبینی",
+  "figcaption3": "<strong style=\"color:#014263\">بازبینی.</strong> هر مورد را با متن اصلی مقایسه کنید، سپس آن را تأیید کنید."
+ },
+ "checking": {
+  "h2": "هر آنچه تیم شما نیاز دارد، در یک جا",
+  "h3": "پیش‌نویس یک بخش",
+  "p": "یک بخش را بنویسید، سپس شمارهٔ آیه‌ها را بگذارید.",
+  "h32": "زبان اصلی در کنار شما",
+  "p2": "متن یونانی یا عبری را کنار ULT و UST ببینید.",
+  "h33": "کمک‌ها و پیشنهادها",
+  "p3": "یادداشت‌ها، واژه‌ها، نظرها و پیشنهادهای هم‌ترازسازی.",
+  "h34": "بازبینی و هم‌ترازسازی",
+  "p4": "اصطلاحات کلیدی را بازبینی کنید، سپس ترجمه را با متن اصلی هم‌تراز کنید.",
+  "h35": "Open Bible Stories",
+  "p5": "داستان‌ها را ترجمه و بازبینی کنید. خروجی Markdown یا PDF بگیرید.",
+  "h36": "خروجی و اشتراک‌گذاری",
+  "p6": "خروجی USFM هم‌ترازشده، Scripture Burrito یا PDF بگیرید، یا در Door43 به اشتراک بگذارید."
+ },
+ "how": {
+  "h2": "چگونه کار می‌کند",
+  "span": "یک پروژه را <strong style=\"color:#014263\">شروع</strong> یا وارد کنید.",
+  "span2": "بخش به بخش <strong style=\"color:#014263\">پیش‌نویس</strong> کنید.",
+  "span3": "با کمک‌هایی در کنارتان <strong style=\"color:#014263\">بازبینی</strong> کنید.",
+  "span4": "ترجمه را با زبان اصلی <strong style=\"color:#014263\">هم‌تراز</strong> کنید.",
+  "span5": "<strong style=\"color:#014263\">خروجی</strong> بگیرید یا در Door43 به اشتراک بگذارید.",
+  "alt": "جابه‌جایی میان ULT، UST و متن یونانی",
+  "figcaption": "جابه‌جایی میان ULT، UST و متن یونانی",
+  "alt2": "یک بخش کامل را بنویسید، سپس شمارهٔ آیه‌ها را بگذارید",
+  "figcaption2": "یک بخش کامل را بنویسید، سپس شمارهٔ آیه‌ها را بگذارید",
+  "alt3": "یادداشت‌ها به آکادمی ترجمه پیوند دارند",
+  "figcaption3": "یادداشت‌ها به آکادمی ترجمه پیوند دارند"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "پرسشی دربارهٔ ترجمه دارید؟ <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">از BT Servant بپرسید.</a>",
+  "p": "راهنمایی متکی بر منابع معتبر، به زبان خودتان."
+ },
+ "downloads": {
+  "h2": "دانلود translationCore v4 Beta",
+  "p": "رایانهٔ خود را انتخاب کنید.",
+  "h3": "Windows",
+  "p2": "فایل نصب (.exe)، ۶۴ بیتی",
+  "p3": "با امضای unfoldingWord. اگر Windows پیام «Windows protected your PC» را نشان داد، «More info» را انتخاب کنید، بررسی کنید که ناشر unfoldingWord باشد، سپس «Run anyway» را بزنید.",
+  "a": "دانلود برای Windows",
+  "h32": "Mac",
+  "p4": "فایل نصب (.pkg)، برای Apple silicon",
+  "p5": "مک‌های Intel هنوز پشتیبانی نمی‌شوند. این نسخه هنوز امضا نشده است، پس ممکن است macOS جلوی آن را بگیرد. «System Settings &gt; Privacy &amp; Security» را باز کنید و «Open Anyway» را انتخاب کنید، یا با نگه داشتن Control روی فایل نصب کلیک کنید و «Open» را بزنید. رمز عبور مدیر سیستم خواسته می‌شود.",
+  "a2": "دانلود برای Mac",
+  "h33": "Linux",
+  "p6": "فایل فشرده (.zip)، ۶۴ بیتی",
+  "p7": "فایل zip را از حالت فشرده خارج کنید و <code>start-tc4.sh</code> را اجرا کنید.",
+  "a3": "دانلود برای Linux",
+  "p8": "<strong>تازه: translationCore v4 Beta.</strong> آن را با نسخه‌ای از پروژه‌هایتان آزمایش کنید و نسخهٔ پشتیبان نگه دارید.",
+  "p9": "کمک لازم دارید؟ <a href=\"/tc-help/\">سایت راهنما</a> یا <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">یادداشت‌های انتشار</a> را ببینید."
+ },
+ "previous": {
+  "h2": "به نسخهٔ قبلی translationCore نیاز دارید؟",
+  "p": "نسخهٔ قبلی تا پایدار شدن v4 Beta در دسترس می‌ماند.",
+  "a": "رفتن به نسخهٔ قبلی"
+ },
+ "open": {
+  "h2": "متن‌باز. رایگان برای استفاده.",
+  "p": "تحت مجوز CC BY-SA 4.0.",
+  "a": "به Discord ما بپیوندید",
+  "a2": "GitHub"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "title": "translationCore Mobile | Neem de Bijbel op in je taal",
+  "description": "Neem de Bijbel op in je eigen taal op Android, iPhone of het web. Gratis, open source en werkt offline."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Home</a> &nbsp;/&nbsp; translationCore Mobile",
+  "alt": "Logo van translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h1": "Neem de Bijbel op in je eigen taal",
+  "p3": "Eén passage tegelijk, op de telefoon die je al hebt. Werkt offline.",
+  "a": "Download de app",
+  "span": "Gratis &middot; Open source",
+  "alt2": "Een fragment opnemen"
+ },
+ "what": {
+  "h2": "Een eenvoudige app voor mondeling vertalen",
+  "p": "Neem op per boek, hoofdstuk en fragment. Luister terug, verbeter en deel, allemaal op je telefoon."
+ },
+ "why": {
+  "h3": "Werkt offline",
+  "p": "Eenmaal geïnstalleerd heb je geen internet nodig.",
+  "h32": "Blijft op je telefoon",
+  "p2": "Geen accounts, geen advertenties en geen tracking.",
+  "h33": "Eenvoudige bediening",
+  "p3": "Grote knoppen met pictogrammen, gemaakt voor teams die op het gehoor werken.",
+  "h34": "Gratis en open source",
+  "p4": "Van unfoldingWord, mede vormgegeven door begeleiders en testers."
+ },
+ "how": {
+  "h2": "Zo gebruik je de app",
+  "alt": "Boeken en hoofdstukken",
+  "figcaption": "Boeken en hoofdstukken",
+  "alt2": "Fragmenten, één voor één",
+  "figcaption2": "Fragmenten, één voor één",
+  "alt3": "Opnemen",
+  "figcaption3": "Opnemen",
+  "alt4": "Knippen en ter plekke verbeteren",
+  "figcaption4": "Knippen en ter plekke verbeteren",
+  "span": "<strong style=\"color:#014263\">Neem een fragment op</strong> en luister het terug.",
+  "span2": "<strong style=\"color:#014263\">Verbeter het</strong> door een stuk van de golfvorm weg te knippen, of neem het opnieuw op.",
+  "span3": "<strong style=\"color:#014263\">Markeer als klaar</strong> zodra het fragment af is.",
+  "span4": "<strong style=\"color:#014263\">Deel</strong> een hoofdstuk als MP3, of een boek als zip."
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Bespreek een passage voordat je opneemt.",
+  "p": "Stel je vraag met je stem of in tekst, luister naar de uitleg en ga dan terug naar translationCore Mobile om op te nemen.",
+  "a": "Probeer BT Servant &rarr;"
+ },
+ "install": {
+  "h2": "translationCore Mobile downloaden",
+  "h3": "Android",
+  "p": "Zoek op &ldquo;translationCore Mobile&rdquo; in Google Play.",
+  "p2": "Android 7.0 of nieuwer, met een bijgewerkte WebView.",
+  "a": "Ontdek het op Google Play",
+  "h32": "iPhone",
+  "p3": "Zoek op &ldquo;translationCore Mobile&rdquo; in de App Store.",
+  "p4": "iOS 15.4 of nieuwer.",
+  "a2": "Download in de App Store",
+  "h33": "Web",
+  "p5": "Open de app in je browser. Je hoeft niets te installeren.",
+  "p6": "tcmobile.app",
+  "a3": "tcmobile.app openen",
+  "p7": "Vragen? <a href=\"https://unfoldingword.org/contact\">Neem contact op met unfoldingWord</a> &middot; <a href=\"https://github.com/unfoldingWord/tc-mobile\">Broncode op GitHub</a>"
+ }
+}

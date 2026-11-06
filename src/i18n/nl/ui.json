@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "Desktop",
+   "slug": "desktop"
+  },
+  {
+   "label": "Mobiel",
+   "slug": "mobile"
+  },
+  {
+   "label": "Bijbelse bronnen",
+   "slug": "resources"
+  },
+  {
+   "label": "Training &amp; ondersteuning",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "Een initiatief van",
+ "footerTagline": "Open hulpmiddelen voor Bijbelvertaling door de kerk.",
+ "footerInitiative": "translationCore is een initiatief van <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a>.",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "Licentie en handelsmerk",
+  "privacy": "Privacybeleid",
+  "about": "Over unfoldingWord"
+ },
+ "give": "Steun Bijbelvertaling door de kerk",
+ "strings": {
+  "menu": "Menu",
+  "languageLabel": "Taal",
+  "skipToContent": "Naar de inhoud",
+  "ogImageAlt": "translationCore: open hulpmiddelen voor Bijbelvertaling door de kerk"
+ }
+}

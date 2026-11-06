@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "title": "Training en ondersteuning | translationCore",
+  "description": "Training, begeleiding en Bijbelverhalen voor vertalers: Foundations BT, Church-Based Training, BT Servant en Open Bible Stories."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Home</a> &nbsp;/&nbsp; Training &amp; ondersteuning",
+  "h1": "Ondersteuning voor elke vertaler",
+  "p2": "Training, begeleiding en Bijbelverhalen van initiatieven met één doel: de Bijbel in elke taal.",
+  "a": "Lees verder"
+ },
+ "initiatives": {
+  "h2": "Training en begeleiding",
+  "p": "Elk initiatief helpt vertalers en kerken. Je kunt ze allemaal gebruiken naast translationCore.",
+  "h3": "Foundations BT",
+  "p2": "Een begeleide start voor Bijbelvertaling door de kerk.",
+  "a": "Naar Foundations BT",
+  "h32": "Church-Based Training",
+  "p3": "Rust kerken toe om mee te doen aan het vertaalwerk.",
+  "a2": "Naar Church-Based Training",
+  "h33": "BT Servant",
+  "p4": "Een AI-coach die put uit betrouwbare bronnen. Stel een vraag over een passage.",
+  "a3": "Probeer BT Servant",
+  "h34": "Open Bible Stories",
+  "p5": "50 eenvoudige, geïllustreerde Bijbelverhalen.",
+  "a4": "Naar Open Bible Stories"
+ },
+ "help": {
+  "h2": "Hulp nodig?",
+  "h3": "Discord",
+  "p": "Stel vragen en praat met de gemeenschap.",
+  "a": "Doe mee op Discord",
+  "h32": "Contact met unfoldingWord",
+  "p2": "Vragen voor het team van unfoldingWord? Neem gerust contact op.",
+  "a2": "Neem contact op"
+ },
+ "academy": {
+  "h2": "Vertaalacademie",
+  "p": "Een handboek over de theorie en praktijk van het vertalen, gratis online te lezen.",
+  "a": "Naar de Vertaalacademie"
+ }
+}

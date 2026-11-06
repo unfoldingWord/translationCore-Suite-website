@@ -1,0 +1,37 @@
+{
+ "siteTitle": "translationCore",
+ "nav": [
+  {
+   "label": "دسکتاپ",
+   "slug": "desktop"
+  },
+  {
+   "label": "موبایل",
+   "slug": "mobile"
+  },
+  {
+   "label": "منابع کتاب‌مقدسی",
+   "slug": "resources"
+  },
+  {
+   "label": "آموزش و پشتیبانی",
+   "slug": "training"
+  }
+ ],
+ "initiativeOf": "طرحی از",
+ "footerTagline": "ابزارهای باز برای ترجمهٔ کتاب‌مقدس به رهبری کلیسا.",
+ "footerInitiative": "translationCore طرحی از <a href=\"https://unfoldingword.org/\" style=\"color:#fff;font-weight:700\">unfoldingWord</a> است.",
+ "footerLinks": {
+  "github": "GitHub",
+  "license": "مجوز و علامت تجاری",
+  "privacy": "سیاست حفظ حریم خصوصی",
+  "about": "دربارهٔ unfoldingWord"
+ },
+ "give": "از ترجمهٔ کتاب‌مقدس به رهبری کلیسا حمایت کنید",
+ "strings": {
+  "menu": "منو",
+  "languageLabel": "زبان",
+  "skipToContent": "رفتن به محتوای اصلی",
+  "ogImageAlt": "translationCore: ابزارهای باز برای ترجمهٔ کتاب‌مقدس به رهبری کلیسا"
+ }
+}

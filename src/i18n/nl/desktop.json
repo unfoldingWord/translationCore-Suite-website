@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "title": "translationCore Desktop | Werkplek voor Bijbelvertaling",
+  "description": "Een gratis, open-source werkplek om Bijbelvertalingen te schrijven, controleren, uitlijnen en delen, met bronnen van unfoldingWord ingebouwd. Werkt offline."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Home</a> &nbsp;/&nbsp; translationCore Desktop",
+  "h1": "Een complete werkplek voor Bijbelvertaling",
+  "p2": "Een vertaling schrijven, controleren, uitlijnen en delen in één app. Werkt offline.",
+  "a": "Downloaden",
+  "a2": "Bekijk op GitHub",
+  "span": "Nieuw: translationCore v4 Beta &middot; Windows, Mac, Linux"
+ },
+ "screenshot": {
+  "alt": "translationCore Desktop in de modus Vertalen",
+  "p": "De modus Vertalen, met notities en brontekst naast je."
+ },
+ "modes": {
+  "h2": "Begrijpen. Vertalen. Controleren.",
+  "p": "translationNotes, translationWords, translationQuestions, translationAcademy, ULT en UST werken samen in één werkplek, zodat je de Bijbel kunt begrijpen en nauwkeurig en helder kunt vertalen.",
+  "label": "Begrijpen, Vertalen, Controleren",
+  "button": "Begrijpen",
+  "button2": "Vertalen",
+  "button3": "Controleren",
+  "alt": "translationCore Desktop in de modus Begrijpen",
+  "figcaption": "<strong style=\"color:#014263\">Begrijpen.</strong> Lees de passage en de notities voordat je begint.",
+  "alt2": "translationCore Desktop in de modus Vertalen",
+  "figcaption2": "<strong style=\"color:#014263\">Vertalen.</strong> Schrijf naast de brontekst, telkens één gedeelte.",
+  "alt3": "translationCore Desktop in de modus Controleren",
+  "figcaption3": "<strong style=\"color:#014263\">Controleren.</strong> Vergelijk elk punt met de grondtekst en markeer het daarna als goedgekeurd."
+ },
+ "checking": {
+  "h2": "Alles wat je team nodig heeft, op één plek",
+  "h3": "Een gedeelte schrijven",
+  "p": "Schrijf een gedeelte en zet daarna de versnummers.",
+  "h32": "De grondtekst naast je",
+  "p2": "Zie het Grieks of Hebreeuws naast de ULT en UST.",
+  "h33": "Hulp en suggesties",
+  "p3": "Notities, begrippen, opmerkingen en suggesties voor het uitlijnen.",
+  "h34": "Controleren en uitlijnen",
+  "p4": "Controleer de kernbegrippen en lijn daarna uit met de grondtekst.",
+  "h35": "Open Bible Stories",
+  "p5": "Vertaal en controleer verhalen. Exporteer als Markdown of PDF.",
+  "h36": "Exporteren en delen",
+  "p6": "Exporteer uitgelijnde USFM, een Scripture Burrito of PDF, of deel naar Door43."
+ },
+ "how": {
+  "h2": "Zo werkt het",
+  "span": "<strong style=\"color:#014263\">Start</strong> een project, of importeer er een.",
+  "span2": "<strong style=\"color:#014263\">Schrijf</strong> telkens één gedeelte.",
+  "span3": "<strong style=\"color:#014263\">Controleer</strong> met de hulpmiddelen naast je.",
+  "span4": "<strong style=\"color:#014263\">Lijn uit</strong> met de grondtekst.",
+  "span5": "<strong style=\"color:#014263\">Exporteer</strong> of deel naar Door43.",
+  "alt": "Wissel tussen ULT, UST en de Griekse brontekst",
+  "figcaption": "Wissel tussen ULT, UST en de Griekse brontekst",
+  "alt2": "Schrijf een heel gedeelte en zet daarna de versnummers",
+  "figcaption2": "Schrijf een heel gedeelte en zet daarna de versnummers",
+  "alt3": "Notities verwijzen naar de Vertaalacademie",
+  "figcaption3": "Notities verwijzen naar de Vertaalacademie"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Een vraag over vertalen? <a href=\"https://www.btservant.ai/\" style=\"color:#014263;text-decoration:underline;text-decoration-color:#31ADE3;text-decoration-thickness:3px;text-underline-offset:5px\">Vraag het BT Servant.</a>",
+  "p": "Krijg begeleiding die put uit betrouwbare bronnen, in je eigen taal."
+ },
+ "downloads": {
+  "h2": "translationCore v4 Beta downloaden",
+  "p": "Kies je computer.",
+  "h3": "Windows",
+  "p2": "Installatieprogramma (.exe), 64-bit",
+  "p3": "Ondertekend door unfoldingWord. Toont Windows &ldquo;Windows heeft uw pc beschermd&rdquo;? Kies dan Meer informatie, controleer of de uitgever unfoldingWord is en kies Toch uitvoeren.",
+  "a": "Downloaden voor Windows",
+  "h32": "Mac",
+  "p4": "Installatieprogramma (.pkg), Apple silicon",
+  "p5": "Intel-Macs worden nog niet ondersteund. Deze versie is nog niet ondertekend, dus macOS kan hem blokkeren. Open Systeeminstellingen &gt; Privacy en beveiliging en kies Open toch, of klik met Control ingedrukt op het installatieprogramma en kies Open. Er wordt om een beheerderswachtwoord gevraagd.",
+  "a2": "Downloaden voor Mac",
+  "h33": "Linux",
+  "p6": "Zip (.zip), 64-bit",
+  "p7": "Pak het zip-bestand uit en voer <code>start-tc4.sh</code> uit.",
+  "a3": "Downloaden voor Linux",
+  "p8": "<strong>Nieuw: translationCore v4 Beta.</strong> Test met kopieën van je projecten en maak back-ups.",
+  "p9": "Hulp nodig? Zie de <a href=\"/tc-help/\">helpsite</a> of de <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">releasenotes</a>."
+ },
+ "previous": {
+  "h2": "Heb je de eerdere translationCore nodig?",
+  "p": "De vorige versie blijft beschikbaar tot v4 Beta stabiel is.",
+  "a": "Naar de vorige versie"
+ },
+ "open": {
+  "h2": "Open source. Gratis te gebruiken.",
+  "p": "Gelicentieerd onder CC BY-SA 4.0.",
+  "a": "Doe mee op Discord",
+  "a2": "GitHub"
+ }
+}
