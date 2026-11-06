@@ -32,6 +32,7 @@
   "menu": "Menu",
   "languageLabel": "Taal",
   "skipToContent": "Naar de inhoud",
-  "ogImageAlt": "translationCore: open hulpmiddelen voor Bijbelvertaling door de kerk"
+  "ogImageAlt": "translationCore: open hulpmiddelen voor Bijbelvertaling door de kerk",
+  "lastUpdated": "Laatst bijgewerkt: {date}"
  }
 }

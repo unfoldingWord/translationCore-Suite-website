@@ -32,6 +32,7 @@
   "menu": "मेनू",
   "languageLabel": "भाषा",
   "skipToContent": "मुख्य सामग्री पर जाएँ",
-  "ogImageAlt": "translationCore: कलीसियाओं के नेतृत्व में बाइबल अनुवाद के लिए खुले उपकरण"
+  "ogImageAlt": "translationCore: कलीसियाओं के नेतृत्व में बाइबल अनुवाद के लिए खुले उपकरण",
+  "lastUpdated": "अंतिम अपडेट: {date}"
  }
 }

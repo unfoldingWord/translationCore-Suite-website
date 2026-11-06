@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore: открытые инструменты для перевода Библии",
+  "title": "translationCore | открытые инструменты для перевода Библии",
   "description": "Открытые инструменты, которые помогают церквям и командам переводчиков понимать, переводить и проверять Писание. translationCore Desktop и Mobile бесплатны и открыты."
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "Скачать для телефона",
   "a5": "Версия для телефона",
   "p3": "Нужна помощь? <a href=\"/tc-help/\">С чего начать</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Примечания к выпуску</a>"
+ },
+ "faq": {
+  "h2": "Часто задаваемые вопросы",
+  "q1": "translationCore распространяется бесплатно?",
+  "a1": "Да. translationCore Desktop и translationCore Mobile бесплатны и имеют открытый исходный код, а <a href=\"/resources/\">Библейские ресурсы</a> распространяются под открытой лицензией: их можно свободно использовать, распространять и адаптировать.",
+  "q2": "Работает ли translationCore без интернета?",
+  "a2": "Да. И translationCore Desktop, и translationCore Mobile работают без интернета.",
+  "q3": "На каких устройствах работает translationCore?",
+  "a3": "translationCore Desktop работает на Windows, Mac и Linux. translationCore Mobile работает на Android, iPhone и в браузере.",
+  "q4": "Кто создаёт translationCore?",
+  "a4": "translationCore — инициатива unfoldingWord. Её инструменты помогают церквям и командам переводчиков понимать, переводить и проверять Писание."
  }
 }

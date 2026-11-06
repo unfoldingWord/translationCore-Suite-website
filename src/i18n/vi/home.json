@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore: Công cụ mở để Hội Thánh dịch Kinh Thánh",
+  "title": "translationCore | Công cụ mở để Hội Thánh dịch Kinh Thánh",
   "description": "Công cụ mở giúp Hội Thánh và nhóm dịch hiểu, dịch và kiểm tra Kinh Thánh. translationCore Desktop và Mobile miễn phí, mã nguồn mở."
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "Tải bản di động",
   "a5": "Tìm hiểu bản di động",
   "p3": "Cần trợ giúp? <a href=\"/tc-help/\">Bắt đầu sử dụng</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Ghi chú phát hành</a>"
+ },
+ "faq": {
+  "h2": "Câu hỏi thường gặp",
+  "q1": "translationCore có miễn phí không?",
+  "a1": "Có. translationCore Desktop và translationCore Mobile miễn phí, mã nguồn mở; <a href=\"/resources/\">Tài liệu Kinh Thánh</a> có giấy phép mở, miễn phí để dùng, chia sẻ và điều chỉnh.",
+  "q2": "translationCore có hoạt động khi không có mạng không?",
+  "a2": "Có. Cả translationCore Desktop và translationCore Mobile đều hoạt động không cần mạng.",
+  "q3": "translationCore chạy trên những thiết bị nào?",
+  "a3": "translationCore Desktop chạy trên Windows, Mac và Linux. translationCore Mobile chạy trên Android, iPhone và trình duyệt web.",
+  "q4": "Ai phát triển translationCore?",
+  "a4": "translationCore là một sáng kiến của unfoldingWord. Các công cụ của translationCore giúp Hội Thánh và nhóm dịch hiểu, dịch và kiểm tra Kinh Thánh."
  }
 }

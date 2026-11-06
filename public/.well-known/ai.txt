@@ -1,0 +1,10 @@
+# translationCore — AI usage
+#
+# The same policy as robots.txt: everything on this site is public and every
+# crawler is allowed, including AI training crawlers (the software is
+# MIT-licensed and the content CC BY-SA 4.0; see https://translationcore.com/license/).
+# Machine-readable summaries: https://translationcore.com/llms.txt and
+# https://translationcore.com/ai/summary.json
+
+User-Agent: *
+Allow: /

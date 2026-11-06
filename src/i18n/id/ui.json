@@ -32,6 +32,7 @@
   "menu": "Menu",
   "languageLabel": "Bahasa",
   "skipToContent": "Langsung ke konten",
-  "ogImageAlt": "translationCore: alat terbuka untuk penerjemahan Alkitab yang dipimpin gereja"
+  "ogImageAlt": "translationCore: alat terbuka untuk penerjemahan Alkitab yang dipimpin gereja",
+  "lastUpdated": "Terakhir diperbarui: {date}"
  }
 }

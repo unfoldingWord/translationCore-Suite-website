@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore: कलीसिया-संचालित बाइबल अनुवाद के खुले उपकरण",
+  "title": "translationCore | कलीसिया-संचालित बाइबल अनुवाद के खुले उपकरण",
   "description": "कलीसियाओं और अनुवाद दलों के लिए पवित्रशास्त्र को समझने, अनुवाद करने और जाँचने के खुले उपकरण। translationCore Desktop और Mobile मुफ़्त और ओपन सोर्स हैं।"
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "मोबाइल डाउनलोड करें",
   "a5": "मोबाइल देखें",
   "p3": "मदद चाहिए? <a href=\"/tc-help/\">शुरुआत करें</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">रिलीज़ नोट्स</a>"
+ },
+ "faq": {
+  "h2": "अक्सर पूछे जाने वाले प्रश्न",
+  "q1": "क्या translationCore मुफ़्त है?",
+  "a1": "हाँ। translationCore Desktop और translationCore Mobile मुफ़्त और ओपन सोर्स हैं, और <a href=\"/resources/\">बाइबल संसाधन</a> खुले लाइसेंस वाले हैं और उपयोग करने, बाँटने और ढालने के लिए मुफ़्त हैं।",
+  "q2": "क्या translationCore ऑफ़लाइन काम करता है?",
+  "a2": "हाँ। translationCore Desktop और translationCore Mobile दोनों ऑफ़लाइन भी काम करते हैं।",
+  "q3": "translationCore किन डिवाइसों पर चलता है?",
+  "a3": "translationCore Desktop, Windows, Mac और Linux पर चलता है। translationCore Mobile, Android, iPhone और वेब पर चलता है।",
+  "q4": "translationCore को कौन बनाता है?",
+  "a4": "translationCore, unfoldingWord की एक पहल है। इसके उपकरण कलीसियाओं और अनुवाद दलों को पवित्रशास्त्र को समझने, अनुवाद करने और जाँचने में मदद करते हैं।"
  }
 }

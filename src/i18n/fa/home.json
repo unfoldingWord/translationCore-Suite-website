@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore: ابزار باز برای ترجمهٔ کتاب‌مقدس به رهبری کلیسا",
+  "title": "translationCore | ابزار باز برای ترجمهٔ کتاب‌مقدس به رهبری کلیسا",
   "description": "ابزارهای باز برای کلیساها و تیم‌های ترجمه تا کلام خدا را بفهمند، ترجمه و بازبینی کنند. translationCore Desktop و Mobile رایگان و متن‌باز هستند."
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "دانلود نسخهٔ موبایل",
   "a5": "آشنایی با نسخهٔ موبایل",
   "p3": "کمک لازم دارید؟ <a href=\"/tc-help/\">شروع کار</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">یادداشت‌های انتشار</a>"
+ },
+ "faq": {
+  "h2": "پرسش‌های متداول",
+  "q1": "آیا translationCore رایگان است؟",
+  "a1": "بله. translationCore Desktop و translationCore Mobile رایگان و متن‌باز هستند و <a href=\"/resources/\">منابع کتاب‌مقدسی</a> با مجوز باز منتشر می‌شوند و استفاده، اشتراک‌گذاری و بومی‌سازی آن‌ها رایگان است.",
+  "q2": "آیا translationCore بدون اینترنت کار می‌کند؟",
+  "a2": "بله. translationCore Desktop و translationCore Mobile هر دو بدون اینترنت هم کار می‌کنند.",
+  "q3": "translationCore روی چه دستگاه‌هایی اجرا می‌شود؟",
+  "a3": "translationCore Desktop روی Windows، Mac و Linux اجرا می‌شود. translationCore Mobile روی Android، iPhone و وب اجرا می‌شود.",
+  "q4": "translationCore را چه کسی می‌سازد؟",
+  "a4": "translationCore طرحی از unfoldingWord است. ابزارهای آن به کلیساها و تیم‌های ترجمه کمک می‌کنند تا کتاب‌مقدس را بفهمند، ترجمه کنند و بازبینی کنند."
  }
 }

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore: open tools voor Bijbelvertaling door de kerk",
+  "title": "translationCore | open tools voor Bijbelvertaling door de kerk",
   "description": "Open tools voor kerken en vertaalteams om de Bijbel te begrijpen, te vertalen en te controleren. translationCore Desktop en Mobile zijn gratis en open source."
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "Mobile downloaden",
   "a5": "Bekijk Mobile",
   "p3": "Hulp nodig? <a href=\"/tc-help/\">Aan de slag</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Releasenotes</a>"
+ },
+ "faq": {
+  "h2": "Veelgestelde vragen",
+  "q1": "Is translationCore gratis?",
+  "a1": "Ja. translationCore Desktop en translationCore Mobile zijn gratis en open source, en de <a href=\"/resources/\">Bijbelse bronnen</a> hebben een open licentie: ze zijn gratis te gebruiken, te delen en aan te passen.",
+  "q2": "Werkt translationCore offline?",
+  "a2": "Ja. translationCore Desktop en translationCore Mobile werken allebei offline.",
+  "q3": "Op welke apparaten werkt translationCore?",
+  "a3": "translationCore Desktop werkt op Windows, Mac en Linux. translationCore Mobile werkt op Android, iPhone en het web.",
+  "q4": "Wie maakt translationCore?",
+  "a4": "translationCore is een initiatief van unfoldingWord. De tools helpen kerken en vertaalteams om de Bijbel te begrijpen, te vertalen en te controleren."
  }
 }

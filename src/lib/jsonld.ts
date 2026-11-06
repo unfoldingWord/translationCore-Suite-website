@@ -5,7 +5,7 @@
 // Every fact here is one the site itself states in its copy (the Desktop and
 // Mobile pages, the License page) — nothing is added that a visitor could not
 // read on the page. Keep the two in step when either changes.
-import { localePath, byCode } from '../i18n/config';
+import { localePath, byCode, type PageSlug } from '../i18n/config';
 
 export const SITE_URL = 'https://translationcore.com';
 export const PRODUCT_NAME = 'translationCore';
@@ -20,6 +20,27 @@ export const CONTENT_LICENSE_URL = 'https://creativecommons.org/licenses/by-sa/4
  *  (JSON-LD, /llms.txt, /ai/summary.json). Built from the home page copy. */
 export const DEFINITION =
   'translationCore is a free, open-source set of tools from unfoldingWord for churches and translation teams to understand, translate, and check Scripture: translationCore Desktop for Windows, macOS and Linux, and translationCore Mobile for Android, iPhone and the web.';
+
+/** When each page's content last changed (YYYY-MM-DD). A page's date is
+ *  shown in its footer ("Last updated") and emitted as its WebPage
+ *  dateModified, so the two always agree. When you change a page's copy or
+ *  facts, update that page's date only. Strings shared by every page (the
+ *  header, the footer, `ui.json`) change every page: update them all. */
+export const PAGE_UPDATED: Record<PageSlug, string> = {
+  home: '2026-11-06',
+  desktop: '2026-11-06',
+  mobile: '2026-11-06',
+  resources: '2026-11-06',
+  training: '2026-11-06',
+  'previous-version': '2026-11-06',
+  license: '2026-11-06',
+  privacy: '2026-11-06',
+  '404': '2026-11-06',
+};
+
+/** GitHub's Atom feed of translationCore Desktop releases, linked from every
+ *  page's <head> as the site's update feed. */
+export const RELEASES_FEED_URL = 'https://github.com/unfoldingWord/translationCore4/releases.atom';
 
 // The current Desktop release, as linked from the Download section of
 // /desktop/ (src/components/pages/DesktopPage.astro). Update both together.
@@ -70,6 +91,50 @@ export function websiteNode(inLanguage: string) {
     description: DEFINITION,
     inLanguage,
     publisher: { '@id': PUBLISHER_ID },
+    author: { '@id': PUBLISHER_ID },
+  };
+}
+
+/** The page itself: its own title and meta description (the same strings
+ *  as <title> and <meta name="description">), who wrote it, and when it
+ *  last changed (PAGE_UPDATED: the date the page's footer shows). */
+export function webPageNode(url: string, name: string, description: string | undefined, inLanguage: string, dateModified: string) {
+  return {
+    '@type': 'WebPage',
+    '@id': `${url}#webpage`,
+    url,
+    name,
+    ...(description ? { description } : {}),
+    inLanguage,
+    isPartOf: { '@id': WEBSITE_ID },
+    author: { '@id': PUBLISHER_ID },
+    publisher: { '@id': PUBLISHER_ID },
+    dateModified,
+  };
+}
+
+/** FAQPage built from the same strings the page shows (Google requires the
+ *  questions and answers to be visible on the page). Answers may carry the
+ *  inline HTML the i18n strings use; it is stripped here. */
+export function faqNode(url: string, inLanguage: string, items: { q: string; a: string }[]) {
+  const text = (s: string) =>
+    s
+      .replace(/<[^>]+>/g, '')
+      .replace(/&amp;/g, '&')
+      .replace(/&rsquo;/g, '’')
+      .replace(/&nbsp;/g, ' ')
+      .trim();
+  return {
+    '@type': 'FAQPage',
+    '@id': `${url}#faq`,
+    url,
+    inLanguage,
+    isPartOf: { '@id': WEBSITE_ID },
+    mainEntity: items.map(({ q, a }) => ({
+      '@type': 'Question',
+      name: text(q),
+      acceptedAnswer: { '@type': 'Answer', text: text(a) },
+    })),
   };
 }
 

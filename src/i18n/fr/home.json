@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore : outils ouverts pour traduire la Bible",
+  "title": "translationCore | outils ouverts pour traduire la Bible",
   "description": "Outils ouverts pour aider Églises et équipes de traduction à comprendre, traduire et vérifier les Écritures. translationCore Desktop et Mobile sont gratuits."
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "Télécharger Mobile",
   "a5": "Découvrir la version mobile",
   "p3": "Besoin d’aide ? <a href=\"/tc-help/\">Premiers pas</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">Notes de version</a>"
+ },
+ "faq": {
+  "h2": "Questions fréquentes",
+  "q1": "translationCore est-il gratuit ?",
+  "a1": "Oui. translationCore Desktop et translationCore Mobile sont gratuits et open source, et les <a href=\"/resources/\">Ressources bibliques</a> sont sous licence ouverte, libres d’utilisation, de partage et d’adaptation.",
+  "q2": "translationCore fonctionne-t-il hors ligne ?",
+  "a2": "Oui. translationCore Desktop et translationCore Mobile fonctionnent tous deux hors ligne.",
+  "q3": "Sur quels appareils translationCore fonctionne-t-il ?",
+  "a3": "translationCore Desktop fonctionne sous Windows, Mac et Linux. translationCore Mobile fonctionne sur Android, iPhone et le web.",
+  "q4": "Qui développe translationCore ?",
+  "a4": "translationCore est une initiative de unfoldingWord. Ses outils aident les Églises et les équipes de traduction à comprendre, traduire et vérifier les Écritures."
  }
 }

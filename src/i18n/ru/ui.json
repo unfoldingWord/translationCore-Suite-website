@@ -32,6 +32,7 @@
   "menu": "Меню",
   "languageLabel": "Язык",
   "skipToContent": "Перейти к содержанию",
-  "ogImageAlt": "translationCore: открытые инструменты для перевода Библии, который ведут церкви"
+  "ogImageAlt": "translationCore: открытые инструменты для перевода Библии, который ведут церкви",
+  "lastUpdated": "Последнее обновление: {date}"
  }
 }

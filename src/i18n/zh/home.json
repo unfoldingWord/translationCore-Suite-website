@@ -1,6 +1,6 @@
 {
  "meta": {
-  "title": "translationCore：教会主导圣经翻译的开放工具",
+  "title": "translationCore | 教会主导圣经翻译的开放工具",
   "description": "帮助教会和翻译团队理解、翻译并检查圣经的开放工具。translationCore Desktop 和 Mobile 免费且开源。"
  },
  "hero": {
@@ -103,5 +103,16 @@
   "a4": "下载手机版",
   "a5": "了解手机版",
   "p3": "需要帮助？<a href=\"/tc-help/\">入门指南</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">版本说明</a>"
+ },
+ "faq": {
+  "h2": "常见问题",
+  "q1": "translationCore 是免费的吗？",
+  "a1": "是的。translationCore Desktop 和 translationCore Mobile 免费且开源；<a href=\"/resources/\">圣经资源</a>采用开放许可，可免费使用、分享和改编。",
+  "q2": "translationCore 可以离线使用吗？",
+  "a2": "可以。translationCore Desktop 和 translationCore Mobile 都可离线使用。",
+  "q3": "translationCore 支持哪些设备？",
+  "a3": "translationCore Desktop 支持 Windows、Mac 和 Linux。translationCore Mobile 可在 Android、iPhone 和网页上使用。",
+  "q4": "translationCore 由谁开发？",
+  "a4": "translationCore 是 unfoldingWord 发起的一项事工。它的工具帮助教会和翻译团队理解、翻译并检查圣经。"
  }
 }
