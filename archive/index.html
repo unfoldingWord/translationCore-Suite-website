@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="translationCore® — desktop workspace for Bible translation checking. Plus unfoldingWord translation resources, church-based training, and Foundations BT.">
+  <title>translationCore Suite — unfoldingWord</title>
+  <link rel="icon" href="/assets/images/tc_logo.png">
+  <meta property="og:type"        content="website">
+  <meta property="og:title"       content="translationCore Suite — unfoldingWord">
+  <meta property="og:description" content="translationCore® — desktop workspace for Bible translation checking. Plus unfoldingWord translation resources, church-based training, and Foundations BT.">
+  <meta property="og:url"         content="https://translationcore-website.netlify.app/">
+  <meta property="og:image"       content="https://translationcore-website.netlify.app/assets/images/translationcore-hero.webp">
+  <link rel="canonical"           href="https://translationcore-website.netlify.app/">
+  <link rel="stylesheet" href="/style.css?v=2">
+</head>
+<body>
+
+  <header id="site-header" class="site-header"></header>
+
+  <!-- Hero: translationCore -->
+  <div id="translationcore" class="hero hero-translationcore">
+    <div class="hero-tc-copy">
+      <p class="eyebrow">translationCore&reg; App</p>
+      <h1>translationCore<span class="reg">&reg;</span></h1>
+      <p class="subhead">A desktop workspace that keeps translation teams on track with checks, notes, and alignment tools built for church-led movements.</p>
+      <div class="hero-actions">
+        <div class="hero-download-wrap">
+          <a href="https://github.com/unfoldingWord/translationCore/releases" id="tc-download-btn" class="cta primary">Download</a>
+          <p class="hero-status"></p>
+        </div>
+        <a href="/translationcore/" class="cta secondary">Learn more</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hero: Translation Helps -->
+  <div id="translation-helps" class="hero hero-helps">
+    <p class="eyebrow">unfoldingWord translation resources</p>
+    <h2>Insights and notes<br>that illuminate every verse</h2>
+    <p class="subhead">Download the latest translation notes, questions, and key terms so your team has the guidance it needs for drafting and checking.</p>
+    <div class="hero-actions">
+      <button id="download-helps" class="cta primary" type="button" aria-haspopup="dialog" aria-expanded="false">Download resources</button>
+      <a href="/translation-helps/" class="cta secondary">Learn more</a>
+    </div>
+  </div>
+
+  <!-- Related Projects divider -->
+  <div id="related-projects" class="related-projects-banner">
+    <p>Related Projects</p>
+  </div>
+
+  <!-- Hero pair: Training + Foundations -->
+  <div class="hero-pair">
+    <div id="church-training" class="hero hero-training">
+      <p class="eyebrow">Church-Based Training</p>
+      <h2>Equip everyday believers to translate the Bible</h2>
+      <div class="hero-actions">
+        <a href="https://churchbased.bible" class="cta primary" target="_blank" rel="noopener">Church-Based Training</a>
+      </div>
+    </div>
+
+    <div id="foundations-bt" class="hero hero-foundations">
+      <p class="eyebrow">Foundations Bible Translation</p>
+      <h2>Form gospel-centered translators with guided cohorts</h2>
+      <div class="hero-actions">
+        <a href="https://foundationsbt.com/" class="cta primary" target="_blank" rel="noopener">Foundations of BT</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hero pair: OBS + BT Servant -->
+  <div class="hero-pair">
+    <div id="obs" class="hero hero-obs">
+      <p class="eyebrow">Open Bible Stories</p>
+      <h2>The Bible&rsquo;s key stories in every language</h2>
+      <div class="hero-actions">
+        <a href="https://openbiblestories.org" class="cta primary" target="_blank" rel="noopener">Open Bible Stories</a>
+      </div>
+    </div>
+
+    <div id="bt-servant" class="hero hero-btservant">
+      <p class="eyebrow">AI-Powered Assistant</p>
+      <h2>Engage translation resources with BT Servant</h2>
+      <div class="hero-actions">
+        <a href="https://app.btservant.ai/" class="cta primary" target="_blank" rel="noopener">Try BT Servant</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Download Helps dialog -->
+  <div
+    id="helps-dialog"
+    class="helps-dialog"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="helps-dialog-title"
+    hidden
+    aria-hidden="true"
+  >
+    <div class="helps-dialog__backdrop" data-helps-close></div>
+    <div class="helps-dialog__panel helps-card">
+      <button type="button" class="helps-dialog__close" data-helps-close aria-label="Close download helps dialog">&times;</button>
+      <p class="eyebrow">Translation Notes</p>
+      <h2 id="helps-dialog-title">Pick a book to open its PDF instantly</h2>
+      <p class="subhead">Choose a Bible book to jump straight into the latest unfoldingWord translation notes (<span data-version-label>loading&hellip;</span>).</p>
+      <label class="select-label" for="book-select">Book of the Bible</label>
+      <div class="select-wrapper">
+        <select id="book-select" class="book-select">
+          <option value="" disabled selected>Select a book&hellip;</option>
+        </select>
+      </div>
+      <p id="download-message" class="helps-status" aria-live="polite"></p>
+    </div>
+  </div>
+
+  <footer id="site-footer" class="site-footer"></footer>
+
+  <script src="/scripts/tc-download.js" defer></script>
+  <script src="/scripts/helps-dialog.js" defer></script>
+  <script src="/scripts/helps.js" defer></script>
+  <script src="/scripts/footer-loader.js" defer></script>
+  <script src="/scripts/header-loader.js" defer></script>
+</body>
+</html>
