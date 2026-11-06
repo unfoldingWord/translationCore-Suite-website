@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "title": "translationCore Mobile | 用你的语言录制圣经",
+  "description": "在 Android、iPhone 或网页上，用你自己的语言录制圣经。免费、开源，可离线使用。"
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">首页</a> &nbsp;/&nbsp; translationCore Mobile",
+  "alt": "translationCore Mobile 标志",
+  "p2": "translationCore Mobile",
+  "h1": "用你自己的语言录制圣经",
+  "p3": "一次一段经文，用你手边现有的手机。可离线使用。",
+  "a": "获取应用",
+  "span": "免费 &middot; 开源",
+  "alt2": "录制一个段落"
+ },
+ "what": {
+  "h2": "简单好用的口头翻译应用",
+  "p": "按卷、章和段落录音。回听、修改、分享，全在手机上完成。"
+ },
+ "why": {
+  "h3": "可离线使用",
+  "p": "安装后无需联网。",
+  "h32": "数据留在你的手机上",
+  "p2": "无需账号，没有广告，不做追踪。",
+  "h33": "操作简单",
+  "p3": "大图标按钮，专为靠耳朵工作的团队设计。",
+  "h34": "免费且开源",
+  "p4": "由 unfoldingWord 开发，经引导员和测试者共同打磨。"
+ },
+ "how": {
+  "h2": "使用方法",
+  "alt": "书卷与章",
+  "figcaption": "书卷与章",
+  "alt2": "逐段进行",
+  "figcaption2": "逐段进行",
+  "alt3": "录音",
+  "figcaption3": "录音",
+  "alt4": "就地剪切修改",
+  "figcaption4": "就地剪切修改",
+  "span": "<strong style=\"color:#014263\">录制</strong>一个段落，然后回听。",
+  "span2": "<strong style=\"color:#014263\">修改</strong>：剪掉波形的一部分，或重新录制。",
+  "span3": "段落准备好后，<strong style=\"color:#014263\">标记为完成</strong>。",
+  "span4": "将一章<strong style=\"color:#014263\">分享</strong>为 MP3，或将一卷书分享为 zip 压缩包。"
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "录音之前，先讨论一下经文。",
+  "p": "用语音或文字提问，聆听指导，然后回到 translationCore Mobile 录音。",
+  "a": "试用 BT Servant &rarr;"
+ },
+ "install": {
+  "h2": "获取 translationCore Mobile",
+  "h3": "Android",
+  "p": "在 Google Play 上搜索“translationCore Mobile”。",
+  "p2": "Android 7.0 或更高版本，并已更新 WebView。",
+  "a": "在 Google Play 上获取",
+  "h32": "iPhone",
+  "p3": "在 App Store 上搜索“translationCore Mobile”。",
+  "p4": "iOS 15.4 或更高版本。",
+  "a2": "在 App Store 下载",
+  "h33": "网页版",
+  "p5": "在浏览器中打开，无需安装。",
+  "p6": "tcmobile.app",
+  "a3": "打开 tcmobile.app",
+  "p7": "有疑问？<a href=\"https://unfoldingword.org/contact\">联系 unfoldingWord</a> &middot; <a href=\"https://github.com/unfoldingWord/tc-mobile\">GitHub 上的源代码</a>"
+ }
+}

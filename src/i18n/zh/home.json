@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "title": "translationCore：教会主导圣经翻译的开放工具",
+  "description": "帮助教会和翻译团队理解、翻译并检查圣经的开放工具。translationCore Desktop 和 Mobile 免费且开源。"
+ },
+ "hero": {
+  "h1": "用你的语言翻译圣经",
+  "p": "帮助教会和翻译团队理解、翻译并检查圣经的工具。",
+  "a": "了解桌面版",
+  "a2": "了解手机版",
+  "alt": "translationCore Desktop：原文、草稿和翻译注释并排显示",
+  "alt2": "在 translationCore Mobile 中录制一个段落"
+ },
+ "cycle": {
+  "h3": "理解",
+  "p": "探究经文的含义。",
+  "h32": "翻译",
+  "p2": "用文字或口语自然地表达。",
+  "h33": "检查",
+  "p3": "核查是否准确、清楚。"
+ },
+ "desktop": {
+  "p": "translationCore Desktop",
+  "h2": "从理解经文到分享经文",
+  "p2": "一个工作区汇集了 unfoldingWord 的翻译资源，帮助译者理解圣经，并准确、清楚地翻译。可离线使用。",
+  "span": "<strong>理解</strong>经文段落",
+  "span2": "一起<strong>起草与修订</strong>",
+  "span3": "<strong>检查</strong>与对齐",
+  "span4": "<strong>导出</strong>与分享",
+  "a": "下载桌面版",
+  "a2": "了解更多",
+  "p3": "<strong>新版：</strong>我们最近推出了 translationCore v4 Beta。<a href=\"/previous-version/\">旧版本</a>",
+  "alt": "起草一个段落，旁边附有注释",
+  "p4": "起草一个段落，旁边附有注释。"
+ },
+ "mobile": {
+  "alt": "录制某一章的一个段落",
+  "p": "录制某一章的一个段落。",
+  "alt2": "translationCore Mobile 标志",
+  "p2": "translationCore Mobile",
+  "h2": "说。录。听。译。",
+  "p3": "用手机录音、回听、改进。可离线使用。",
+  "a": "下载手机版",
+  "a2": "了解手机版"
+ },
+ "impact": {
+  "h2": "教会与团队，用自己的语言",
+  "p": "translationCore Desktop",
+  "h3": "你的群体可以信赖的译本",
+  "p2": "在一个工作区中起草、检查和对齐，即使离线也可以。",
+  "blockquote": "“translationCore 是我们见过最快的软件。”",
+  "figcaption": "易卜拉欣，翻译培训师",
+  "alt": "一位译者在笔记本电脑上工作，同工们在旁一起工作",
+  "figcaption2": "并肩同工，一起翻译。",
+  "p3": "translationCore Mobile",
+  "h32": "口头翻译，只需一部手机",
+  "p4": "在内罗毕的一次培训会上，同工领袖们只用手机，就以自己的语言录制了圣经故事。",
+  "blockquote2": "“有了这个应用，我们可以把培训和技术带到我们想要接触的人群当中。”",
+  "figcaption3": "本地圣经译者",
+  "alt2": "一位译者在 translationCore Mobile 上回听录音",
+  "figcaption4": "回听录音。",
+  "span": "支持以教会为中心的圣经翻译"
+ },
+ "support": {
+  "h2": "圣经资源",
+  "p": "开放许可，可免费使用、分享和改编。",
+  "a": "翻译注释",
+  "span": "每节经文的背景",
+  "a2": "翻译词汇",
+  "span2": "关键词、人名和地名",
+  "a3": "翻译学院",
+  "span3": "为译者提供的培训",
+  "a4": "原文底本",
+  "span4": "直译本与简明本圣经",
+  "a5": "翻译问题",
+  "span5": "检验译文是否清楚",
+  "a6": "浏览全部资源",
+  "h22": "培训与支持",
+  "p2": "支持每一位译者的事工。",
+  "a7": "Foundations BT",
+  "span6": "教会主导翻译的入门引导",
+  "a8": "Church-Based Training",
+  "span7": "装备教会参与翻译",
+  "a9": "BT Servant",
+  "span8": "以可信资源为根基的 AI 助手",
+  "a10": "Open Bible Stories",
+  "span9": "50 个简明的图解圣经故事",
+  "a11": "了解培训与支持"
+ },
+ "open": {
+  "h2": "为以教会为中心的翻译事工提供开放工具",
+  "p": "开放许可、免费，且可离线使用。"
+ },
+ "start": {
+  "h2": "开始使用",
+  "h3": "桌面版",
+  "p": "支持 Windows、Mac 和 Linux。新版：translationCore v4 Beta。",
+  "a": "下载桌面版",
+  "a2": "使用说明",
+  "a3": "需要旧版本？",
+  "h32": "手机版",
+  "p2": "在 Android、iPhone 和网页上免费使用。",
+  "a4": "下载手机版",
+  "a5": "了解手机版",
+  "p3": "需要帮助？<a href=\"/tc-help/\">入门指南</a> &middot; <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">版本说明</a>"
+ }
+}
