@@ -42,13 +42,16 @@ export function pagesSitemap(): string {
 }
 
 /** Every page of the Desktop help site, read from public/tc-help/ at build
- *  time so a page added there is listed without editing this file. */
+ *  time so a page added there is listed without editing this file. The URLs
+ *  are extensionless: Cloudflare Pages serves /tc-help/x for x.html and
+ *  308-redirects /tc-help/x.html to it, so the help pages link that way too.
+ *  The search results page is not a landing page and is left out. */
 export function helpPages(): string[] {
   const dir = fileURLToPath(new URL('../../public/tc-help/', import.meta.url));
   return readdirSync(dir)
-    .filter((f) => f.endsWith('.html'))
+    .filter((f) => f.endsWith('.html') && f !== 'search.html')
     .sort()
-    .map((f) => (f === 'index.html' ? '/tc-help/' : `/tc-help/${f}`));
+    .map((f) => (f === 'index.html' ? '/tc-help/' : `/tc-help/${f.slice(0, -'.html'.length)}`));
 }
 
 export function helpSitemap(): string {

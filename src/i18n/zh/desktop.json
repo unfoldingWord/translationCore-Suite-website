@@ -89,7 +89,7 @@
  },
  "open": {
   "h2": "开源。免费使用。",
-  "p": "采用 CC BY-SA 4.0 许可。",
+  "p": "软件采用 MIT 许可，内容采用 CC BY-SA 4.0 许可。 <a href=\"/license/\">许可与商标</a>",
   "a": "加入我们的 Discord",
   "a2": "GitHub"
  }

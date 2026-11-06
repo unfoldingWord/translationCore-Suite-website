@@ -26,7 +26,7 @@ const LEGAL: Record<string, { title: string; description: string }> = {
 };
 
 function helpTitle(path: string): string {
-  const file = path === '/tc-help/' ? 'index.html' : path.slice('/tc-help/'.length);
+  const file = path === '/tc-help/' ? 'index.html' : `${path.slice('/tc-help/'.length)}.html`;
   const html = readFileSync(fileURLToPath(new URL(`../../public/tc-help/${file}`, import.meta.url)), 'utf8');
   return (html.match(/<title>([^<]*)<\/title>/)?.[1] ?? file).replace(/\s*·\s*translationCore 4 Help$/, '').replace(/&amp;/g, '&');
 }

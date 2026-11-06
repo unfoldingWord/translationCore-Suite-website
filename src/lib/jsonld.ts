@@ -13,7 +13,7 @@ export const PUBLISHER_ID = 'https://unfoldingword.org/#organization';
 export const WEBSITE_ID = `${SITE_URL}/#website`;
 export const DESKTOP_ID = `${SITE_URL}/desktop/#software`;
 export const MOBILE_ID = `${SITE_URL}/mobile/#software`;
-export const SOFTWARE_LICENSE_URL = 'https://opensource.org/licenses/MIT';
+export const SOFTWARE_LICENSE_URL = 'https://opensource.org/license/MIT';
 export const CONTENT_LICENSE_URL = 'https://creativecommons.org/licenses/by-sa/4.0/';
 
 /** One-sentence English definition, kept identical wherever it appears
@@ -55,7 +55,7 @@ export function organizationNode() {
     contactPoint: {
       '@type': 'ContactPoint',
       contactType: 'general inquiries',
-      url: 'https://unfoldingword.org/contact',
+      url: 'https://unfoldingword.org/contact-us/',
       availableLanguage: 'en',
     },
   };

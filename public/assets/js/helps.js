@@ -1,5 +1,5 @@
 // Fetch the latest Translation Notes release tag directly from the Door43 Gitea API.
-const FALLBACK_TAG = 'v88';
+const FALLBACK_TAG = 'v91';
 const DCS_API_URL = 'https://git.door43.org/api/v1/repos/unfoldingWord/en_tn/releases/latest';
 
 const BOOK_GROUPS = [

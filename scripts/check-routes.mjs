@@ -4,6 +4,9 @@
 //    built file behind it
 //  - an internal link or image (href/src) on any built page does not resolve
 //    — including the /tc-help/ pages' own relative links
+//  - a /tc-help/ page, the help sitemap or /llms.txt links a help page with
+//    its .html extension (Cloudflare Pages 308-redirects /x.html to /x, so
+//    such a link costs every visitor a redirect and splits the URL)
 //  - a page has no <h1>, more than one, or a canonical that is not its own URL
 //  - a localized page is missing a locale, or its hreflang set is incomplete
 //  - a _redirects target was not built, or a redirect chains into another
@@ -73,6 +76,7 @@ for (const f of htmlFiles) {
     const bare = target.split('#')[0].split('?')[0];
     if (!bare) continue;
     if (!resolves(bare) && !redirectSources.has(bare)) err(`${path}: link to ${raw} does not resolve`);
+    if (isHelp && /\.html(#|\?|$)/.test(bare)) err(`${path}: link to ${raw} uses .html (Pages redirects it; link /tc-help/x instead)`);
   }
   for (const m of html.matchAll(/https:\/\/translationcore\.com(\/[^"'\s<)]*)/g)) {
     if (!resolves(m[1]) && !redirectSources.has(m[1])) err(`${path}: absolute link ${m[0]} does not resolve`);
@@ -110,6 +114,7 @@ for (const map of maps) {
   for (const m of xml.matchAll(/<loc>([^<]+)<\/loc>/g)) {
     sitemapUrls++;
     if (!m[1].startsWith(SITE) || !resolves(m[1].slice(SITE.length))) err(`${p}: ${m[1]} not built`);
+    if (/\.html$/.test(m[1])) err(`${p}: ${m[1]} uses .html (Pages redirects it)`);
   }
   for (const m of xml.matchAll(/hreflang="[^"]+" href="([^"]+)"/g)) {
     if (!resolves(m[1].slice(SITE.length))) err(`${p}: alternate ${m[1]} not built`);
@@ -123,6 +128,7 @@ if (/^\s*(Disallow|Content-Signal)\s*:/im.test(robots)) err('robots.txt carries 
 const llms = readFileSync(join(DIST, 'llms.txt'), 'utf8');
 for (const m of llms.matchAll(/\((https:\/\/translationcore\.com[^)\s]*)\)/g)) {
   if (!resolves(m[1].slice(SITE.length))) err(`llms.txt: ${m[1]} not built`);
+  if (/\.html$/.test(m[1])) err(`llms.txt: ${m[1]} uses .html (Pages redirects it)`);
 }
 
 // Redirects: every target built (or external), no chains.
