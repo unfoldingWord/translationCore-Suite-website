@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "title": "translationCore Mobile | Rekam Alkitab dalam bahasa Anda",
+  "description": "Rekam Alkitab dalam bahasa Anda sendiri di Android, iPhone, atau web. Gratis, bersumber terbuka, dan dapat digunakan secara offline."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Beranda</a> &nbsp;/&nbsp; translationCore Mobile",
+  "alt": "Logo translationCore Mobile",
+  "p2": "translationCore Mobile",
+  "h1": "Rekam Alkitab dalam bahasa Anda sendiri",
+  "p3": "Satu perikop demi satu perikop, dengan ponsel yang sudah Anda miliki. Dapat digunakan secara offline.",
+  "a": "Dapatkan aplikasinya",
+  "span": "Gratis &middot; Sumber terbuka",
+  "alt2": "Merekam satu segmen"
+ },
+ "what": {
+  "h2": "Aplikasi sederhana untuk terjemahan lisan",
+  "p": "Rekam per kitab, pasal, dan segmen. Dengarkan kembali, perbaiki, dan bagikan, semuanya di ponsel Anda."
+ },
+ "why": {
+  "h3": "Bisa dipakai offline",
+  "p": "Setelah terpasang, tidak perlu internet.",
+  "h32": "Tetap di ponsel Anda",
+  "p2": "Tanpa akun, tanpa iklan, dan tanpa pelacakan.",
+  "h33": "Kontrol sederhana",
+  "p3": "Tombol ikon yang besar, dibuat untuk tim yang bekerja dengan pendengaran.",
+  "h34": "Gratis dan bersumber terbuka",
+  "p4": "Dari unfoldingWord, dibentuk bersama para fasilitator dan penguji."
+ },
+ "how": {
+  "h2": "Cara menggunakannya",
+  "alt": "Kitab dan pasal",
+  "figcaption": "Kitab dan pasal",
+  "alt2": "Segmen, satu per satu",
+  "figcaption2": "Segmen, satu per satu",
+  "alt3": "Rekam",
+  "figcaption3": "Rekam",
+  "alt4": "Potong dan perbaiki di tempat",
+  "figcaption4": "Potong dan perbaiki di tempat",
+  "span": "<strong style=\"color:#014263\">Rekam</strong> satu segmen, lalu dengarkan kembali.",
+  "span2": "<strong style=\"color:#014263\">Perbaiki</strong> dengan memotong sebagian gelombang suara, atau rekam ulang.",
+  "span3": "<strong style=\"color:#014263\">Tandai Selesai</strong> jika segmen sudah siap.",
+  "span4": "<strong style=\"color:#014263\">Bagikan</strong> satu pasal sebagai MP3, atau satu kitab sebagai zip."
+ },
+ "btservant": {
+  "label": "BT Servant",
+  "alt": "BT Servant",
+  "h2": "Bahas suatu perikop sebelum Anda merekam.",
+  "p": "Bertanyalah lewat suara atau teks, dengarkan arahannya, lalu kembali ke translationCore Mobile untuk merekam.",
+  "a": "Coba BT Servant &rarr;"
+ },
+ "install": {
+  "h2": "Dapatkan translationCore Mobile",
+  "h3": "Android",
+  "p": "Cari &ldquo;translationCore Mobile&rdquo; di Google Play.",
+  "p2": "Android 7.0 atau yang lebih baru, dengan WebView yang sudah diperbarui.",
+  "a": "Temukan di Google Play",
+  "h32": "iPhone",
+  "p3": "Cari &ldquo;translationCore Mobile&rdquo; di App Store.",
+  "p4": "iOS 15.4 atau yang lebih baru.",
+  "a2": "Unduh di App Store",
+  "h33": "Web",
+  "p5": "Buka di peramban Anda. Tidak perlu memasang apa pun.",
+  "p6": "tcmobile.app",
+  "a3": "Buka tcmobile.app",
+  "p7": "Ada pertanyaan? <a href=\"https://unfoldingword.org/contact\">Hubungi unfoldingWord</a> &middot; <a href=\"https://github.com/unfoldingWord/tc-mobile\">Kode sumber di GitHub</a>"
+ }
+}

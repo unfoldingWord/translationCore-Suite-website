@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "title": "Pelatihan dan Dukungan | translationCore",
+  "description": "Pelatihan, arahan, dan cerita Alkitab bagi penerjemah: Foundations BT, Church-Based Training, BT Servant, dan Open Bible Stories."
+ },
+ "hero": {
+  "p": "<a href=\"/\" style=\"color:#CDEBF1\">Beranda</a> &nbsp;/&nbsp; Pelatihan &amp; Dukungan",
+  "h1": "Dukungan bagi setiap penerjemah",
+  "p2": "Pelatihan, arahan, dan cerita Alkitab dari berbagai inisiatif dengan satu tujuan: Alkitab dalam setiap bahasa.",
+  "a": "Lihat di bawah"
+ },
+ "initiatives": {
+  "h2": "Pelatihan dan arahan",
+  "p": "Masing-masing menolong penerjemah dan gereja. Semuanya dapat digunakan bersama translationCore.",
+  "h3": "Foundations BT",
+  "p2": "Awal yang terarah untuk penerjemahan Alkitab yang dipimpin gereja.",
+  "a": "Kunjungi Foundations BT",
+  "h32": "Church-Based Training",
+  "p3": "Memperlengkapi gereja untuk ikut serta dalam penerjemahan.",
+  "a2": "Kunjungi Church-Based Training",
+  "h33": "BT Servant",
+  "p4": "Pendamping AI yang bersandar pada sumber tepercaya. Ajukan pertanyaan tentang suatu perikop.",
+  "a3": "Coba BT Servant",
+  "h34": "Open Bible Stories",
+  "p5": "50 cerita Alkitab bergambar yang sederhana.",
+  "a4": "Kunjungi Open Bible Stories"
+ },
+ "help": {
+  "h2": "Butuh bantuan?",
+  "h3": "Discord",
+  "p": "Ajukan pertanyaan dan berbincang dengan komunitas.",
+  "a": "Bergabung di Discord kami",
+  "h32": "Hubungi unfoldingWord",
+  "p2": "Punya pertanyaan untuk tim unfoldingWord? Silakan hubungi kami.",
+  "a2": "Hubungi kami"
+ },
+ "academy": {
+  "h2": "Akademi Penerjemahan",
+  "p": "Panduan teori dan praktik penerjemahan, gratis dibaca secara daring.",
+  "a": "Lihat Akademi Penerjemahan"
+ }
+}
