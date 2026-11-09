@@ -1,8 +1,7 @@
 # One canonical host. https://translationcore.com is canonical (the `site` in
-# astro.config.mjs and every canonical, hreflang, sitemap and JSON-LD URL);
-# www is 301'd to it. Host rules only fire when BOTH hostnames are attached to
-# the Pages project as custom domains. Host rules must come first.
-https://www.translationcore.com/*  https://translationcore.com/:splat  301
+# astro.config.mjs and every canonical, hreflang, sitemap and JSON-LD URL).
+# www → apex is NOT done here: Pages ignores domain-level rules in this file.
+# It is the zone Redirect Rule `www_to_apex` (see docs/deployment.md).
 
 # Addresses of the previous translationCore site (the Netlify version,
 # archived in archive/old-site/), so existing links keep working.
