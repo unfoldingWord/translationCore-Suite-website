@@ -112,7 +112,7 @@ There is no cookie banner, which matches openbiblestories.org. The footer links 
 
 - HTML: `public, max-age=300, s-maxage=86400, stale-while-revalidate=86400`. Browsers revalidate after five minutes, and the edge holds pages until the next deploy purges them.
 - `/assets/img/*` and `/assets/fonts/*`: one year, `immutable`. `/assets/js/*` and `/assets/css/*`: `no-cache` plus `s-maxage`, because they are edited in place under the same filenames.
-- `https://www.translationcore.com/*` → apex (301). This rule fires only when both hostnames are attached to the Pages project.
+- `www.translationcore.com` → apex (301) is **not** in `_redirects`: Cloudflare Pages ignores domain-level rules there. It is the zone Redirect Rule `www_to_apex` (see `docs/deployment.md`).
 - Old Netlify-site addresses: `/translationcore/` and `/tc4/` → `/desktop/`; `/translation-helps/` → `/resources/`. `/resources/` keeps the old section anchors (`#translation-words`, …), so deep links still land on the right section. The static test build's `*.html` names → their trailing-slash URLs.
 - Retiring a route is a two-part change: delete the page **and** add a `_redirects` rule. `check:routes` fails on a redirect whose target was not built, or one that chains.
 
