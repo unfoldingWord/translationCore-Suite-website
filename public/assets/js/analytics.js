@@ -4,7 +4,7 @@
  */
 (function () {
   // The ID comes from the script tag (src/components/GoogleAnalytics.astro).
-  var GA_ID = (document.currentScript && document.currentScript.getAttribute('data-ga-id')) || 'G-LT1CE2F1PZ';
+  var GA_ID = (document.currentScript && document.currentScript.getAttribute('data-ga-id')) || 'G-6M1H39SBXH';
   if (!/^G-[A-Z0-9]{6,}$/.test(GA_ID)) return;
   // Only count real visits to the live site, so test deployments do not pollute the data.
   // To test on another address (for example a pages.dev preview), add it to this list.

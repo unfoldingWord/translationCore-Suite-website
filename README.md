@@ -104,7 +104,7 @@ curl -fsS https://translationcore.com/robots.txt > /tmp/robots.txt \
 
 ## Google Analytics
 
-`src/components/GoogleAnalytics.astro` loads `public/assets/js/analytics.js` in production builds only, with GA4 measurement ID `G-LT1CE2F1PZ` (override with `PUBLIC_GA_MEASUREMENT_ID`). The script records page views (IP anonymization on) and three click events: `download_click` (installer and PDF downloads), `store_click` (Google Play and App Store) and `partner_click` (BT Servant, Foundations BT, Church-Based Training, Open Bible Stories and Discord). It runs only on `translationcore.com` and `www.translationcore.com`, so pages.dev previews send nothing. To check the tag on a preview, add that hostname to `HOSTS` in the script, use Realtime in Google Analytics, and remove it again.
+`src/components/GoogleAnalytics.astro` loads `public/assets/js/analytics.js` in production builds only, with GA4 measurement ID `G-6M1H39SBXH` (override with `PUBLIC_GA_MEASUREMENT_ID`). The script records page views (IP anonymization on) and three click events: `download_click` (installer and PDF downloads), `store_click` (Google Play and App Store) and `partner_click` (BT Servant, Foundations BT, Church-Based Training, Open Bible Stories and Discord). It runs only on `translationcore.com` and `www.translationcore.com`, so pages.dev previews send nothing. To check the tag on a preview, add that hostname to `HOSTS` in the script, use Realtime in Google Analytics, and remove it again.
 
 There is no cookie banner, which matches openbiblestories.org. The footer links the Privacy Policy, which names Google Analytics.
 
