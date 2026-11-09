@@ -14,6 +14,11 @@
 /translation-helps   /resources/  301
 /translation-helps/* /resources/  301
 
+# /home was the homepage of an older site. Google still crawls it (Search
+# Console listed it as a 404 in Nov 2026), so send it to the new homepage.
+/home                /            301
+/home/*              /            301
+
 # The static test build used .html file names; Pages would serve the
 # extensionless form, but these send them straight to the canonical
 # trailing-slash URL in one hop.

@@ -8,6 +8,7 @@ What to do once translationcore.com is served by the new site (see `deployment.m
 2. **Sitemaps** → submit `https://translationcore.com/sitemap-index.xml`. It lists `sitemap-pages.xml` (the 6 localized pages in 16 languages, with hreflang, plus the 2 legal pages) and `sitemap-help.xml` (the Desktop help pages).
 3. **URL inspection** on `/`, `/desktop/` and one locale (for example `/es/`) → Request indexing.
 4. Bing Webmaster Tools → **Import from Google Search Console** (or add the site and submit the same sitemap). Bing also feeds DuckDuckGo and ChatGPT search.
+5. Cloudflare → translationcore.com → **Caching → Configuration → Crawler Hints**: on (since Nov 9, 2026). Cloudflare sends IndexNow notices to Bing, Yandex and the other IndexNow engines when pages change, so no IndexNow key file is needed in `public/`.
 
 ## What to watch
 
