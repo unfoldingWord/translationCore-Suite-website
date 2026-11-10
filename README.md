@@ -120,7 +120,7 @@ There is no cookie banner, which matches openbiblestories.org. The footer links 
 
 Deployed to **Cloudflare Pages**: project `translationcore-website`, production branch `main`, via the Git integration. Build command `npm run build`, output directory `dist` (also declared in `wrangler.jsonc`). Every other branch gets a preview deployment at `<branch>.translationcore-website.pages.dev`.
 
-The one-time setup (creating the project, attaching `translationcore.com` and `www.translationcore.com`, the bot settings) is in **`docs/deployment.md`**. There is no nightly rebuild: unlike openbiblestories.org, nothing on this site is read from Door43 at build time. The Resources page looks up the latest release links in the browser.
+The one-time setup (creating the project, attaching `translationcore.com` and `www.translationcore.com`, the bot settings) is in **`docs/deployment.md`**. There is no nightly rebuild: unlike openbiblestories.org, nothing on this site is read from Door43 at build time. The Resources page looks up the latest release links in the browser, and so do the Desktop page's Download buttons (`public/assets/js/desktop-download.js`, which reads the newest translationCore4 release from the GitHub API); a new tC4 release needs no change or rebuild here. `DESKTOP_VERSION` in `src/lib/jsonld.ts` is only the no-JS fallback and the version in the structured data, so bump it now and then.
 
 ## Migration from the static build
 
