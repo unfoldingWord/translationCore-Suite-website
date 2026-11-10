@@ -42,15 +42,20 @@ export const PAGE_UPDATED: Record<PageSlug, string> = {
  *  page's <head> as the site's update feed. */
 export const RELEASES_FEED_URL = 'https://github.com/unfoldingWord/translationCore4/releases.atom';
 
-// The current Desktop release, as linked from the Download section of
-// /desktop/ (src/components/pages/DesktopPage.astro). Update both together.
-export const DESKTOP_VERSION = '4.1.0-preview';
+// The Desktop release written into the static HTML of /desktop/
+// (src/components/pages/DesktopPage.astro), the JSON-LD and /ai/summary.json.
+// In the browser, /assets/js/desktop-download.js repoints the Download buttons
+// at the newest GitHub release, so for the buttons this is only the fallback
+// (no JS, or the GitHub API unreachable). Bump it now and then so the fallback
+// and what search engines see stay close to current.
+export const DESKTOP_VERSION = '4.1.0-preview2';
 const DESKTOP_RELEASE = `https://github.com/unfoldingWord/translationCore4/releases/download/v${DESKTOP_VERSION}`;
-export const DESKTOP_DOWNLOADS = [
-  `${DESKTOP_RELEASE}/translationCore4-${DESKTOP_VERSION}-windows-x64.exe`,
-  `${DESKTOP_RELEASE}/translationCore4-${DESKTOP_VERSION}-macos-arm64-unsigned.pkg`,
-  `${DESKTOP_RELEASE}/translationCore4-${DESKTOP_VERSION}-linux-x64.zip`,
-];
+export const DESKTOP_DOWNLOAD = {
+  windows: `${DESKTOP_RELEASE}/translationCore4-${DESKTOP_VERSION}-windows-x64.exe`,
+  macos: `${DESKTOP_RELEASE}/translationCore4-${DESKTOP_VERSION}-macos-arm64-unsigned.pkg`,
+  linux: `${DESKTOP_RELEASE}/translationCore4-${DESKTOP_VERSION}-linux-x64.zip`,
+};
+export const DESKTOP_DOWNLOADS = Object.values(DESKTOP_DOWNLOAD);
 const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=org.unfoldingword.tcmobile';
 const APP_STORE_URL = 'https://apps.apple.com/us/app/translationcore-mobile/id6811348123';
 const MOBILE_WEB_URL = 'https://tcmobile.app';
