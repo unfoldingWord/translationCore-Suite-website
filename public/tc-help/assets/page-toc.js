@@ -37,6 +37,18 @@
   var ul = document.createElement('ul');
   ul.className = 'page-toc-list';
 
+  // Give any repeated heading id a unique suffix so each Contents link
+  // jumps to its own heading and only one link is marked active.
+  var seen = {};
+  headings.forEach(function (h) {
+    if (seen[h.id]) {
+      var base = h.id, n = 2;
+      while (document.getElementById(base + '-' + n)) n++;
+      h.id = base + '-' + n;
+    }
+    seen[h.id] = true;
+  });
+
   headings.forEach(function (h) {
     var li = document.createElement('li');
     li.className = h.tagName === 'H3' ? 'page-toc-h3' : 'page-toc-h2';
