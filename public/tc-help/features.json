@@ -880,7 +880,7 @@
         {
           "n": 1,
           "file": "img/un-notes-1.png",
-          "caption": "The Notes tab in Understand on Titus 1. The chapter introduction card is at the top with Show more, and the Translation Academy article Abstract Nouns is open below it with a close button (✕).",
+          "caption": "The Notes tab in Understand on Titus 1. Notes are grouped under INTRODUCTION and VERSE 1. Article links use the real name, such as Abstract Nouns →. There are no NOTE badges.",
           "exists": true
         }
       ],
@@ -906,7 +906,7 @@
         {
           "n": 1,
           "file": "img/un-word-links-1.png",
-          "caption": "Understand on Titus 1:1–3 with the Words tab open. The key word card Paul is selected, marked 1, and Paul is highlighted in the passage. The article Paul, Saul is open under the cards, marked 2.",
+          "caption": "Understand on Titus 1 with the Words tab open. Each card shows the first paragraph of its article and Read the article →. There are no KEY WORD badges.",
           "exists": true
         }
       ],
@@ -1020,7 +1020,7 @@
         {
           "n": 1,
           "file": "img/ck-tool-picker-1.png",
-          "caption": "Choose a checking tool for Sample Titus. Labels point to the Modes switch with Check selected, the four tool cards (Translation Words, Translation Notes, Align and Community Checking), the save status, a card's progress line and Start checking link, the Align card's verse count and the Community Checking card.",
+          "caption": "Choose a checking tool for Sample Titus. Labels point to the Modes switch with Check selected, the four tool cards (Translation Words, Translation Notes, Align and Community Checking), the save status, a card&#x27;s progress line and Start checking link, the Align card&#x27;s verse count and the Community Checking card.",
           "exists": true
         }
       ],
@@ -1314,7 +1314,7 @@
         {
           "n": 2,
           "file": "img/al-open-2.png",
-          "caption": "A verse in Align from a book that was added from an aligned USFM file. The notice says This verse already holds an alignment. Titus was added from a file that already holds alignments. tC4 keeps this verse's alignment as it is. You cannot change it in tC4 yet.",
+          "caption": "A verse in Align from a book that was added from an aligned USFM file. The notice says This verse already holds an alignment. Titus was added from a file that already holds alignments. tC4 keeps this verse&#x27;s alignment as it is. You cannot change it in tC4 yet.",
           "exists": true
         }
       ],
@@ -1346,14 +1346,14 @@
         },
         {
           "n": 2,
-          "file": "img/al-link-words-2.png",
-          "caption": "The word bank for Titus 1:1 in build 4.0.0-rc.2. Words that appear more than once in the verse carry a small number: de¹ to de⁵, y¹ and y², la¹ to la³. The cards of God show Dios¹ under Θεοῦ¹ and Dios² under Θεοῦ².",
+          "file": "img/al-link-words-3.png",
+          "caption": "After la¹, fe and los were selected together and placed on the card the faith (πίστιν) in one move, the card shows them in verse order: la¹ fe los.",
           "exists": true
         },
         {
           "n": 3,
-          "file": "img/al-link-words-3.png",
-          "caption": "After la¹, fe and los were selected together and placed on the card the faith (πίστιν) in one move, the card shows them in verse order: la¹ fe los.",
+          "file": "img/al-link-words-2.png",
+          "caption": "The word bank for Titus 1:1. Words that appear more than once in the verse carry a small number: de¹ to de⁵, y¹ and y², la¹ to la³. The cards of God show Dios¹ under Θεοῦ¹ and Dios² under Θεοῦ².",
           "exists": true
         }
       ],
@@ -1459,7 +1459,13 @@
         {
           "n": 1,
           "file": "img/al-mark-valid-1.png",
-          "caption": "The bottom of a verse in Align: the last source cards and the row under them: ← Previous, ✓ Mark valid and Next →.",
+          "caption": "The Align footer row: ← Previous, ✓ Mark valid, Next →, and Clear alignments.",
+          "exists": true
+        },
+        {
+          "n": 2,
+          "file": "img/al-mark-valid-2.png",
+          "caption": "Confirmation dialog: Clear the alignments of Titus 1:1? with Cancel and a red Clear alignments button.",
           "exists": true
         }
       ],
@@ -1778,7 +1784,7 @@
         {
           "n": 2,
           "file": "img/rs-checking-language-2.png",
-          "caption": "The confirmation from an earlier build: Change checking language to Spanish (Latin American)? 3 decisions in Titus were made against the notes you are leaving. Titus · Translation Notes: 0 carried over, 3 to check again. Keep en, and Change to Spanish (Latin American).",
+          "caption": "The confirmation: Change checking language to English? 4 decisions in Titus were made against the notes you are leaving. Titus · Translation Words: 2 carried over, 0 to check again. Titus · Translation Notes: 0 carried over, 1 to check again. Keep Español (Latinoamérica), and Change to English.",
           "exists": true
         }
       ],
@@ -1815,7 +1821,7 @@
         {
           "n": 2,
           "file": "img/rs-upgrade-helps-2.png",
-          "caption": "From an earlier build, after Check for updates for a project made with older helps: Primary set · en and Fallback set · en each offer Upgrade 4 resource(s), en_tn v86 → v91, en_tw v87 → v91, en_ta v86 → v91, en_tq v89 → v91. Scripture texts below.",
+          "caption": "After Check for updates for a project made with older helps: Primary set · en and Fallback set · en each offer Upgrade 4 resource(s), en_tn v86 → v91, en_tw v87 → v91, en_ta v86 → v91, en_tq v89 → v91. Scripture texts below.",
           "exists": true
         }
       ],
@@ -1852,7 +1858,7 @@
         {
           "n": 2,
           "file": "img/rs-upgrade-texts-2.png",
-          "caption": "From an earlier build, the Scripture texts list after Check for updates: Original-language text hbo_uhb v2.1.30 → v3.0.0, and Gateway Bible en_ult and en_ust v89 → v91, each with Upgrade.",
+          "caption": "The Scripture texts list after Check for updates: Original-language text hbo_uhb v2.1.30 → v3.0.0, and Gateway Bible en_ult and en_ust v89 → v91, each with Upgrade.",
           "exists": true
         }
       ],
@@ -1881,7 +1887,7 @@
         {
           "n": 1,
           "file": "img/rs-guided-fix-1.png",
-          "caption": "From an earlier build: Translation Notes needs a resource that is not on this computer. The project pins en_tn v87. 1 · Download the pinned version, with Download it greyed out offline. 2 · Use a version that is installed, with en_tn v91 installed. 3 · Sideload it from a file.",
+          "caption": "Translation Words needs a resource that is not on this computer. The project pins es-419_twl · v18 for Titus. 1 · Download the pinned version, with Download it. 2 · Use a version that is installed: no other version of es-419_twl is installed on this computer. 3 · Sideload it from a file, with a drop zone for the zip. Close.",
           "exists": true
         }
       ],
@@ -2010,7 +2016,7 @@
         {
           "n": 3,
           "file": "img/st-app-language-3.png",
-          "caption": "Home behind the App language dialog after choosing Español (Latinoamérica). The whole screen has already switched to Spanish, and the dialog's buttons now read Cancelar and Aplicar.",
+          "caption": "Home behind the App language dialog after choosing Español (Latinoamérica). The whole screen has already switched to Spanish, and the dialog&#x27;s buttons now read Cancelar and Aplicar.",
           "exists": true
         }
       ],
@@ -2087,7 +2093,7 @@
         {
           "n": 1,
           "file": "img/ts-crash-recovery-1.png",
-          "caption": "From an earlier build: the Window menu of the desktop app, with Reload Ctrl+R, Force Reload Ctrl+Shift+R and Toggle Developer Tools Ctrl+Shift+I.",
+          "caption": "The Window menu of the desktop app, with Reload Ctrl+R, Force Reload Ctrl+Shift+R and Toggle Developer Tools Ctrl+Shift+I.",
           "exists": true
         }
       ],
@@ -2251,13 +2257,13 @@
     },
     {
       "id": "ts-not-yet",
-      "title": "Features not built yet",
+      "title": "Features tC4 doesn’t have",
       "section": "troubleshooting",
       "section_title": "Troubleshooting and known limits",
       "status": "not-yet",
       "since": "",
       "where": "",
-      "summary": "Things people often ask for that tC4 doesn’t do yet.",
+      "summary": "Things people often ask for that this version of tC4 doesn’t do.",
       "ui_labels": [
         "Add books from USFM files",
         "Check for updates"
