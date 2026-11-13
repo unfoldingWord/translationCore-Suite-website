@@ -183,7 +183,7 @@ export function mobileNode(inLanguage: string) {
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
     license: SOFTWARE_LICENSE_URL,
     image: `${SITE_URL}/assets/img/tc-mobile-logo.png`,
-    screenshot: `${SITE_URL}/assets/img/tc-mobile-record.png`,
+    screenshot: `${SITE_URL}/assets/img/tc-mobile-phone-record.png`,
     publisher: { '@id': PUBLISHER_ID },
     sameAs: [PLAY_STORE_URL, APP_STORE_URL, 'https://github.com/unfoldingWord/tc-mobile'],
   };
