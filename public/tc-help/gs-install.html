@@ -34,7 +34,7 @@
 <li><a href="bp-new-bible">Create a Bible project</a></li>
 <li><a href="bp-add-book">Add a book</a></li>
 <li><a href="bp-open-book">Open a book and move between chapters</a></li>
-<li><a href="bp-import">Import a project (translationCore 3, USFM or Scripture Burrito)</a></li>
+<li><a href="bp-import">Import a translationCore 3 project</a></li>
 <li><a href="bp-export-pdf">Export a book as PDF</a></li>
 <li><a href="bp-export-usfm">Export a book as USFM (aligned or plain)</a></li>
 <li><a href="bp-export-burrito">Export a project as a Scripture Burrito</a></li>
@@ -106,7 +106,7 @@
 <li><a href="ts-platform">Windows, macOS and Linux notes</a></li>
 <li><a href="ts-share-door43">Share to Door43</a></li>
 <li><a href="ts-team-sync">Working as a team on several computers</a></li>
-<li><a href="ts-not-yet">Features not built yet</a></li>
+<li><a href="ts-not-yet">Features tC4 doesn’t have</a></li>
 </ul></details>
 <details class="nav-group"><summary><a href="section-whats-new">Release notes</a></summary><ul>
 <li><a href="wn-alpha1">alpha.1 — First public build</a></li>
@@ -118,6 +118,7 @@
 <li><a href="wn-add-a-project">Sep 27, 2026 — one + Add a project button on Home</a></li>
 <li><a href="wn-rc1">What&#x27;s new in 4.0 rc.1</a></li>
 <li><a href="wn-rc2">What&#x27;s new in 4.0 rc.2</a></li>
+<li><a href="wn-4.1">What&#x27;s new in 4.1</a></li>
 </ul></details>
 </nav>
 <main id="main" class="content">
@@ -134,15 +135,16 @@
 <ol start="5"><li>Click <span class="ui">+ Add a project</span> to start your first project. See <a href="gs-home">The Home screen</a>.</li></ol>
 <p>The warnings in step 2 appear because the installers are not signed yet. They only appear the first time.</p>
 <h2 id="good-to-know">Good to know</h2>
-<ul><li>The window's menu bar has <strong>Edit</strong>, <strong>View</strong> and <strong>Window</strong>. <strong>Window › Reload</strong> reloads the screen.</li></ul>
+<ul><li><strong>Installing a newer build:</strong> install it over the one you have; you don't need to remove the old one first. Your projects and settings stay where they are.<ul><li>On macOS, if translationCore 4 is already on the Mac, the installer lists the copies it found and asks <em>Replace it with this version? Your projects and settings stay where they are.</em> Click <strong>Replace</strong>. <strong>Cancel</strong> (or no answer for 5 minutes) installs nothing, and the installer then says the installation failed. If an older copy can't be removed, the installer names it so you can move it to the Trash. The tC4 4.0 beta (<em>translationCore4</em>) is a different app and stays.</li><li>On Windows, Setup installs over the older build in the same folder and removes the older build's program files first.</li></ul></li><li>The window's menu bar has <strong>Edit</strong>, <strong>View</strong> and <strong>Window</strong>. <strong>Window › Reload</strong> reloads the screen.</li></ul>
 <h2 id="if-it-doesn-t-start">If it doesn't start</h2>
 <ul><li><strong>Windows says "The backend could not be started":</strong> install the Microsoft Visual C++ Redistributable (x64), then start tC4 again.</li><li><strong>Nothing new opens:</strong> only one copy of tC4 runs at a time. Starting it again brings back the window that is already open.</li><li><strong>"translationCore4 could not start … Bundled archive checksum mismatch":</strong> the download is damaged. Click OK, download it again and start the new copy.</li><li><strong>You closed tC4 while it was preparing:</strong> start it again. It continues and cleans up.</li><li><strong>Linux prints a line about "--no-sandbox":</strong> that is normal for the zip.</li></ul>
 <p>tC4 is still a pre-release. Keep a copy of important work elsewhere.</p>
-<h2 id="related">Related topics</h2><ul class="related"><li><a href="gs-home">The Home screen</a></li><li><a href="bp-import">Import a project (translationCore 3, USFM or Scripture Burrito)</a></li><li><a href="st-where-projects-live">Where your projects are stored</a></li><li><a href="ts-platform">Windows, macOS and Linux notes</a></li></ul>
+<h2 id="related">Related topics</h2><ul class="related"><li><a href="gs-home">The Home screen</a></li><li><a href="bp-import">Import a translationCore 3 project</a></li><li><a href="st-where-projects-live">Where your projects are stored</a></li><li><a href="ts-platform">Windows, macOS and Linux notes</a></li></ul>
 </main>
 </div>
 <footer class="sitefoot">The app is the source of truth: if this page and the app disagree, the app is right — please tell us. <a href="section-whats-new">Release notes</a> · <a href="/">translationcore.com</a></footer>
 <script src="search-index.js"></script>
 <script src="assets/search.js"></script>
+<script src="assets/page-toc.js"></script>
 </body>
 </html>

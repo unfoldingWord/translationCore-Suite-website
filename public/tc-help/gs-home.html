@@ -34,7 +34,7 @@
 <li><a href="bp-new-bible">Create a Bible project</a></li>
 <li><a href="bp-add-book">Add a book</a></li>
 <li><a href="bp-open-book">Open a book and move between chapters</a></li>
-<li><a href="bp-import">Import a project (translationCore 3, USFM or Scripture Burrito)</a></li>
+<li><a href="bp-import">Import a translationCore 3 project</a></li>
 <li><a href="bp-export-pdf">Export a book as PDF</a></li>
 <li><a href="bp-export-usfm">Export a book as USFM (aligned or plain)</a></li>
 <li><a href="bp-export-burrito">Export a project as a Scripture Burrito</a></li>
@@ -106,7 +106,7 @@
 <li><a href="ts-platform">Windows, macOS and Linux notes</a></li>
 <li><a href="ts-share-door43">Share to Door43</a></li>
 <li><a href="ts-team-sync">Working as a team on several computers</a></li>
-<li><a href="ts-not-yet">Features not built yet</a></li>
+<li><a href="ts-not-yet">Features tC4 doesn’t have</a></li>
 </ul></details>
 <details class="nav-group"><summary><a href="section-whats-new">Release notes</a></summary><ul>
 <li><a href="wn-alpha1">alpha.1 — First public build</a></li>
@@ -118,6 +118,7 @@
 <li><a href="wn-add-a-project">Sep 27, 2026 — one + Add a project button on Home</a></li>
 <li><a href="wn-rc1">What&#x27;s new in 4.0 rc.1</a></li>
 <li><a href="wn-rc2">What&#x27;s new in 4.0 rc.2</a></li>
+<li><a href="wn-4.1">What&#x27;s new in 4.1</a></li>
 </ul></details>
 </nav>
 <main id="main" class="content">
@@ -125,27 +126,28 @@
 <h1>The Home screen</h1>
 <!-- tracking: status=shipped since=alpha.4 -->
 <p class="lede">Home lists your projects. From here you open a book, go back to where you stopped, or add a project.</p>
-<figure class="shot-inline overview" id="shot-1"><a href="img/gs-home-1.png"><img src="img/gs-home-1.png" alt="The Home screen with one Bible project. Labels point to the translationCore logo, Resume, + Add a project, the Door43 account menu (Sign in, internet, Help and guides, App language, Report a problem, About), a book tile, Add a book, Sync with Door43 and Settings." width="820" height="669" loading="lazy"></a></figure>
+<figure class="shot-inline overview" id="shot-1"><a href="img/gs-home-1.png"><img src="img/gs-home-1.png" alt="The Home screen with a Resume banner and a Bible project card. Labels point to the translationCore logo, Resume, + Add a project, the Door43 account menu (Sign in, internet, Help and guides, App language, Report a problem, About), a book tile, Add a book, Share on Door43, Save or receive work by USB, and Settings." width="900" height="608" loading="lazy"></a></figure>
 <h2 id="open-a-book">Open a book</h2>
 <ol><li>Click a book tile on a project card. A book you have not opened before starts in <span class="ui">Understand</span>. A book you have worked in opens where you left it.</li><li>To come back to Home, click the translationCore logo at the top left.</li></ol>
 <p>To go straight back to the verse you last edited, click the blue banner or <span class="ui">Resume →</span>. See <a href="gs-resume">Resume where you left off</a>.</p>
 <p>The project you used last is always at the top of the list. The line under a project's name shows its language code, how many books it has, and whether it is only on this computer or shared on Door43.</p>
 <h2 id="add-a-project">Add a project</h2>
-<p>Click <span class="ui">+ Add a project</span>, then choose one of the three cards.</p>
-<figure class="shot-inline" id="shot-2"><a href="img/gs-home-2.png"><img src="img/gs-home-2.png" alt="The Add a project dialog with three numbered choices: 1 New Bible, 2 New Open Bible Stories, 3 Import a project." width="560" height="370" loading="lazy"></a></figure>
-<ol><li><span class="ui">New Bible</span> starts a new Bible translation. See <a href="bp-new-bible">Create a Bible project</a>.</li><li><span class="ui">New Open Bible Stories</span> starts the 50 stories. See <a href="obs-create">Start an Open Bible Stories project</a>.</li><li><span class="ui">Import a project</span> brings in work from translationCore 3, USFM files or a Scripture Burrito. See <a href="bp-import">Import a project</a>.</li></ol>
+<p>Click <span class="ui">+ Add a project</span>, then choose one of the five cards.</p>
+<figure class="shot-inline" id="shot-2"><a href="img/gs-home-2.png"><img src="img/gs-home-2.png" alt="The Add a project dialog with five numbered choices: 1 New Bible, 2 New Open Bible Stories, 3 Import a project, 4 Open a project from Door43, 5 Receive work from a file." width="548" height="544" loading="lazy"></a></figure>
+<ol><li><span class="ui">New Bible</span> starts a new Bible translation. See <a href="bp-new-bible">Create a Bible project</a>.</li><li><span class="ui">New Open Bible Stories</span> starts the 50 stories. See <a href="obs-create">Start an Open Bible Stories project</a>.</li><li><span class="ui">Import a project</span> brings in a translationCore 3 project. See <a href="bp-import">Import a translationCore 3 project</a>. To start from USFM files or a Scripture Burrito, choose <span class="ui">New Bible</span>.</li><li><span class="ui">Open a project from Door43</span> opens a Bible your team shares on Door43. See <a href="ts-team-sync">Working as a team on several computers</a>.</li><li><span class="ui">Receive work from a file</span> opens a teammate's exchange file from a USB stick.</li></ol>
 <p>To close the dialog without choosing, press Esc or click ✕.</p>
 <h2 id="change-a-project">Change a project</h2>
-<ul><li><span class="ui">Settings</span> on the card opens <span class="ui">Project settings</span>: the checking language, text direction and script font. See <a href="st-project-settings">Project settings</a>.</li><li><span class="ui">Add a book</span> adds another book to the project.</li><li><span class="ui">Share on Door43</span> uploads a copy of the project to Door43. See <a href="ts-share-door43">Share to Door43</a>.</li></ul>
+<ul><li><span class="ui">Settings</span> on the card opens <span class="ui">Project settings</span>: the checking language, text direction and script font. See <a href="st-project-settings">Project settings</a>.</li><li><span class="ui">Add a book</span> adds another book to the project.</li><li><span class="ui">Share on Door43</span> uploads a copy of the project to Door43. See <a href="ts-share-door43">Share to Door43</a>.</li><li><span class="ui">Save or receive work by USB</span> saves your work to a file, or reads a teammate's, for teams that work without the internet.</li></ul>
 <h2 id="the-account-menu">The account menu</h2>
 <p>Click the round person icon at the top right. The menu is the same on Home and inside a project.</p>
 <figure class="shot-inline" id="shot-3"><a href="img/gs-home-3.png"><img src="img/gs-home-3.png" alt="The account menu, open: Sign in to Door43, Use the internet, Help and guides, App language, Report a problem and About translationCore." width="640" height="371" loading="lazy"></a></figure>
-<ul><li><span class="ui">Sign in to Door43</span> so you can share projects.</li><li><span class="ui">Use the internet</span> turns the internet on or off for translationCore. While it is off, a step that needs the internet asks first.</li><li><span class="ui">Help and guides</span> opens the offline help that ships with the app. You can browse and search with no internet.</li><li><span class="ui">App language</span> changes the language of the menus and buttons. See <a href="st-app-language">Change the app language</a>.</li><li><span class="ui">Report a problem</span> opens a form that sends a message to the unfoldingWord help desk.</li><li><span class="ui">About translationCore</span> shows the version and the license.</li></ul>
-<h2 id="related">Related topics</h2><ul class="related"><li><a href="gs-resume">Resume where you left off</a></li><li><a href="bp-new-bible">Create a Bible project</a></li><li><a href="obs-create">Start an Open Bible Stories project</a></li><li><a href="bp-import">Import a project (translationCore 3, USFM or Scripture Burrito)</a></li><li><a href="st-project-settings">Project settings</a></li><li><a href="st-app-language">Change the app language</a></li><li><a href="ts-share-door43">Share to Door43</a></li></ul>
+<ul><li><span class="ui">Sign in to Door43</span> so you can share projects.</li><li><span class="ui">Use the internet</span> turns the internet on or off for translationCore. While it is off, a step that needs the internet asks first.</li><li><span class="ui">Help and guides</span> opens the offline help that ships with the app. You can browse and search with no internet.</li><li><span class="ui">App language</span> changes the language of the menus and buttons. See <a href="st-app-language">Change the app language</a>.</li><li><span class="ui">Report a problem</span> opens a form that sends a message to the unfoldingWord help desk.</li><li><span class="ui">About translationCore</span> shows the version, the copyright and trademark line, the license and the third-party licenses.</li></ul>
+<h2 id="related">Related topics</h2><ul class="related"><li><a href="gs-resume">Resume where you left off</a></li><li><a href="bp-new-bible">Create a Bible project</a></li><li><a href="obs-create">Start an Open Bible Stories project</a></li><li><a href="bp-import">Import a translationCore 3 project</a></li><li><a href="st-project-settings">Project settings</a></li><li><a href="st-app-language">Change the app language</a></li><li><a href="ts-share-door43">Share to Door43</a></li></ul>
 </main>
 </div>
 <footer class="sitefoot">The app is the source of truth: if this page and the app disagree, the app is right — please tell us. <a href="section-whats-new">Release notes</a> · <a href="/">translationcore.com</a></footer>
 <script src="search-index.js"></script>
 <script src="assets/search.js"></script>
+<script src="assets/page-toc.js"></script>
 </body>
 </html>

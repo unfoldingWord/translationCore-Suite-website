@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Create a Bible project · translationCore 4 Help</title>
-<meta name="description" content="Create a new, empty Bible translation project. You add books right after.">
+<meta name="description" content="Start a new Bible translation project: blank, from USFM files, or from a Scripture Burrito. You add books right after.">
 <link rel="stylesheet" href="assets/style.css">
 <link rel="icon" type="image/png" href="assets/tc_logo.png">
 <link rel="apple-touch-icon" href="assets/tc_logo.png">
@@ -34,7 +34,7 @@
 <li><a href="bp-new-bible" class="current" aria-current="page">Create a Bible project</a></li>
 <li><a href="bp-add-book">Add a book</a></li>
 <li><a href="bp-open-book">Open a book and move between chapters</a></li>
-<li><a href="bp-import">Import a project (translationCore 3, USFM or Scripture Burrito)</a></li>
+<li><a href="bp-import">Import a translationCore 3 project</a></li>
 <li><a href="bp-export-pdf">Export a book as PDF</a></li>
 <li><a href="bp-export-usfm">Export a book as USFM (aligned or plain)</a></li>
 <li><a href="bp-export-burrito">Export a project as a Scripture Burrito</a></li>
@@ -106,7 +106,7 @@
 <li><a href="ts-platform">Windows, macOS and Linux notes</a></li>
 <li><a href="ts-share-door43">Share to Door43</a></li>
 <li><a href="ts-team-sync">Working as a team on several computers</a></li>
-<li><a href="ts-not-yet">Features not built yet</a></li>
+<li><a href="ts-not-yet">Features tC4 doesn’t have</a></li>
 </ul></details>
 <details class="nav-group"><summary><a href="section-whats-new">Release notes</a></summary><ul>
 <li><a href="wn-alpha1">alpha.1 — First public build</a></li>
@@ -118,28 +118,45 @@
 <li><a href="wn-add-a-project">Sep 27, 2026 — one + Add a project button on Home</a></li>
 <li><a href="wn-rc1">What&#x27;s new in 4.0 rc.1</a></li>
 <li><a href="wn-rc2">What&#x27;s new in 4.0 rc.2</a></li>
+<li><a href="wn-4.1">What&#x27;s new in 4.1</a></li>
 </ul></details>
 </nav>
 <main id="main" class="content">
 <p class="crumbs"><a href="/tc-help/">Help</a> › <a href="section-bible-projects">Bible projects</a></p>
 <h1>Create a Bible project</h1>
 <!-- tracking: status=shipped since=alpha.1 -->
-<p class="lede">Create a new, empty Bible translation project. You add books right after.</p>
+<p class="lede">Start a new Bible translation project: blank, from USFM files, or from a Scripture Burrito. You add books right after.</p>
 <p>"You'll add books next. Everything here can be changed later."</p>
 <h2 id="steps">Steps</h2>
 <ol><li>On Home, click <span class="ui">+ Add a project</span>, then <span class="ui">New Bible</span> (1).</li></ol>
-<figure class="shot-inline" id="shot-1"><a href="img/bp-new-bible-1.png"><img src="img/bp-new-bible-1.png" alt="The Add a project dialog. New Bible, the first card, is marked 1." width="520" height="346" loading="lazy"></a></figure>
-<ol start="2"><li>Type a <span class="ui">Bible name</span>, for example <code>Kanuri Bible</code>.</li><li>Type the <span class="ui">Language name</span>. When a matching language appears in the list, choose it so <span class="ui">Code</span> fills in (for example <code>French (fr)</code> → <code>fr</code>). You can still type the code yourself.</li><li>Choose <span class="ui">Left to right</span> or <span class="ui">Right to left</span>.</li><li>Leave <span class="ui">Checking language</span> on English. It comes with the app, so you don't need to download anything.</li></ol>
-<figure class="shot-inline" id="shot-2"><a href="img/bp-new-bible-2.png"><img src="img/bp-new-bible-2.png" alt="The empty New Bible dialog: Bible name, Language name and Code, Text direction (Left to right selected), Checking language English, recommended and installed with the app, Script font Noto Sans (default), Versification folded away, and Cancel and Create Bible →." width="520" height="595" loading="lazy"></a></figure>
+<figure class="shot-inline" id="shot-1"><a href="img/bp-new-bible-1.png"><img src="img/bp-new-bible-1.png" alt="The Add a project dialog with five cards: New Bible, marked 1, New Open Bible Stories, Import a project, Open a project from Door43 and Receive work from a file." width="548" height="544" loading="lazy"></a></figure>
+<ol start="2"><li>New Bible asks <span class="ui">How do you want to start?</span> Choose <span class="ui">Blank</span> (1), <span class="ui">From USFM files</span> (2) or <span class="ui">From a Scripture Burrito</span> (3).</li></ol>
+<figure class="shot-inline" id="shot-2"><a href="img/bp-new-bible-2.png"><img src="img/bp-new-bible-2.png" alt="New Bible, How do you want to start?: Blank, Name the project, then add the books you will translate, marked 1; From USFM files, .usfm, .sfm or .txt · one or many, marked 2; From a Scripture Burrito, .zip · one Bible, marked 3." width="548" height="364" loading="lazy"></a></figure>
+<h2 id="blank">Start a blank Bible</h2>
+<ol><li>Click <span class="ui">Blank</span>.</li><li>Type a <span class="ui">Bible name</span>, for example <code>Kanuri Bible</code>.</li><li>Type the <span class="ui">Language name</span>. When a matching language appears in the list, choose it so <span class="ui">Code</span> fills in (for example <code>French (fr)</code> → <code>fr</code>). You can still type the code yourself.</li><li>Choose <span class="ui">Left to right</span> or <span class="ui">Right to left</span>.</li><li>Leave <span class="ui">Checking language</span> on English. It comes with the app, so you don't need to download anything.</li></ol>
+<figure class="shot-inline" id="shot-3"><a href="img/bp-new-bible-3.png"><img src="img/bp-new-bible-3.png" alt="The empty New Bible form: Bible name, Language name and Code, Text direction (Left to right selected), Checking language English, recommended and installed with the app, Script font Noto Sans (default), Versification folded away, and Cancel and Create Bible →." width="548" height="656" loading="lazy"></a></figure>
 <ol start="6"><li>Click <span class="ui">Create Bible →</span>. The <span class="ui">Add a book</span> dialog opens. Continue with <a href="bp-add-book">Add a book</a>.</li></ol>
-<p>To cancel, click <span class="ui">Cancel</span> or the ✕. Nothing is saved.</p>
+<h2 id="from-usfm">Start from USFM files</h2>
+<p>Use this when your translation is already in USFM files, one book per file. Each file becomes a book of the new project, with the file's text as its draft.</p>
+<ol><li>Click <span class="ui">From USFM files</span>.</li><li>Drop your files on <span class="ui">Drop your USFM files here, or browse</span>, or click it to choose them. Each file gets a row. A green dot says which book it adds, for example <span class="ui">Adds Titus</span>.</li><li>An orange dot means the file can't be used, and the row says why and on which line (1). Remove that file with its ✕, fix it, and add it again.</li></ol>
+<figure class="shot-inline" id="shot-4"><a href="img/bp-new-bible-4.png"><img src="img/bp-new-bible-4.png" alt="New Bible from USFM files: the drop zone, then three rows. TIT.usfm, Adds Titus, and sample-JON-span.usfm, Adds Jonah, have green dots. GEN-draft.usfm has an orange dot and says GEN-draft.usfm cannot be added: line 4: chapter 1 appears twice, marked 1. Back and a greyed-out Next →." width="548" height="574" loading="lazy"></a></figure>
+<ol start="4"><li>When every row is a book, click <span class="ui">Next →</span>.</li><li>Fill in the Bible name, language, code and direction as for a blank Bible. Under the form, <span class="ui">Books from your files</span> lists the books (1), and a note says which <span class="ui">Versification</span> the books' verse counts fit (2). Most projects keep it.</li></ol>
+<figure class="shot-inline" id="shot-5"><a href="img/bp-new-bible-5.png"><img src="img/bp-new-bible-5.png" alt="The New Bible form after From USFM files, scrolled down: Kanuri Bible, Kanuri, knc, Versification open with eng (default), Books from your files: Titus, Jonah, marked 1, and The books’ verse counts fit eng, marked 2. Cancel and Create Bible →." width="548" height="684" loading="lazy"></a></figure>
+<ol start="6"><li>Click <span class="ui">Create Bible →</span>. The project is made with all its books in one step, and <span class="ui">Add a book</span> opens in case you want more.</li></ol>
+<h2 id="from-burrito">Start from a Scripture Burrito</h2>
+<p>Use this for a Bible translation another tool saved as a Scripture Burrito <code>.zip</code>.</p>
+<ol><li>Click <span class="ui">From a Scripture Burrito</span>, then drop the <code>.zip</code> on <span class="ui">Drop your Scripture Burrito here, or browse</span>, or click it to choose it.</li><li>The form fills in from the Burrito: the name, language and code. Change them if you need to. <span class="ui">Books from the Scripture Burrito</span> lists its books (1). A Burrito with its own versification keeps it, and the form says <span class="ui">The Scripture Burrito's own versification is kept.</span></li></ol>
+<figure class="shot-inline" id="shot-6"><a href="img/bp-new-bible-6.png"><img src="img/bp-new-bible-6.png" alt="The New Bible form filled from a Scripture Burrito: Bible name Biblia Ejemplo, Language name Spanish (Latin America), Code es-419, Left to right, Checking language English, Script font Noto Sans (default). Books from the Scripture Burrito: Jonah, Titus is marked 1, then The Scripture Burrito’s own versification is kept. Cancel and Create Bible →." width="548" height="684" loading="lazy"></a></figure>
+<ol start="3"><li>Click <span class="ui">Create Bible →</span>. The books and any other files of the Burrito come into the new project, and <span class="ui">Add a book</span> opens.</li></ol>
+<p>To cancel at any step, click <span class="ui">Cancel</span>, <span class="ui">← Back</span> or the ✕. Nothing is saved.</p>
 <h2 id="good-to-know">Good to know</h2>
-<ul><li>The name needs at least one plain letter or digit, because it also names the project folder. If that folder already exists, choose another name.</li><li><span class="ui">Script font</span> sets the font your translation is shown in. <span class="ui">Versification</span> is the verse-numbering scheme; most projects keep the default.</li><li>If a language code is refused, try the code for your specific language, for example <code>knc</code> for Central Kanuri rather than <code>kau</code>.</li><li>Wait a moment after clicking into a field before you type, then check the name. The first letters can be lost.</li><li>You can change text direction and font later in <a href="st-project-settings">Project settings</a>. The name and language can't be changed yet.</li></ul>
-<h2 id="related">Related topics</h2><ul class="related"><li><a href="bp-add-book">Add a book</a></li><li><a href="bp-import">Import a project (translationCore 3, USFM or Scripture Burrito)</a></li><li><a href="st-project-settings">Project settings</a></li><li><a href="rs-checking-language">Change the checking language</a></li></ul>
+<ul><li>The name needs at least one plain letter or digit, because it also names the project folder. If a project with that name is already on this computer, <span class="ui">Create Bible →</span> stays off until you choose another name.</li><li><span class="ui">Script font</span> sets the font your translation is shown in. <span class="ui">Versification</span> is the verse-numbering scheme; most projects keep the default.</li><li>If a language code is refused, try the code for your specific language, for example <code>knc</code> for Central Kanuri rather than <code>kau</code>.</li><li>Each USFM file must hold one book and start with an <code>\id</code> line. Two files of the same book are refused, and the row names the book.</li><li>A Burrito that holds something other than a Bible translation, for example Open Bible Stories, is refused and says what it holds. A Burrito exported from tC4 is work for a project: tC4 asks you to open it with <span class="ui">Receive work from a file</span> instead.</li><li>Wait a moment after clicking into a field before you type, then check the name. The first letters can be lost.</li><li>You can change text direction and font later in <a href="st-project-settings">Project settings</a>. The name and language can't be changed yet.</li></ul>
+<h2 id="related">Related topics</h2><ul class="related"><li><a href="bp-add-book">Add a book</a></li><li><a href="bp-import">Import a translationCore 3 project</a></li><li><a href="st-project-settings">Project settings</a></li><li><a href="rs-checking-language">Change the checking language</a></li></ul>
 </main>
 </div>
 <footer class="sitefoot">The app is the source of truth: if this page and the app disagree, the app is right — please tell us. <a href="section-whats-new">Release notes</a> · <a href="/">translationcore.com</a></footer>
 <script src="search-index.js"></script>
 <script src="assets/search.js"></script>
+<script src="assets/page-toc.js"></script>
 </body>
 </html>
