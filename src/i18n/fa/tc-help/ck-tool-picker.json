@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "انتخاب ابزار بازبینی · راهنمای translationCore 4",
+  "5aab95d571be": "هر ابزار بازبینی شما را یک بار در کل کتاب، مورد به مورد، پیش می‌برد. translationCore جای شما را در هر ابزار به یاد می‌سپارد.",
+  "0e70b0e894cc": "باز کردن یک ابزار",
+  "edfdb403ebaa": "یک کتاب را باز کنید، سپس روی <span class=\"ui\">Check</span> در بالا کلیک کنید.",
+  "e1de982504aa": "به کارت‌ها نگاه کنید. هر کارت نشان می‌دهد چند مورد انجام شده و مورد بعدی کدام است.",
+  "f0d077c72286": "روی <span class=\"ui\">Start checking →</span> در کارتی که می‌خواهید کلیک کنید، یا اگر شروع کرده‌اید روی <span class=\"ui\">Continue →</span>. در کارت Community Checking پیوند <span class=\"ui\">Open →</span> است.",
+  "7843b655da84": "برای بازگشت به این فهرست، روی <span class=\"ui\">← All checking tools</span> در بالا سمت چپ ابزار کلیک کنید.",
+  "d78a20319fa6": "دفعهٔ بعد که روی <span class=\"ui\">Check</span> کلیک کنید، translationCore آخرین ابزار بازبینی را که به کار بردید باز می‌کند.",
+  "3a1d2391f3d2": "ابزارها",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">واژه‌های ترجمه (Translation Words)</a>: اصطلاحات کلیدی، یکی‌یکی.",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">یادداشت‌های ترجمه (Translation Notes)</a>: جاهایی که یک یادداشت ترجمه به آن‌ها اشاره می‌کند.",
+  "8bfdd2ed6811": "<a href=\"al-open\">هم‌ترازسازی (Align)</a>: واژه‌هایتان را به زبان اصلی پیوند دهید. این کارت آیه‌های پیش‌نویس‌شده را می‌شمارد، پس کتابی که هیچ چیزش پیش‌نویس نشده پیام <span class=\"ui\">No items in this book yet</span> را نشان می‌دهد.",
+  "7def275b185b": "<a href=\"ck-community-checking\">بازبینی گروهی (Community Checking)</a>: کل کتاب را مانند یک صفحهٔ چاپی بخوانید و برای بازبین‌ها از آن خروجی بگیرید.",
+  "fa2c72678197": "پروژهٔ داستان کارت Align ندارد.",
+  "d228c7b705aa": "اگر کارتی <span class=\"ui\">Needs downloading</span> یا <span class=\"ui\">Unavailable offline</span> را نشان داد، روی <span class=\"ui\">Fix this…</span> کلیک کنید. <a href=\"rs-guided-fix\">رفع کمبود یک منبع</a> را ببینید. در حالی که آن را رفع می‌کنید، ابزارهای دیگر همچنان کار می‌کنند.",
+  "b756c9f3a838": "<strong>توجه:</strong> فقط آیه‌های پیش‌نویس‌شده را می‌توان بازبینی کرد. اول پیش‌نویس کنید، سپس برگردید."
+}

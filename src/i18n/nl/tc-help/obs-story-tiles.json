@@ -1,12 +1,12 @@
 {
-  "c9dbc945f24b": "Een verhaal vinden op Home · Hulp voor translationCore 4",
+  "c9dbc945f24b": "Een verhaal vinden op Home · translationCore 4 Help",
   "1d7dea71d9ef": "Elk verhaal is een tegel, net als een boektegel in een Bijbelproject. De tegel toont het nummer van het verhaal, de titel en hoeveel procent er geschreven is.",
   "70d0cb1943b8": "Zoek op Home de kaart met je verhalen. Die heeft het label <span class=\"ui\">OBS</span>.",
   "f78cb09c3094": "Klik op een tegel om dat verhaal te openen, of klik op <span class=\"ui\">Show all 50 stories →</span> (1).",
   "03d67c14e026": "Klik op een verhaal in het raster.",
   "c902133cb9c6": "Klik onderaan de kaart op <span class=\"ui\">Show recent stories only →</span> om het raster weer in te klappen.",
   "b9e0c3223917": "<span class=\"ui\">Resume →</span> bovenaan Home opent het laatste verhaal dat je hebt bewerkt opnieuw.",
-  "146fc4868422": "Na een synchronisatie die conflicten in frames vindt, kan een verhaalkaart een oranje label <span class=\"ui\">1 conflict · Review</span> tonen. Open <span class=\"ui\">Review</span> om elk frame op te lossen.",
+  "146fc4868422": "Na een synchronisatie die conflicten in fragmenten vindt, kan een verhaalkaart een oranje label <span class=\"ui\">1 conflict · Review</span> tonen. Open <span class=\"ui\">Review</span> om elk fragment op te lossen.",
   "49e2acb9ab18": "Een kaart van Open Bible Stories op Home met de tegels 1 · La Creación, Story 2 en Story 3. Show all 50 stories → is gemarkeerd met 1.",
   "8a51621870bf": "Dezelfde kaart na Show all 50 stories →: een raster met alle 50 verhaaltegels, elk met het percentage dat geschreven is."
 }

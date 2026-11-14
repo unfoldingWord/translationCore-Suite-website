@@ -1,12 +1,12 @@
 {
-  "a4f23a1550e5": "Uitlijnen met de gatewaytekst of de grondtekst · Hulp voor translationCore 4",
+  "a4f23a1550e5": "Uitlijnen met de brugtaaltekst of met de grondtaal · translationCore 4 Help",
   "0fefc3764842": "In beide gevallen verwijzen de opgeslagen koppelingen naar de grondtekst.",
   "81dfc97839cd": "Klik op <span class=\"ui\">Gateway · ULT</span> of <span class=\"ui\">Original · Greek</span>. Bij een boek uit het Oude Testament staat er <span class=\"ui\">Original · Hebrew</span>.",
-  "8262a1c6271b": "Koppel de woorden zoals gewoonlijk. Zie <a href=\"al-link-words\">Koppel je woorden aan de bron</a>.",
+  "8262a1c6271b": "Koppel de woorden zoals gewoonlijk. Zie <a href=\"al-link-words\">Je woorden koppelen aan de brontekst</a>.",
   "8fad724d20cc": "Wat kies je?",
-  "81f903564a6a": "<strong><span class=\"ui\">Gateway · ULT</span>:</strong> \"Align to the gateway text you can read — its words already carry the original-language alignment.\" (Lijn uit met de gatewaytekst die je kunt lezen; de woorden daarvan zijn al uitgelijnd met de grondtekst.) Makkelijker als je geen Grieks of Hebreeuws leest. Een kaart kan een zinsdeel uit de gatewaytekst bevatten, zoals \"of the chosen people\" boven ἐκλεκτῶν.",
+  "81f903564a6a": "<strong><span class=\"ui\">Gateway · ULT</span>:</strong> \"Align to the gateway text you can read — its words already carry the original-language alignment.\" (Lijn uit met de brugtaaltekst die je kunt lezen; de woorden daarvan zijn al uitgelijnd met de grondtekst.) Makkelijker als je geen Grieks of Hebreeuws leest. Een kaart kan een woordgroep uit de brugtaaltekst bevatten, zoals \"of the chosen people\" boven ἐκλεκτῶν.",
   "8c59cbaf7b79": "<strong><span class=\"ui\">Original · Greek</span></strong> of <strong><span class=\"ui\">Original · Hebrew</span>:</strong> \"Align directly to the original-language words.\" (Lijn direct uit met de woorden van de grondtekst.) De kaarten tonen alleen de woorden uit de grondtekst.",
   "212214f76668": "Woorden die je al geplaatst hebt, blijven staan als je wisselt.",
-  "4a7c948ee755": "Als de gatewaytekst voor een vers geen uitlijngegevens heeft, zegt de gatewaymodus \"The gateway lens needs the gateway source text with alignment data for this verse.\" Gebruik dan de modus voor de grondtekst.",
+  "4a7c948ee755": "Als de brugtaaltekst voor een vers geen uitlijngegevens heeft, zegt de brugtaalmodus \"The gateway lens needs the gateway source text with alignment data for this verse.\" Gebruik dan de modus voor de grondtekst.",
   "8b21ae71366f": "Align bij Titus 1:1 met Original · Greek gekozen. De hint zegt Align directly to the original-language words. De bron heeft als kop Original language · Greek, en de kaarten onder de woordenbank tonen alleen Griekse woorden."
 }

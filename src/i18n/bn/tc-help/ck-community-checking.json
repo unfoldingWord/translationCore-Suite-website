@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Community Checking প্রিভিউ · translationCore 4 সহায়তা",
+  "32f4bed68332": "পুরো পুস্তকটি একসাথে পড়তে, বা আপনার সমাজের লোকদের সাথে জোরে পড়তে এটি ব্যবহার করুন।",
+  "f407ab1cd68e": "প্রিভিউ ও এক্সপোর্ট",
+  "dcc507361ac5": "<span class=\"ui\">Check</span>-এ ক্লিক করুন, তারপর <span class=\"ui\">Community Checking</span> কার্ডে <span class=\"ui\">Open →</span>-এ।",
+  "95eb586f7dfe": "প্রিভিউটি স্ক্রল করুন। যে পদগুলোর খসড়া এখনো হয়নি সেগুলো \"[ verse not yet drafted ]\" হিসেবে দেখায়।",
+  "f283b735ac27": "<span class=\"ui\">Page setup</span>-এ বেছে নিন <span class=\"ui\">Columns</span> (1 বা 2), <span class=\"ui\">Spacing</span> (<span class=\"ui\">Single</span> বা <span class=\"ui\">Double</span>) এবং <span class=\"ui\">Paper size</span> (<span class=\"ui\">A4</span> বা <span class=\"ui\">Letter</span>)। <span class=\"ui\">Drop-cap chapters</span> ও <span class=\"ui\">Verse numbers</span> চালু বা বন্ধ করুন।",
+  "66a07da4a05a": "একটি কপি সংরক্ষণ করতে <span class=\"ui\">Export</span>-এ ক্লিক করুন। দেখুন <a href=\"bp-export-pdf\">একটি পুস্তক PDF হিসেবে এক্সপোর্ট করুন</a>, <a href=\"bp-export-usfm\">একটি পুস্তক USFM হিসেবে এক্সপোর্ট করুন</a> এবং <a href=\"bp-export-burrito\">একটি প্রকল্প Scripture Burrito হিসেবে এক্সপোর্ট করুন</a>।",
+  "a95f2176183a": "ফিরে যেতে <span class=\"ui\">← All checking tools</span>-এ ক্লিক করুন।",
+  "d80f07c55306": "<span class=\"ui\">Double</span> ফাঁকা রাখলে পর্যালোচকেরা লাইনগুলোর মাঝে লিখতে পারেন।",
+  "e161f48410c3": "পাতার সেটআপ শুধু প্রিভিউ ও এক্সপোর্ট বদলায়, আপনার অনুবাদ নয়।",
+  "1913f785b5a4": "<span class=\"ui\">Drop-cap chapters</span> চালু থাকলে বড় অধ্যায় নম্বর দিয়ে পদ 1 শুরু হয়, তাই পদ 1-এর নিজস্ব ছোট নম্বর থাকে না। সেটি দেখাতে ড্রপ ক্যাপ বন্ধ করুন।",
+  "df1ceace7eba": "এই স্ক্রিন ছেড়ে গেলে translationCore পাতার সেটআপ মনে রাখে না। এক্সপোর্টের আগে আবার ঠিক করুন।",
+  "d19d1de53268": "<span class=\"ui\">Footnotes</span> ধূসর এবং এখনো চালু করা যায় না।",
+  "79ce1f17e1a6": "তীত পুস্তকের Community Checking। লেবেলগুলো দেখায়: বড় অধ্যায় নম্বর (ড্রপ ক্যাপ), যার পাশে পদ 1-এর ছোট নম্বর নেই, পুস্তকের শিরোনাম, All checking tools, Export, পাতার প্রিভিউ, খসড়া না হওয়া পদ, Page setup এবং Incomplete draft নোট।"
+}

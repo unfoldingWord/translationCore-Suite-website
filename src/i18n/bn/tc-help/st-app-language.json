@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "অ্যাপের ভাষা বদলান · translationCore 4 সহায়তা",
+  "17845592efa5": "tC4-এর বোতাম, মেনু ও বার্তাগুলোর ভাষা বেছে নিন। আপনি কোনো ভাষা বেছে না নেওয়া পর্যন্ত tC4 এই কম্পিউটারের ভাষা অনুসরণ করে; বেছে নেওয়ার পর সেই পছন্দটিই রাখে।",
+  "45563e5c8a97": "আপনার অনুবাদ ও প্রকল্পগুলো বদলায় না।",
+  "ee049a6941eb": "ওপরে ডান দিকে গোল মানুষের আইকনে ক্লিক করুন (1), তারপর <span class=\"ui\">App language</span>-এ (2)। হোমে আর প্রকল্পের ভেতরে মেনুটি একই।",
+  "dc7b6c5db74e": "<span class=\"ui\">Language</span> বক্সে ক্লিক করে একটি ভাষা বেছে নিন।",
+  "3727c4ee54ba": "পুরো অ্যাপটি সাথে সাথে সেই ভাষায় বদলে যায়, তাই সিদ্ধান্ত নেওয়ার আগে আপনি দেখে নিতে পারেন এটি কেমন দেখায়।",
+  "11954b3e0c6e": "এটি রাখতে <span class=\"ui\">Apply</span>-এ ক্লিক করুন। স্প্যানিশে বোতামটিতে লেখা থাকে <span class=\"ui\">Aplicar</span>।",
+  "c83abfae8b10": "আগের ভাষায় ফিরে যেতে এর বদলে <span class=\"ui\">Cancel</span> বা ✕-এ ক্লিক করুন। পরেরবার খোলার সময়ও translationCore আপনার পছন্দ মনে রাখে।",
+  "73cdc5d82a85": "কী বদলায় আর কী বদলায় না",
+  "f321bc45749b": "যা বদলায়: মেনু, বোতাম, লেবেল ও ডায়ালগ, যেমন প্রকল্পের ওপরে <span class=\"ui\">Understand</span>, <span class=\"ui\">Translate</span> ও <span class=\"ui\">Check</span>।",
+  "2b6bca26ac47": "যা বদলায় না: আপনার অনুবাদ, উৎস পাঠ (যেমন ULT) এবং অনুবাদ সহায়িকা (টীকা, শব্দ ও প্রশ্ন)। এগুলো যে ভাষায় লেখা হয়েছিল সেই ভাষাতেই থাকে। যাচাইয়ের সহায়িকার ভাষা বেছে নিতে দেখুন <a href=\"rs-checking-language\">যাচাইয়ের ভাষা</a>।",
+  "029f491d3863": "তালিকার ভাষাগুলো",
+  "22afbdc189d0": "English, Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский এবং Tiếng Việt। প্রথম চারটি এসেছে <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a>-এর সাথে; পরের পাঁচটি <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a>-এর সাথে।",
+  "aa3bf50cfe0b": "আবার ইংরেজি খুঁজে নিন",
+  "d3f81c8b784c": "বর্তমান ভাষাটি পড়তে না পারলে মনে রাখুন, মানুষের আইকনটি সবসময় ওপরে ডান দিকে থাকে, আর <span class=\"ui\">App language</span> থাকে অ্যাকাউন্ট মেনুতে (Help and guides-এর পরে)। তালিকায় English সবসময় প্রথমে থাকে।",
+  "54513425bd7d": "Door43-এ সাইন ইন করা অবস্থায় খোলা অ্যাকাউন্ট মেনু: Door43 অ্যাকাউন্টের নাম, Use the internet (চালু), Help and guides, App language (English), Report a problem, About translationCore এবং Sign out of Door43। ব্যাজ 1 ওপরে ডান দিকের গোল মানুষের আইকনে। ব্যাজ 2 App language-এ।",
+  "171294dd60a6": "Language তালিকা খোলা অবস্থায় App language ডায়ালগ: English (টিক দেওয়া), Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский এবং Tiếng Việt।",
+  "e58555e59c08": "Español (Latinoamérica) বেছে নেওয়ার পর App language ডায়ালগের পেছনে হোম। পুরো স্ক্রিন ইতিমধ্যে স্প্যানিশে বদলে গেছে, এবং ডায়ালগের বোতামগুলোতে এখন লেখা Cancelar ও Aplicar।"
+}

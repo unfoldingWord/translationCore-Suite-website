@@ -1,0 +1,12 @@
+{
+  "a4f23a1550e5": "هم‌ترازسازی با متن زبان واسط یا با زبان اصلی · راهنمای translationCore 4",
+  "0fefc3764842": "در هر دو حالت، پیوندهای ذخیره‌شده به زبان اصلی اشاره می‌کنند.",
+  "81dfc97839cd": "روی <span class=\"ui\">Gateway · ULT</span> یا <span class=\"ui\">Original · Greek</span> کلیک کنید. کتابی از عهد عتیق <span class=\"ui\">Original · Hebrew</span> را نشان می‌دهد.",
+  "8262a1c6271b": "واژه‌ها را مثل همیشه پیوند دهید. <a href=\"al-link-words\">پیوند دادن واژه‌هایتان به متن مبدأ</a> را ببینید.",
+  "8fad724d20cc": "کدام را انتخاب کنیم",
+  "81f903564a6a": "<strong><span class=\"ui\">Gateway · ULT</span>:</strong> «Align to the gateway text you can read — its words already carry the original-language alignment.» (با متن زبان واسطی که می‌توانید بخوانید هم‌تراز کنید — واژه‌های آن از قبل هم‌ترازی با زبان اصلی را دارند.) اگر یونانی یا عبری نمی‌خوانید، آسان‌تر است. یک کارت می‌تواند عبارتی از زبان واسط را در خود داشته باشد، مانند «of the chosen people» بالای ἐκλεκτῶν.",
+  "8c59cbaf7b79": "<strong><span class=\"ui\">Original · Greek</span></strong> یا <strong><span class=\"ui\">Original · Hebrew</span>:</strong> «Align directly to the original-language words.» (مستقیم با واژه‌های زبان اصلی هم‌تراز کنید.) کارت‌ها فقط واژه‌های اصلی را نشان می‌دهند.",
+  "212214f76668": "وقتی حالت را عوض می‌کنید، واژه‌هایی که قبلاً گذاشته‌اید سر جایشان می‌مانند.",
+  "4a7c948ee755": "اگر متن زبان واسط برای یک آیه دادهٔ هم‌ترازی نداشته باشد، حالت زبان واسط می‌گوید «The gateway lens needs the gateway source text with alignment data for this verse.» (این حالت برای این آیه به متن مبدأ زبان واسط همراه با دادهٔ هم‌ترازی نیاز دارد.) به‌جای آن از حالت زبان اصلی استفاده کنید.",
+  "8b21ae71366f": "Align روی تیتوس ۱:۱ با گزینهٔ انتخاب‌شدهٔ Original · Greek. راهنما می‌گوید Align directly to the original-language words. سرعنوان متن مبدأ Original language · Greek است، و کارت‌های زیر بانک واژه‌ها فقط واژه‌های یونانی را نشان می‌دهند."
+}

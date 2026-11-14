@@ -1,0 +1,12 @@
+{
+  "e4359c86424d": "আপনার প্রকল্পগুলো কোথায় রাখা হয় · translationCore 4 সহায়তা",
+  "3eab40f3847e": "প্রকল্প-কার্ডে \"Only on this computer\" (1) মানে প্রকল্পটি শুধু এই ফোল্ডারেই রাখা আছে।",
+  "30baa24967e0": "ফোল্ডার",
+  "02c7ab4c886a": "আপনার প্রকল্পগুলোর ব্যাকআপ নিন",
+  "1a3b4a6ebb72": "tC4 বন্ধ করুন।",
+  "e025bbb3943b": "পুরো <code>tc4-projects</code> ফোল্ডারটি একটি USB ড্রাইভে বা অন্য কোনো ব্যাকআপের জায়গায় কপি করুন।",
+  "9aba78ed16f6": "tC4 আনইনস্টল করলেও আপনার প্রকল্পগুলো থেকে যায়।",
+  "103374590ee0": "একটি প্রকল্প অন্য কম্পিউটারে নিতে <span class=\"ui\">Save or receive work by USB</span> ব্যবহার করুন, অথবা <a href=\"bp-export-burrito\">একটি Scripture Burrito এক্সপোর্ট করুন</a> এবং সেখানে <span class=\"ui\">+ Add a project</span> › <span class=\"ui\">Receive work from a file</span> দিয়ে খুলুন। এটি ফোল্ডার কপি করার চেয়ে নিরাপদ।",
+  "a667363ac5b9": "tC4 খোলা থাকা অবস্থায় ফোল্ডারের ফাইল বদলাবেন না। tC4 তা টের পায় এবং প্রকল্প রক্ষা করতে থেমে যায়। দেখুন <a href=\"ts-protect-messages\">যে বার্তাগুলো আপনার প্রকল্প রক্ষা করে</a>।",
+  "05aa89ccda13": "হোমে একটি বাইবেল প্রকল্প-কার্ড। es-419 · 2 books · 2 in progress · Only on this computer লাইনটিতে 1 চিহ্ন। ডান দিকে আছে Share on Door43, Save or receive work by USB এবং Settings।"
+}

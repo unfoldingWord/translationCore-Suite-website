@@ -1,0 +1,16 @@
+{
+  "2cb8183fcd0b": "Translation Words سے جانچیں · translationCore 4 مدد",
+  "f8b008126386": "اس سے یقینی بنائیں کہ ہر اصطلاح کا ترجمہ درست طریقے سے ہوا ہے، اور جہاں جہاں وہ آتی ہے ہر جگہ ایک ہی طرح سے۔",
+  "89604295b1b7": "اصطلاح کو جانچیں",
+  "50bd5b9f5db9": "<span class=\"ui\">Check</span> پر کلک کریں، پھر <span class=\"ui\">Translation Words</span> کارڈ پر <span class=\"ui\">Start checking →</span> پر۔",
+  "cdd56a2b7b1c": "اوپر اصطلاح پڑھیں۔ یہ ماخذ کے کارڈز میں نمایاں ہوتی ہے: اصل زبان، لفظی گیٹ وے متن اور آسان متن (UST یا GST)۔ اس کا مطلب پڑھنے کے لیے <span class=\"ui\">Learn more</span> پر کلک کریں۔ مضمون دائیں طرف ایک پینل میں کھلتا ہے۔ اسے ✕ سے بند کریں۔",
+  "d54a05521846": "<span class=\"ui\">Your translation</span> کے نیچے اس لفظ یا ان الفاظ کو چھوئیں جو نمایاں اصطلاح کا ترجمہ ہیں۔",
+  "737aba652a84": "رکنے کے لیے نیچے بائیں طرف <span class=\"ui\">← Back to translating</span> پر کلک کریں۔ اگلی بار <span class=\"ui\">Check</span> Translation Words کو وہیں سے کھولتا ہے جہاں آپ نے چھوڑا تھا۔",
+  "05e33bb36d32": "<span class=\"ui\">Sort</span> <span class=\"ui\">By word</span> کسی اصطلاح کے تمام استعمالات کو اکٹھا کر دیتا ہے، تاکہ آپ دیکھ سکیں کہ آپ نے \"فضل\" کا ترجمہ ہر بار ایک ہی طرح کیا ہے یا نہیں۔ <span class=\"ui\">By verse</span> کتاب میں ترتیب سے چلتا ہے۔",
+  "0614c935d23a": "<span class=\"ui\">⚑ Bookmark</span> کسی نکتے پر نشان لگاتا ہے تاکہ آپ اس پر واپس آ سکیں۔ <span class=\"ui\">✎ Add a comment</span> آپ کی ٹیم کے لیے نوٹ چھوڑتا ہے۔ دیکھیں <a href=\"ck-bookmarks\">جانچ کو بُک مارک کریں</a> اور <a href=\"ck-comments\">جانچ پر تبصرہ لکھیں</a>۔",
+  "778d734f3abb": "<strong>نوٹ:</strong> جس آیت کا مسودہ ابھی نہیں لکھا گیا اس کی جانچ نہیں ہو سکتی۔ پہلے Translate موڈ میں اس کا مسودہ لکھیں۔",
+  "1dbb172a6232": "جانچ کی فہرست <strong>Translation Words Links</strong> کی ایک ریلیز سے آتی ہے (انگریزی کے لیے <code>en_twl</code>، جو ایپ کے ساتھ آتی ہے)۔ مضامین <strong>Translation Words</strong> (<code>en_tw</code>) سے آتے ہیں۔",
+  "af2e13e3bbd7": "کچھ کتابوں کے لیے ابھی Translation Words جانچ نہیں ہے (مثلاً حزقی ایل)، جب تک Links کی کوئی ریلیز انہیں شامل نہ کرے۔",
+  "815d4cf3dd27": "اگر کوئی لنک ایسے مضمون کی طرف اشارہ کرے جو آپ کی جانچ کی زبان میں نہیں ہے تو وہ نکتہ چھپا رہتا ہے اور پیش رفت میں شمار نہیں ہوتا۔",
+  "69c53fbb8fa4": "ططس کے لیے Translation Words، نکتہ 182 میں سے 1: ططس 1:1 میں “Paul”۔ نشانات ان چیزوں کی طرف اشارہ کرتے ہیں: All checking tools، فلٹرز، لفظ، Learn more، یونانی، لفظی گیٹ وے متن، آسان متن (UST)، Back to translating، لفظ کے لحاظ سے گروپ کی گئی جانچ کی فہرست، آپ کا فیصلہ، Previous اور Next، Your translation اور Add a comment۔"
+}

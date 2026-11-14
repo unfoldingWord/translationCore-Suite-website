@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "De taal van de app wijzigen · translationCore 4 Help",
+  "17845592efa5": "Kies de taal van de knoppen, menu's en meldingen in tC4. Zolang je niets kiest, volgt tC4 de taal van deze computer; als je een taal kiest, houdt het die keuze vast.",
+  "45563e5c8a97": "Je vertaling en je projecten veranderen niet.",
+  "ee049a6941eb": "Klik rechtsboven op het ronde persoonspictogram (1) en daarna op <span class=\"ui\">App language</span> (2). Het menu is hetzelfde op Home en binnen een project.",
+  "dc7b6c5db74e": "Klik op het vak <span class=\"ui\">Language</span> en kies een taal.",
+  "3727c4ee54ba": "De hele app schakelt meteen over naar die taal, zodat je kunt zien hoe het eruitziet voordat je beslist.",
+  "11954b3e0c6e": "Klik op <span class=\"ui\">Apply</span> om de taal te houden. In het Spaans heet de knop <span class=\"ui\">Aplicar</span>.",
+  "c83abfae8b10": "Wil je terug naar de taal die je had, klik dan in plaats daarvan op <span class=\"ui\">Cancel</span> of ✕. translationCore onthoudt je keuze voor de volgende keer dat je het opent.",
+  "73cdc5d82a85": "Wat er verandert en wat niet",
+  "f321bc45749b": "Wat verandert: menu's, knoppen, labels en dialoogvensters, zoals <span class=\"ui\">Understand</span>, <span class=\"ui\">Translate</span> en <span class=\"ui\">Check</span> bovenaan een project.",
+  "2b6bca26ac47": "Wat niet verandert: je vertaling, de bronteksten (zoals de ULT) en de vertaalhulpmiddelen (notities, begrippen en vragen). Die blijven in de taal waarin ze geschreven zijn. Om de taal van de controlehulpmiddelen te kiezen, zie <a href=\"rs-checking-language\">Controletaal</a>.",
+  "029f491d3863": "Talen in de lijst",
+  "22afbdc189d0": "English, Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский en Tiếng Việt. De eerste vier kwamen met <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a>, de volgende vijf met <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a>.",
+  "aa3bf50cfe0b": "Engels terugvinden",
+  "d3f81c8b784c": "Kun je de huidige taal niet lezen? Het persoonspictogram staat altijd rechtsboven, en <span class=\"ui\">App language</span> staat in het accountmenu (na Help and guides). English staat altijd bovenaan de lijst.",
+  "54513425bd7d": "Het geopende accountmenu terwijl je bent aangemeld bij Door43: de accountnaam bij Door43, Use the internet (aan), Help and guides, App language (English), Report a problem, About translationCore en Sign out of Door43. Label 1 staat op het ronde persoonspictogram rechtsboven. Label 2 staat op App language.",
+  "171294dd60a6": "Het dialoogvenster App language met de lijst Language open: English (aangevinkt), Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский en Tiếng Việt.",
+  "e58555e59c08": "Home achter het dialoogvenster App language nadat Español (Latinoamérica) is gekozen. Het hele scherm is al overgeschakeld naar het Spaans, en de knoppen van het dialoogvenster heten nu Cancelar en Aplicar."
+}

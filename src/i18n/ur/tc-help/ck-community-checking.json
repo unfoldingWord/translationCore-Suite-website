@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Community Checking کا پیش منظر · translationCore 4 مدد",
+  "32f4bed68332": "اسے پوری کتاب ایک ساتھ پڑھنے کے لیے، یا اپنی برادری کے ساتھ بلند آواز سے پڑھنے کے لیے استعمال کریں۔",
+  "f407ab1cd68e": "پیش منظر اور ایکسپورٹ",
+  "dcc507361ac5": "<span class=\"ui\">Check</span> پر کلک کریں، پھر <span class=\"ui\">Community Checking</span> کارڈ پر <span class=\"ui\">Open →</span> پر۔",
+  "95eb586f7dfe": "پیش منظر کو اسکرول کریں۔ جن آیات کا مسودہ ابھی نہیں لکھا گیا وہ \"[ verse not yet drafted ]\" کے طور پر نظر آتی ہیں۔",
+  "f283b735ac27": "<span class=\"ui\">Page setup</span> میں <span class=\"ui\">Columns</span> (1 یا 2)، <span class=\"ui\">Spacing</span> (<span class=\"ui\">Single</span> یا <span class=\"ui\">Double</span>) اور <span class=\"ui\">Paper size</span> (<span class=\"ui\">A4</span> یا <span class=\"ui\">Letter</span>) منتخب کریں۔ <span class=\"ui\">Drop-cap chapters</span> اور <span class=\"ui\">Verse numbers</span> کو آن یا آف کریں۔",
+  "66a07da4a05a": "ایک کاپی محفوظ کرنے کے لیے <span class=\"ui\">Export</span> پر کلک کریں۔ دیکھیں <a href=\"bp-export-pdf\">کتاب کو PDF کے طور پر ایکسپورٹ کریں</a>، <a href=\"bp-export-usfm\">کتاب کو USFM کے طور پر ایکسپورٹ کریں</a> اور <a href=\"bp-export-burrito\">پروجیکٹ کو Scripture Burrito کے طور پر ایکسپورٹ کریں</a>۔",
+  "a95f2176183a": "واپس جانے کے لیے <span class=\"ui\">← All checking tools</span> پر کلک کریں۔",
+  "d80f07c55306": "<span class=\"ui\">Double</span> فاصلہ جائزہ لینے والوں کے لیے سطروں کے درمیان لکھنے کی جگہ چھوڑتا ہے۔",
+  "e161f48410c3": "صفحے کی ترتیب صرف پیش منظر اور ایکسپورٹ کو بدلتی ہے، آپ کے ترجمے کو نہیں۔",
+  "1913f785b5a4": "جب <span class=\"ui\">Drop-cap chapters</span> آن ہو تو باب کا بڑا نمبر آیت 1 کا آغاز کرتا ہے، اس لیے آیت 1 کا اپنا چھوٹا نمبر نہیں ہوتا۔ اسے دکھانے کے لیے drop cap آف کریں۔",
+  "df1ceace7eba": "جب آپ اس اسکرین سے نکلتے ہیں تو translationCore صفحے کی ترتیب یاد نہیں رکھتا۔ ایکسپورٹ کرنے سے پہلے اسے دوبارہ مقرر کریں۔",
+  "d19d1de53268": "<span class=\"ui\">Footnotes</span> مدھم ہے اور ابھی آن نہیں کیا جا سکتا۔",
+  "79ce1f17e1a6": "ططس کے لیے Community Checking۔ نشانات ان چیزوں کی طرف اشارہ کرتے ہیں: باب کا بڑا نمبر (drop cap) جس کے ساتھ آیت 1 کا چھوٹا نمبر نہیں ہے، کتاب کا عنوان، All checking tools، Export، صفحے کا پیش منظر، وہ آیات جن کا مسودہ ابھی نہیں لکھا گیا، Page setup اور Incomplete draft کا نوٹ۔"
+}

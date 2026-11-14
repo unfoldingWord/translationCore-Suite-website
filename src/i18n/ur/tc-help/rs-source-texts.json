@@ -1,0 +1,17 @@
+{
+  "2444fbf270b8": "ماخذ متن ڈاؤن لوڈ کریں · translationCore 4 مدد",
+  "3d6eae5d0cf6": "گیٹ وے زبان وہ زبان ہے جس میں آپ کی ٹیم ماخذ متن اور مددگار وسائل پڑھتی ہے۔ انگریزی ایپ کے ساتھ آتی ہے۔",
+  "7d17ef831dae": "<span class=\"ui\">Choose your gateway language</span> کے نیچے کسی زبان پر کلک کریں (1)۔ اگر “Turn on the internet?” ظاہر ہو تو <span class=\"ui\">Turn on internet</span> پر کلک کریں۔ دیکھیں <a href=\"rs-offline\">انٹرنیٹ کے بغیر کام کرنا</a>۔",
+  "87c2a0c6f088": "<span class=\"ui\">Book</span> چنیں۔",
+  "619a3f60dc35": "<span class=\"ui\">Package contents</span> دیکھیں۔ کسی کارڈ کو نکالنے کے لیے اس پر کلک کریں، یا دوبارہ شامل کرنے کے لیے پھر کلک کریں۔",
+  "b2d5c7505186": "<span class=\"ui\">⇣ Download package</span> پر کلک کریں۔ جب “✓ {book} · {language} is ready” لکھا آئے تو <span class=\"ui\">Close</span> پر کلک کریں۔",
+  "8b9d01dac0a2": "جب پیکیج ڈاؤن لوڈ ہو رہا ہو تو ڈائیلاگ کے نیچے <span class=\"ui\">Downloading …</span> اس ذخیرے کے نام کے ساتھ دکھائی دیتا ہے جسے وہ لا رہا ہے، اور ایک <span class=\"ui\">Cancel</span> بٹن ہوتا ہے۔ اگر آپ کوئی اور کتاب چنیں یا زبانوں کی فہرست پر واپس جائیں تو بھی یہ وہیں رہتے ہیں۔ ڈاؤن لوڈ روکنے کے لیے <span class=\"ui\">Cancel</span> پر کلک کریں۔",
+  "8b8f02c8633e": "ڈاؤن لوڈ کیے بغیر نکلنے کے لیے <span class=\"ui\">Close</span> یا ✕ پر کلک کریں۔ ڈائیلاگ بند کرنے سے شروع ہو چکا ڈاؤن لوڈ نہیں رکتا؛ اسے دیکھنے یا منسوخ کرنے کے لیے <span class=\"ui\">Get source texts</span> دوبارہ کھولیں۔",
+  "2fc42d3c75b4": "زیادہ تر گیٹ وے زبانوں کے لیے پیکیج میں Translation Words کے ساتھ ایک <strong>Translation Words Links</strong> ذخیرہ (<code>…_twl</code>) بھی ہوتا ہے۔ اسے منتخب رہنے دیں تاکہ جانچ کے لیے انسٹالیشن مکمل ہو سکے۔",
+  "acf775b53543": "دو قطاروں کا نام ایک ہو سکتا ہے، جیسے Français کی دو قطاریں۔ نام کے نیچے لکھی تنظیم سے ان میں فرق ہوتا ہے۔",
+  "1c359191fab9": "فہرست میں دیے گئے ورژن Door43 پر موجود سب سے نئے ورژن ہیں، وہ نہیں جو آپ کا پروجیکٹ استعمال کرتا ہے۔",
+  "84b941e238b1": "ڈاؤن لوڈ کی گئی زبان میں جانچنے کے لیے اسے <a href=\"st-project-settings\">پروجیکٹ کی ترتیبات</a> میں چنیں۔ دیکھیں <a href=\"rs-checking-language\">جانچ کی زبان بدلیں</a>۔",
+  "ab9ab2d35728": "انٹرنیٹ کے بغیر ڈائیلاگ میں “tC4 did not read the Door43 list of source texts.” کے ساتھ <span class=\"ui\">Read the list</span> لکھا آتا ہے۔ اس کے نیچے کی لائن، “This organisation publishes nothing tC4 can use…”، کا صرف یہ مطلب ہے کہ فہرست ابھی پڑھی نہیں گئی۔",
+  "2827fe51be40": "اگر کچھ ڈاؤن لوڈ ناکام ہوں تو ڈائیلاگ ان کی فہرست دکھاتا ہے۔",
+  "7dd6ae7b823d": "Get source texts۔ Pinned resources کے ساتھ Check for updates، پھر Choose your gateway language: English (unfoldingWord، notes v91، words v91، academy v91)، Español (Latinoamérica) (es-419_gl، جس پر 1 کا نشان ہے)، Français نام کی دو قطاریں (Xenizo اور MVHS)، اور Русский۔"
+}

@@ -1,0 +1,14 @@
+{
+  "cfc94f2ad007": "Projectinstellingen · translationCore 4 Help",
+  "5c31a5d7af92": "Wijzig wat je nodig hebt:",
+  "05947a56b8f2": "<span class=\"ui\">Text direction</span>: <span class=\"ui\">Left to right</span> of <span class=\"ui\">Right to left</span>.",
+  "c3f7bd798553": "<span class=\"ui\">Checking language</span> (1). Zie <a href=\"rs-checking-language\">De controletaal wijzigen</a>.",
+  "bdf0ed5d6154": "<span class=\"ui\">Manage source texts →</span> (2). Zie <a href=\"rs-source-texts\">Bronteksten downloaden</a>.",
+  "58d3a2eeb7ed": "<span class=\"ui\">Script font</span> (3): het lettertype waarin je vertaling wordt getoond.",
+  "12b7031960a9": "Klik op <span class=\"ui\">Save changes</span>.",
+  "152e8dbab82d": "Klik op <span class=\"ui\">Cancel</span> of op ✕, of druk op Esc, om te annuleren. Er wordt niets opgeslagen.",
+  "b27935a0af63": "De instellingen staan alleen op de kaart op Home, niet in de bovenste balk. Klik linksboven op de projectnaam om terug te gaan naar Home.",
+  "f5efa05091cf": "De lettertypen zijn Noto Sans (standaard), Charis SIL, Scheherazade New (Arabisch schrift), Awami Nastaliq (Nastaliq) en Padauk (Myanmar). Kies het lettertype dat je letters goed weergeeft.",
+  "e4ebe7b1659a": "De naam en de taal kunnen in deze versie niet gewijzigd worden. De projectinstellingen tonen ze grijs, met de notitie \"Renaming arrives with a later increment.\"",
+  "caca25561146": "Project settings voor Sample Titus · 1 book. Bible name, Language name en Code zijn grijs, met Renaming arrives with a later increment. Text direction Left to right. Checking language English, gemarkeerd als CURRENT (1). Manage source texts → (2). Script font Noto Sans (default) (3). Cancel en Save changes."
+}

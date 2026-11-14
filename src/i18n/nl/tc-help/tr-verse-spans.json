@@ -1,0 +1,15 @@
+{
+  "fa9b9d341efe": "Een versgroep maken of weer splitsen · translationCore 4 Help",
+  "f530bcc1d6ff": "Een versgroep (ook wel versbrug genoemd) bestaat uit twee of meer verzen die als één geheel vertaald zijn, bijvoorbeeld <code>2-3</code>.",
+  "95ad44313a34": "Open het gedeelte met het label <span class=\"ui\">Draft section {span}</span>, typ de tekst en klik op <span class=\"ui\">Place verse numbers</span>.",
+  "3fcf8b283cb1": "Klik in de tekst op het latere nummer, bijvoorbeeld 10.",
+  "ed04b4022fbd": "Klik op het woord waar het eerdere vers (9) begint. De tooltip zegt \"Join verse 10 to verse 9 at …\".",
+  "00965f803729": "Klik op <span class=\"ui\">Save section</span>. De verzen worden opgeslagen als één versgroep, met het nummer 2-3.",
+  "37da7d58596b": "Een versgroep splitsen",
+  "8040a4812e1b": "Open het gedeelte opnieuw, klik op <span class=\"ui\">Place verse numbers</span>, klik op de 10 en klik op het woord waar vers 10 moet beginnen. Klik daarna op <span class=\"ui\">Save section</span>.",
+  "3a781f8fca28": "In de modus <span class=\"ui\">Type</span> kun je ook een regel met de versgroep beginnen, bijvoorbeeld <code>2-3 …</code>.",
+  "50b37754200f": "Als je een versgroep maakt of splitst, worden de controles en uitlijningen van die verzen gemarkeerd om opnieuw te bekijken. Er wordt niets verwijderd. Zie <a href=\"tr-edit-after-check\">Een vers bewerken dat je al gecontroleerd of uitgelijnd hebt</a>.",
+  "2a9614442c0b": "In de weergave <span class=\"ui\">Verse</span> kun je geen versgroepen maken.",
+  "e2cade4b6fa9": "Open Bible Stories hebben fragmenten, geen versnummers, dus daar zijn geen versgroepen.",
+  "fa2c6f1d53f1": "De modus Place verse numbers voor Titus 2:9-10 na het samenvoegen: de nummers 9 en 10 staan naast elkaar op het eerste woord, Exhorta, dus de twee verzen vormen één versgroep."
+}

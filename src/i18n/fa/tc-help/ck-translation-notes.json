@@ -1,0 +1,14 @@
+{
+  "359d3bd718d5": "بازبینی با یادداشت‌های ترجمه · راهنمای translationCore 4",
+  "34dabdfbc2ff": "هر مورد یادداشتی است که به یک درس آکادمی ترجمه پیوند دارد. یادداشت‌های دیگر در پنل کمک‌ها می‌مانند.",
+  "37ed9dc0480b": "بازبینی یک یادداشت",
+  "c2ed52ecfaef": "روی <span class=\"ui\">Check</span> کلیک کنید، سپس روی <span class=\"ui\">Start checking →</span> در کارت <span class=\"ui\">Translation Notes</span>.",
+  "aa2a2d64b884": "<span class=\"ui\">What to check</span> را بخوانید. واژه‌هایی که دربارهٔ آن‌هاست در کارت‌های متن مبدأ زیر پررنگ شده‌اند: زبان اصلی، متن تحت‌اللفظی زبان واسط (مثلاً <span class=\"ui\">Gateway · unfoldingWord Literal Text</span>) و متن ساده‌شده (<span class=\"ui\">Gateway · UST</span>، یا در برخی زبان‌های واسط <span class=\"ui\">GST</span>).",
+  "af9960d2e388": "برای آگاهی بیشتر دربارهٔ این مسئله، روی <span class=\"ui\">Learn more</span> زیر یادداشت کلیک کنید. درس آکادمی ترجمه در پنلی در سمت راست باز می‌شود. آن را با ✕ ببندید.",
+  "009010512001": "زیر <span class=\"ui\">Your translation</span>، روی واژه یا واژه‌هایی که نقل‌قول پررنگ‌شده را ترجمه می‌کنند بزنید.",
+  "540bd764162b": "برای توقف، روی <span class=\"ui\">← Back to translating</span> در پایین سمت چپ کلیک کنید.",
+  "b46b87bfb0b1": "<span class=\"ui\">Sort</span> با <span class=\"ui\">By verse</span> کتاب را به ترتیب پیش می‌برد. <span class=\"ui\">By category</span> همهٔ یادداشت‌های مربوط به یک مسئله را کنار هم می‌گذارد، مثلاً همهٔ استعاره‌ها را.",
+  "3a9f02b502fa": "یادداشت‌ها به زبان بازبینی پروژهٔ شما هستند. <a href=\"rs-checking-language\">تغییر زبان بازبینی</a> را ببینید.",
+  "4352b92c4356": "اگر پس از تصمیم دربارهٔ یک آیه آن را تغییر دهید، translationCore از شما می‌خواهد دوباره به آن تصمیم نگاه کنید. چیزی از دست نمی‌رود.",
+  "e3c4462a8aa2": "یادداشت‌های ترجمه برای تیتوس، مورد ۱ از ۱۵۷: نقل‌قول «for the faith of the chosen people of God and knowledge of the truth» در تیتوس ۱:۱. برچسب‌ها این بخش‌ها را نشان می‌دهند: All checking tools، Sort، نقل‌قول، What to check، متن یونانی، متن تحت‌اللفظی زبان واسط، متن ساده‌شده (UST)، Back to translating، فهرست بازبینی، تصمیم شما، Previous و Next، Your translation و Add a comment."
+}

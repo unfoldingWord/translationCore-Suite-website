@@ -1,0 +1,14 @@
+{
+  "7161ee1494a3": "Eén vers schrijven of herzien · translationCore 4 Help",
+  "924f10cde3b8": "De versweergave is handig voor kleine verbeteringen en voor vertalers die liever per vers werken.",
+  "2e916581c6b1": "Klik in <span class=\"ui\">Translate</span> op <span class=\"ui\">Verse</span> in de schakelaar boven je vertaling.",
+  "3a741eaf2d05": "Klik bij een leeg vers op de gestippelde knop <span class=\"ui\">Draft verse {n}</span>. Klik bij een vers dat al geschreven is op de tekst.",
+  "f0f1b05904d7": "Typ in de editor.",
+  "967d0e1e904d": "Klik op <span class=\"ui\">Save verse</span>, of klik buiten de editor.",
+  "c1b69e650e2b": "Wil je je wijziging weggooien, klik dan in plaats daarvan op <span class=\"ui\">Cancel</span>.",
+  "66522b86c05a": "Het hulpmiddelenpaneel volgt het vers dat je bewerkt.",
+  "c949d8f44bd1": "Gebruik de weergave <span class=\"ui\">Section</span> om een versgroep te maken. Zie <a href=\"tr-verse-spans\">Een versgroep maken of weer splitsen</a>.",
+  "d40609f9c65f": "Een poëzievers opent met al zijn regels. <strong>Shift+Enter</strong> begint een nieuwe regel; Tab en Enter slaan op en sluiten de editor. Zie <a href=\"tr-formatting\">Alinea's en poëzie</a>.",
+  "e0173097549a": "De versweergave voor Titus 3:1-2: Verse is geselecteerd in de schakelaar Section / Verse, en de lege verzen tonen de gestippelde knoppen Draft verse 1 en Draft verse 2.",
+  "8e82740d866e": "De verseditor open bij Titus 3:1: op de plek van het vers staat Editing below, de editor heeft de kop DRAFTING 1 met getypte Spaanse tekst, en daaronder staan Save verse en Cancel."
+}

@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "Een controletool kiezen · translationCore 4 Help",
+  "5aab95d571be": "Elke controletool neemt je één keer door het hele boek, punt voor punt. translationCore onthoudt in elke tool waar je bent.",
+  "0e70b0e894cc": "Een tool openen",
+  "edfdb403ebaa": "Open een boek en klik bovenaan op <span class=\"ui\">Check</span>.",
+  "e1de982504aa": "Bekijk de kaarten. Elke kaart laat zien hoeveel punten afgehandeld zijn en welk punt het volgende is.",
+  "f0d077c72286": "Klik op de kaart die je wilt op <span class=\"ui\">Start checking →</span>, of op <span class=\"ui\">Continue →</span> als je al begonnen bent. Bij Community Checking heet de link <span class=\"ui\">Open →</span>.",
+  "7843b655da84": "Klik linksboven in de tool op <span class=\"ui\">← All checking tools</span> om terug te gaan naar deze lijst.",
+  "d78a20319fa6": "De volgende keer dat je op <span class=\"ui\">Check</span> klikt, opent translationCore de controletool die je het laatst gebruikte.",
+  "3a1d2391f3d2": "De tools",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Translation Words</a>: kernbegrippen, één voor één.",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Translation Notes</a>: de plaatsen waar een vertaalnotitie naar verwijst.",
+  "8bfdd2ed6811": "<a href=\"al-open\">Align</a>: koppel je woorden aan de grondtaal. Deze kaart telt geschreven verzen, dus bij een boek waarin nog niets geschreven is, staat <span class=\"ui\">No items in this book yet</span>.",
+  "7def275b185b": "<a href=\"ck-community-checking\">Community Checking</a>: lees het hele boek als gedrukte pagina en exporteer het voor meelezers.",
+  "fa2c72678197": "Een verhalenproject heeft geen kaart Align.",
+  "d228c7b705aa": "Staat er op een kaart <span class=\"ui\">Needs downloading</span> of <span class=\"ui\">Unavailable offline</span>, klik dan op <span class=\"ui\">Fix this…</span>. Zie <a href=\"rs-guided-fix\">Een ontbrekende bron herstellen</a>. De andere tools blijven werken terwijl je het herstelt.",
+  "b756c9f3a838": "<strong>Let op:</strong> alleen verzen die geschreven zijn, kunnen worden gecontroleerd. Schrijf eerst en kom daarna terug."
+}

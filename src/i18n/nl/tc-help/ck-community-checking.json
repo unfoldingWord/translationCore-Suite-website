@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Voorbeeldweergave voor Community Checking · translationCore 4 Help",
+  "32f4bed68332": "Gebruik dit om het boek als geheel te lezen, of om het samen met je gemeenschap hardop voor te lezen.",
+  "f407ab1cd68e": "Voorbeeld bekijken en exporteren",
+  "dcc507361ac5": "Klik op <span class=\"ui\">Check</span> en daarna op <span class=\"ui\">Open →</span> op de kaart <span class=\"ui\">Community Checking</span>.",
+  "95eb586f7dfe": "Scrol door het voorbeeld. Verzen die nog niet geschreven zijn, verschijnen als \"[ verse not yet drafted ]\".",
+  "f283b735ac27": "Kies in <span class=\"ui\">Page setup</span> het aantal <span class=\"ui\">Columns</span> (1 of 2), de <span class=\"ui\">Spacing</span> (<span class=\"ui\">Single</span> of <span class=\"ui\">Double</span>) en de <span class=\"ui\">Paper size</span> (<span class=\"ui\">A4</span> of <span class=\"ui\">Letter</span>). Zet <span class=\"ui\">Drop-cap chapters</span> en <span class=\"ui\">Verse numbers</span> aan of uit.",
+  "66a07da4a05a": "Klik op <span class=\"ui\">Export</span> om een kopie op te slaan. Zie <a href=\"bp-export-pdf\">Een boek exporteren als PDF</a>, <a href=\"bp-export-usfm\">Een boek exporteren als USFM</a> en <a href=\"bp-export-burrito\">Een project exporteren als Scripture Burrito</a>.",
+  "a95f2176183a": "Klik op <span class=\"ui\">← All checking tools</span> om terug te gaan.",
+  "d80f07c55306": "Met de regelafstand <span class=\"ui\">Double</span> houden meelezers ruimte om tussen de regels te schrijven.",
+  "e161f48410c3": "De pagina-instelling verandert alleen het voorbeeld en de export, niet je vertaling.",
+  "1913f785b5a4": "Met <span class=\"ui\">Drop-cap chapters</span> aan begint vers 1 met het grote hoofdstuknummer, dus vers 1 heeft geen eigen klein nummer. Zet de grote beginletters uit om het te tonen.",
+  "df1ceace7eba": "translationCore onthoudt de pagina-instelling niet als je dit scherm verlaat. Stel hem opnieuw in voordat je exporteert.",
+  "d19d1de53268": "<span class=\"ui\">Footnotes</span> is grijs en kan nog niet worden aangezet.",
+  "79ce1f17e1a6": "Community Checking voor Titus. De labels wijzen naar het grote hoofdstuknummer (grote beginletter) zonder klein versnummer 1 ernaast, de titel van het boek, All checking tools, Export, het paginavoorbeeld, de verzen die nog niet geschreven zijn, Page setup en de notitie Incomplete draft."
+}

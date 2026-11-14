@@ -1,13 +1,13 @@
 {
-  "bfd5506d14da": "Een verhaal controleren · Hulp voor translationCore 4",
+  "bfd5506d14da": "Een verhaal controleren · translationCore 4 Help",
   "79ae8ea94979": "Het werkt net als <a href=\"ck-decide\">een Bijbelboek controleren</a>, voor het geopende verhaal.",
   "1ad94c745a33": "Klik op <span class=\"ui\">Start checking →</span> bij <span class=\"ui\">Translation Words</span> of <span class=\"ui\">Translation Notes</span>.",
   "3341fd131f9e": "Klik naast <span class=\"ui\">Sort</span> op <span class=\"ui\">By frame</span> (1) om het verhaal op volgorde door te lopen.",
   "5cecd076eff4": "Tik op de woorden in je vertaling die passen bij het gemarkeerde woord, en klik dan op <span class=\"ui\">✓ Mark valid</span> of <span class=\"ui\">Invalid</span> (2).",
-  "96e30acca2ae": "Punt 1:0 is de titel van het verhaal. De frames zijn 1:1, 1:2 enzovoort.",
-  "3d028f85ddb4": "Een frame zonder concept zegt \"This frame is not drafted yet. Draft it first, then return to check.\"",
+  "96e30acca2ae": "Punt 1:0 is de titel van het verhaal. De fragmenten zijn 1:1, 1:2 enzovoort.",
+  "3d028f85ddb4": "Een fragment zonder concept zegt \"This frame is not drafted yet. Draft it first, then return to check.\"",
   "c92da26b6953": "Verhalen worden niet uitgelijnd.",
   "07cbe37edec2": "Bladwijzers, opmerkingen en filters werken net als bij Bijbelboeken.",
   "cc2b2a21bac1": "Een controletool kiezen voor Sample Stories: Translation Words (0 of 35 resolved), Translation Notes (0 of 91 resolved) en Community Checking. Er is geen kaart Align.",
-  "2c8fa6d55a73": "Translation Words voor verhaal 1, punt 1 van 35, “God” in frame 1:1. Naast Sort (1) is By frame gekozen. In de gatewaytekst van het verhaal is God gemarkeerd, je vertaling staat eronder, en ✓ Mark valid, Invalid en To do zijn gemarkeerd met 2."
+  "2c8fa6d55a73": "Translation Words voor verhaal 1, punt 1 van 35, “God” in fragment 1:1. Naast Sort (1) is By frame gekozen. In de brugtaaltekst van het verhaal is God gemarkeerd, je vertaling staat eronder, en ✓ Mark valid, Invalid en To do zijn gemarkeerd met 2."
 }

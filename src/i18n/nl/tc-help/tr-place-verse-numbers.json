@@ -1,0 +1,17 @@
+{
+  "4376ec103233": "Versnummers plaatsen · translationCore 4 Help",
+  "5eca11c21193": "Klik na het typen van een gedeelte op elk versnummer en daarna op het woord waar dat vers begint.",
+  "dbe8b6820c98": "Elk versnummer is een klein oranje label, en nummers die je nog niet hebt geplaatst, wachten in het vak <span class=\"ui\">To place</span>.",
+  "0ebe78d1b672": "Klik in de editor voor het gedeelte op <span class=\"ui\">Place verse numbers</span>.",
+  "3b3fea276e32": "Klik op een nummer in het vak <span class=\"ui\">To place</span> (1). Het vak zegt \"Click a verse number, then click the word that begins the verse.\"",
+  "0f18a5341cd8": "Het vak zegt nu \"Click the word where verse 10 begins\". Klik op dat woord in de tekst.",
+  "d02dd9bad9b1": "Doe dit voor elk nummer en klik daarna op <span class=\"ui\">Save section</span>.",
+  "cb344d0f23be": "Klik op <span class=\"ui\">Type</span> om verder te typen. De nummers die je hebt geplaatst, blijven staan. <span class=\"ui\">Cancel</span> sluit de editor zonder op te slaan.",
+  "ca6abd1aaedf": "Om een nummer te verplaatsen dat al geplaatst is, klik je erop in de tekst en daarna op een ander woord.",
+  "42739399ed72": "Komt een nummer meteen op een woord in de buurt terecht als je erop klikt, klik er dan nog een keer op en klik op het juiste woord.",
+  "fac2a16d248a": "Als je op een geplaatst nummer klikt, zegt het vak nog steeds \"Every verse is placed. Click a verse number to move where its verse begins.\" Volg de regel eronder: \"Click the word where verse 10 begins\".",
+  "0ab63b894abe": "Een nummer kan niet voorbij een ander nummer, en het eerste nummer van het gedeelte kan niet verplaatst worden.",
+  "62b7e7cf49e0": "Als je een nummer op het woord zet waar een ander vers begint, worden ze samengevoegd tot een versgroep. Zie <a href=\"tr-verse-spans\">Een versgroep maken of weer splitsen</a>.",
+  "ddaf79c7ea52": "De modus Place verse numbers voor Titus 2:9-10. Vers 9 staat vast aan het begin van de tekst, en het nummer 10 wacht in het vak To place, gemarkeerd met 1, met de tip Click a verse number, then click the word that begins the verse.",
+  "a22a81f22a81": "Hetzelfde gedeelte nadat je op de 10 hebt geklikt: het vak To place zegt Click the word where verse 10 begins."
+}

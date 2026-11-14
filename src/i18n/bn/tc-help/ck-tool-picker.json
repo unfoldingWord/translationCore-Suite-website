@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "একটি যাচাই টুল বেছে নিন · translationCore 4 সহায়তা",
+  "5aab95d571be": "প্রতিটি যাচাই টুল আপনাকে পুরো পুস্তকটির মধ্য দিয়ে একবার নিয়ে যায়, একবারে একটি বিষয়। translationCore প্রতিটি টুলে আপনার জায়গা মনে রাখে।",
+  "0e70b0e894cc": "একটি টুল খুলুন",
+  "edfdb403ebaa": "একটি পুস্তক খুলুন, তারপর ওপরে <span class=\"ui\">Check</span>-এ ক্লিক করুন।",
+  "e1de982504aa": "কার্ডগুলো দেখুন। প্রতিটি দেখায় কয়টি বিষয়ের সমাধান হয়েছে এবং পরেরটি কোনটি।",
+  "f0d077c72286": "যে কার্ডটি চান তাতে <span class=\"ui\">Start checking →</span>-এ ক্লিক করুন, বা আগে শুরু করে থাকলে <span class=\"ui\">Continue →</span>-এ। Community Checking-এ লিংকটি হলো <span class=\"ui\">Open →</span>।",
+  "7843b655da84": "এই তালিকায় ফিরে আসতে টুলের ওপরে বাঁ দিকে <span class=\"ui\">← All checking tools</span>-এ ক্লিক করুন।",
+  "d78a20319fa6": "পরেরবার <span class=\"ui\">Check</span>-এ ক্লিক করলে translationCore আপনার শেষ ব্যবহার করা যাচাই টুলটি খোলে।",
+  "3a1d2391f3d2": "টুলগুলো",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Translation Words</a>: মূল শব্দগুলো, একবারে একটি।",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Translation Notes</a>: যে জায়গাগুলোর দিকে অনুবাদ টীকা নির্দেশ করে।",
+  "8bfdd2ed6811": "<a href=\"al-open\">Align</a>: আপনার শব্দগুলো মূল ভাষার সাথে যুক্ত করুন। এই কার্ড খসড়া হওয়া পদ গোনে, তাই কোনো খসড়া নেই এমন পুস্তকে লেখা থাকে <span class=\"ui\">No items in this book yet</span>।",
+  "7def275b185b": "<a href=\"ck-community-checking\">Community Checking</a>: পুরো পুস্তকটি ছাপা পাতার মতো পড়ুন এবং পর্যালোচকদের জন্য এক্সপোর্ট করুন।",
+  "fa2c72678197": "গল্পের প্রকল্পে Align কার্ড থাকে না।",
+  "d228c7b705aa": "কোনো কার্ডে <span class=\"ui\">Needs downloading</span> বা <span class=\"ui\">Unavailable offline</span> লেখা থাকলে <span class=\"ui\">Fix this…</span>-এ ক্লিক করুন। দেখুন <a href=\"rs-guided-fix\">অনুপস্থিত সহায়িকা ঠিক করুন</a>। আপনি এটি ঠিক করার সময়ও অন্য টুলগুলো কাজ করে।",
+  "b756c9f3a838": "<strong>লক্ষ করুন:</strong> শুধু খসড়া হওয়া পদই যাচাই করা যায়। আগে খসড়া লিখুন, তারপর ফিরে আসুন।"
+}
