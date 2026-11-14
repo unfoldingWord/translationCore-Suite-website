@@ -1,11 +1,11 @@
 {
-  "d8d9d5afaf4b": "简明文本标签页 · translationCore 4 帮助",
+  "d8d9d5afaf4b": "简化文本标签页· translationCore 4帮助",
   "11d11f91dffc": "它用平实的话表达意思，当直译文本难以理解时很有帮助。",
-  "69ca10aa2161": "在 <span class=\"ui\">Understand</span> 或 <span class=\"ui\">Translate</span> 中，打开辅助资源面板。",
-  "cc56fdfc1c5a": "点击 <span class=\"ui\">UST</span>。有些门户语言给这个标签页起了不同的名字，例如 <span class=\"ui\">GST</span>。",
-  "e57198b5a7a0": "花括号中的词，例如 {write this letter to you, Titus. I}，是简明文本的一部分。它们标出为了让意思清楚而添加的词。",
-  "0ed9bffcd127": "你也可以用 <span class=\"ui\">UST</span> 底本标签页，在主底本栏中显示简明文本。",
-  "ce9523f1ef63": "在 <span class=\"ui\">Check</span> 中，翻译注释和翻译词汇会把简明文本显示为第三张底本卡片，并高亮引用的文字。请参阅<a href=\"ck-translation-notes\">用翻译注释检查</a>。",
-  "8e322c521c99": "Open Bible Stories 没有简明文本，所以没有这个标签页。",
-  "fa7803eb96ac": "理解模式中的 UST 标签页，标题为 Simplified text · meaning-based（简明文本 · 意译），显示提多书 1:1–3 的简明文本。第 1 节以 I, Paul, {write this letter to you, Titus. I} am a servant of God 开头。"
+  "69ca10aa2161": "在<span class=\"ui\">Understand</span>或<span class=\"ui\">Translate</span>中，打开辅助资源面板。",
+  "cc56fdfc1c5a": "点击<span class=\"ui\">UST</span>。有些通用语言给这个标签页起了不同的名字，例如<span class=\"ui\">GST</span>。",
+  "e57198b5a7a0": "花括号中的词，例如{write this letter to you, Titus. I}，是简化文本的一部分。它们标出为了让意思清楚而添加的词。",
+  "0ed9bffcd127": "你也可以用<span class=\"ui\">UST</span>源文本标签页，在主源文本栏中显示简化文本。",
+  "ce9523f1ef63": "在<span class=\"ui\">Check</span>中，Translation Notes和Translation Words会把简化文本显示为第三张源文本卡片，并高亮引用的文字。请参阅<a href=\"ck-translation-notes\">用Translation Notes检查</a>。",
+  "8e322c521c99": "Open Bible Stories没有简化文本，所以没有这个标签页。",
+  "fa7803eb96ac": "理解模式中的UST标签页，标题为Simplified text · meaning-based（简化文本·意译），显示提多书1:1–3的简化文本。第1节以I, Paul, {write this letter to you, Titus. I} am a servant of God开头。"
 }

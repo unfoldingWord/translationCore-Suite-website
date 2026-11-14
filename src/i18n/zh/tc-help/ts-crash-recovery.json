@@ -1,15 +1,15 @@
 {
-  "fd7bfead716f": "应用意外关闭或窗口变成空白时 · translationCore 4 帮助",
-  "55b76d8a66e8": "tC4 会记录每个更改项目的步骤。如果它在某个步骤中途停止，下次启动时会完成或清理该步骤，因此不会留下损坏的项目。",
+  "fd7bfead716f": "应用意外关闭或窗口变成空白· translationCore 4帮助",
+  "55b76d8a66e8": "tC4会记录每个更改项目的步骤。如果它在某个步骤中途停止，下次启动时会完成或清理该步骤，因此不会留下损坏的项目。",
   "78bd5ab8337d": "如果窗口变成空白或停止响应",
-  "87388e67fa24": "打开 <strong>Window</strong> 菜单并点击 <strong>Reload</strong>，或按 Ctrl+R。",
-  "b5fd05422653": "tC4 会回到主页。请重新打开你的项目。",
-  "699657357b3c": "如果看到“This screen could not be shown.”（无法显示此画面。），请点击 <strong>Back to Home</strong>，然后重新打开项目。",
-  "3ab37d80c428": "如果 tC4 关闭了",
-  "a09dba536852": "重新启动 tC4。",
+  "87388e67fa24": "打开<strong>Window</strong>菜单并点击<strong>Reload</strong>，或按Ctrl+R。",
+  "b5fd05422653": "tC4会回到主页。请重新打开你的项目。",
+  "699657357b3c": "如果看到“This screen could not be shown.”（无法显示此画面。），请点击<strong>Back to Home</strong>，然后重新打开项目。",
+  "3ab37d80c428": "如果tC4关闭了",
+  "a09dba536852": "重新启动tC4。",
   "8b0d89d59a34": "确认你的项目都在主页上。",
   "e0c604da4f04": "如果导入被中断，请重新导入该文件。",
-  "f38932ff0291": "Reload 会带你回到主页。你的项目都还在。",
-  "814d83120c04": "<strong>Toggle Developer Tools</strong> 是给开发人员用的，你不需要它。",
-  "b55e6bd5d484": "桌面应用的 Window 菜单，包含 Reload（Ctrl+R）、Force Reload（Ctrl+Shift+R）和 Toggle Developer Tools（Ctrl+Shift+I）。"
+  "f38932ff0291": "Reload会带你回到主页。你的项目都还在。",
+  "814d83120c04": "<strong>Toggle Developer Tools</strong>是给开发人员用的，你不需要它。",
+  "b55e6bd5d484": "桌面应用的Window菜单，包含Reload（Ctrl+R）、Force Reload（Ctrl+Shift+R）和Toggle Developer Tools（Ctrl+Shift+I）。"
 }

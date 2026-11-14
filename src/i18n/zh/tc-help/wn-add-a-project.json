@@ -1,14 +1,14 @@
 {
-  "f882d1692c25": "2026 年 9 月 27 日 — 主页上只有一个 + Add a project 按钮 · translationCore 4 帮助",
-  "22889dff5dd5": "主页现在只有一个 <span class=\"ui\">+ Add a project</span> 按钮，取代原来的三个。它会打开一个对话框，你可以在其中选择新建圣经、新建 Open Bible Stories 或导入。主页标题现在是 <span class=\"ui\">Your projects</span>。",
+  "f882d1692c25": "2026年9月27日——主页上只有一个“+ Add a project”按钮· translationCore 4帮助",
+  "22889dff5dd5": "主页现在只有一个<span class=\"ui\">+ Add a project</span>按钮，取代原来的三个。它会打开一个对话框，你可以在其中选择新建圣经、新建Open Bible Stories或导入。主页标题现在是<span class=\"ui\">Your projects</span>。",
   "7e4b91991b86": "有哪些变化",
-  "0b05f77e4428": "主页标题现在是 <span class=\"ui\">Your projects</span>（原来是“Your Bibles”）。",
-  "58b1575818d7": "一个蓝色的 <span class=\"ui\">+ Add a project</span> 按钮，取代了原来分开的“新建圣经”、“新建 Open Bible Stories”和“导入”按钮。",
-  "f92b05182fa1": "<span class=\"ui\">+ Add a project</span> 会打开一个对话框，里面有三张卡片：<span class=\"ui\">New Bible</span>、<span class=\"ui\">New Open Bible Stories</span> 和 <span class=\"ui\">Import a project</span>。请参阅<a href=\"gs-home\">主页</a>。",
-  "56254fba4c31": "每张卡片打开的表单和以前一样：<a href=\"bp-new-bible\">创建圣经项目</a>、<a href=\"obs-create\">开始 Open Bible Stories 项目</a>、<a href=\"bp-import\">导入项目</a>。",
-  "180b65cd249f": "导入的第 1 步有一个 <span class=\"ui\">← Back</span> 按钮，可返回三张卡片。",
-  "8dec9d8ba023": "还没有任何项目时，主页显示“No projects yet. Select + Add a project to start.”（还没有项目。选择 + Add a project 开始。）",
-  "80d5aaf1c8eb": "键盘操作：Tab 键在卡片之间移动，Enter 或空格键打开卡片，Esc 键关闭对话框。",
-  "24b8408d001b": "表单关闭后，键盘焦点不会回到 <span class=\"ui\">+ Add a project</span>。",
-  "2c9c6bcf5f5f": "<span class=\"ui\">New Bible</span> 表单可能比小窗口还高。请在表单内滚动，找到 <span class=\"ui\">Create Bible →</span>。"
+  "0b05f77e4428": "主页标题现在是<span class=\"ui\">Your projects</span>（原来是“Your Bibles”）。",
+  "58b1575818d7": "一个蓝色的<span class=\"ui\">+ Add a project</span>按钮，取代了原来分开的“新建圣经”、“新建Open Bible Stories”和“导入”按钮。",
+  "f92b05182fa1": "<span class=\"ui\">+ Add a project</span>会打开一个对话框，里面有三张卡片：<span class=\"ui\">New Bible</span>、<span class=\"ui\">New Open Bible Stories</span>和<span class=\"ui\">Import a project</span>。请参阅<a href=\"gs-home\">主页</a>。",
+  "56254fba4c31": "每张卡片打开的表单和以前一样：<a href=\"bp-new-bible\">新建圣经项目</a>、<a href=\"obs-create\">新建Open Bible Stories项目</a>、<a href=\"bp-import\">导入项目</a>。",
+  "180b65cd249f": "导入的第1步有一个<span class=\"ui\">← Back</span>按钮，可返回三张卡片。",
+  "8dec9d8ba023": "还没有任何项目时，主页显示“No projects yet. Select + Add a project to start.”（还没有项目。选择+ Add a project开始。）",
+  "80d5aaf1c8eb": "键盘操作：Tab键在卡片之间移动，Enter或空格键打开卡片，Esc键关闭对话框。",
+  "24b8408d001b": "表单关闭后，键盘焦点不会回到<span class=\"ui\">+ Add a project</span>。",
+  "2c9c6bcf5f5f": "<span class=\"ui\">New Bible</span>表单可能比小窗口还高。请在表单内滚动，找到<span class=\"ui\">Create Bible →</span>。"
 }

@@ -1,0 +1,12 @@
+{
+  "e4359c86424d": "Tempat proyek Anda disimpan · Bantuan translationCore 4",
+  "3eab40f3847e": "\"Hanya di komputer ini\" (1) pada kartu proyek berarti proyek itu hanya disimpan di folder ini.",
+  "30baa24967e0": "Folder",
+  "02c7ab4c886a": "Mencadangkan proyek Anda",
+  "1a3b4a6ebb72": "Tutup tC4.",
+  "e025bbb3943b": "Salin seluruh folder <code>tc4-projects</code> ke flashdisk USB atau tempat cadangan lain.",
+  "9aba78ed16f6": "Menghapus instalasi tC4 tidak menghapus proyek Anda.",
+  "103374590ee0": "Untuk memindahkan satu proyek ke komputer lain, gunakan <span class=\"ui\">Simpan atau terima pekerjaan via USB</span>, atau <a href=\"bp-export-burrito\">ekspor Scripture Burrito</a> lalu buka di komputer itu dengan <span class=\"ui\">+ Tambah proyek</span> › <span class=\"ui\">Terima pekerjaan dari berkas</span>. Cara ini lebih aman daripada menyalin folder.",
+  "a667363ac5b9": "Jangan mengubah file di folder itu selama tC4 terbuka. tC4 akan menyadarinya dan berhenti untuk melindungi proyek. Lihat <a href=\"ts-protect-messages\">Pesan yang melindungi proyek Anda</a>.",
+  "05aa89ccda13": "Kartu proyek Alkitab di Beranda. Baris es-419 · 2 kitab · 2 sedang berlangsung · Hanya di komputer ini bertanda 1. Bagikan di Door43, Simpan atau terima pekerjaan via USB, dan Pengaturan ada di sebelah kanan."
+}

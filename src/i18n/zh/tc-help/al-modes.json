@@ -1,12 +1,12 @@
 {
-  "a4f23a1550e5": "对齐到门户语言文本或原文 · translationCore 4 帮助",
+  "a4f23a1550e5": "对齐到通用语言文本或原文· translationCore 4帮助",
   "0fefc3764842": "无论选择哪种方式，保存的链接都指向原文。",
-  "81dfc97839cd": "点击 <span class=\"ui\">Gateway · ULT</span> 或 <span class=\"ui\">Original · Greek</span>。旧约书卷显示 <span class=\"ui\">Original · Hebrew</span>。",
-  "8262a1c6271b": "照常连接词语。请参阅<a href=\"al-link-words\">将你的词与底本连接</a>。",
+  "81dfc97839cd": "点击<span class=\"ui\">Gateway · ULT</span>或<span class=\"ui\">Original · Greek</span>。旧约书卷显示<span class=\"ui\">Original · Hebrew</span>。",
+  "8262a1c6271b": "照常关联词语。请参阅<a href=\"al-link-words\">将你的词语与源文本关联</a>。",
   "8fad724d20cc": "选择哪一种",
-  "81f903564a6a": "<strong><span class=\"ui\">Gateway · ULT</span>：</strong>“Align to the gateway text you can read — its words already carry the original-language alignment.”（对齐到你能读懂的门户语言文本——它的词已经带有与原文的对齐。）如果你不懂希腊文或希伯来文，这种方式更容易。一张卡片可以包含一个门户语言短语，例如 ἐκλεκτῶν 上方的“of the chosen people”。",
-  "8c59cbaf7b79": "<strong><span class=\"ui\">Original · Greek</span></strong> 或 <strong><span class=\"ui\">Original · Hebrew</span>：</strong>“Align directly to the original-language words.”（直接对齐到原文的词。）卡片只显示原文的词。",
+  "81f903564a6a": "<strong><span class=\"ui\">Gateway · ULT</span>：</strong>“Align to the gateway text you can read—its words already carry the original-language alignment.”（对齐到你能读懂的通用语言文本——它的词已经带有与原文的对齐。）如果你不懂希腊文或希伯来文，这种方式更容易。一张卡片可以包含一个通用语言短语，例如ἐκλεκτῶν上方的“of the chosen people”。",
+  "8c59cbaf7b79": "<strong><span class=\"ui\">Original · Greek</span></strong>或<strong><span class=\"ui\">Original · Hebrew</span>：</strong>“Align directly to the original-language words.”（直接对齐到原文的词。）卡片只显示原文的词。",
   "212214f76668": "切换方式时，你已经放置的词会留在原处。",
-  "4a7c948ee755": "如果某节经文的门户语言文本没有对齐数据，门户语言模式会显示“The gateway lens needs the gateway source text with alignment data for this verse.”（门户语言视图需要这节经文带有对齐数据的门户语言底本。）请改用原文模式。",
-  "8b21ae71366f": "提多书 1:1 的对齐页面，已选择 Original · Greek。提示文字为 Align directly to the original-language words。底本的标题为 Original language · Greek，词库下方的卡片只显示希腊文的词。"
+  "4a7c948ee755": "如果某节经文的通用语言文本没有对齐数据，通用语言模式会显示“The gateway lens needs the gateway source text with alignment data for this verse.”（通用语言视图需要这节经文带有对齐数据的通用语言源文本。）请改用原文模式。",
+  "8b21ae71366f": "提多书1:1的对齐页面，已选择Original · Greek。提示文字为Align directly to the original-language words。源文本的标题为Original language · Greek，词库下方的卡片只显示希腊文的词。"
 }

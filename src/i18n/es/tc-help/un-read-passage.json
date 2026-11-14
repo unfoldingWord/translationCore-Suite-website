@@ -1,0 +1,14 @@
+{
+  "419606e87b4a": "Leer un pasaje antes de traducir · Ayuda de translationCore 4",
+  "bcafa7720d63": "Muchos equipos leen y conversan sobre un pasaje aquí antes de redactarlo.",
+  "4a05a926ba5e": "Leer un pasaje",
+  "ff749b696f71": "Abra un libro y luego haga clic en <span class=\"ui\">Comprender</span> en la parte superior.",
+  "44e086f6011e": "Elija el texto fuente con la pestaña <span class=\"ui\">ULT</span> o <span class=\"ui\">UST</span>. Los proyectos con español como idioma de revisión muestran <span class=\"ui\">GLT</span> y <span class=\"ui\">GST</span> en su lugar.",
+  "fd228361bd37": "Junto a <span class=\"ui\">Comentar por</span>, elija <span class=\"ui\">Sección</span> para leer una sección a la vez, o <span class=\"ui\">Versículo</span> para leer un versículo a la vez.",
+  "15b2c0fc90be": "Lea las ayudas de la derecha: <span class=\"ui\">Notas</span>, <span class=\"ui\">Palabras</span>, <span class=\"ui\">Preguntas</span> y <span class=\"ui\">UST</span>. Haga clic en una tarjeta de ayuda y las palabras a las que se refiere se resaltan en el pasaje.",
+  "23260f03a26c": "Para guardar una idea para más tarde, escríbala en el cuadro de comentario debajo de la sección. Vea <a href=\"un-user-comments\">Escribir un comentario de usuario</a>.",
+  "f4cf47fb096e": "Un pequeño punto verde en una sección significa que usted escribió un comentario ahí.",
+  "ab2dbdc038e5": "Las secciones siguen las divisiones del texto fuente, así que un capítulo puede dividirse de forma distinta en distintos idiomas puente.",
+  "41bcd926695c": "Lo que elija entre <span class=\"ui\">Sección</span> o <span class=\"ui\">Versículo</span> también se aplica en Traducir.",
+  "52372b78ed9b": "Comprender muestra los textos puente. El griego o el hebreo está en <span class=\"ui\">Traducir</span> y en <span class=\"ui\">Revisar</span>."
+}

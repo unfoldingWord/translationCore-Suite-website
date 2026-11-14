@@ -1,12 +1,12 @@
 {
-  "07da1256112e": "alpha.6 — 建议与资源 · translationCore 4 帮助",
+  "07da1256112e": "alpha.6——建议与资源· translationCore 4帮助",
   "8461a29ef9cf": "<a href=\"al-suggestions\">对齐建议</a>：默认关闭；每条建议都由你确认或拒绝。",
   "e3f814b930ac": "<a href=\"al-mark-valid\">将对齐标记为完成</a>。",
   "6e11b1b0cb6b": "<a href=\"ck-comments\">检查评论</a>和<a href=\"ck-bookmarks\">书签</a>。",
-  "387870d1e2a2": "用“检查更新”<a href=\"rs-upgrade-helps\">更新锁定的辅助资源</a>。",
+  "387870d1e2a2": "用“检查更新”<a href=\"rs-upgrade-helps\">更新固定版本的辅助资源</a>。",
   "2f1e3b420242": "<a href=\"rs-guided-fix\">修复缺失的资源</a>。",
   "753f9daaca7b": "“继续”会回到你上次使用的模式。",
-  "0419e8ff423a": "macOS（.pkg）和 Windows（.exe）安装程序。",
+  "0419e8ff423a": "macOS（.pkg）和Windows（.exe）安装程序。",
   "4aab6ed40ea4": "翻译模式中只有一个“段落/经节”切换开关；辅助资源面板跟随当前聚焦的经节。",
-  "96a879feb1fb": "Windows 需要 Microsoft Visual C++ 运行库。"
+  "96a879feb1fb": "Windows需要Microsoft Visual C++运行库。"
 }

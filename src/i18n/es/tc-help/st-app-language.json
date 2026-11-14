@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "Cambiar el idioma de la aplicación · Ayuda de translationCore 4",
+  "17845592efa5": "Elija el idioma de los botones, menús y mensajes de tC4. Mientras no elija uno, tC4 sigue el idioma de esta computadora; después de elegir, conserva esa opción.",
+  "45563e5c8a97": "Su traducción y sus proyectos no cambian.",
+  "ee049a6941eb": "Haga clic en el ícono redondo de la persona, arriba a la derecha (1), y luego en <span class=\"ui\">Idioma de la aplicación</span> (2). El menú es el mismo en Inicio y dentro de un proyecto.",
+  "dc7b6c5db74e": "Haga clic en el cuadro <span class=\"ui\">Idioma</span> y elija un idioma.",
+  "3727c4ee54ba": "Toda la aplicación cambia a ese idioma de inmediato, para que vea cómo se ve antes de decidir.",
+  "11954b3e0c6e": "Haga clic en <span class=\"ui\">Apply</span> para conservarlo. En español el botón dice <span class=\"ui\">Aplicar</span>.",
+  "c83abfae8b10": "Para volver al idioma que tenía, haga clic en <span class=\"ui\">Cancelar</span> o en ✕. translationCore recuerda su elección la próxima vez que lo abra.",
+  "73cdc5d82a85": "Qué cambia y qué no",
+  "f321bc45749b": "Cambian: los menús, botones, etiquetas y diálogos, como <span class=\"ui\">Comprender</span>, <span class=\"ui\">Traducir</span> y <span class=\"ui\">Revisar</span> en la parte superior de un proyecto.",
+  "2b6bca26ac47": "No cambian: su traducción, los textos fuente (como la ULT) y las ayudas de traducción (notas, palabras y preguntas). Estos se quedan en el idioma en que fueron escritos. Para elegir el idioma de las ayudas de revisión, vea <a href=\"rs-checking-language\">Idioma de revisión</a>.",
+  "029f491d3863": "Idiomas de la lista",
+  "22afbdc189d0": "English, Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский y Tiếng Việt. Los cuatro primeros llegaron con <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a>; los cinco siguientes, con <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a>.",
+  "aa3bf50cfe0b": "Volver a encontrar English",
+  "d3f81c8b784c": "Si no puede leer el idioma actual, el ícono de la persona siempre está arriba a la derecha, y <span class=\"ui\">Idioma de la aplicación</span> está en el menú de la cuenta (después de Ayuda y guías). English siempre es el primero de la lista.",
+  "54513425bd7d": "El menú de la cuenta, abierto con una sesión iniciada en Door43: el nombre de la cuenta de Door43, Usar el internet (activado), Ayuda y guías, Idioma de la aplicación (English), Informar de un problema, Acerca de translationCore y Cerrar sesión de Door43. La insignia 1 está en el ícono redondo de la persona, arriba a la derecha. La insignia 2 está en Idioma de la aplicación.",
+  "171294dd60a6": "El diálogo Idioma de la aplicación con la lista Idioma abierta: English (marcado), Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский y Tiếng Việt.",
+  "e58555e59c08": "Inicio detrás del diálogo Idioma de la aplicación después de elegir Español (Latinoamérica). Toda la pantalla ya cambió a español, y los botones del diálogo ahora dicen Cancelar y Aplicar."
+}
