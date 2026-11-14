@@ -1,13 +1,13 @@
 {
-  "f27d43f9f6b0": "撰写用户评论· translationCore 4帮助",
+  "f27d43f9f6b0": "撰写用户评论 · translationCore 4 帮助",
   "c41f12a9a0a9": "评论是你自己对某个段落或某节经文写下的笔记，它会一直保存在项目中。",
-  "187773781cd8": "在<span class=\"ui\">Understand</span>中，在<span class=\"ui\">Comment by</span>旁边选择<span class=\"ui\">Section</span>或<span class=\"ui\">Verse</span>（1）。",
+  "187773781cd8": "在 <span class=\"ui\">Understand</span> 中，在 <span class=\"ui\">Comment by</span> 旁边选择 <span class=\"ui\">Section</span> 或 <span class=\"ui\">Verse</span>（1）。",
   "1b68b65029e4": "点击段落或经节下方的框（2），输入你的评论。",
   "7be660c4a844": "点击框外，评论就会保存；请留意右上角的指示器。",
-  "703fd837a2ff": "之后在<span class=\"ui\">Translate</span>中，点击辅助资源面板中的<span class=\"ui\">Comments</span>即可阅读。",
+  "703fd837a2ff": "之后在 <span class=\"ui\">Translate</span> 中，点击辅助资源面板中的 <span class=\"ui\">Comments</span> 即可阅读。",
   "be76e7f1ab15": "要修改评论，请编辑文字，然后再次点击框外。",
   "da9bca00c426": "已保存的评论不能清空：“A saved user comment cannot be emptied—user comments are permanent in this version.”（已保存的用户评论不能清空——在此版本中，用户评论是永久的。）请改为修改文字。",
-  "76d4bd8cd258": "在<span class=\"ui\">Section</span>视图中，如果你在该段落内对单节经文写了评论，tC4会建议切换到<span class=\"ui\">Verse</span>，以便逐一查看。",
+  "76d4bd8cd258": "在 <span class=\"ui\">Section</span> 视图中，如果你在该段落内对单节经文写了评论，tC4 会建议切换到 <span class=\"ui\">Verse</span>，以便逐一查看。",
   "6c3207140f2b": "这些评论与检查评论是分开的。请参阅<a href=\"ck-comments\">撰写检查评论</a>。",
-  "41c4ead31bdb": "理解模式中的一个段落：Comment by已选择Section，标为1。提多书1:1–3的经文段落下方是空白的评论框，标为2，框中提示What is this section saying? Who is speaking, to whom, and what will be hard to render?（这个段落在说什么？谁在对谁说话？哪些地方会难以翻译？）"
+  "41c4ead31bdb": "理解模式中的一个段落：Comment by 已选择 Section，标为 1。提多书 1:1–3 的经文段落下方是空白的评论框，标为 2，框中提示 What is this section saying? Who is speaking, to whom, and what will be hard to render?（这个段落在说什么？谁在对谁说话？哪些地方会难以翻译？）"
 }

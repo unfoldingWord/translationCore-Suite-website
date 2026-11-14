@@ -8,6 +8,6 @@
   "893b07b094b5": "Cliquer plusieurs fois sur <span class=\"ui\">Réessayer</span> n’aide pas. Il fait une seule tentative à la fois.",
   "9e57e0b22b6f": "Dans un projet importé, écrire le premier texte dans un verset vide peut échouer à chaque enregistrement. Réessayer ne règle pas le problème. Copiez votre texte en lieu sûr avant de fermer tC4, car le verset reviendra vide. Annuler un tel verset après avoir tapé peut afficher le même message.",
   "e5f60e2765f9": "<span class=\"ui\">← Tous les outils de vérification</span> fonctionne toujours pendant qu’un problème d’enregistrement est affiché.",
-  "f7028df78512": "Si le message sous l’indicateur d’enregistrement dit <strong>Ce projet a été synchronisé, donc l’application doit l’ouvrir de nouveau</strong>, cliquez sur Accueil, rouvrez le projet et refaites votre dernière modification. Réessayer n’aide pas dans ce cas. Voir <a href=\"ts-protect-messages\">Messages qui protègent votre projet</a>.",
+  "f7028df78512": "Si le message sous l’indicateur d’enregistrement dit <strong>Ce projet a été synchronisé, donc l’application doit l’ouvrir de nouveau</strong>, cliquez sur Accueil, rouvrez le projet et refaites votre dernière modification. Réessayer n’aide pas dans ce cas. Voir <a href=\"ts-protect-messages\">Les messages qui protègent votre projet</a>.",
   "978fdc3be81d": "L’indicateur d’enregistrement en haut à droite affichant Échec de l’enregistrement — réessayer, avec un bouton Réessayer."
 }

@@ -1,11 +1,11 @@
 {
-  "697a77e25d71": "更新经文文本· translationCore 4帮助",
-  "7d304b628f19": "查看<span class=\"ui\">Scripture texts</span>下方。每个有较新发布版本的文本都单独占一行。",
-  "13cfc493d0b5": "点击某一行的<span class=\"ui\">Upgrade</span>，阅读确认信息，然后确认。",
-  "c721d8228039": "如果全部都是最新的，会显示<span class=\"ui\">✓ Every scripture text is up to date</span>（所有经文文本都已是最新）。",
+  "697a77e25d71": "更新经文文本 · translationCore 4 帮助",
+  "7d304b628f19": "查看 <span class=\"ui\">Scripture texts</span> 下方。每个有较新发布版本的文本都单独占一行。",
+  "13cfc493d0b5": "点击某一行的 <span class=\"ui\">Upgrade</span>，阅读确认信息，然后确认。",
+  "c721d8228039": "如果全部都是最新的，会显示 <span class=\"ui\">✓ Every scripture text is up to date</span>（所有经文文本都已是最新）。",
   "27e6e457e88b": "<strong>通用语言圣经：</strong>你的工作不会有任何变化。源文本窗格会显示新的文本。",
   "22029a371600": "<strong>希腊文或希伯来文文本：</strong>对齐会被保留，但受影响的经节会失去“有效”标记，以便你重新检查。请参阅<a href=\"al-mark-valid\">将对齐标记为完成</a>。",
   "a87d9146c991": "只会提供你的书卷需要的文本。新约项目永远不会收到希伯来文文本。",
   "9fda5f68266e": "请先保存所有尚未保存的对齐编辑。",
-  "530420a6fe12": "点击Check for updates之后的经文文本列表：原文文本hbo_uhb v2.1.30 → v3.0.0，以及通用语言圣经en_ult和en_ust v89 → v91，每一行都有Upgrade按钮。"
+  "530420a6fe12": "点击 Check for updates 之后的经文文本列表：原文文本 hbo_uhb v2.1.30 → v3.0.0，以及通用语言圣经 en_ult 和 en_ust v89 → v91，每一行都有 Upgrade 按钮。"
 }

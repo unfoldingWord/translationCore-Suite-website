@@ -1,8 +1,8 @@
 {
-  "24e2a0d40df9": "Nouveautés de la version 4.0 rc.2 · Aide de translationCore 4",
+  "24e2a0d40df9": "Nouveautés de la 4.0 rc.2 · Aide de translationCore 4",
   "923cacee0a0a": "4.0.0-rc.2 est la bêta publique. Voici les principaux changements depuis rc.1.",
   "e1f70e1fe8f9": "Lancer tC4",
-  "0a7aeea1c157": "<strong>Une fenêtre de préparation au premier démarrage.</strong> « Préparation de translationCore4 » compte les ressources intégrées, par exemple « Préparation des ressources : 2 sur 16 », puis tC4 s’ouvre sur l’Accueil. Les démarrages suivants sont beaucoup plus rapides. Si le fichier téléchargé est endommagé, tC4 le signale et se ferme sans rien changer. Voir <a href=\"gs-install\">Installer et lancer tC4</a>.",
+  "0a7aeea1c157": "<strong>Une fenêtre de préparation au premier démarrage.</strong> « Préparation de translationCore4 » compte les ressources intégrées, par exemple « Préparation des ressources : 2 sur 16 », puis tC4 s’ouvre sur l’accueil. Les démarrages suivants sont beaucoup plus rapides. Si le fichier téléchargé est endommagé, tC4 le signale et se ferme sans rien changer. Voir <a href=\"gs-install\">Installer et lancer tC4</a>.",
   "94ad0f236d3b": "<strong>Les mots répétés sont numérotés.</strong> Un mot qui apparaît plusieurs fois dans le verset indique de quelle occurrence il s’agit : de¹, de², de³. Les cartes sources utilisent les mêmes numéros.",
   "f08f5fc4aac9": "<strong>Placez plusieurs mots à la fois.</strong> Faites Ctrl-clic (Cmd-clic sur Mac) ou Maj-clic sur des mots de la banque de mots, puis cliquez sur une carte ou faites-les glisser dessus.",
   "724a72d93643": "<strong>Les cartes gardent l’ordre du verset.</strong> Les mots d’une carte s’affichent toujours dans l’ordre où ils apparaissent dans votre verset, quel que soit l’endroit où vous les déposez.",
@@ -18,7 +18,7 @@
   "97cfab856d3f": "<strong>La liste Histoires garde ses titres et ses pourcentages</strong> pendant que vous rédigez une histoire. Voir <a href=\"obs-translate\">Traduire une histoire</a>.",
   "a860f186fa1a": "<strong>Paramètres du projet</strong> affiche « 1 livre » au lieu de « 1 livres ».",
   "f81a8e0bdf67": "<strong>Menu du compte :</strong> <span class=\"ui\">Aide et guides</span> (hors ligne), <span class=\"ui\">À propos de translationCore</span>, <span class=\"ui\">Langue de l’application</span> (neuf langues) et <span class=\"ui\">Signaler un problème</span>. Voir <a href=\"gs-home\">L’écran d’accueil</a> et <a href=\"st-app-language\">Changer la langue de l’application</a>.",
-  "abd483fff65f": "<strong>Les plages de versets comptent dans le pourcentage rédigé</strong>, et réunir des versets sur plusieurs paragraphes ne laisse plus de ligne vide dans la plage. Voir <a href=\"tr-verse-spans\">Créer ou défaire une plage de versets</a>.",
+  "abd483fff65f": "<strong>Les plages de versets comptent dans le pourcentage rédigé</strong>, et réunir des versets sur plusieurs paragraphes ne laisse plus de ligne vide dans la plage. Voir <a href=\"tr-verse-spans\">Créer ou séparer une plage de versets</a>.",
   "638a1c353d7e": "<strong>Reprendre</strong> nomme le verset ou la plage où vous étiez après un changement de plage. Voir <a href=\"gs-resume\">Reprendre là où vous vous êtes arrêté</a>.",
   "56fb8b390760": "<strong>Placer les numéros de verset</strong> permet de cliquer puis cliquer pour déplacer un numéro déjà placé. Voir <a href=\"tr-place-verse-numbers\">Placer les numéros de verset</a>.",
   "14508b64aa47": "<strong>Comprendre / Traduire / Vérifier</strong> restent centrés quand Enregistré passe à Non enregistré. Voir <a href=\"gs-modes\">Les trois modes</a>.",
@@ -38,6 +38,6 @@
   "d3d1489fd4c6": "<strong>USFM, aligné</strong> nomme chaque verset dont l’alignement doit être revu et qui n’est pas dans le fichier : « Votre alignement de ces versets n’est pas dans le fichier ». Voir <a href=\"bp-export-usfm\">Exporter un livre en USFM</a>.",
   "818410cdfec0": "Synchronisation d’équipe",
   "f66b7cf64411": "Le résultat de la synchronisation nomme chaque verset où l’alignement plus récent d’un coéquipier a remplacé le vôtre. Voir <a href=\"ts-team-sync\">Travailler en équipe</a>.",
-  "d253d22d1824": "Après une synchronisation, un projet qui était ouvert affiche un message simple vous demandant de le fermer puis de le rouvrir, et l’Accueil vous laisse toujours sortir.",
+  "d253d22d1824": "Après une synchronisation, un projet qui était ouvert affiche un message simple vous demandant de le fermer puis de le rouvrir, et l’accueil vous laisse toujours sortir.",
   "ef41cb973bd0": "Un Scripture Burrito sans fichier de versification s’importe sans erreurs « Point de contrôle non enregistré »."
 }

@@ -6,7 +6,7 @@
   "dc7b6c5db74e": "Haga clic en el cuadro <span class=\"ui\">Idioma</span> y elija un idioma.",
   "3727c4ee54ba": "Toda la aplicación cambia a ese idioma de inmediato, para que vea cómo se ve antes de decidir.",
   "11954b3e0c6e": "Haga clic en <span class=\"ui\">Apply</span> para conservarlo. En español el botón dice <span class=\"ui\">Aplicar</span>.",
-  "c83abfae8b10": "Para volver al idioma que tenía, haga clic en <span class=\"ui\">Cancelar</span> o en ✕. translationCore recuerda su elección la próxima vez que lo abra.",
+  "c83abfae8b10": "Para volver al idioma que tenía, haga clic en <span class=\"ui\">Cancel</span> (Cancelar, en español) o en ✕. translationCore recuerda su elección la próxima vez que lo abra.",
   "73cdc5d82a85": "Qué cambia y qué no",
   "f321bc45749b": "Cambian: los menús, botones, etiquetas y diálogos, como <span class=\"ui\">Comprender</span>, <span class=\"ui\">Traducir</span> y <span class=\"ui\">Revisar</span> en la parte superior de un proyecto.",
   "2b6bca26ac47": "No cambian: su traducción, los textos fuente (como la ULT) y las ayudas de traducción (notas, palabras y preguntas). Estos se quedan en el idioma en que fueron escritos. Para elegir el idioma de las ayudas de revisión, vea <a href=\"rs-checking-language\">Idioma de revisión</a>.",

@@ -1,16 +1,16 @@
 {
-  "5af4889f5ac7": "翻译故事· translationCore 4帮助",
+  "5af4889f5ac7": "翻译故事 · translationCore 4 帮助",
   "a10337e72f9e": "故事按部分起草：先是标题，然后是每个画面，最后是出处。",
-  "984b4856ee89": "打开一个故事，点击<span class=\"ui\">Translate</span>。",
-  "8995602f6958": "点击<span class=\"ui\">Draft the title</span>（1），输入标题。",
-  "7533633a8c2c": "点击<span class=\"ui\">Save</span>。",
-  "d80905a60fc6": "对每个画面，点击“Draft frame N”（起草画面N）（2），看图片和英文文本，然后输入你的译文。点击<span class=\"ui\">Save</span>（1）。",
-  "b886423ff2ad": "最后，点击<span class=\"ui\">Draft the reference</span>，翻译“A Bible story from:…”（圣经故事出处：…）这一行。",
-  "66edcca3d388": "要修改已保存的部分，请点击它的文字。要取消，请点击<span class=\"ui\">Cancel</span>。",
+  "984b4856ee89": "打开一个故事，点击 <span class=\"ui\">Translate</span>。",
+  "8995602f6958": "点击 <span class=\"ui\">Draft the title</span>（1），输入标题。",
+  "7533633a8c2c": "点击 <span class=\"ui\">Save</span>。",
+  "d80905a60fc6": "对每个画面，点击“Draft frame N”（起草画面 N）（2），看图片和英文文本，然后输入你的译文。点击 <span class=\"ui\">Save</span>（1）。",
+  "b886423ff2ad": "最后，点击 <span class=\"ui\">Draft the reference</span>，翻译“A Bible story from:…”（圣经故事出处：…）这一行。",
+  "66edcca3d388": "要修改已保存的部分，请点击它的文字。要取消，请点击 <span class=\"ui\">Cancel</span>。",
   "bf95ea47b7f4": "你每保存一个部分，左侧故事的已起草百分比就会增加。",
-  "118fa9449fd3": "该画面的注释、词汇和问题在右侧的辅助资源面板中。点击<span class=\"ui\">Save</span>之后，它们仍停留在该画面上。Comments标签页显示该画面最新的评论。",
+  "118fa9449fd3": "该画面的注释、词汇和问题在右侧的辅助资源面板中。点击 <span class=\"ui\">Save</span> 之后，它们仍停留在该画面上。Comments 标签页显示该画面最新的评论。",
   "94591424f449": "画面编辑框与旁边的图片和文字一样高。较长的文字在框内滚动；拖动框的右下角可以把它拉高。",
   "0c398604d8c4": "故事没有节号，也没有节范围。",
-  "ec94e642294e": "翻译模式中的故事1。通用语言栏显示Gateway story · v9 · pinned（通用语言故事· v9 ·已固定）、标题The Creation以及画面1和它的图片。在你的栏中，Draft the title标为1，Draft frame 1标为2。",
-  "1cc4c1aeb82e": "画面2已打开，可在英文画面文本旁起草。编辑框的标题为Drafting frame 2，与旁边的画面一样高，里面是Entonces Dios dijo: «¡Que haya luz!». Y hubo luz. Save标为1，旁边是Cancel。"
+  "ec94e642294e": "翻译模式中的故事 1。通用语言栏显示 Gateway story · v9 · pinned（通用语言故事 · v9 · 已固定）、标题 The Creation 以及画面 1 和它的图片。在你的栏中，Draft the title 标为 1，Draft frame 1 标为 2。",
+  "1cc4c1aeb82e": "画面 2 已打开，可在英文画面文本旁起草。编辑框的标题为 Drafting frame 2，与旁边的画面一样高，里面是 Entonces Dios dijo: «¡Que haya luz!». Y hubo luz. Save 标为 1，旁边是 Cancel。"
 }

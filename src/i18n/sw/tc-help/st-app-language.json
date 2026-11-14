@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "Badilisha lugha ya programu · Msaada wa translationCore 4",
+  "17845592efa5": "Chagua lugha ya vitufe, menyu na jumbe katika tC4. Hadi utakapochagua, tC4 inafuata lugha ya kompyuta hii; ukishachagua, inabaki na chaguo hilo.",
+  "45563e5c8a97": "Tafsiri yako na miradi yako havibadiliki.",
+  "ee049a6941eb": "Bofya aikoni ya mtu yenye umbo la duara iliyo juu upande wa kulia (1), kisha <span class=\"ui\">App language</span> (2). Menyu ni ile ile kwenye Home na ndani ya mradi.",
+  "dc7b6c5db74e": "Bofya kisanduku cha <span class=\"ui\">Language</span> na uchague lugha.",
+  "3727c4ee54ba": "Programu nzima inabadilika kwenda lugha hiyo mara moja, ili uweze kuona inavyoonekana kabla ya kuamua.",
+  "11954b3e0c6e": "Bofya <span class=\"ui\">Apply</span> ili kuibakiza. Kwa Kihispania kitufe kinasomeka <span class=\"ui\">Aplicar</span>.",
+  "c83abfae8b10": "Ili kurudi kwenye lugha uliyokuwa nayo, bofya <span class=\"ui\">Cancel</span> au ✕ badala yake. translationCore inakumbuka chaguo lako wakati ujao utakapoifungua.",
+  "73cdc5d82a85": "Kinachobadilika na kisichobadilika",
+  "f321bc45749b": "Kinachobadilika: menyu, vitufe, lebo na madirisha, kama <span class=\"ui\">Understand</span>, <span class=\"ui\">Translate</span> na <span class=\"ui\">Check</span> juu ya mradi.",
+  "2b6bca26ac47": "Kisichobadilika: tafsiri yako, maandishi chanzo (kama ULT) na misaada ya tafsiri (maelezo, maneno na maswali). Haya yanabaki katika lugha yaliyoandikwa. Ili kuchagua lugha ya misaada ya ukaguzi, tazama <a href=\"rs-checking-language\">Lugha ya ukaguzi</a>.",
+  "029f491d3863": "Lugha zilizo katika orodha",
+  "22afbdc189d0": "English, Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский na Tiếng Việt. Nne za kwanza zilikuja na <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a>; tano zinazofuata zilikuja na <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a>.",
+  "aa3bf50cfe0b": "Kupata Kiingereza tena",
+  "d3f81c8b784c": "Ikiwa huwezi kusoma lugha iliyopo sasa, aikoni ya mtu iko juu upande wa kulia kila wakati, na <span class=\"ui\">App language</span> iko kwenye menyu ya akaunti (baada ya Help and guides). English iko ya kwanza katika orodha kila wakati.",
+  "54513425bd7d": "Menyu ya akaunti ikiwa wazi baada ya kuingia kwenye Door43: jina la akaunti ya Door43, Use the internet (imewashwa), Help and guides, App language (English), Report a problem, About translationCore na Sign out of Door43. Beji 1 iko kwenye aikoni ya mtu yenye umbo la duara juu upande wa kulia. Beji 2 iko kwenye App language.",
+  "171294dd60a6": "Dirisha la App language likiwa na orodha ya Language wazi: English (imechaguliwa), Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский na Tiếng Việt.",
+  "e58555e59c08": "Home nyuma ya dirisha la App language baada ya kuchagua Español (Latinoamérica). Skrini nzima tayari imebadilika kuwa Kihispania, na vitufe vya dirisha sasa vinasomeka Cancelar na Aplicar."
+}

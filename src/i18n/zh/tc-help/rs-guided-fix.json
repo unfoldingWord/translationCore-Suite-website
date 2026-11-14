@@ -1,13 +1,13 @@
 {
-  "54fe55bdb262": "修复缺失的资源· translationCore 4帮助",
-  "b480ad9d366e": "这种情况通常出现在从其他电脑导入或复制过来的项目中。工具卡片会显示<span class=\"ui\">Needs downloading</span>（需要下载）或<span class=\"ui\">Unavailable offline</span>（离线时不可用）。",
-  "b91410d35d0d": "在<span class=\"ui\">Check</span>中，点击工具卡片上的<span class=\"ui\">Fix this…</span>。",
+  "54fe55bdb262": "修复缺失的资源 · translationCore 4 帮助",
+  "b480ad9d366e": "这种情况通常出现在从其他电脑导入或复制过来的项目中。工具卡片会显示 <span class=\"ui\">Needs downloading</span>（需要下载）或 <span class=\"ui\">Unavailable offline</span>（离线时不可用）。",
+  "b91410d35d0d": "在 <span class=\"ui\">Check</span> 中，点击工具卡片上的 <span class=\"ui\">Fix this…</span>。",
   "06f159e608c8": "选择一种方式：",
-  "9600fc54f60d": "<strong>1 ·下载固定的版本。</strong>需要联网。",
-  "e7d4a21bf202": "<strong>2 ·使用已安装的版本。</strong>点击一个版本，查看有多少决定会被保留，然后点击<span class=\"ui\">Re-pin</span>（重新固定）。",
-  "84e5e8fe0953": "<strong>3 ·从文件导入。</strong>拖入该确切发布版本的Scripture Burrito zip文件。",
-  "610a3e20320c": "要取消，请点击<span class=\"ui\">Close</span>或✕。不会有任何更改。",
-  "3dcb2c8b44de": "离线时，请使用方式2或3，或者打开互联网连接。请参阅<a href=\"rs-offline\">离线工作</a>。",
+  "9600fc54f60d": "<strong>1 · 下载固定的版本。</strong>需要联网。",
+  "e7d4a21bf202": "<strong>2 · 使用已安装的版本。</strong>点击一个版本，查看有多少决定会被保留，然后点击 <span class=\"ui\">Re-pin</span>（重新固定）。",
+  "84e5e8fe0953": "<strong>3 · 从文件导入。</strong>拖入该确切发布版本的 Scripture Burrito zip 文件。",
+  "610a3e20320c": "要取消，请点击 <span class=\"ui\">Close</span> 或 ✕。不会有任何更改。",
+  "3dcb2c8b44de": "离线时，请使用方式 2 或 3，或者打开互联网连接。请参阅<a href=\"rs-offline\">离线工作</a>。",
   "e6373a1d0492": "尚未准备好的工具永远不会妨碍你的其他工作。",
-  "870406ae3c19": "Translation Words需要一个不在这台电脑上的资源。项目为提多书固定了es-419_twl · v18。1 ·下载固定的版本，有Download it按钮。2 ·使用已安装的版本：这台电脑上没有安装es-419_twl的其他版本。3 ·从文件导入，有一个放置zip文件的区域。Close。"
+  "870406ae3c19": "Translation Words 需要一个不在这台电脑上的资源。项目为提多书固定了 es-419_twl · v18。1 · 下载固定的版本，有 Download it 按钮。2 · 使用已安装的版本：这台电脑上没有安装 es-419_twl 的其他版本。3 · 从文件导入，有一个放置 zip 文件的区域。Close。"
 }

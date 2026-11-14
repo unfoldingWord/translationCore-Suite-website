@@ -1,7 +1,7 @@
 {
   "93d679ccd953": "Trabajar en equipo en varias computadoras · Ayuda de translationCore 4",
   "ff02d64372a9": "Comparta un proyecto en Door43; luego cada compañero de equipo lo abre desde Door43 y usa Sincronizar con Door43 para intercambiar el trabajo.",
-  "8963b6ec3415": "Cuando un proyecto de Biblia o de Open Bible Stories ya está en Door43, cada compañero de equipo puede trabajar en su propia computadora e intercambiar cambios con <strong>Sincronizar con Door43</strong>.",
+  "8963b6ec3415": "Cuando un proyecto bíblico o de Open Bible Stories ya está en Door43, cada compañero de equipo puede trabajar en su propia computadora e intercambiar cambios con <strong>Sincronizar con Door43</strong>.",
   "09094b2240a6": "Empezar a compartir (dueño del proyecto)",
   "23183fad8bbd": "En la pantalla de Inicio, seleccione <span class=\"ui\">Compartir en Door43</span> en la tarjeta del proyecto y siga los pasos. Vea <a href=\"ts-share-door43\">Compartir en Door43</a>.",
   "c5fd34dc67c2": "En Door43, dé a cada compañero de equipo permiso de escritura en el repositorio. Sin ese permiso, no pueden sincronizar.",
@@ -30,7 +30,7 @@
   "58f7b7cdc835": "Formato del proyecto y archivos reparados",
   "ab3fd78e1440": "Si el translationCore más nuevo de un compañero guardó el proyecto en un formato que esta versión no puede guardar, la sincronización se detiene y el aviso nombra ese formato (por ejemplo <span class=\"ui\">1.4</span> o <span class=\"ui\">2</span>).",
   "d59e994d2b56": "Si <code>format.json</code> se eliminó o se dañó en Door43, tC4 vuelve a poner la copia de esta computadora y el aviso agrega: <span class=\"ui\">Un archivo del proyecto se eliminó o se dañó en Door43, así que tC4 volvió a poner tu copia.</span>",
-  "b663aaae15f0": "Los proyectos de Biblia y de Open Bible Stories se abren y se sincronizan de la misma manera.",
+  "b663aaae15f0": "Los proyectos bíblicos y de Open Bible Stories se abren y se sincronizan de la misma manera.",
   "3e0d08417bcc": "No copie a mano carpetas de proyectos entre computadoras. tC4 se niega a abrirlas, para proteger el proyecto.",
   "ea6c2a6fb28b": "Tarjeta del proyecto Equipo Ejemplo — Tito y Jonás con la etiqueta EN DOOR43, Compartido en facilitator-zq/sample_burrito, los botones Sincronizar con Door43, Guardar o recibir trabajo por USB y Configuración, y los libros Jonás y Tito.",
   "0e3096ffb940": "El cuadro de diálogo Abrir un proyecto desde Door43: El proyecto se abre desde git.door43.org, el repositorio de Door43 facilitator-zq/sample_burrito, y la nota de que tC4 revisa cada archivo antes de agregar el proyecto. Botones Cancelar y Abrir proyecto.",

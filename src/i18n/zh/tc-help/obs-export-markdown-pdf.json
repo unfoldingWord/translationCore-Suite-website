@@ -1,14 +1,14 @@
 {
-  "a468001b6df7": "将故事导出为PDF或Markdown · translationCore 4帮助",
+  "a468001b6df7": "将故事导出为 PDF 或 Markdown · translationCore 4 帮助",
   "0f29d9d6694a": "<strong>Export PDF：</strong>给审阅者阅读的副本，可带或不带图片。",
-  "9bf5238223e9": "<strong>Story Markdown (.zip)：</strong>供其他Open Bible Stories工具使用的故事文件。",
-  "24350718eb1d": "<strong>Scripture Burrito (.zip)：</strong>整个项目。请参阅<a href=\"bp-export-burrito\">将项目导出为Scripture Burrito</a>。",
-  "ee25f850300e": "打开一个故事，点击<span class=\"ui\">Check</span>，然后点击<span class=\"ui\">Community Checking</span>上的<span class=\"ui\">Open →</span>。",
+  "9bf5238223e9": "<strong>Story Markdown (.zip)：</strong>供其他 Open Bible Stories 工具使用的故事文件。",
+  "24350718eb1d": "<strong>Scripture Burrito (.zip)：</strong>整个项目。请参阅<a href=\"bp-export-burrito\">将项目导出为 Scripture Burrito</a>。",
+  "ee25f850300e": "打开一个故事，点击 <span class=\"ui\">Check</span>，然后点击 <span class=\"ui\">Community Checking</span> 上的 <span class=\"ui\">Open →</span>。",
   "cd1b84c31406": "可选：选择版式和图片。请参阅<a href=\"obs-community-checking\">故事预览与导出</a>。",
-  "f882c57168b5": "点击<span class=\"ui\">Export</span>（1），然后选择一种格式（2）。",
-  "cbe483bf884a": "导出PDF之前，至少要起草标题或一个画面。",
-  "c02654738f7c": "要用另一种版式保存第二份PDF，请更改版式，再次导出，并给它起一个新名字。",
-  "b6f55effd7d7": "如果看到“The app could not print the PDF with its pictures…”（应用无法打印带图片的PDF…），请关闭<span class=\"ui\">Pictures</span>，然后再次导出。",
-  "8aec4a792c94": "在Linux上，保存窗口会在你的<strong>Downloads</strong>（下载）文件夹中打开。如果看不到它的按钮，请按<strong>Enter</strong>保存，或按<strong>Esc</strong>取消。",
-  "81c4c63c64df": "一个故事的社区检查页面，Export菜单已打开。Export标为1。标为2的菜单中有Export PDF、Story Markdown (.zip)和Scripture Burrito (.zip)。"
+  "f882c57168b5": "点击 <span class=\"ui\">Export</span>（1），然后选择一种格式（2）。",
+  "cbe483bf884a": "导出 PDF 之前，至少要起草标题或一个画面。",
+  "c02654738f7c": "要用另一种版式保存第二份 PDF，请更改版式，再次导出，并给它起一个新名字。",
+  "b6f55effd7d7": "如果看到“The app could not print the PDF with its pictures…”（应用无法打印带图片的 PDF…），请关闭 <span class=\"ui\">Pictures</span>，然后再次导出。",
+  "8aec4a792c94": "在 Linux 上，保存窗口会在你的 <strong>Downloads</strong>（下载）文件夹中打开。如果看不到它的按钮，请按 <strong>Enter</strong> 保存，或按 <strong>Esc</strong> 取消。",
+  "81c4c63c64df": "一个故事的社区检查页面，Export 菜单已打开。Export 标为 1。标为 2 的菜单中有 Export PDF、Story Markdown (.zip) 和 Scripture Burrito (.zip)。"
 }

@@ -1,0 +1,15 @@
+{
+  "fa9b9d341efe": "Gộp hoặc tách nhóm câu · Trợ giúp translationCore 4",
+  "f530bcc1d6ff": "Nhóm câu (còn gọi là cầu nối câu) là hai câu trở lên được dịch thành một đơn vị, ví dụ <code>2-3</code>.",
+  "95ad44313a34": "Mở phần bằng nhãn <span class=\"ui\">Soạn nháp phần {span}</span>, gõ văn bản, và nhấp vào <span class=\"ui\">Đặt số câu</span>.",
+  "3fcf8b283cb1": "Nhấp vào số câu sau trong văn bản, ví dụ 10.",
+  "ed04b4022fbd": "Nhấp vào từ mà câu trước (9) bắt đầu. Chú thích hiện \"Nối câu 10 vào câu 9 tại …\".",
+  "00965f803729": "Nhấp vào <span class=\"ui\">Lưu phần này</span>. Các câu được lưu thành một nhóm câu, được đánh số 2-3.",
+  "37da7d58596b": "Tách một nhóm câu",
+  "8040a4812e1b": "Mở lại phần đó, nhấp vào <span class=\"ui\">Đặt số câu</span>, nhấp vào số 10 và nhấp vào từ mà câu 10 cần bắt đầu. Sau đó nhấp vào <span class=\"ui\">Lưu phần này</span>.",
+  "3a781f8fca28": "Trong chế độ <span class=\"ui\">Gõ chữ</span>, bạn cũng có thể bắt đầu một dòng bằng nhóm câu, ví dụ <code>2-3 …</code>.",
+  "50b37754200f": "Việc gộp hoặc tách một nhóm câu sẽ đánh dấu các mục kiểm tra và căn chỉnh của những câu đó để xem lại. Không có gì bị xóa. Xem <a href=\"tr-edit-after-check\">Sửa một câu bạn đã kiểm tra hoặc căn chỉnh</a>.",
+  "2a9614442c0b": "Không thể tạo nhóm câu trong chế độ xem <span class=\"ui\">Câu</span>.",
+  "e2cade4b6fa9": "Open Bible Stories có các khung hình, không có số câu, nên không có nhóm câu.",
+  "fa2c6f1d53f1": "Chế độ Đặt số câu cho Tít 2:9–10 sau khi gộp: các số 9 và 10 nằm cạnh nhau trên từ đầu tiên, Exhorta, nên hai câu là một nhóm câu."
+}
