@@ -1,11 +1,11 @@
 {
-  "27ac6039a7a9": "Windows, macOS ও Linux নিয়ে কিছু কথা · translationCore 4 সহায়তা",
+  "27ac6039a7a9": "Windows, macOS ও Linux সম্পর্কে কিছু কথা · translationCore 4 সহায়তা",
   "d0c7ab9751d6": "পরীক্ষামূলক বিল্ডগুলো এখনো স্বাক্ষরিত নয়, তাই প্রথমবার আপনার সিস্টেম সতর্কবার্তা দেখাতে পারে।",
   "ed98f85183a9": "কী আশা করবেন",
   "20db2dc87caf": "SmartScreen সতর্ক করতে পারে: <strong>More info › Run anyway</strong>-এ ক্লিক করুন। আপনার Microsoft Visual C++ runtime লাগতে পারে। সাধারণ USFM এক্সপোর্ট ডাউনলোড না-ও হতে পারে।",
   "50d2cfa2722c": "প্রথমবার <strong>System Settings › Privacy &amp; Security</strong>-এ গিয়ে <strong>Open Anyway</strong>-এ ক্লিক করুন। অন্য সংস্করণ ইনস্টল করার আগে tC4 বন্ধ করুন।",
   "3520c5b035eb": "আনজিপ করে <code>start-tc4.sh</code> চালান।",
-  "6dbabc36f7bd": "<a href=\"gs-install\">tC4 ইনস্টল ও চালু করুন</a> অনুসরণ করুন।",
+  "6dbabc36f7bd": "<a href=\"gs-install\">tC4 ইনস্টল করুন ও চালু করুন</a> অনুসরণ করুন।",
   "58fdb41bf2e3": "আপনার সিস্টেম এটি আটকে দিলে, ওপরে দেওয়া \"open anyway\" ধাপগুলো অনুসরণ করুন।",
   "59ed570323af": "একসাথে tC4-এর শুধু একটি কপি চালান।"
 }

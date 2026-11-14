@@ -1,13 +1,13 @@
 {
-  "f882d1692c25": "27 সেপ্টেম্বর 2026 — Home-এ একটিমাত্র + Add a project বোতাম · translationCore 4 সহায়তা",
-  "22889dff5dd5": "Home-এ এখন তিনটির বদলে একটি <span class=\"ui\">+ Add a project</span> বোতাম আছে। এটি একটি ডায়ালগ খোলে, যেখানে আপনি নতুন বাইবেল, নতুন Open Bible Stories বা ইমপোর্ট বেছে নেন। Home-এর শিরোনাম এখন <span class=\"ui\">Your projects</span>।",
+  "f882d1692c25": "27 সেপ্টেম্বর, 2026 — হোমে একটিমাত্র + Add a project বোতাম · translationCore 4 সহায়তা",
+  "22889dff5dd5": "হোমে এখন তিনটির বদলে একটি <span class=\"ui\">+ Add a project</span> বোতাম আছে। এটি একটি ডায়ালগ খোলে, যেখানে আপনি নতুন বাইবেল, নতুন Open Bible Stories বা ইমপোর্ট বেছে নেন। হোমের শিরোনাম এখন <span class=\"ui\">Your projects</span>।",
   "7e4b91991b86": "কী বদলেছে",
-  "0b05f77e4428": "Home-এর শিরোনাম এখন <span class=\"ui\">Your projects</span> (আগে ছিল \"Your Bibles\")।",
+  "0b05f77e4428": "হোমের শিরোনাম এখন <span class=\"ui\">Your projects</span> (আগে ছিল \"Your Bibles\")।",
   "58b1575818d7": "নতুন বাইবেল, নতুন Open Bible Stories ও ইমপোর্টের আলাদা বোতামগুলোর জায়গায় এখন একটি নীল <span class=\"ui\">+ Add a project</span> বোতাম।",
-  "f92b05182fa1": "<span class=\"ui\">+ Add a project</span> তিনটি কার্ডসহ একটি ডায়ালগ খোলে: <span class=\"ui\">New Bible</span>, <span class=\"ui\">New Open Bible Stories</span> ও <span class=\"ui\">Import a project</span>। দেখুন <a href=\"gs-home\">Home স্ক্রিন</a>।",
+  "f92b05182fa1": "<span class=\"ui\">+ Add a project</span> তিনটি কার্ডসহ একটি ডায়ালগ খোলে: <span class=\"ui\">New Bible</span>, <span class=\"ui\">New Open Bible Stories</span> ও <span class=\"ui\">Import a project</span>। দেখুন <a href=\"gs-home\">হোম স্ক্রিন</a>।",
   "56254fba4c31": "প্রতিটি কার্ড আগের মতোই একই ফর্ম খোলে: <a href=\"bp-new-bible\">একটি বাইবেল প্রকল্প তৈরি করুন</a>, <a href=\"obs-create\">একটি Open Bible Stories প্রকল্প শুরু করুন</a>, <a href=\"bp-import\">একটি প্রকল্প ইমপোর্ট করুন</a>।",
   "180b65cd249f": "ইমপোর্টের ধাপ 1-এ একটি <span class=\"ui\">← Back</span> বোতাম আছে, যা তিনটি কার্ডে ফিরিয়ে নেয়।",
-  "8dec9d8ba023": "এখনো কোনো প্রকল্প না থাকলে Home-এ লেখা থাকে \"No projects yet. Select + Add a project to start.\"",
+  "8dec9d8ba023": "এখনো কোনো প্রকল্প না থাকলে হোমে লেখা থাকে \"No projects yet. Select + Add a project to start.\"",
   "80d5aaf1c8eb": "কিবোর্ড: Tab কার্ডগুলোর মধ্যে সরায়, Enter বা Space একটি কার্ড খোলে, আর Esc ডায়ালগ বন্ধ করে।",
   "24b8408d001b": "কোনো ফর্ম বন্ধ হওয়ার পর কিবোর্ড ফোকাস <span class=\"ui\">+ Add a project</span>-এ ফিরে আসে না।",
   "2c9c6bcf5f5f": "<span class=\"ui\">New Bible</span> ফর্মটি ছোট উইন্ডোর চেয়ে লম্বা হতে পারে। <span class=\"ui\">Create Bible →</span> পর্যন্ত পৌঁছাতে এর ভেতরে স্ক্রল করুন।"
