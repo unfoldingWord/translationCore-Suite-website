@@ -1,0 +1,16 @@
+{
+  "2cb8183fcd0b": "用 Translation Words 检查 · translationCore 4 帮助",
+  "f8b008126386": "用它确保每个关键词都翻译得正确，并且在每处出现时都译法一致。",
+  "89604295b1b7": "检查一个关键词",
+  "50bd5b9f5db9": "点击 <span class=\"ui\">Check</span>，然后点击 <span class=\"ui\">Translation Words</span> 卡片上的 <span class=\"ui\">Start checking →</span>。",
+  "cdd56a2b7b1c": "阅读顶部的关键词。它会在源文本卡片中高亮显示：原文、通用语言直译文本和简化文本（UST 或 GST）。点击 <span class=\"ui\">Learn more</span> 了解它的含义。文章会在右侧的面板中打开。点击 ✕ 关闭。",
+  "d54a05521846": "在 <span class=\"ui\">Your translation</span> 下，点选翻译高亮关键词的那个词或那几个词。",
+  "737aba652a84": "要停止，请点击左下角的 <span class=\"ui\">← Back to translating</span>。下次，<span class=\"ui\">Check</span> 会在你离开的地方打开 Translation Words。",
+  "05e33bb36d32": "<span class=\"ui\">Sort</span> 中的 <span class=\"ui\">By word</span> 会把一个关键词出现的所有地方放在一起，让你看出“恩典”（grace）是否每次都译得一样。<span class=\"ui\">By verse</span> 会按顺序过一遍整卷书。",
+  "0614c935d23a": "<span class=\"ui\">⚑ Bookmark</span> 用于标记要回头处理的项。<span class=\"ui\">✎ Add a comment</span> 用于给团队留言。请参阅<a href=\"ck-bookmarks\">为检查项加书签</a>和<a href=\"ck-comments\">撰写检查评论</a>。",
+  "778d734f3abb": "<strong>注意：</strong>尚未起草的经节不能检查。请先在翻译模式中起草。",
+  "1dbb172a6232": "检查列表来自 <strong>Translation Words Links</strong> 的某个版本（英文为随应用提供的 <code>en_twl</code>）。文章来自 <strong>Translation Words</strong>（<code>en_tw</code>）。",
+  "af2e13e3bbd7": "有些书卷（例如以西结书）目前还没有 Translation Words 检查，要等到某个 Links 版本收录它们。",
+  "815d4cf3dd27": "如果某个链接指向的文章在你的检查语言中没有，该项会被隐藏，也不计入进度。",
+  "69c53fbb8fa4": "提多书的 Translation Words，第 1 项（共 182 项）：提多书 1:1 中的“Paul”（保罗）。标注指向 All checking tools、筛选器、关键词、Learn more、希腊文、通用语言直译文本、简化文本（UST）、Back to translating、按词分组的检查列表、你的判定、Previous 和 Next、Your translation 以及 Add a comment。"
+}

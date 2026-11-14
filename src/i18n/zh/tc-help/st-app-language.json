@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "更改应用语言 · translationCore 4 帮助",
+  "17845592efa5": "选择 tC4 中按钮、菜单和提示信息的语言。在你选择之前，tC4 跟随这台电脑的语言；选择之后，它会保留你的选择。",
+  "45563e5c8a97": "你的译文和项目不会改变。",
+  "ee049a6941eb": "点击右上角的圆形人像图标 (1)，然后点击 <span class=\"ui\">App language</span> (2)。主页和项目内的菜单是一样的。",
+  "dc7b6c5db74e": "点击 <span class=\"ui\">Language</span> 框，选择一种语言。",
+  "3727c4ee54ba": "整个应用会立即切换到该语言，让你在决定之前先看看效果。",
+  "11954b3e0c6e": "点击 <span class=\"ui\">Apply</span> 保留该语言。在西班牙语中，这个按钮显示为 <span class=\"ui\">Aplicar</span>。",
+  "c83abfae8b10": "要回到原来的语言，请改为点击 <span class=\"ui\">Cancel</span> 或 ✕。下次打开 translationCore 时，它会记住你的选择。",
+  "73cdc5d82a85": "哪些会改变，哪些不会",
+  "f321bc45749b": "会改变的：菜单、按钮、标签和对话框，例如项目顶部的 <span class=\"ui\">Understand</span>、<span class=\"ui\">Translate</span> 和 <span class=\"ui\">Check</span>。",
+  "2b6bca26ac47": "不会改变的：你的译文、源文本（例如 ULT）和翻译辅助资源（注释、词汇和问题）。它们保持原来撰写时所用的语言。要选择检查辅助资源的语言，请参阅<a href=\"rs-checking-language\">检查语言</a>。",
+  "029f491d3863": "列表中的语言",
+  "22afbdc189d0": "English、Español (Latinoamérica)、Français、हिन्दी、Português (Brasil)、Bahasa Indonesia、Українська、Русский 和 Tiếng Việt。前四种随 <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a> 加入，后五种随 <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a> 加入。",
+  "aa3bf50cfe0b": "找回英语",
+  "d3f81c8b784c": "如果你看不懂当前的语言：人像图标始终在右上角，<span class=\"ui\">App language</span> 在账户菜单中（在 Help and guides 之后）。English 始终排在列表的第一位。",
+  "54513425bd7d": "登录 Door43 时打开的账户菜单：Door43 账户名、Use the internet（开启）、Help and guides、App language (English)、Report a problem、About translationCore 和 Sign out of Door43。标记 1 在右上角的圆形人像图标上，标记 2 在 App language 上。",
+  "171294dd60a6": "打开了 Language 列表的 App language 对话框：English（已勾选）、Español (Latinoamérica)、Français、हिन्दी、Português (Brasil)、Bahasa Indonesia、Українська、Русский 和 Tiếng Việt。",
+  "e58555e59c08": "选择 Español (Latinoamérica) 后，App language 对话框后面的主页。整个界面已经切换为西班牙语，对话框的按钮现在显示为 Cancelar 和 Aplicar。"
+}

@@ -1,0 +1,20 @@
+{
+  "92833ce9e8b2": "Changer la langue de vérification · Aide de translationCore 4",
+  "68427c9028dd": "Les vérifications utilisent les notes et les articles de mots d’une seule langue passerelle.",
+  "5aa71e16aef1": "Si la langue n’est pas encore dans la liste, téléchargez-la d’abord. Voir <a href=\"rs-source-texts\">Télécharger des textes sources</a>.",
+  "c03214fc86f3": "Sous <span class=\"ui\">Langue de vérification</span>, cliquez sur la langue voulue. La langue actuelle est marquée <span class=\"ui\">Actuelle</span> (1).",
+  "379f666918d8": "Lisez la confirmation. Elle indique combien de décisions sont reprises et combien reviennent comme travail à faire.",
+  "42260194b915": "Cliquez sur « Passer à … » pour confirmer. La nouvelle langue est maintenant marquée <span class=\"ui\">Actuelle</span>.",
+  "ea856a88e0c5": "Pour annuler, cliquez sur « Garder … » dans la confirmation.",
+  "79bd6b234469": "Pour être complète, la langue doit aussi avoir les <strong>Liens des mots de traduction</strong> (<code>_twl</code>) quand elle en publie. Téléchargez le paquet pour que les Liens soient installés ; pour ces langues, l’application ne se rabat pas sur les Liens anglais.",
+  "252b7ea72f2c": "Quelques organisations de langue passerelle publient des mots mais pas de dépôt de Liens. Pour celles-ci, les vérifications utilisent la liste de Liens <strong>anglaise</strong> avec les articles de mots de cette langue. Deux lignes pour l’arabe peuvent apparaître : choisissez l’organisation indiquée sous la langue.",
+  "4f43d14a1c34": "Après un changement de langue, les éléments des Mots de traduction sont reconstruits à partir de la nouvelle épingle des Liens. Les décisions ne sont reprises que si la même vérification existe encore.",
+  "589e7d510f4b": "La langue déjà utilisée pour la vérification n’est plus proposée comme nouveau choix.",
+  "15bd0b9b5396": "Quand tC4 vous demande de confirmer un changement de langue de vérification, les deux boutons sont côte à côte.",
+  "736157ec9cf8": "Une décision n’est reprise que si les nouvelles notes ont la même vérification sur les mêmes mots. Les notes dans une autre langue sont souvent découpées différemment, donc peu de décisions seront peut-être reprises. C’est normal.",
+  "65e0f34827da": "Rien n’est supprimé. Les décisions qui ne sont pas reprises ne comptent plus, et ces vérifications reviennent en À faire. Un livre terminé peut ne plus l’être.",
+  "1a41374668d3": "L’ensemble de la langue doit être complet : notes, mots et académie.",
+  "393c252ea8a7": "La confirmation nomme chaque langue comme le fait la liste, par exemple « Español (Latinoamérica) ». Quand deux paquets portent le même nom, comme les deux lignes Français, chacun indique aussi son propriétaire.",
+  "2431cd8e2c7a": "La partie Langue de vérification des Paramètres du projet : Ce projet vérifie en English · unfoldingWord., la ligne English marquée ACTUELLE (1), et Gérer les textes sources →.",
+  "6f7c4d536d9a": "La confirmation : Changer la langue de vérification en English ? 4 décisions dans Tite ont été prises par rapport aux notes que vous quittez. Tite · Mots de traduction : 2 reprises, 0 à revérifier. Tite · Notes de traduction : 0 reprises, 1 à revérifier. Garder Español (Latinoamérica), et Passer à English."
+}

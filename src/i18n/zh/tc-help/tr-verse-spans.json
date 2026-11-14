@@ -1,0 +1,15 @@
+{
+  "fa9b9d341efe": "合并或拆分节范围 · translationCore 4 帮助",
+  "f530bcc1d6ff": "节范围（也叫“合并节”）是作为一个单位翻译的两节或多节经文，例如 <code>2-3</code>。",
+  "95ad44313a34": "用段落的 <span class=\"ui\">Draft section {span}</span> 标签打开它，输入文字，然后点击 <span class=\"ui\">Place verse numbers</span>。",
+  "3fcf8b283cb1": "在文字中点击较后的那个节号，例如 10。",
+  "ed04b4022fbd": "点击较前那一节（9）开始的词。提示文字会显示“Join verse 10 to verse 9 at …”（在……处将第 10 节并入第 9 节）。",
+  "00965f803729": "点击 <span class=\"ui\">Save section</span>。这几节会保存为一个节范围，编号为 2-3。",
+  "37da7d58596b": "拆分节范围",
+  "8040a4812e1b": "再次打开该段落，点击 <span class=\"ui\">Place verse numbers</span>，点击 10，再点击第 10 节应当开始的那个词。然后点击 <span class=\"ui\">Save section</span>。",
+  "3a781f8fca28": "在 <span class=\"ui\">Type</span> 模式中，你也可以在一行开头写上节范围，例如 <code>2-3 …</code>。",
+  "50b37754200f": "合并或拆分节范围，会把这些经节的检查和对齐标记为需要复核。不会删除任何内容。请参阅<a href=\"tr-edit-after-check\">修改已检查或已对齐的节</a>。",
+  "2a9614442c0b": "在 <span class=\"ui\">Verse</span> 视图中不能合并节范围。",
+  "e2cade4b6fa9": "Open Bible Stories 使用画面而不是节号，所以没有节范围。",
+  "fa2c6f1d53f1": "合并后提多书 2:9–10 的 Place verse numbers 模式：节号 9 和 10 并排在第一个词 Exhorta 上，所以这两节成为一个节范围。"
+}

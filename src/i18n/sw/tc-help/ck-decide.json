@@ -1,0 +1,23 @@
+{
+  "8be8c19d2c6f": "Amua kuhusu kipengele cha ukaguzi (sahihi, si sahihi, cha kufanya) · Msaada wa translationCore 4",
+  "dc5a4bb169b8": "Kila kipengele kinaanza kama <strong>To do</strong> (cha kufanya) hadi utakapoamua.",
+  "894b1e6ce1d3": "Soma nukuu iliyoangaziwa katika kadi za chanzo: lugha asilia, maandishi halisi ya lugha ya mawasiliano na, yanapokuwa kwenye kompyuta yako, maandishi rahisi (UST au GST).",
+  "4bf754304693": "Chini ya <span class=\"ui\">Your translation</span> (1), gusa neno au maneno yanayoitafsiri. Gusa tena ili kuondoa uchaguzi. Ili kuchagua maneno kadhaa yanayofuatana, buruta juu yake. Kuburuta kunachagua maneno mazima.",
+  "24c29466f17a": "Bofya <span class=\"ui\">✓ Mark valid</span> ikiwa tafsiri ni sahihi, au <span class=\"ui\">Invalid</span> ikiwa kuna kitu kinachohitaji kurekebishwa (2). Bofya <span class=\"ui\">To do</span> ili kuondoa uamuzi.",
+  "eca00a6e15d7": "Bofya <span class=\"ui\">Next</span> kando ya vitufe vya kuweka alama (3) ili uende kwenye kipengele kinachofuata, au bofya kipengele chochote katika orodha iliyo upande wa kushoto.",
+  "e607ef4eec06": "Ni alama tu inayohifadhi maneno uliyochagua. Ukiwa na maneno uliyochagua ambayo hakuna alama iliyoyahifadhi, <span class=\"ui\">Previous</span> na <span class=\"ui\">Next</span> zimefifishwa (3). Ukielekeza kipanya juu yake inasema <span class=\"ui\">Mark this check or unselect the words to move on</span>.",
+  "d0337058b0d0": "Ukienda kwenye ukaguzi mwingine katika orodha, <span class=\"ui\">← All checking tools</span>, hali nyingine au mradi mwingine ukiwa na maneno ambayo hayajahifadhiwa, tC4 inauliza kwanza: <span class=\"ui\">The selected words are not saved</span>. Bofya <span class=\"ui\">Stay</span> ili uyabakize, au <span class=\"ui\">Leave without them</span>.",
+  "f6a68de5bb91": "Kuweka alama kwenye kipengele hakukupeleki mbele, kwa hiyo unaweza kubadili mawazo kabla ya kwenda kwenye kinachofuata.",
+  "7c6d8bec7d11": "Kila alama inahifadhiwa mara moja. Ni <span class=\"ui\">✓ Mark valid</span> pekee inayohifadhi maneno uliyochagua, na bado yanakuwa yamechaguliwa unaporudi kwenye kipengele. <span class=\"ui\">Invalid</span> haihifadhi maneno, na <span class=\"ui\">To do</span> inabakiza maneno ambayo ukaguzi tayari ulikuwa nayo.",
+  "153b15d01507": "Ukibadilisha maneno uliyochagua baada ya kuweka alama kwenye kipengele, alama inaondolewa na kipengele kinahesabiwa tena kama ambacho hakijaamuliwa. Kiwekee alama tena ili kuhifadhi maneno mapya.",
+  "a8ee027daf62": "Alama inapohifadhiwa, maneno, vitufe vya kuweka alama, <span class=\"ui\">Previous</span> na <span class=\"ui\">Next</span> vinazimwa kwa muda mfupi. Ikiwa alama haikuweza kuhifadhiwa, unabaki kwenye ukaguzi ukiwa na maneno yako na taarifa.",
+  "12a2c0d4d0aa": "Kuburuta kunakoanzia upande wa kushoto wa neno la kwanza kunachagua maandishi ya kunakili badala yake. Hilo linaonekana kwa mwangaza wa kawaida wa buluu, si wa njano.",
+  "6e9502f6e19d": "<span class=\"ui\">Previous</span> na <span class=\"ui\">Next</span> ziko kwenye safu moja na vitufe vya kuweka alama. Kwenye skrini ndogo, elezo refu linaweza kusukuma safu hiyo chini ya dirisha. Sogeza chini ili kuifikia.",
+  "853278c24d49": "<span class=\"ui\">Your translation</span> inaonyesha maneno yako bila alama za uakifishaji, na neno lenye kiapostrofi linaweza kuonekana limegawanyika (kwa mfano \"God's\" kama \"God s\"). Maandishi yako katika <span class=\"ui\">Translate</span> hayabadiliki.",
+  "b52bcae8449b": "Ili kurekebisha maandishi, bofya <span class=\"ui\">← Back to translating</span>. Tazama <a href=\"tr-edit-after-check\">Kuhariri mstari ambao tayari umeukagua au kuuoanisha</a>.",
+  "fd6f087438a1": "Baadaye tumia kichujio cha <span class=\"ui\">Invalid</span> ili kupata kila kitu ambacho bado unahitaji kurekebisha.",
+  "168a47fab8c2": "Ukiona \"This check was not saved. The project's resource changed since this book was checked…\", sasisha rasilimali kwanza, kisha ukague tena. Hakuna kilichopotea.",
+  "0eb15a611e9b": "Kipengele cha Translation Words, Paulo katika Tito 1:1. Juu ya Your translation kuna kadi tatu za chanzo: Kigiriki, unfoldingWord Literal Text na UST, kila moja ikiwa na Paul imeangaziwa. Your translation imewekwa namba 1, ✓ Mark valid imewekwa namba 2 na Next imewekwa namba 3.",
+  "16803d5b845d": "Pablo imechaguliwa kwa njano chini ya Your translation (1) lakini bado haijawekewa alama. ✓ Mark valid imewekwa namba 2. Previous na Next zimefifishwa, zimewekwa namba 3.",
+  "183dd98c4962": "Swali The selected words are not saved: Only a mark saves the words you selected. If you leave this check now, they are unselected. Vitufe Stay na Leave without them."
+}

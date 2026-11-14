@@ -1,0 +1,17 @@
+{
+  "0a68ae08fec4": "Marcar um alinhamento como concluído · Ajuda do translationCore 4",
+  "713d1218f9a9": "Quando um versículo estiver alinhado, marque-o como válido. Ele conta no progresso de versículos alinhados. Você também pode devolver ao banco de palavras todas as palavras posicionadas no versículo.",
+  "73920c43d088": "Isso quer dizer \"o alinhamento deste versículo está concluído\", mesmo que algumas palavras fiquem no banco de palavras.",
+  "b0a4929a4563": "Termine de ligar as palavras de um versículo e confirme ou rejeite as sugestões que houver.",
+  "33108dcfb335": "Role até o final do versículo e clique em <span class=\"ui\">✓ Marcar como válido</span>.",
+  "9ed01acb5a8c": "Vá para o próximo versículo pela lista à esquerda ou com <span class=\"ui\">Avançar →</span>. Marcar um versículo não leva você adiante.",
+  "fc9e63c512d4": "Limpar os alinhamentos de um versículo",
+  "6dc5417eba84": "Na mesma linha do rodapé, clique em <span class=\"ui\">Limpar alinhamentos</span>.",
+  "1253bfd93fb0": "Confirme na janela, por exemplo <span class=\"ui\">Limpar os alinhamentos de Tito 1:1?</span> Ela diz quantas palavras posicionadas voltam para o banco de palavras e que cada cartão mantém suas palavras originais.",
+  "f7341b652e2a": "Depois de limpar, as palavras posicionadas voltam para o banco de palavras como cartões separados, e <span class=\"ui\">Limpar alinhamentos</span> fica em cinza até você posicionar palavras de novo.",
+  "96a2f18d2c9b": "O contador no topo da lista (\"0 de 9 versículos alinhados\") aumenta a cada versículo que você marca.",
+  "1c635dc349f2": "Se você editar o versículo depois, a marcação é retirada e o versículo precisa ser revisto. Veja <a href=\"tr-edit-after-check\">Editar um versículo que você já verificou ou alinhou</a>.",
+  "711170ac5cca": "Atualizar o texto grego ou hebraico também retira as marcações. Veja <a href=\"rs-upgrade-texts\">Atualizar os textos bíblicos</a>.",
+  "f098152b82de": "A linha do rodapé de Alinhar: ← Anterior, ✓ Marcar como válido, Avançar → e Limpar alinhamentos.",
+  "060def52271a": "Janela de confirmação: Limpar os alinhamentos de Tito 1:1? com Cancelar e um botão vermelho Limpar alinhamentos."
+}

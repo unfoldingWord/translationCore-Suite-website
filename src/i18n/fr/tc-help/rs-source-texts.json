@@ -1,0 +1,17 @@
+{
+  "2444fbf270b8": "Télécharger des textes sources · Aide de translationCore 4",
+  "3d6eae5d0cf6": "Une langue passerelle est la langue dans laquelle votre équipe lit la source et les aides. L’anglais est fourni avec l’application.",
+  "7d17ef831dae": "Sous <span class=\"ui\">Choisissez votre langue passerelle</span>, cliquez sur une langue (1). Si « Activer Internet ? » apparaît, cliquez sur <span class=\"ui\">Activer Internet</span>. Voir <a href=\"rs-offline\">Travailler hors ligne</a>.",
+  "87c2a0c6f088": "Choisissez le <span class=\"ui\">Livre</span>.",
+  "619a3f60dc35": "Vérifiez le <span class=\"ui\">Contenu du paquet</span>. Cliquez sur une carte pour l’exclure, ou de nouveau pour la remettre.",
+  "b2d5c7505186": "Cliquez sur <span class=\"ui\">⇣ Télécharger le paquet</span>. Quand il est écrit « ✓ {book} · {language} est prêt », cliquez sur <span class=\"ui\">Fermer</span>.",
+  "8b9d01dac0a2": "Pendant le téléchargement du paquet, le bas de la boîte de dialogue affiche <span class=\"ui\">Téléchargement de …</span> avec le dépôt en cours de récupération, et un bouton <span class=\"ui\">Annuler</span>. Ils restent affichés si vous choisissez un autre livre ou revenez à la liste des langues. Cliquez sur <span class=\"ui\">Annuler</span> pour arrêter le téléchargement.",
+  "8b8f02c8633e": "Pour partir sans télécharger, cliquez sur <span class=\"ui\">Fermer</span> ou sur le ✕. Fermer la boîte de dialogue n’arrête pas un téléchargement déjà commencé ; ouvrez de nouveau <span class=\"ui\">Obtenir des textes sources</span> pour le voir ou l’annuler.",
+  "2fc42d3c75b4": "Pour la plupart des langues passerelles, le paquet comprend un dépôt de <strong>Liens des mots de traduction</strong> (<code>…_twl</code>) en plus des Mots de traduction. Laissez-le sélectionné pour que la vérification puisse terminer son installation.",
+  "acf775b53543": "Deux lignes peuvent porter le même nom, comme les deux lignes Français. L’organisation indiquée sous le nom permet de les distinguer.",
+  "1c359191fab9": "Les versions de la liste sont les plus récentes sur Door43, et non celles que votre projet utilise.",
+  "84b941e238b1": "Pour vérifier dans la langue téléchargée, choisissez-la dans les <a href=\"st-project-settings\">Paramètres du projet</a>. Voir <a href=\"rs-checking-language\">Changer la langue de vérification</a>.",
+  "ab9ab2d35728": "Hors ligne, la boîte de dialogue indique « tC4 n’a pas lu la liste des textes sources de Door43. » avec <span class=\"ui\">Lire la liste</span>. La ligne en dessous, « Cette organisation ne publie rien que tC4 puisse utiliser… », signifie seulement que la liste n’a pas été lue.",
+  "2827fe51be40": "Si certains téléchargements échouent, la boîte de dialogue les liste.",
+  "7dd6ae7b823d": "Obtenir des textes sources. Ressources épinglées avec Rechercher des mises à jour, puis Choisissez votre langue passerelle : English (unfoldingWord, notes v91, mots v91, académie v91), Español (Latinoamérica) (es-419_gl, marqué 1), deux lignes nommées Français (Xenizo et MVHS), et Русский."
+}

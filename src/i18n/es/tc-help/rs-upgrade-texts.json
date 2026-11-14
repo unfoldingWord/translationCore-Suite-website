@@ -1,0 +1,11 @@
+{
+  "697a77e25d71": "Actualizar los textos bíblicos · Ayuda de translationCore 4",
+  "7d304b628f19": "Busque en <span class=\"ui\">Textos bíblicos</span>. Cada texto con una versión más nueva tiene su propia fila.",
+  "13cfc493d0b5": "Haga clic en <span class=\"ui\">Actualizar</span> en una fila, lea la confirmación y confirme.",
+  "c721d8228039": "Si todo está al día, dice <span class=\"ui\">✓ Todos los textos bíblicos están actualizados</span>.",
+  "27e6e457e88b": "<strong>Biblia puente:</strong> nada de su trabajo cambia. El panel de la fuente muestra el texto nuevo.",
+  "22029a371600": "<strong>Texto griego o hebreo:</strong> las alineaciones se conservan, pero los versículos afectados pierden su marca de válido para que pueda revisarlos de nuevo. Vea <a href=\"al-mark-valid\">Marcar una alineación como terminada</a>.",
+  "a87d9146c991": "Solo se ofrecen los textos que necesitan sus libros. A un proyecto del Nuevo Testamento nunca se le ofrece el texto hebreo.",
+  "9fda5f68266e": "Primero guarde cualquier edición de alineación que tenga abierta.",
+  "530420a6fe12": "La lista de Textos bíblicos después de Buscar actualizaciones: Texto en el idioma original hbo_uhb v2.1.30 → v3.0.0, y Biblia puente en_ult y en_ust v89 → v91, cada uno con Actualizar."
+}

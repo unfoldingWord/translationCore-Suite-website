@@ -1,0 +1,22 @@
+{
+  "b49c82d49c5f": "El panel de ayudas en Traducir · Ayuda de translationCore 4",
+  "3d9b8979a962": "Mientras redacta, el panel de ayudas muestra las notas, los enlaces de palabras, las preguntas, el texto simplificado y sus propios comentarios de los versículos en los que está trabajando. Las notas se agrupan bajo títulos de sección y de versículo, y las tarjetas de palabras se abren con el primer párrafo de su artículo.",
+  "df70fd1625f8": "Está a la derecha de <span class=\"ui\">Traducir</span>, junto a su borrador.",
+  "af3dfe77d9a4": "Si el panel está oculto, haga clic en <span class=\"ui\">Mostrar u ocultar el panel de ayudas</span>, arriba a la derecha del capítulo.",
+  "48c67ad415f4": "Haga clic en una pestaña.",
+  "980289211f26": "Abra un editor de sección o de versículo. El panel se limita a los versículos que está editando.",
+  "f951e1ba14e3": "Las pestañas",
+  "1d25ef42dfa1": "<strong><span class=\"ui\">Notas</span>:</strong> notas de traducción, agrupadas bajo títulos en mayúsculas como <span class=\"ui\">INTRODUCCIÓN</span> y <span class=\"ui\">VERSÍCULO 1</span>. Cada nota que tiene un artículo de la Academia de traducción enlaza con el nombre real del artículo (por ejemplo <span class=\"ui\">Abstract Nouns →</span>), no con una etiqueta genérica.",
+  "680855295e6f": "<strong><span class=\"ui\">Palabras</span>:</strong> términos clave. Cada tarjeta muestra el primer párrafo del artículo de Palabras de traducción y <span class=\"ui\">Leer el artículo →</span>. Haga clic en una tarjeta para resaltar cada aparición de esa palabra en la sección.",
+  "b7e2c851b894": "<strong><span class=\"ui\">Preguntas</span>:</strong> preguntas con respuestas, para comprobar el significado de su borrador.",
+  "61fbe4d4f999": "<strong><span class=\"ui\">UST</span>:</strong> el texto simplificado del capítulo. Algunos idiomas puente dan otro nombre a esta pestaña, como <span class=\"ui\">GST</span>.",
+  "677b73d21e67": "<strong><span class=\"ui\">Comentarios</span>:</strong> los comentarios que escribió en <span class=\"ui\">Comprender</span>. Dice “Nada en este capítulo.” cuando no hay ninguno.",
+  "dfa182fcb244": "Las ayudas siguen lo que usted seleccionó: una sección en el modo <span class=\"ui\">Sección</span>, un versículo en el modo <span class=\"ui\">Versículo</span>, o un cuadro de una historia. Se quedan ahí después de hacer clic en <span class=\"ui\">Guardar</span>, hasta que haga clic en otro o salga del capítulo.",
+  "389f7dc7c683": "Ponga el puntero sobre una tarjeta de Notas para resaltar su frase en la fuente; haga clic en ella para mantener el resaltado.",
+  "2ae564edc954": "Haga clic en una tarjeta de Palabras para resaltar cada palabra que coincide en la sección que está leyendo.",
+  "5e55e030c14d": "Las notas largas tienen <span class=\"ui\">Mostrar más</span> y <span class=\"ui\">Mostrar menos</span>.",
+  "2fdf64a3a145": "Arrastre el divisor vertical entre su borrador y las ayudas para hacer el panel más ancho o más angosto. <span class=\"ui\">Mostrar u ocultar el panel de ayudas</span> muestra u oculta el panel por completo (es un solo botón; no hay un control aparte para ensanchar).",
+  "2c005b25598b": "Los artículos de ayuda se abren con un control flotante para cerrar encima de un divisor, y muestran limpiamente los saltos de línea, los superíndices y los subrayados de la fuente.",
+  "92e84f73cbfc": "Cada ayuda se explica en la sección <a href=\"section-understand\">Comprender</a>.",
+  "bdf1e518f4c6": "El panel de ayudas en Tito 1 con la pestaña Palabras seleccionada. Cada tarjeta de palabra muestra el primer párrafo de su artículo de Palabras de traducción y un enlace Leer el artículo →. No hay insignias de PALABRA CLAVE."
+}

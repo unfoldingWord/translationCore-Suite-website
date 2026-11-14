@@ -1,0 +1,20 @@
+{
+  "7ef680c2ab89": "打开对齐工具 · translationCore 4 帮助",
+  "5e6b62c8398f": "检查工具会利用这些链接高亮你的词，已对齐的 USFM 导出也会带上这些链接。",
+  "bb0ae2797229": "打开对齐工具",
+  "e45cb668c003": "点击 <span class=\"ui\">Check</span>，然后点击 <span class=\"ui\">Align</span> 卡片上的 <span class=\"ui\">Start checking →</span>。",
+  "d282158fcc1e": "在左侧的经节列表中选择一节经文。尚未起草的经节显示为灰色。",
+  "e3b884563832": "把你的词连接到词卡片上。请参阅<a href=\"al-link-words\">将你的词与底本连接</a>。",
+  "88485c019666": "这节经文完成后，点击 <span class=\"ui\">✓ Mark valid</span>。请参阅<a href=\"al-mark-valid\">将对齐标记为完成</a>。",
+  "9e63a70b7cb6": "要离开，请点击左上角的 <span class=\"ui\">← All checking tools</span>，或左下角的 <span class=\"ui\">← Back to translating</span>。",
+  "301a064f6f16": "这个页面上有什么",
+  "ad5c7353eb70": "<span class=\"ui\">Gateway · ULT</span> 对齐到你能读懂的门户语言文本，它的词已经带有与原文的链接。<span class=\"ui\">Original · Greek</span> 直接对齐到希腊文的词。请参阅<a href=\"al-modes\">对齐到门户语言文本或原文</a>。",
+  "7fe4b76804a6": "<span class=\"ui\">Suggest links</span> 一开始是关闭的。打开它，系统会根据你已经对齐的经节提出链接建议。请参阅<a href=\"al-suggestions\">对齐建议</a>。",
+  "50f0d72fb224": "词库上方的计数显示这节经文中有多少词已经放置。",
+  "e1bb27c319b7": "<span class=\"ui\">How alignment works</span> 会打开一段简短的说明。",
+  "e01ac24b75fc": "<strong>注意：</strong>对齐工具用于圣经书卷。故事项目没有 Align 卡片。",
+  "939bebcfbfc5": "导入时已带有对齐的经节",
+  "bb519f9da8e1": "如果一卷书来自已经带有对齐的 USFM 文件，它已对齐的经节在对齐工具中打开时，会显示提示 <strong>This verse already holds an alignment</strong>（这节经文已经有对齐）。你暂时还不能在对齐工具中修改这些经节。tC4 会保留它们导入时的对齐，并原样写入已对齐的 USFM 导出。",
+  "b70cc1d616d4": "底本卡片始终跟随项目使用的原文文本。如果某个已保存的链接指向该文本中没有的词，这个链接会被移除，它的词会回到词库，这节经文会被标记为需要审查。",
+  "4298e3a1f848": "对齐工具中的一节经文，来自一卷从已对齐的 USFM 文件添加的书。提示写着：This verse already holds an alignment.（这节经文已经有对齐。）提多书是从一个已经带有对齐的文件添加的。tC4 会保留这节经文现有的对齐。你暂时还不能在 tC4 中修改它。"
+}

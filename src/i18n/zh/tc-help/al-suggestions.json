@@ -1,0 +1,16 @@
+{
+  "123be2e03014": "对齐建议 · translationCore 4 帮助",
+  "40874bd0a1a3": "建议是根据你之前在同一约（旧约或新约）中对齐经节的方式产生的。在你确认之前，不会保存任何内容。",
+  "32ab0c08f832": "请先手动仔细对齐几节经文。",
+  "09a28312d3ae": "在 <span class=\"ui\">Align</span> 中，勾选 <span class=\"ui\">Suggestions</span> 一行中的 <span class=\"ui\">Suggest links</span>。",
+  "68e2fe28b4c6": "这一行会显示“Drawn from N verses you have already aligned”（根据你已对齐的 N 节经文）。打开一节经文，点击 <span class=\"ui\">Suggest</span>。",
+  "44922420e182": "检查每条虚线显示的建议，点击它的 ✓ 确认。",
+  "10a63366095c": "<span class=\"ui\">Accept all</span> 确认所有建议，<span class=\"ui\">Reject all</span> 拒绝所有建议，<span class=\"ui\">Reset</span> 清除建议。",
+  "e15d7cac9afd": "建议可能是错的，尤其是在只手动对齐了几节经文之后：词可能按照出现的顺序而不是按照意思放置。确认之前请逐条检查，不要不加检查就使用 <span class=\"ui\">Accept all</span>。",
+  "b6b82e231f6f": "在把经节标记为完成之前，请确认或拒绝所有建议。",
+  "d183c99d4a01": "如果没有合适的建议，会显示“Nothing to suggest for the words still in the bank.”（词库中剩下的词没有可提供的建议。）",
+  "18b4683798bc": "这台电脑会为每个项目记住这项设置。",
+  "707fcef772c8": "建议使用与词库相同的词，因此 <span class=\"ui\">Accept all</span> 会放置你看到的每一条建议。",
+  "216a3df37c0e": "希伯来文经节的建议与希腊文的效果一样好。",
+  "4df3c42ec15a": "对齐工具中的 Suggestions 一行，Suggest links 未勾选。显示 Off. Turn on to get links proposed from the verses you have already aligned.（已关闭。打开后，系统会根据你已对齐的经节提出链接建议。）"
+}

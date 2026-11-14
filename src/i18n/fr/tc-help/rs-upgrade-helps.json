@@ -1,0 +1,12 @@
+{
+  "144d61aa04df": "Mettre à jour les aides épinglées · Aide de translationCore 4",
+  "ecd3d1db71ca": "Un projet garde les versions exactes avec lesquelles il a commencé, pour que les vérifications restent stables. La mise à jour est toujours votre choix.",
+  "259052d9165e": "Chaque ensemble affiche <span class=\"ui\">✓ À jour</span> ou « Mettre à niveau N ressource(s) » avec chaque changement, par exemple <code>en_tn v86 → v91</code>.",
+  "b84f82f5c6bd": "Cliquez sur « Mettre à niveau N ressource(s) », lisez la confirmation, puis cliquez sur <span class=\"ui\">Mettre à niveau</span>.",
+  "0be217637c39": "Pour annuler, cliquez sur <span class=\"ui\">Garder la version actuelle</span>.",
+  "b49d3f3e0d3c": "Les décisions qui correspondent à une vérification de la nouvelle version sont reprises. Les autres reviennent comme travail à faire. Rien n’est supprimé.",
+  "c91781710cf1": "Un nouveau projet utilise déjà les aides fournies avec l’application, il affiche donc <span class=\"ui\">✓ À jour</span>.",
+  "43e6b4d60747": "Un projet qui vérifie dans une autre langue liste cette langue comme ensemble principal et l’anglais comme ensemble de repli.",
+  "55378d00e458": "tC4 ne recherche pas les mises à jour tout seul.",
+  "c26d654cec50": "Après Rechercher des mises à jour pour un projet créé avec des aides plus anciennes : Ensemble principal · en et Ensemble de repli · en proposent chacun Mettre à niveau 4 ressource(s), en_tn v86 → v91, en_tw v87 → v91, en_ta v86 → v91, en_tq v89 → v91. Textes bibliques en dessous."
+}

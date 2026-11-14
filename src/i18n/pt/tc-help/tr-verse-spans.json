@@ -1,0 +1,15 @@
+{
+  "fa9b9d341efe": "Criar ou desfazer um intervalo de versículos · Ajuda do translationCore 4",
+  "f530bcc1d6ff": "Um intervalo de versículos (também chamado de ponte de versículos) é formado por dois ou mais versículos traduzidos como uma só unidade, por exemplo <code>2-3</code>.",
+  "95ad44313a34": "Abra a seção com o rótulo <span class=\"ui\">Redigir seção {span}</span>, digite o texto e clique em <span class=\"ui\">Posicionar números dos versículos</span>.",
+  "3fcf8b283cb1": "Clique no número posterior no texto, por exemplo 10.",
+  "ed04b4022fbd": "Clique na palavra onde o versículo anterior (9) começa. A dica diz \"Juntar o versículo 10 ao versículo 9 em …\".",
+  "00965f803729": "Clique em <span class=\"ui\">Salvar seção</span>. Os versículos são salvos como um só intervalo, numerado 2-3.",
+  "37da7d58596b": "Desfazer um intervalo",
+  "8040a4812e1b": "Abra a seção de novo, clique em <span class=\"ui\">Posicionar números dos versículos</span>, clique no 10 e clique na palavra onde o versículo 10 deve começar. Depois clique em <span class=\"ui\">Salvar seção</span>.",
+  "3a781f8fca28": "No modo <span class=\"ui\">Digitar</span>, você também pode começar uma linha com o intervalo, por exemplo <code>2-3 …</code>.",
+  "50b37754200f": "Criar ou desfazer um intervalo marca para revisão as verificações e os alinhamentos desses versículos. Nada é excluído. Veja <a href=\"tr-edit-after-check\">Editar um versículo que você já verificou ou alinhou</a>.",
+  "2a9614442c0b": "Não é possível criar intervalos na visualização <span class=\"ui\">Versículo</span>.",
+  "e2cade4b6fa9": "Open Bible Stories têm quadros, e não números de versículos, por isso não têm intervalos.",
+  "fa2c6f1d53f1": "Modo Posicionar números dos versículos para Tito 2:9–10 depois de juntar: os números 9 e 10 ficam lado a lado na primeira palavra, Exhorta, então os dois versículos formam um só intervalo."
+}

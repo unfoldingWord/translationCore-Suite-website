@@ -1,0 +1,20 @@
+{
+  "7ef680c2ab89": "Fungua zana ya Align · Msaada wa translationCore 4",
+  "5e6b62c8398f": "Zana za ukaguzi zinatumia viungo hivi kuangazia maneno yako, na uhamishaji wa USFM iliyooanishwa unavibeba.",
+  "bb0ae2797229": "Fungua Align",
+  "e45cb668c003": "Bofya <span class=\"ui\">Check</span>, kisha <span class=\"ui\">Start checking →</span> kwenye kadi ya <span class=\"ui\">Align</span>.",
+  "d282158fcc1e": "Chagua mstari katika orodha ya mistari iliyo kushoto. Mistari ambayo bado haijaandikwa rasimu ni ya kijivu.",
+  "e3b884563832": "Unganisha maneno yako na kadi za maneno. Tazama <a href=\"al-link-words\">Unganisha maneno yako na chanzo</a>.",
+  "88485c019666": "Mstari ukikamilika, bofya <span class=\"ui\">✓ Mark valid</span>. Tazama <a href=\"al-mark-valid\">Weka alama kwamba uoanishaji umekamilika</a>.",
+  "9e63a70b7cb6": "Ili kutoka, bofya <span class=\"ui\">← All checking tools</span> juu kushoto, au <span class=\"ui\">← Back to translating</span> chini kushoto.",
+  "301a064f6f16": "Kwenye skrini hii",
+  "ad5c7353eb70": "<span class=\"ui\">Gateway · ULT</span> inaoanisha na maandishi ya lugha lango unayoweza kusoma. Maneno yake tayari yana kiungo na lugha asilia. <span class=\"ui\">Original · Greek</span> inaoanisha moja kwa moja na maneno ya Kigiriki. Tazama <a href=\"al-modes\">Oanisha na maandishi ya lugha lango au na lugha asilia</a>.",
+  "7fe4b76804a6": "<span class=\"ui\">Suggest links</span> imezimwa mwanzoni. Iwashe ili upate viungo vinavyopendekezwa kutoka kwa mistari uliyokwisha kuoanisha. Tazama <a href=\"al-suggestions\">Mapendekezo ya uoanishaji</a>.",
+  "50f0d72fb224": "Juu ya hifadhi ya maneno, idadi inaonyesha ni maneno mangapi ya mstari yamewekwa.",
+  "e1bb27c319b7": "<span class=\"ui\">How alignment works</span> inafungua maelezo mafupi.",
+  "e01ac24b75fc": "<strong>Kumbuka:</strong> Align ni kwa vitabu vya Biblia. Miradi ya hadithi haina kadi ya Align.",
+  "939bebcfbfc5": "Mistari uliyoleta ikiwa na uoanishaji",
+  "bb519f9da8e1": "Ikiwa kitabu kilitoka kwenye faili ya USFM ambayo tayari ilikuwa na uoanishaji, mistari yake iliyooanishwa inafunguka katika Align ikiwa na tangazo <strong>This verse already holds an alignment</strong>. Bado huwezi kubadilisha mistari hiyo katika Align. tC4 inabakiza uoanishaji wake kama ulivyoletwa na kuuandika bila kubadilisha kwenye uhamishaji wa USFM iliyooanishwa.",
+  "b70cc1d616d4": "Kadi za chanzo zinafuata daima maandishi ya lugha asilia ambayo mradi wako unatumia. Ikiwa kiungo kilichohifadhiwa kinaelekeza kwenye neno ambalo maandishi hayo hayana, kiungo kinaondolewa, maneno yake yanarudi kwenye hifadhi ya maneno, na mstari unawekewa alama ya kupitiwa upya.",
+  "4298e3a1f848": "Mstari katika Align kutoka kitabu kilichoongezwa kutoka faili ya USFM iliyooanishwa. Tangazo linasema This verse already holds an alignment. Linaeleza kwamba Tito iliongezwa kutoka faili ambayo tayari ina uoanishaji, kwamba tC4 inabakiza uoanishaji wa mstari huu kama ulivyo, na kwamba bado huwezi kuubadilisha katika tC4."
+}

@@ -1,0 +1,12 @@
+{
+  "144d61aa04df": "Cập nhật tài liệu trợ giúp đã ghim · Trợ giúp translationCore 4",
+  "ecd3d1db71ca": "Một dự án giữ đúng các phiên bản đã dùng khi bắt đầu, để việc kiểm tra được ổn định. Việc cập nhật luôn do bạn quyết định.",
+  "259052d9165e": "Mỗi bộ hiện <span class=\"ui\">✓ Đã cập nhật</span> hoặc \"Nâng cấp N tài nguyên\" kèm từng thay đổi, ví dụ <code>en_tn v86 → v91</code>.",
+  "b84f82f5c6bd": "Nhấp \"Nâng cấp N tài nguyên\", đọc lời xác nhận, rồi nhấp <span class=\"ui\">Nâng cấp</span>.",
+  "0be217637c39": "Để hủy, nhấp <span class=\"ui\">Giữ bản phát hành hiện tại</span>.",
+  "b49d3f3e0d3c": "Các quyết định khớp với một mục kiểm tra trong bản phát hành mới sẽ được chuyển sang. Những mục còn lại trở thành việc cần làm. Không có gì bị xóa.",
+  "c91781710cf1": "Một dự án mới đã dùng sẵn tài liệu trợ giúp đi kèm ứng dụng, nên sẽ hiện <span class=\"ui\">✓ Đã cập nhật</span>.",
+  "43e6b4d60747": "Một dự án kiểm tra bằng ngôn ngữ khác sẽ liệt kê ngôn ngữ đó là bộ chính và tiếng Anh là bộ dự phòng.",
+  "55378d00e458": "tC4 không tự kiểm tra bản cập nhật.",
+  "c26d654cec50": "Sau khi Kiểm tra bản cập nhật cho một dự án được tạo với tài liệu trợ giúp cũ hơn: Bộ chính · en và Bộ dự phòng · en, mỗi bộ đều đề xuất Nâng cấp 4 tài nguyên, en_tn v86 → v91, en_tw v87 → v91, en_ta v86 → v91, en_tq v89 → v91. Văn bản Kinh Thánh ở bên dưới."
+}

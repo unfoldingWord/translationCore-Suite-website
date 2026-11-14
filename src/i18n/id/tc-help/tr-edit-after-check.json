@@ -1,0 +1,17 @@
+{
+  "0fcd91d58b19": "Menyunting ayat yang sudah diperiksa atau diselaraskan · Bantuan translationCore 4",
+  "c1ba7e1a0bf9": "Pemeriksaan dan penyelarasan terikat pada kata-kata persis dalam sebuah ayat, jadi saat kata-kata itu berubah, tC4 menandai apa saja yang mungkin tidak cocok lagi.",
+  "bab305fa9966": "Ubah sebuah ayat di <span class=\"ui\">Terjemahkan</span> yang sudah Anda periksa atau selaraskan.",
+  "cf4ff9ae160d": "Buka <span class=\"ui\">Periksa</span> dan buka alat pemeriksaannya. Pemberitahuan di bagian atas menyebutkan berapa banyak keputusan yang perlu ditinjau.",
+  "1ad836e88066": "Klik filter <span class=\"ui\">Tidak valid</span> untuk melihat butir-butir itu, lalu putuskan lagi masing-masing.",
+  "8adaab7c37c9": "Buka <span class=\"ui\">Selaraskan</span> untuk ayat itu. Kata-kata yang Anda ubah kembali ke bank kata. Tempatkan kata-kata itu, lalu klik <span class=\"ui\">✓ Tandai valid</span> lagi.",
+  "9e7f896a239f": "Keputusan pemeriksaan yang kata-katanya berubah menjadi <strong>Tidak valid</strong>. Keputusan itu disimpan, tidak dihapus.",
+  "3d5c7795898c": "Di Selaraskan, tautan ke kata-kata yang tidak Anda ubah tetap ada. Ayat itu kembali tampil sebagai belum selesai.",
+  "c69cb0af2d36": "Sebuah tautan tetap pada kata tempat tautan itu ditaruh, meskipun Anda menambah atau menghapus kata sebelumnya. Jika Anda menghapus kata yang bertaut, tautannya ikut terhapus.",
+  "52199ccf3ef4": "Jika Anda mengubah kata yang muncul lebih dari sekali, dan tC4 tidak dapat mengetahui salinan mana yang Anda pertahankan, ayat itu ditandai untuk ditinjau. Buka ayat itu di Selaraskan, periksa tautannya, lalu klik <span class=\"ui\">✓ Tandai valid</span> lagi.",
+  "02c774e022a1": "Ayat yang perlu ditinjau menampilkan pemberitahuan di bagian atas ayat di Selaraskan dan ditandai di daftar ayat.",
+  "223edf8f0d6d": "Membuat atau memecah gabungan ayat berdampak sama pada ayat-ayat itu.",
+  "8c8ae7daabbf": "Alat pemeriksaan mungkin terbuka kembali pada butir yang terakhir Anda buka. Gunakan filter <span class=\"ui\">Tidak valid</span> untuk menemukan setiap butir yang perlu ditinjau.",
+  "e395662b6ada": "Pemberitahuan di bagian atas alat pemeriksaan: 1 keputusan tidak lagi cocok dengan teks draf dan perlu ditinjau ulang. Tidak ada yang dibuang.",
+  "a3c0c8a79510": "Bank kata di Selaraskan setelah suntingan: BANK KATA · TERJEMAHAN ANDA, 25 dari 26 kata ditempatkan, dan kata yang diubah, belief, menunggu untuk ditempatkan lagi."
+}

@@ -1,0 +1,12 @@
+{
+  "a4f23a1550e5": "Aligner sur le texte passerelle ou sur la langue originale · Aide de translationCore 4",
+  "0fefc3764842": "Dans les deux cas, les liens enregistrés pointent vers la langue originale.",
+  "81dfc97839cd": "Cliquez sur <span class=\"ui\">Passerelle · ULT</span> ou sur <span class=\"ui\">Original · grec</span>. Un livre de l’Ancien Testament affiche <span class=\"ui\">Original · hébreu</span>.",
+  "8262a1c6271b": "Reliez les mots comme d’habitude. Voir <a href=\"al-link-words\">Relier vos mots à la source</a>.",
+  "8fad724d20cc": "Lequel choisir",
+  "81f903564a6a": "<strong><span class=\"ui\">Passerelle · ULT</span> :</strong> « Alignez sur le texte passerelle que vous pouvez lire — ses mots portent déjà l’alignement en langue originale. » C’est plus facile si vous ne lisez pas le grec ou l’hébreu. Une carte peut contenir une expression du texte passerelle, comme « of the chosen people » au-dessus de ἐκλεκτῶν.",
+  "8c59cbaf7b79": "<strong><span class=\"ui\">Original · grec</span></strong> ou <strong><span class=\"ui\">Original · hébreu</span> :</strong> « Alignez directement sur les mots en langue originale. » Les cartes n’affichent que les mots originaux.",
+  "212214f76668": "Les mots déjà placés restent où ils sont quand vous changez de mode.",
+  "4a7c948ee755": "Si le texte passerelle d’un verset n’a pas de données d’alignement, le mode passerelle indique « La vue passerelle a besoin du texte source passerelle avec les données d’alignement pour ce verset. » Utilisez plutôt le mode langue originale.",
+  "8b21ae71366f": "Aligner sur Tite 1:1 avec Original · grec sélectionné. L’indication dit Alignez directement sur les mots en langue originale. La source a pour titre Langue originale · grec, et les cartes sous la banque de mots n’affichent que des mots grecs."
+}

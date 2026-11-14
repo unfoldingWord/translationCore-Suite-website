@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "Chọn công cụ kiểm tra · Trợ giúp translationCore 4",
+  "5aab95d571be": "Mỗi công cụ kiểm tra đưa bạn đi qua toàn bộ sách một lần, từng mục một. translationCore ghi nhớ vị trí của bạn trong mỗi công cụ.",
+  "0e70b0e894cc": "Mở một công cụ",
+  "edfdb403ebaa": "Mở một sách, rồi nhấp vào <span class=\"ui\">Kiểm tra</span> ở phía trên.",
+  "e1de982504aa": "Xem các thẻ. Mỗi thẻ cho biết có bao nhiêu mục đã được giải quyết và mục nào là mục tiếp theo.",
+  "f0d077c72286": "Nhấp vào <span class=\"ui\">Bắt đầu kiểm tra →</span> trên thẻ bạn muốn, hoặc <span class=\"ui\">Tiếp tục →</span> nếu bạn đã bắt đầu. Trên thẻ Kiểm tra cộng đồng, liên kết là <span class=\"ui\">Mở →</span>.",
+  "7843b655da84": "Để quay lại danh sách này, hãy nhấp vào <span class=\"ui\">← Tất cả công cụ kiểm tra</span> ở góc trên bên trái của công cụ.",
+  "d78a20319fa6": "Lần sau khi bạn nhấp vào <span class=\"ui\">Kiểm tra</span>, translationCore sẽ mở công cụ kiểm tra bạn dùng gần nhất.",
+  "3a1d2391f3d2": "Các công cụ",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Từ ngữ dịch thuật</a>: các thuật ngữ chính, từng thuật ngữ một.",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Ghi chú dịch thuật</a>: những chỗ mà một ghi chú dịch thuật chỉ đến.",
+  "8bfdd2ed6811": "<a href=\"al-open\">Căn chỉnh</a>: liên kết các từ của bạn với nguyên ngữ. Thẻ này đếm các câu đã soạn nháp, nên sách chưa có gì được soạn nháp sẽ hiện <span class=\"ui\">Chưa có mục nào trong sách này</span>.",
+  "7def275b185b": "<a href=\"ck-community-checking\">Kiểm tra cộng đồng</a>: đọc cả sách như một trang in và xuất ra cho người xem lại.",
+  "fa2c72678197": "Dự án câu chuyện không có thẻ Căn chỉnh.",
+  "d228c7b705aa": "Nếu một thẻ hiện <span class=\"ui\">Cần tải xuống</span> hoặc <span class=\"ui\">Không khả dụng khi ngoại tuyến</span>, hãy nhấp vào <span class=\"ui\">Khắc phục điều này…</span>. Xem <a href=\"rs-guided-fix\">Khắc phục tài liệu bị thiếu</a>. Các công cụ khác vẫn hoạt động trong khi bạn khắc phục.",
+  "b756c9f3a838": "<strong>Lưu ý:</strong> Chỉ những câu đã soạn nháp mới có thể kiểm tra. Hãy soạn nháp trước, rồi quay lại."
+}

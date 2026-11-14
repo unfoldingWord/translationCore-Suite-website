@@ -1,0 +1,16 @@
+{
+  "123be2e03014": "Sugerencias de alineación · Ayuda de translationCore 4",
+  "40874bd0a1a3": "Las sugerencias se basan en cómo alineó versículos anteriores del mismo testamento. No se guarda nada hasta que usted lo confirma.",
+  "32ab0c08f832": "Primero alinee a mano algunos versículos con cuidado.",
+  "09a28312d3ae": "En <span class=\"ui\">Alinear</span>, marque <span class=\"ui\">Sugerir enlaces</span> en la fila <span class=\"ui\">Sugerencias</span>.",
+  "68e2fe28b4c6": "La fila dice \"A partir de N versículos que ya alineaste\". Abra un versículo y haga clic en <span class=\"ui\">Sugerir</span>.",
+  "44922420e182": "Revise cada sugerencia punteada y haga clic en su ✓ para confirmarla.",
+  "10a63366095c": "<span class=\"ui\">Aceptar todas</span> confirma todas las sugerencias, <span class=\"ui\">Rechazar todas</span> las rechaza todas y <span class=\"ui\">Restablecer</span> las borra.",
+  "e15d7cac9afd": "Las sugerencias pueden estar equivocadas, sobre todo cuando solo hay unos pocos versículos alineados a mano: las palabras pueden quedar colocadas en el orden en que aparecen y no según su significado. Revise cada una antes de confirmarla, y no use <span class=\"ui\">Aceptar todas</span> sin revisarlas.",
+  "b6b82e231f6f": "Confirme o rechace las sugerencias antes de marcar el versículo como terminado.",
+  "d183c99d4a01": "Si no hay nada que encaje, dice \"No hay nada que sugerir para las palabras que siguen en el banco.\"",
+  "18b4683798bc": "La opción se recuerda para cada proyecto en esta computadora.",
+  "707fcef772c8": "Las sugerencias usan las mismas palabras que el banco de palabras, así que <span class=\"ui\">Aceptar todas</span> coloca todas las sugerencias que usted ve.",
+  "216a3df37c0e": "Las sugerencias para versículos en hebreo funcionan tan bien como para el griego.",
+  "4df3c42ec15a": "La fila Sugerencias en Alinear con Sugerir enlaces sin marcar. Dice Desactivado. Actívalo para recibir enlaces propuestos a partir de los versículos que ya alineaste."
+}

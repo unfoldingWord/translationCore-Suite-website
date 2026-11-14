@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "Layar Terjemahkan · Bantuan translationCore 4",
+  "b5e20a3b5c23": "Setiap baris menempatkan satu bagian teks sumber di samping terjemahan Anda untuk bagian itu.",
+  "ccd3b0577ccf": "Buka sebuah kitab, lalu klik <span class=\"ui\">Terjemahkan</span> di bagian atas.",
+  "6eb73fcf4caa": "Pilih teks sumber dengan tab di atasnya: <span class=\"ui\">ULT</span> (harfiah), <span class=\"ui\">UST</span> (disederhanakan), atau bahasa asli (<span class=\"ui\">Yunani</span> atau <span class=\"ui\">Ibrani</span>). Baris di bawah tab menyebutkan nama teks dan versinya.",
+  "cba9851fabf8": "Pilih <span class=\"ui\">Bagian</span> untuk menyusun draf satu bagian utuh sekaligus, atau <span class=\"ui\">Ayat</span> untuk menyusun draf satu ayat setiap kali.",
+  "c7138b6f2ae2": "Klik <span class=\"ui\">Susun draf bagian</span> di samping bagian yang Anda inginkan. Ketik teksnya, lalu gunakan <span class=\"ui\">Tempatkan nomor ayat</span>. Lihat <a href=\"tr-draft-section\">Menyusun draf satu bagian</a>.",
+  "6f6d5b88466d": "Klik <span class=\"ui\">Simpan bagian</span>. Untuk membiarkan bagian itu seperti semula, klik <span class=\"ui\">Batal</span>.",
+  "fb24ef6c8a86": "Memberi ruang",
+  "8c8975cae9b6": "Tombol di kiri atas halaman menampilkan atau menyembunyikan daftar kitab.",
+  "d034ae5cfc60": "Di kanan atas halaman, <span class=\"ui\">Beralih panel bantuan</span> menampilkan atau menyembunyikan bantuan. Seret pembatas tegak untuk mengubah lebar panel.",
+  "4d761027a250": "Panel bantuan",
+  "ddbdbe454552": "Panel menampilkan bantuan untuk bagian yang sedang Anda kerjakan: <span class=\"ui\">Catatan</span>, <span class=\"ui\">Kata</span>, <span class=\"ui\">Pertanyaan</span>, teks yang disederhanakan (<span class=\"ui\">UST</span>), dan <span class=\"ui\">Komentar</span> dari Pahami. Klik sebuah kartu bantuan, dan kata-kata yang dibahasnya akan disorot di teks sumber. Lihat <a href=\"tr-helps-panel\">Panel bantuan di Terjemahkan</a>.",
+  "2ac8369ebd1d": "Terjemahkan mengingat pilihan <span class=\"ui\">Bagian</span> atau <span class=\"ui\">Ayat</span> Anda untuk setiap proyek.",
+  "a17f0c7ae079": "Layar Terjemahkan untuk Titus 1 dengan bagian 1–3 terbuka untuk disusun drafnya. Label menunjuk ke tab teks sumber (ULT, UST, Yunani), pengalih Mode dengan Terjemahkan terpilih, pengalih Bagian atau Ayat, tab panel bantuan, status penyimpanan, tombol pasal, perikop sumber, langkah penyusunan draf (Ketik, Tempatkan nomor ayat), Simpan bagian, tombol Susun draf bagian berikutnya, dan sebuah kartu bantuan."
+}

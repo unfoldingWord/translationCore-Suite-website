@@ -1,0 +1,13 @@
+{
+  "54fe55bdb262": "Resolver un recurso que falta · Ayuda de translationCore 4",
+  "b480ad9d366e": "Esto suele aparecer en un proyecto importado o copiado de otra computadora. La tarjeta de la herramienta muestra <span class=\"ui\">Necesita descargarse</span> o <span class=\"ui\">No disponible sin conexión</span>.",
+  "b91410d35d0d": "En <span class=\"ui\">Revisar</span>, haga clic en <span class=\"ui\">Resolver esto…</span> en la tarjeta de la herramienta.",
+  "06f159e608c8": "Elija una de estas formas:",
+  "9600fc54f60d": "<strong>1 · Descargar la versión fijada.</strong> Necesita internet.",
+  "e7d4a21bf202": "<strong>2 · Usar una versión instalada.</strong> Haga clic en una versión, vea cuántas decisiones se conservan y luego haga clic en <span class=\"ui\">Fijar de nuevo</span>.",
+  "84e5e8fe0953": "<strong>3 · Cargarlo desde un archivo.</strong> Suelte un zip de Scripture Burrito de esa misma publicación exacta.",
+  "610a3e20320c": "Para cancelar, haga clic en <span class=\"ui\">Cerrar</span> o en la ✕. No cambia nada.",
+  "3dcb2c8b44de": "Sin conexión, use la opción 2 o la 3, o active el internet. Vea <a href=\"rs-offline\">Trabajar sin conexión</a>.",
+  "e6373a1d0492": "Una herramienta que no está lista nunca bloquea el resto de su trabajo.",
+  "870406ae3c19": "Palabras de traducción necesita un recurso que no está en esta computadora. El proyecto fija es-419_twl · v18 para Tito. 1 · Descargar la versión fijada, con Descargarlo. 2 · Usar una versión instalada: no hay otra versión de es-419_twl instalada en esta computadora. 3 · Cargarlo desde un archivo, con una zona para soltar el zip. Cerrar."
+}

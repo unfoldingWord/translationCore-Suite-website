@@ -1,0 +1,13 @@
+{
+  "a6b2052d66fa": "Abas de fonte — textos do idioma ponte e a língua original · Ajuda do translationCore 4",
+  "409e4552518f": "Sua tradução continua a mesma quando você troca de aba; só a coluna da fonte muda.",
+  "3dece7da8454": "Em <span class=\"ui\">Traduzir</span>, olhe as abas acima da coluna da fonte.",
+  "c999c767379e": "Clique em <span class=\"ui\">ULT</span> (o texto literal), <span class=\"ui\">UST</span> (o texto simplificado) ou <span class=\"ui\">Grego</span>. Um livro do Antigo Testamento tem <span class=\"ui\">Hebraico</span> em vez de grego.",
+  "db1b4818efb2": "A legenda abaixo das abas diz o nome do texto e a versão dele.",
+  "2ce85b8042c3": "As seções seguem a fonte selecionada. Em Tito 1, a ULT e a UST começam com 1–3, enquanto o grego mostra o capítulo inteiro como 1–16.",
+  "252056729e99": "As palavras entre chaves, como {and}, fazem parte do texto-fonte. Elas marcam palavras acrescentadas para deixar o sentido claro.",
+  "883201366f8a": "Alguns idiomas ponte dão outro nome às duas primeiras abas, por exemplo <span class=\"ui\">GLT</span> e <span class=\"ui\">GST</span>.",
+  "2e5e7739fb44": "As mesmas abas estão em <span class=\"ui\">Compreender</span>.",
+  "fa9f82f61cc2": "Se um texto estiver faltando, a coluna diz \"Esta fonte não está disponível para este livro.\" Veja <a href=\"rs-source-texts\">Navegar e baixar textos-fonte</a>.",
+  "a038d25e701e": "O alto de Traduzir em Tito 1 com a aba Grego selecionada. A legenda diz Novo Testamento Grego da unfoldingWord · v0.34 · fixada. A fonte grega mostra TITO 1:1–16, e a coluna do rascunho mostra Redigir seção 1–16 ao lado."
+}

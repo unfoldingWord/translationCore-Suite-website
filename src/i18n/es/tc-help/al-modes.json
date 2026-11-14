@@ -1,0 +1,12 @@
+{
+  "a4f23a1550e5": "Alinear con el texto puente o con el idioma original · Ayuda de translationCore 4",
+  "0fefc3764842": "De cualquier forma, los enlaces guardados apuntan al idioma original.",
+  "81dfc97839cd": "Haga clic en <span class=\"ui\">Puente · ULT</span> o en <span class=\"ui\">Original · griego</span>. Un libro del Antiguo Testamento muestra <span class=\"ui\">Original · hebreo</span>.",
+  "8262a1c6271b": "Enlace las palabras como de costumbre. Vea <a href=\"al-link-words\">Enlazar sus palabras con la fuente</a>.",
+  "8fad724d20cc": "Cuál elegir",
+  "81f903564a6a": "<strong><span class=\"ui\">Puente · ULT</span>:</strong> \"Alinea con el texto puente que puedes leer; sus palabras ya traen la alineación al idioma original.\" Es más fácil si no lee griego ni hebreo. Una tarjeta puede contener una frase del texto puente, como \"of the chosen people\" sobre ἐκλεκτῶν.",
+  "8c59cbaf7b79": "<strong><span class=\"ui\">Original · griego</span></strong> o <strong><span class=\"ui\">Original · hebreo</span>:</strong> \"Alinea directamente con las palabras del idioma original.\" Las tarjetas muestran solo las palabras originales.",
+  "212214f76668": "Las palabras que ya colocó se quedan donde están cuando cambia de modo.",
+  "4a7c948ee755": "Si el texto puente de un versículo no tiene datos de alineación, el modo puente dice \"La vista puente necesita el texto fuente puente con datos de alineación para este versículo.\" En ese caso, use el modo del idioma original.",
+  "8b21ae71366f": "Alinear en Tito 1:1 con Original · griego seleccionado. La indicación dice Alinea directamente con las palabras del idioma original. El encabezado de la fuente es Idioma original · griego, y las tarjetas debajo del banco de palabras muestran solo palabras griegas."
+}

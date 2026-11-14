@@ -1,0 +1,17 @@
+{
+  "4376ec103233": "Menempatkan nomor ayat · Bantuan translationCore 4",
+  "5eca11c21193": "Setelah mengetik satu bagian, klik setiap nomor ayat, lalu klik kata tempat ayat itu dimulai.",
+  "dbe8b6820c98": "Setiap nomor ayat adalah penanda kecil berwarna oranye, dan nomor yang belum Anda tempatkan menunggu di kotak <span class=\"ui\">Untuk ditempatkan</span>.",
+  "0ebe78d1b672": "Di penyunting bagian, klik <span class=\"ui\">Tempatkan nomor ayat</span>.",
+  "3b3fea276e32": "Klik sebuah nomor di kotak <span class=\"ui\">Untuk ditempatkan</span> (1). Kotak itu bertuliskan \"Pilih sebuah nomor, lalu klik kata tempat ayat itu dimulai.\"",
+  "0f18a5341cd8": "Sekarang kotak itu bertuliskan \"Klik kata tempat ayat 10 dimulai\". Klik kata itu di teks.",
+  "d02dd9bad9b1": "Ulangi untuk setiap nomor, lalu klik <span class=\"ui\">Simpan bagian</span>.",
+  "cb344d0f23be": "Untuk kembali mengetik, klik <span class=\"ui\">Ketik</span>. Nomor yang sudah Anda tempatkan tetap ada. <span class=\"ui\">Batal</span> menutup penyunting tanpa menyimpan.",
+  "ca6abd1aaedf": "Untuk memindahkan nomor yang sudah ditempatkan, klik nomor itu di teks, lalu klik kata lain.",
+  "42739399ed72": "Jika sebuah nomor langsung jatuh di kata terdekat begitu Anda mengkliknya, klik nomor itu lagi, lalu klik kata yang benar.",
+  "fac2a16d248a": "Saat Anda mengklik nomor yang sudah ditempatkan, kotak itu masih bertuliskan \"Semua ayat telah ditempatkan. Pilih nomor untuk memindahkan awal ayatnya.\" Ikuti baris di bawahnya: \"Klik kata tempat ayat 10 dimulai\".",
+  "0ab63b894abe": "Sebuah nomor tidak dapat melewati nomor lain, dan nomor pertama dalam bagian tidak dapat dipindahkan.",
+  "62b7e7cf49e0": "Menaruh nomor pada kata tempat ayat lain dimulai akan menggabungkan keduanya menjadi gabungan ayat. Lihat <a href=\"tr-verse-spans\">Membuat atau memecah gabungan ayat</a>.",
+  "ddaf79c7ea52": "Mode Tempatkan nomor ayat untuk Titus 2:9–10. Ayat 9 tetap di awal teks, dan nomor 10 menunggu di kotak Untuk ditempatkan, bertanda 1, dengan petunjuk Pilih sebuah nomor, lalu klik kata tempat ayat itu dimulai.",
+  "a22a81f22a81": "Bagian yang sama setelah mengklik nomor 10: kotak Untuk ditempatkan bertuliskan Klik kata tempat ayat 10 dimulai."
+}

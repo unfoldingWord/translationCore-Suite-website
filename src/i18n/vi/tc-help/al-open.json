@@ -1,0 +1,20 @@
+{
+  "7ef680c2ab89": "Mở công cụ Căn chỉnh · Trợ giúp translationCore 4",
+  "5e6b62c8398f": "Các công cụ kiểm tra dùng những liên kết này để tô sáng các từ của bạn, và tệp USFM xuất có căn chỉnh sẽ mang theo chúng.",
+  "bb0ae2797229": "Mở Căn chỉnh",
+  "e45cb668c003": "Nhấp <span class=\"ui\">Kiểm tra</span>, rồi <span class=\"ui\">Bắt đầu kiểm tra →</span> trên thẻ <span class=\"ui\">Căn chỉnh</span>.",
+  "d282158fcc1e": "Chọn một câu trong danh sách câu bên trái. Những câu chưa được soạn nháp sẽ bị làm mờ.",
+  "e3b884563832": "Liên kết các từ của bạn với các thẻ từ. Xem <a href=\"al-link-words\">Liên kết từ của bạn với văn bản nguồn</a>.",
+  "88485c019666": "Khi câu đã xong, nhấp <span class=\"ui\">✓ Đánh dấu hợp lệ</span>. Xem <a href=\"al-mark-valid\">Đánh dấu hoàn tất căn chỉnh</a>.",
+  "9e63a70b7cb6": "Để rời đi, nhấp <span class=\"ui\">← Tất cả công cụ kiểm tra</span> ở góc trên bên trái, hoặc <span class=\"ui\">← Quay lại dịch</span> ở góc dưới bên trái.",
+  "301a064f6f16": "Trên màn hình này",
+  "ad5c7353eb70": "<span class=\"ui\">Cầu nối · ULT</span> căn chỉnh theo văn bản cầu nối mà bạn có thể đọc. Các từ của văn bản này đã mang sẵn liên kết đến ngôn ngữ gốc. <span class=\"ui\">Nguyên bản · Hy Lạp</span> căn chỉnh trực tiếp với các từ tiếng Hy Lạp. Xem <a href=\"al-modes\">Căn chỉnh theo văn bản cầu nối hoặc ngôn ngữ gốc</a>.",
+  "7fe4b76804a6": "<span class=\"ui\">Gợi ý liên kết</span> ban đầu được tắt. Hãy bật lên để nhận các liên kết được đề xuất từ những câu bạn đã căn chỉnh. Xem <a href=\"al-suggestions\">Gợi ý căn chỉnh</a>.",
+  "50f0d72fb224": "Phía trên ngân hàng từ, một số đếm cho biết đã đặt bao nhiêu từ của câu.",
+  "e1bb27c319b7": "<span class=\"ui\">Cách căn chỉnh hoạt động</span> mở ra một phần giải thích ngắn.",
+  "e01ac24b75fc": "<strong>Lưu ý:</strong> Căn chỉnh dành cho các sách Kinh Thánh. Dự án câu chuyện không có thẻ Căn chỉnh.",
+  "939bebcfbfc5": "Những câu bạn đã nhập kèm căn chỉnh",
+  "bb519f9da8e1": "Nếu một sách đến từ tệp USFM đã có sẵn căn chỉnh, các câu đã căn chỉnh của sách đó sẽ mở trong Căn chỉnh với thông báo <strong>Câu này đã có sẵn căn chỉnh</strong>. Hiện bạn chưa thể thay đổi những câu đó trong Căn chỉnh. tC4 giữ nguyên căn chỉnh như khi nhập và ghi nó không thay đổi vào tệp USFM xuất có căn chỉnh.",
+  "b70cc1d616d4": "Các thẻ nguồn luôn theo văn bản ngôn ngữ gốc mà dự án của bạn dùng. Nếu một liên kết đã lưu trỏ đến một từ mà văn bản đó không có, liên kết sẽ bị xóa, các từ của nó trở về ngân hàng từ, và câu đó được đánh dấu cần xem lại.",
+  "4298e3a1f848": "Một câu trong Căn chỉnh thuộc một sách được thêm từ tệp USFM đã căn chỉnh. Thông báo ghi Câu này đã có sẵn căn chỉnh. Sách Tít được thêm từ một tệp đã có sẵn căn chỉnh. tC4 giữ nguyên căn chỉnh của câu này. Hiện bạn chưa thể thay đổi nó trong tC4."
+}

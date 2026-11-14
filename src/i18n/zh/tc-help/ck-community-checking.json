@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "社区检查预览 · translationCore 4 帮助",
+  "32f4bed68332": "可以用它通读整卷书，或与你的群体一起朗读。",
+  "f407ab1cd68e": "预览与导出",
+  "dcc507361ac5": "点击 <span class=\"ui\">Check</span>，然后点击 <span class=\"ui\">Community Checking</span> 卡片上的 <span class=\"ui\">Open →</span>。",
+  "95eb586f7dfe": "滚动浏览预览。尚未起草的经节显示为“[ verse not yet drafted ]”。",
+  "f283b735ac27": "在 <span class=\"ui\">Page setup</span> 中，选择 <span class=\"ui\">Columns</span>（1 栏或 2 栏）、<span class=\"ui\">Spacing</span>（<span class=\"ui\">Single</span> 或 <span class=\"ui\">Double</span>）和 <span class=\"ui\">Paper size</span>（<span class=\"ui\">A4</span> 或 <span class=\"ui\">Letter</span>）。开启或关闭 <span class=\"ui\">Drop-cap chapters</span> 和 <span class=\"ui\">Verse numbers</span>。",
+  "66a07da4a05a": "点击 <span class=\"ui\">Export</span> 保存一份副本。请参阅<a href=\"bp-export-pdf\">将书卷导出为 PDF</a>、<a href=\"bp-export-usfm\">将书卷导出为 USFM</a>和<a href=\"bp-export-burrito\">将项目导出为 Scripture Burrito</a>。",
+  "a95f2176183a": "要返回，请点击 <span class=\"ui\">← All checking tools</span>。",
+  "d80f07c55306": "<span class=\"ui\">Double</span>（双倍）行距可以让审阅者在行间写字。",
+  "e161f48410c3": "页面设置只改变预览和导出的文件，不会改变你的译文。",
+  "1913f785b5a4": "开启 <span class=\"ui\">Drop-cap chapters</span>（首字下沉的章号）后，大号章号位于第 1 节开头，所以第 1 节没有自己的小节号。关闭首字下沉即可显示它。",
+  "df1ceace7eba": "离开这个界面后，translationCore 不会保留页面设置。导出前请重新设置。",
+  "d19d1de53268": "<span class=\"ui\">Footnotes</span> 显示为灰色，目前还不能开启。",
+  "79ce1f17e1a6": "提多书的社区检查。标注指向大号章号（首字下沉）及其旁边没有的第 1 节小节号、书卷标题、All checking tools、Export、页面预览、尚未起草的经节、Page setup，以及 Incomplete draft 提示。"
+}

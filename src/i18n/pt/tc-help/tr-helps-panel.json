@@ -1,0 +1,22 @@
+{
+  "b49c82d49c5f": "O painel de ajudas em Traduzir · Ajuda do translationCore 4",
+  "3d9b8979a962": "Enquanto você redige, o painel de ajudas mostra as notas, os links de palavras, as perguntas, o texto simplificado e seus próprios comentários para os versículos em foco. As notas ficam agrupadas sob títulos de seção e de versículo, e os cartões de palavras abrem com o primeiro parágrafo do artigo.",
+  "df70fd1625f8": "Ele fica à direita de <span class=\"ui\">Traduzir</span>, ao lado do seu rascunho.",
+  "af3dfe77d9a4": "Se o painel estiver escondido, clique em <span class=\"ui\">Alternar painel de ajudas</span> no canto superior direito do capítulo.",
+  "48c67ad415f4": "Clique em uma aba.",
+  "980289211f26": "Abra um editor de seção ou de versículo. O painel se limita aos versículos que você está editando.",
+  "f951e1ba14e3": "As abas",
+  "1d25ef42dfa1": "<strong><span class=\"ui\">Notas</span>:</strong> notas de tradução, agrupadas sob títulos em maiúsculas, como <span class=\"ui\">INTRODUÇÃO</span> e <span class=\"ui\">VERSÍCULO 1</span>. Cada nota que tem um artigo da Academia de Tradução traz um link com o nome real do artigo (por exemplo <span class=\"ui\">Abstract Nouns →</span>), e não um rótulo genérico.",
+  "680855295e6f": "<strong><span class=\"ui\">Palavras</span>:</strong> termos-chave. Cada cartão mostra o primeiro parágrafo do artigo de Palavras de Tradução e <span class=\"ui\">Ler o artigo →</span>. Clique em um cartão para destacar cada ocorrência dessa palavra na seção.",
+  "b7e2c851b894": "<strong><span class=\"ui\">Perguntas</span>:</strong> perguntas com respostas, para testar o sentido do seu rascunho.",
+  "61fbe4d4f999": "<strong><span class=\"ui\">UST</span>:</strong> o texto simplificado do capítulo. Alguns idiomas ponte dão outro nome a esta aba, como <span class=\"ui\">GST</span>.",
+  "677b73d21e67": "<strong><span class=\"ui\">Comentários</span>:</strong> comentários que você escreveu em <span class=\"ui\">Compreender</span>. Quando não há nenhum, aparece \"Nada neste capítulo.\"",
+  "dfa182fcb244": "As ajudas acompanham o que você clicou: uma seção no modo <span class=\"ui\">Seção</span>, um versículo no modo <span class=\"ui\">Versículo</span> ou um quadro de história. Elas continuam nele depois que você clica em <span class=\"ui\">Salvar</span>, até você clicar em outro ou sair do capítulo.",
+  "389f7dc7c683": "Aponte para um cartão de Notas para destacar a expressão dele na fonte; clique nele para manter o destaque.",
+  "2ae564edc954": "Clique em um cartão de Palavras para destacar cada palavra correspondente em toda a seção que você está lendo.",
+  "5e55e030c14d": "Notas longas têm <span class=\"ui\">Mostrar mais</span> e <span class=\"ui\">Mostrar menos</span>.",
+  "2fdf64a3a145": "Arraste o divisor vertical entre o seu rascunho e as ajudas para deixar o painel mais largo ou mais estreito. <span class=\"ui\">Alternar painel de ajudas</span> mostra ou esconde o painel por completo (é um só botão; não há um controle separado para alargar).",
+  "2c005b25598b": "Os artigos de ajuda abrem com um controle flutuante de fechar acima de um divisor e mostram de forma limpa as quebras de linha, os sobrescritos e os sublinhados da fonte.",
+  "92e84f73cbfc": "Cada ajuda é explicada na seção <a href=\"section-understand\">Compreender</a>.",
+  "bdf1e518f4c6": "O painel de ajudas em Tito 1 com a aba Palavras selecionada. Cada cartão de palavra mostra o primeiro parágrafo do artigo de Palavras de Tradução e um link Ler o artigo →. Não há etiquetas KEY WORD."
+}

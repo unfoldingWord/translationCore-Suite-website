@@ -1,0 +1,13 @@
+{
+  "01a53e588c40": "翻译注释和翻译学院文章 · translationCore 4 帮助",
+  "0671ee584d38": "许多注释链接到一篇翻译学院文章，那是一篇关于某个翻译问题（例如隐喻或抽象名词）的简短课程。",
+  "d1a1a2a4e8d2": "在 <span class=\"ui\">Understand</span> 中，点击一个段落选中它。",
+  "f568ce10b811": "在辅助资源面板中，点击 <span class=\"ui\">Notes</span>。注释按标题分组，例如 <span class=\"ui\">INTRODUCTION</span>（简介）和 <span class=\"ui\">VERSE 1</span>（第 1 节）。把鼠标指向一张卡片，就会在经文段落中高亮它所讲的短语。",
+  "df79ebb34868": "点击注释上的文章链接——它写的是翻译学院文章的真实名称，例如 <span class=\"ui\">Abstract Nouns →</span>。文章会在注释下方打开，并带有关闭按钮。",
+  "eccd45ba7618": "章简介位于 <span class=\"ui\">INTRODUCTION</span> 下。点击 <span class=\"ui\">Show more</span> 阅读全文。",
+  "25dad734607e": "注释使用项目的检查语言。如果看到“Shown from the English fallback”（以英文后备资源显示），说明这台电脑上没有该语言的注释，所以显示英文注释。请参阅<a href=\"rs-checking-language\">更改检查语言</a>。",
+  "2decfe0af6a1": "文章链接写的是翻译学院文章本身的名称（例如 <span class=\"ui\">Abstract Nouns →</span>），而不是笼统的 <span class=\"ui\">Translation Academy →</span> 标签。",
+  "75ae79166212": "如果缺少某篇文章，面板会显示“The pinned resources do not carry the article for this check.”（锁定的资源中没有这项检查的文章。）注释仍会显示。",
+  "5fa1648a1e84": "这些注释在<a href=\"ck-translation-notes\">用翻译注释检查</a>中会成为检查项。",
+  "76e2d8ec0e70": "理解模式中提多书 1 章的 Notes 标签页。注释按 INTRODUCTION 和 VERSE 1 分组。文章链接使用真实名称，例如 Abstract Nouns →。没有 NOTE 徽章。"
+}

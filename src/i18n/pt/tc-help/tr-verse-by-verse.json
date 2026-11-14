@@ -1,0 +1,14 @@
+{
+  "7161ee1494a3": "Redigir ou revisar um versículo · Ajuda do translationCore 4",
+  "924f10cde3b8": "A visualização por versículo é útil para pequenas correções e para tradutores que preferem trabalhar um versículo por vez.",
+  "2e916581c6b1": "Em <span class=\"ui\">Traduzir</span>, clique em <span class=\"ui\">Versículo</span> na chave acima da sua tradução.",
+  "3a741eaf2d05": "Para um versículo vazio, clique no botão tracejado <span class=\"ui\">Redigir versículo {n}</span> dele. Para um versículo já redigido, clique no texto dele.",
+  "f0f1b05904d7": "Digite no editor.",
+  "967d0e1e904d": "Clique em <span class=\"ui\">Salvar versículo</span> ou clique fora do editor.",
+  "c1b69e650e2b": "Para descartar sua alteração, clique em <span class=\"ui\">Cancelar</span>.",
+  "66522b86c05a": "O painel de ajudas acompanha o versículo que você está editando.",
+  "c949d8f44bd1": "Para criar um intervalo de versículos, use a visualização <span class=\"ui\">Seção</span>. Veja <a href=\"tr-verse-spans\">Criar ou desfazer um intervalo de versículos</a>.",
+  "d40609f9c65f": "Um versículo de poesia abre com todas as linhas. <strong>Shift+Enter</strong> começa uma nova linha; Tab e Enter salvam e fecham o editor. Veja <a href=\"tr-formatting\">Parágrafos e poesia</a>.",
+  "e0173097549a": "Visualização por versículo para Tito 3:1–2: Versículo está selecionado na chave Seção / Versículo, e os versículos vazios mostram os botões tracejados Redigir versículo 1 e Redigir versículo 2.",
+  "8e82740d866e": "O editor de versículo aberto para Tito 3:1: o lugar do versículo diz Editando abaixo, o editor tem o título REDAÇÃO 1 com texto em espanhol digitado, e Salvar versículo e Cancelar ficam abaixo dele."
+}

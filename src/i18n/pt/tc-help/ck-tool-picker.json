@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "Escolher uma ferramenta de verificação · Ajuda do translationCore 4",
+  "5aab95d571be": "Cada ferramenta de verificação percorre com você o livro inteiro uma vez, um item por vez. O translationCore lembra onde você está em cada ferramenta.",
+  "0e70b0e894cc": "Abrir uma ferramenta",
+  "edfdb403ebaa": "Abra um livro e clique em <span class=\"ui\">Verificar</span> no alto.",
+  "e1de982504aa": "Olhe os cartões. Cada um mostra quantos itens já foram resolvidos e qual é o próximo.",
+  "f0d077c72286": "Clique em <span class=\"ui\">Iniciar verificação →</span> no cartão que você quer, ou em <span class=\"ui\">Continuar →</span> se já tiver começado. Em Verificação comunitária, o link é <span class=\"ui\">Abrir →</span>.",
+  "7843b655da84": "Para voltar a esta lista, clique em <span class=\"ui\">← Todas as ferramentas de verificação</span> no canto superior esquerdo da ferramenta.",
+  "d78a20319fa6": "Da próxima vez que você clicar em <span class=\"ui\">Verificar</span>, o translationCore abre a ferramenta de verificação que você usou por último.",
+  "3a1d2391f3d2": "As ferramentas",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Palavras de Tradução</a>: termos-chave, um por vez.",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Notas de Tradução</a>: os trechos para os quais uma nota de tradução aponta.",
+  "8bfdd2ed6811": "<a href=\"al-open\">Alinhar</a>: ligue suas palavras à língua original. Este cartão conta os versículos redigidos, então um livro sem nada redigido diz <span class=\"ui\">Nenhum item neste livro ainda</span>.",
+  "7def275b185b": "<a href=\"ck-community-checking\">Verificação comunitária</a>: leia o livro inteiro como uma página impressa e exporte-o para os revisores.",
+  "fa2c72678197": "Um projeto de histórias não tem o cartão Alinhar.",
+  "d228c7b705aa": "Se um cartão disser <span class=\"ui\">Precisa ser baixado</span> ou <span class=\"ui\">Indisponível offline</span>, clique em <span class=\"ui\">Corrigir isto…</span>. Veja <a href=\"rs-guided-fix\">Corrigir um recurso ausente</a>. As outras ferramentas continuam funcionando enquanto você corrige.",
+  "b756c9f3a838": "<strong>Observação:</strong> só é possível verificar versículos redigidos. Redija primeiro e depois volte."
+}

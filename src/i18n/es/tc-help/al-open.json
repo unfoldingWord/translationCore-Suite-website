@@ -1,0 +1,20 @@
+{
+  "7ef680c2ab89": "Abrir la herramienta Alinear · Ayuda de translationCore 4",
+  "5e6b62c8398f": "Las herramientas de revisión usan estos enlaces para resaltar sus palabras, y una exportación USFM alineada los lleva consigo.",
+  "bb0ae2797229": "Abrir Alinear",
+  "e45cb668c003": "Haga clic en <span class=\"ui\">Revisar</span> y luego en <span class=\"ui\">Empezar a revisar →</span> en la tarjeta <span class=\"ui\">Alinear</span>.",
+  "d282158fcc1e": "Elija un versículo en la lista de versículos de la izquierda. Los versículos que todavía no están redactados aparecen en gris.",
+  "e3b884563832": "Enlace sus palabras con las tarjetas de palabras. Vea <a href=\"al-link-words\">Enlazar sus palabras con la fuente</a>.",
+  "88485c019666": "Cuando termine el versículo, haga clic en <span class=\"ui\">✓ Marcar válido</span>. Vea <a href=\"al-mark-valid\">Marcar una alineación como terminada</a>.",
+  "9e63a70b7cb6": "Para salir, haga clic en <span class=\"ui\">← Todas las herramientas de revisión</span> en la parte superior izquierda, o en <span class=\"ui\">← Volver a traducir</span> en la parte inferior izquierda.",
+  "301a064f6f16": "En esta pantalla",
+  "ad5c7353eb70": "<span class=\"ui\">Puente · ULT</span> alinea con el texto puente que usted puede leer. Sus palabras ya llevan el enlace al idioma original. <span class=\"ui\">Original · griego</span> alinea directamente con las palabras griegas. Vea <a href=\"al-modes\">Alinear con el texto puente o con el idioma original</a>.",
+  "7fe4b76804a6": "<span class=\"ui\">Sugerir enlaces</span> está desactivado al principio. Actívelo para recibir enlaces propuestos a partir de los versículos que ya alineó. Vea <a href=\"al-suggestions\">Sugerencias de alineación</a>.",
+  "50f0d72fb224": "Encima del banco de palabras, un contador muestra cuántas palabras del versículo están colocadas.",
+  "e1bb27c319b7": "<span class=\"ui\">Cómo funciona la alineación</span> abre una breve explicación.",
+  "e01ac24b75fc": "<strong>Nota:</strong> Alinear es para los libros de la Biblia. Los proyectos de historias no tienen la tarjeta Alinear.",
+  "939bebcfbfc5": "Versículos que importó con alineaciones",
+  "bb519f9da8e1": "Si un libro vino de un archivo USFM que ya tenía alineaciones, sus versículos alineados se abren en Alinear con el aviso <strong>Este versículo ya tiene una alineación</strong>. Todavía no puede cambiar esos versículos en Alinear. tC4 conserva su alineación tal como se importó y la escribe sin cambios en la exportación USFM alineada.",
+  "b70cc1d616d4": "Las tarjetas de la fuente siempre siguen el texto en el idioma original que usa su proyecto. Si un enlace guardado apunta a una palabra que ese texto no tiene, se quita el enlace, sus palabras vuelven al banco de palabras y el versículo se marca para revisión.",
+  "4298e3a1f848": "Un versículo en Alinear de un libro que se agregó desde un archivo USFM alineado. El aviso dice Este versículo ya tiene una alineación. Tito se agregó desde un archivo que ya contiene alineaciones. tC4 conserva la alineación de este versículo tal como está. Aún no puede cambiarla en tC4."
+}

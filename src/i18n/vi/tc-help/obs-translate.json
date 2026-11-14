@@ -1,0 +1,16 @@
+{
+  "5af4889f5ac7": "Dịch một câu chuyện · Trợ giúp translationCore 4",
+  "a10337e72f9e": "Câu chuyện được soạn nháp từng phần: tiêu đề, từng khung hình, rồi đến phần tham chiếu.",
+  "984b4856ee89": "Mở một câu chuyện và nhấp <span class=\"ui\">Dịch</span>.",
+  "8995602f6958": "Nhấp <span class=\"ui\">Soạn thảo tiêu đề</span> (1) và gõ tiêu đề.",
+  "7533633a8c2c": "Nhấp <span class=\"ui\">Lưu</span>.",
+  "d80905a60fc6": "Với mỗi khung hình, nhấp \"Soạn thảo khung hình N\" (2), xem hình ảnh và văn bản tiếng Anh, rồi gõ bản dịch của bạn. Nhấp <span class=\"ui\">Lưu</span> (1).",
+  "b886423ff2ad": "Cuối cùng, nhấp <span class=\"ui\">Soạn thảo tham chiếu</span> và dịch dòng \"A Bible story from: …\" (Một câu chuyện Kinh Thánh từ: …).",
+  "66edcca3d388": "Để thay đổi một phần đã lưu, nhấp vào văn bản của phần đó. Để hủy, nhấp <span class=\"ui\">Hủy</span>.",
+  "bf95ea47b7f4": "Tỷ lệ phần trăm đã soạn nháp của câu chuyện ở bên trái tăng lên khi bạn lưu các phần.",
+  "118fa9449fd3": "Ghi chú, từ ngữ và câu hỏi cho khung hình nằm trong bảng trợ giúp bên phải. Chúng vẫn ở khung hình đó sau khi bạn nhấp <span class=\"ui\">Lưu</span>. Thẻ Nhận xét hiển thị nhận xét mới nhất của khung hình đó.",
+  "94591424f449": "Ô khung hình cao bằng hình ảnh và văn bản bên cạnh. Văn bản dài hơn sẽ cuộn bên trong ô; kéo góc ô để làm ô cao hơn.",
+  "0c398604d8c4": "Câu chuyện không có số câu hay nhóm câu.",
+  "ec94e642294e": "Câu chuyện 1 trong chế độ Dịch. Cột cầu nối hiển thị Câu chuyện cầu nối · v9 · đã ghim, tiêu đề The Creation và khung hình 1 cùng hình ảnh. Trong cột của bạn, Soạn thảo tiêu đề được đánh số 1 và Soạn thảo khung hình 1 được đánh số 2.",
+  "1cc4c1aeb82e": "Khung hình 2 đang mở để soạn nháp bên cạnh văn bản tiếng Anh của khung hình. Ô có tiêu đề Đang soạn nháp khung hình 2, cao bằng khung hình bên cạnh, và chứa Entonces Dios dijo: «¡Que haya luz!». Y hubo luz. Lưu được đánh số 1, bên cạnh Hủy."
+}

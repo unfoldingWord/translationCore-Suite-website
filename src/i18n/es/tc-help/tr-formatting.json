@@ -1,0 +1,16 @@
+{
+  "e40379202528": "Párrafos y poesía · Ayuda de translationCore 4",
+  "b91feb823675": "Esto funciona en el modo <span class=\"ui\">Escribir</span> del editor de sección.",
+  "b3ab5b935792": "Abra una sección con <span class=\"ui\">Redactar la sección {span}</span>.",
+  "b2c1beaae3c7": "Escriba su texto. Pulse <strong>Enter</strong> donde empieza un párrafo nuevo.",
+  "030e16e8a13c": "Al comienzo de un verso de poesía, pulse <strong>Tab</strong>. Pulse Tab otra vez para un segundo nivel, o <strong>Shift+Tab</strong> para quitar una sangría.",
+  "f83c757421ba": "Ubique los números de versículo y haga clic en <span class=\"ui\">Guardar sección</span>.",
+  "1b472269257b": "Poesía que ya tiene",
+  "2787d96d98dd": "Cuando abre un versículo de poesía, el editor muestra el versículo completo, con cada verso del poema. Cada verso empieza con su sangría: una tabulación para el primer nivel, dos para el segundo y tres para el tercero. Un salto de párrafo o de bloque dentro del versículo aparece como una línea en blanco, y un título dentro de un versículo aparece en su propia línea. Deje esas líneas como están y cambie solo las palabras.",
+  "e6b4d5f6d18d": "tC4 tiene tres niveles de poesía. Una cuarta tabulación se guarda como el tercer nivel.",
+  "3c0186069dd6": "En el editor de <strong>Versículo</strong>, Tab y Enter cierran el editor y guardan. Para empezar un verso de poesía nuevo ahí, pulse <strong>Shift+Enter</strong>. Para aplicar sangría a una línea, use el editor de sección.",
+  "95da95d9a880": "El texto fuente muestra sus propios párrafos y versos de poesía, para que pueda seguirlos.",
+  "02068dbf6788": "Todavía no se pueden agregar títulos, notas al pie ni otros formatos en el editor.",
+  "36f5d759734c": "El editor de sección de Tito 2:9–10 en el modo Escribir. La indicación dice Enter para párrafo, Tab para poesía. Las líneas que empiezan más adentro son versos de poesía con sangría; dos están marcados con 1 y 2.",
+  "5b477b5d2415": "El editor de versículo abierto en Salmos 9:1: los dos versos del poema están en el editor, y el segundo empieza más adentro porque es un verso de poesía de segundo nivel."
+}

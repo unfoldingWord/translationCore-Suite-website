@@ -1,0 +1,13 @@
+{
+  "bfd5506d14da": "检查故事 · translationCore 4 帮助",
+  "79ae8ea94979": "它的用法与<a href=\"ck-decide\">检查圣经书卷</a>相同，只是针对当前打开的故事。",
+  "1ad94c745a33": "在 <span class=\"ui\">Translation Words</span> 或 <span class=\"ui\">Translation Notes</span> 上点击 <span class=\"ui\">Start checking →</span>。",
+  "3341fd131f9e": "在 <span class=\"ui\">Sort</span> 旁边，点击 <span class=\"ui\">By frame</span>（1），按顺序逐一查看故事。",
+  "5cecd076eff4": "点击你的译文中与高亮词对应的词，然后点击 <span class=\"ui\">✓ Mark valid</span> 或 <span class=\"ui\">Invalid</span>（2）。",
+  "96e30acca2ae": "检查项 1:0 是故事标题。画面依次为 1:1、1:2，依此类推。",
+  "3d028f85ddb4": "尚未起草的画面会显示“This frame is not drafted yet. Draft it first, then return to check.”（这个画面尚未起草。请先起草，再回来检查。）",
+  "c92da26b6953": "故事没有对齐。",
+  "07cbe37edec2": "书签、评论和筛选的用法与圣经书卷相同。",
+  "cc2b2a21bac1": "为 Sample Stories 选择检查工具：Translation Words（已解决 0 项，共 35 项）、Translation Notes（已解决 0 项，共 91 项）和 Community Checking。没有 Align 卡片。",
+  "2c8fa6d55a73": "故事 1 的翻译词汇检查，第 1 项（共 35 项），画面 1:1 中的“God”。Sort 旁边已选择 By frame（1）。门户语言故事文本中 God 被高亮，你的译文在下方，✓ Mark valid、Invalid 和 To do 标为 2。"
+}

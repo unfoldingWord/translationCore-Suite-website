@@ -1,0 +1,20 @@
+{
+  "7ef680c2ab89": "Buka alat Selaraskan · Bantuan translationCore 4",
+  "5e6b62c8398f": "Alat pemeriksaan memakai tautan ini untuk menyorot kata-kata Anda, dan ekspor USFM yang diselaraskan membawanya.",
+  "bb0ae2797229": "Buka Selaraskan",
+  "e45cb668c003": "Klik <span class=\"ui\">Periksa</span>, lalu <span class=\"ui\">Mulai memeriksa →</span> pada kartu <span class=\"ui\">Selaraskan</span>.",
+  "d282158fcc1e": "Pilih ayat di daftar ayat di sebelah kiri. Ayat yang belum didraf berwarna abu-abu.",
+  "e3b884563832": "Tautkan kata-kata Anda ke kartu kata. Lihat <a href=\"al-link-words\">Tautkan kata Anda ke sumber</a>.",
+  "88485c019666": "Setelah ayat selesai, klik <span class=\"ui\">✓ Tandai valid</span>. Lihat <a href=\"al-mark-valid\">Tandai penyelarasan selesai</a>.",
+  "9e63a70b7cb6": "Untuk keluar, klik <span class=\"ui\">← Semua alat pemeriksaan</span> di kiri atas, atau <span class=\"ui\">← Kembali menerjemahkan</span> di kiri bawah.",
+  "301a064f6f16": "Di layar ini",
+  "ad5c7353eb70": "<span class=\"ui\">Bahasa Gerbang · ULT</span> menyelaraskan dengan teks bahasa gerbang yang dapat Anda baca. Kata-katanya sudah memuat tautan ke bahasa asli. <span class=\"ui\">Bahasa Asli · Yunani</span> menyelaraskan langsung dengan kata-kata Yunani. Lihat <a href=\"al-modes\">Selaraskan dengan teks bahasa gerbang atau bahasa asli</a>.",
+  "7fe4b76804a6": "<span class=\"ui\">Sarankan tautan</span> mati pada awalnya. Nyalakan untuk mendapatkan saran tautan dari ayat-ayat yang sudah Anda selaraskan. Lihat <a href=\"al-suggestions\">Saran penyelarasan</a>.",
+  "50f0d72fb224": "Di atas bank kata, sebuah hitungan menunjukkan berapa banyak kata dalam ayat yang sudah ditempatkan.",
+  "e1bb27c319b7": "<span class=\"ui\">Cara kerja penyelarasan</span> membuka penjelasan singkat.",
+  "e01ac24b75fc": "<strong>Catatan:</strong> Selaraskan hanya untuk kitab Alkitab. Proyek kisah tidak memiliki kartu Selaraskan.",
+  "939bebcfbfc5": "Ayat yang Anda impor beserta penyelarasannya",
+  "bb519f9da8e1": "Jika sebuah kitab berasal dari file USFM yang sudah memiliki penyelarasan, ayat-ayatnya yang sudah diselaraskan terbuka di Selaraskan dengan pemberitahuan <strong>Ayat ini sudah memiliki penyelarasan</strong>. Anda belum dapat mengubah ayat-ayat itu di Selaraskan. tC4 mempertahankan penyelarasannya seperti saat diimpor dan menuliskannya tanpa perubahan ke dalam ekspor USFM yang diselaraskan.",
+  "b70cc1d616d4": "Kartu sumber selalu mengikuti teks bahasa asli yang dipakai proyek Anda. Jika tautan yang tersimpan menunjuk ke kata yang tidak ada dalam teks itu, tautan itu dihapus, kata-katanya kembali ke bank kata, dan ayat itu ditandai untuk ditinjau.",
+  "4298e3a1f848": "Sebuah ayat di Selaraskan dari kitab yang ditambahkan dari file USFM yang sudah diselaraskan. Pemberitahuannya bertuliskan Ayat ini sudah memiliki penyelarasan. Titus ditambahkan dari berkas yang sudah memuat penyelarasan. tC4 mempertahankan penyelarasan ayat ini apa adanya. Anda belum dapat mengubahnya di tC4."
+}

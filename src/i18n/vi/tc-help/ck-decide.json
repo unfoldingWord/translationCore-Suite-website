@@ -1,0 +1,23 @@
+{
+  "8be8c19d2c6f": "Quyết định cho một mục kiểm tra (hợp lệ, không hợp lệ, cần làm) · Trợ giúp translationCore 4",
+  "dc5a4bb169b8": "Mỗi mục bắt đầu ở trạng thái <strong>Cần làm</strong> cho đến khi bạn quyết định.",
+  "894b1e6ce1d3": "Đọc phần trích dẫn được tô sáng trong các thẻ nguồn: nguyên ngữ, văn bản cầu nối sát nghĩa và, nếu có trên máy tính của bạn, văn bản đơn giản hóa (UST hoặc GST).",
+  "4bf754304693": "Bên dưới <span class=\"ui\">Bản dịch của bạn</span> (1), hãy chạm vào từ hoặc các từ dịch phần đó. Chạm lại để bỏ chọn. Để chọn nhiều từ liền nhau, hãy kéo qua các từ đó. Thao tác kéo sẽ chọn trọn từ.",
+  "24c29466f17a": "Nhấp vào <span class=\"ui\">✓ Đánh dấu hợp lệ</span> nếu bản dịch đúng, hoặc <span class=\"ui\">Không hợp lệ</span> nếu cần sửa điều gì đó (2). Nhấp vào <span class=\"ui\">Cần làm</span> để rút lại quyết định.",
+  "eca00a6e15d7": "Nhấp vào <span class=\"ui\">Tiếp</span> bên cạnh các nút đánh dấu (3) để đến mục tiếp theo, hoặc nhấp vào bất kỳ mục nào trong danh sách bên trái.",
+  "e607ef4eec06": "Chỉ khi đánh dấu thì các từ bạn đã chọn mới được lưu. Khi bạn có những từ đã chọn mà chưa đánh dấu để lưu, <span class=\"ui\">Trước</span> và <span class=\"ui\">Tiếp</span> sẽ bị làm mờ (3). Khi trỏ chuột vào đó sẽ hiện <span class=\"ui\">Đánh dấu lần kiểm tra này hoặc bỏ chọn các từ để tiếp tục</span>.",
+  "d0337058b0d0": "Nếu bạn chuyển sang một mục kiểm tra khác trong danh sách, <span class=\"ui\">← Tất cả công cụ kiểm tra</span>, một chế độ khác hoặc một dự án khác khi còn từ chưa lưu, tC4 sẽ hỏi trước: <span class=\"ui\">Các từ đã chọn chưa được lưu</span>. Nhấp vào <span class=\"ui\">Ở lại</span> để giữ các từ đó, hoặc <span class=\"ui\">Rời đi mà không lưu</span>.",
+  "f6a68de5bb91": "Việc đánh dấu một mục không tự chuyển bạn sang mục khác, nên bạn có thể đổi ý trước khi sang mục tiếp theo.",
+  "7c6d8bec7d11": "Mỗi lần đánh dấu được lưu ngay. Chỉ <span class=\"ui\">✓ Đánh dấu hợp lệ</span> mới lưu các từ bạn đã chọn, và các từ đó vẫn được chọn khi bạn quay lại mục này. <span class=\"ui\">Không hợp lệ</span> không lưu từ nào, còn <span class=\"ui\">Cần làm</span> giữ nguyên các từ mà mục kiểm tra đã có.",
+  "153b15d01507": "Nếu bạn thay đổi các từ đã chọn sau khi đã đánh dấu mục đó, dấu sẽ bị gỡ bỏ và mục đó lại được tính là chưa quyết định. Hãy đánh dấu lại để lưu các từ mới.",
+  "a8ee027daf62": "Trong khi đang lưu một dấu, các từ, các nút đánh dấu, <span class=\"ui\">Trước</span> và <span class=\"ui\">Tiếp</span> sẽ tạm tắt trong giây lát. Nếu không lưu được dấu, bạn vẫn ở lại mục kiểm tra đó cùng các từ của bạn và một thông báo.",
+  "12a2c0d4d0aa": "Thao tác kéo bắt đầu từ bên trái của từ đầu tiên sẽ chọn văn bản để sao chép. Phần chọn đó hiện bằng màu tô sáng xanh thông thường, không phải màu vàng.",
+  "6e9502f6e19d": "<span class=\"ui\">Trước</span> và <span class=\"ui\">Tiếp</span> nằm cùng hàng với các nút đánh dấu. Trên màn hình nhỏ, một ghi chú dài có thể đẩy hàng đó xuống dưới cửa sổ. Hãy cuộn xuống để thấy.",
+  "853278c24d49": "<span class=\"ui\">Bản dịch của bạn</span> hiển thị các từ của bạn mà không có dấu câu, và một từ có dấu nháy đơn có thể trông như bị tách (ví dụ \"God's\" thành \"God s\"). Văn bản của bạn trong <span class=\"ui\">Dịch</span> không bị thay đổi.",
+  "b52bcae8449b": "Để sửa văn bản, hãy nhấp vào <span class=\"ui\">← Quay lại dịch</span>. Xem <a href=\"tr-edit-after-check\">Sửa một câu bạn đã kiểm tra hoặc căn chỉnh</a>.",
+  "fd6f087438a1": "Sau đó, hãy dùng bộ lọc <span class=\"ui\">Không hợp lệ</span> để tìm mọi chỗ bạn còn cần sửa.",
+  "168a47fab8c2": "Nếu bạn thấy \"Kiểm tra này chưa được lưu. Tài nguyên của dự án đã thay đổi kể từ khi sách này được kiểm tra…\", hãy cập nhật tài nguyên trước, rồi kiểm tra lại. Không có gì bị mất.",
+  "0eb15a611e9b": "Một mục Từ ngữ dịch thuật, Phao-lô trong Tít 1:1. Phía trên Bản dịch của bạn có ba thẻ nguồn: tiếng Hy Lạp, unfoldingWord Literal Text và UST, mỗi thẻ đều tô sáng Phao-lô. Bản dịch của bạn được đánh số 1, ✓ Đánh dấu hợp lệ được đánh số 2 và Tiếp được đánh số 3.",
+  "16803d5b845d": "Từ Pablo được chọn với màu vàng bên dưới Bản dịch của bạn (1) nhưng chưa được đánh dấu. ✓ Đánh dấu hợp lệ được đánh số 2. Trước và Tiếp bị làm mờ, được đánh số 3.",
+  "183dd98c4962": "Câu hỏi Các từ đã chọn chưa được lưu: Các từ bạn đã chọn chỉ được lưu khi bạn đánh dấu lần kiểm tra. Nếu bạn rời lần kiểm tra này bây giờ, các từ sẽ bị bỏ chọn. Các nút Ở lại và Rời đi mà không lưu."
+}

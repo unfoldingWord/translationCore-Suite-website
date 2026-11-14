@@ -1,0 +1,17 @@
+{
+  "0a68ae08fec4": "Marquer un alignement comme terminé · Aide de translationCore 4",
+  "713d1218f9a9": "Quand un verset est aligné, marquez-le valide. Il compte alors dans la progression des versets alignés. Vous pouvez aussi renvoyer dans la banque de mots tous les mots placés sur le verset.",
+  "73920c43d088": "Cela veut dire « l’alignement de ce verset est terminé », même si des mots restent dans la banque de mots.",
+  "b0a4929a4563": "Terminez de relier les mots d’un verset, et confirmez ou rejetez les suggestions éventuelles.",
+  "33108dcfb335": "Faites défiler jusqu’en bas du verset et cliquez sur <span class=\"ui\">✓ Marquer valide</span>.",
+  "9ed01acb5a8c": "Passez au verset suivant avec la liste à gauche ou avec <span class=\"ui\">Suivant →</span>. Marquer un verset ne vous fait pas avancer.",
+  "fc9e63c512d4": "Effacer les alignements d’un verset",
+  "6dc5417eba84": "Sur la même ligne du bas, cliquez sur <span class=\"ui\">Effacer les alignements</span>.",
+  "1253bfd93fb0": "Confirmez dans la boîte de dialogue, par exemple <span class=\"ui\">Effacer les alignements de Tite 1:1 ?</span> Elle indique combien de mots placés retournent dans la banque de mots, et que chaque carte garde ses mots d’origine.",
+  "f7341b652e2a": "Après l’effacement, les mots placés retournent dans la banque de mots sous forme de cartes séparées, et <span class=\"ui\">Effacer les alignements</span> reste grisé jusqu’à ce que vous placiez de nouveau des mots.",
+  "96a2f18d2c9b": "Le compteur en haut de la liste (« 0 sur 9 versets alignés ») augmente pour chaque verset que vous marquez.",
+  "1c635dc349f2": "Si vous modifiez le verset plus tard, la marque est retirée et le verset doit être revu. Voir <a href=\"tr-edit-after-check\">Modifier un verset déjà vérifié ou aligné</a>.",
+  "711170ac5cca": "La mise à niveau du texte grec ou hébreu retire aussi les marques. Voir <a href=\"rs-upgrade-texts\">Mettre à jour les textes bibliques</a>.",
+  "f098152b82de": "La ligne du bas d’Aligner : ← Précédent, ✓ Marquer valide, Suivant →, et Effacer les alignements.",
+  "060def52271a": "Boîte de dialogue de confirmation : Effacer les alignements de Tite 1:1 ? avec Annuler et un bouton rouge Effacer les alignements."
+}

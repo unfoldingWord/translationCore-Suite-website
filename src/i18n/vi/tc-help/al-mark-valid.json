@@ -1,0 +1,17 @@
+{
+  "0a68ae08fec4": "Đánh dấu hoàn tất căn chỉnh · Trợ giúp translationCore 4",
+  "713d1218f9a9": "Khi một câu đã được căn chỉnh, hãy đánh dấu câu đó là hợp lệ. Câu này sẽ được tính vào tiến độ số câu đã căn chỉnh. Bạn cũng có thể đưa mọi từ đã đặt trong câu trở lại ngân hàng từ.",
+  "73920c43d088": "Dấu này có nghĩa là \"căn chỉnh của câu này đã xong\", ngay cả khi vẫn còn vài từ trong ngân hàng từ.",
+  "b0a4929a4563": "Hoàn tất việc liên kết các từ của một câu, và xác nhận hoặc từ chối mọi gợi ý.",
+  "33108dcfb335": "Cuộn xuống cuối câu và nhấp <span class=\"ui\">✓ Đánh dấu hợp lệ</span>.",
+  "9ed01acb5a8c": "Đi đến câu tiếp theo bằng danh sách bên trái hoặc bằng <span class=\"ui\">Tiếp theo →</span>. Việc đánh dấu một câu không tự chuyển bạn sang câu khác.",
+  "fc9e63c512d4": "Xóa căn chỉnh của một câu",
+  "6dc5417eba84": "Trên cùng hàng cuối, nhấp <span class=\"ui\">Xóa căn chỉnh</span>.",
+  "1253bfd93fb0": "Xác nhận trong hộp thoại, ví dụ <span class=\"ui\">Xóa căn chỉnh của Tít 1:1?</span> Hộp thoại cho biết có bao nhiêu từ đã đặt sẽ trở về ngân hàng từ, và mỗi thẻ vẫn giữ các từ gốc của nó.",
+  "f7341b652e2a": "Sau khi xóa, các từ đã đặt trở về ngân hàng từ thành những thẻ riêng, và <span class=\"ui\">Xóa căn chỉnh</span> bị làm mờ cho đến khi bạn đặt từ trở lại.",
+  "96a2f18d2c9b": "Số đếm ở đầu danh sách (\"Đã căn chỉnh 0 trên 9 câu\") tăng lên với mỗi câu bạn đánh dấu.",
+  "1c635dc349f2": "Nếu sau này bạn sửa câu, dấu sẽ bị gỡ và câu đó cần được xem lại. Xem <a href=\"tr-edit-after-check\">Sửa một câu bạn đã kiểm tra hoặc căn chỉnh</a>.",
+  "711170ac5cca": "Việc nâng cấp văn bản tiếng Hy Lạp hoặc tiếng Híp-ri cũng gỡ các dấu này. Xem <a href=\"rs-upgrade-texts\">Cập nhật văn bản Kinh Thánh</a>.",
+  "f098152b82de": "Hàng cuối của Căn chỉnh: ← Trước, ✓ Đánh dấu hợp lệ, Tiếp theo →, và Xóa căn chỉnh.",
+  "060def52271a": "Hộp thoại xác nhận: Xóa căn chỉnh của Tít 1:1? với nút Hủy và nút Xóa căn chỉnh màu đỏ."
+}

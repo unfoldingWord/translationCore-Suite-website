@@ -1,0 +1,14 @@
+{
+  "419606e87b4a": "翻译前先阅读经文段落 · translationCore 4 帮助",
+  "bcafa7720d63": "许多团队在起草之前，会先在这里阅读并讨论经文段落。",
+  "4a05a926ba5e": "阅读经文段落",
+  "ff749b696f71": "打开一卷书，然后点击顶部的 <span class=\"ui\">Understand</span>。",
+  "44e086f6011e": "用 <span class=\"ui\">ULT</span> 或 <span class=\"ui\">UST</span> 标签页选择底本。检查语言为西班牙语的项目会改为显示 <span class=\"ui\">GLT</span> 和 <span class=\"ui\">GST</span>。",
+  "fd228361bd37": "在 <span class=\"ui\">Comment by</span> 旁边，选择 <span class=\"ui\">Section</span> 一次阅读一个段落，或选择 <span class=\"ui\">Verse</span> 一次阅读一节经文。",
+  "15b2c0fc90be": "阅读右侧的辅助资源：<span class=\"ui\">Notes</span>、<span class=\"ui\">Words</span>、<span class=\"ui\">Questions</span> 和 <span class=\"ui\">UST</span>。点击一张辅助资源卡片，它所讲的词就会在经文段落中高亮显示。",
+  "23260f03a26c": "要记下想法留待以后，请在段落下方的评论框中输入。请参阅<a href=\"un-user-comments\">写用户评论</a>。",
+  "f4cf47fb096e": "段落上的绿色小圆点表示你在那里写了评论。",
+  "ab2dbdc038e5": "段落按照底本中的分段划分，所以同一章在不同的门户语言中可能会有不同的划分。",
+  "41bcd926695c": "你对 <span class=\"ui\">Section</span> 或 <span class=\"ui\">Verse</span> 的选择，在翻译模式中同样适用。",
+  "52372b78ed9b": "理解模式显示门户语言文本。希腊文或希伯来文在 <span class=\"ui\">Translate</span> 和 <span class=\"ui\">Check</span> 中。"
+}

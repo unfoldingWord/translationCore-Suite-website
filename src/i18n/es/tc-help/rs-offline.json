@@ -1,0 +1,16 @@
+{
+  "393d05508d24": "Trabajar sin conexión · Ayuda de translationCore 4",
+  "d8bfb8b37fc5": "Todo lo que necesita para traducir y revisar con las ayudas en inglés viene con la aplicación, y sus proyectos se quedan en su computadora.",
+  "c4c35b6853eb": "Trabaje como siempre. No necesita internet.",
+  "edea9ef59ef5": "Cuando un paso necesita internet, tC4 pregunta \"¿Activar el internet?\". Haga clic en <span class=\"ui\">Activar internet</span> (1), o en <span class=\"ui\">Ahora no</span> para seguir sin conexión.",
+  "e733286320b0": "Para volver a desactivar el internet, haga clic en el botón redondo de la cuenta en la parte superior derecha y desactive <span class=\"ui\">Usar el internet</span> (1). Al cerrar tC4 también se desactiva.",
+  "3412a451d70b": "Qué necesita internet",
+  "566ac9959449": "<a href=\"rs-upgrade-helps\">Actualizar las ayudas fijadas</a> y <a href=\"rs-upgrade-texts\">Actualizar los textos bíblicos</a>",
+  "2cd392e6b7c7": "Descargar un recurso que falta en <a href=\"rs-guided-fix\">Resolver un recurso que falta</a>",
+  "91b2d9dfb331": "Iniciar sesión y compartir en Door43",
+  "9bc597905732": "Traducir, revisar, alinear, exportar e importar funcionan sin conexión.",
+  "8140e4dc8fcb": "Cuando activa el internet para descargar, no se envía nada de sus proyectos.",
+  "33b717beaef2": "Haga copias de seguridad de su carpeta de proyectos con regularidad. Vea <a href=\"st-where-projects-live\">Dónde se guardan sus proyectos</a>.",
+  "98787b2803eb": "El cuadro de diálogo ¿Activar el internet?: Este paso necesita el internet para leer los textos fuente que ofrece Door43 y sus versiones. No se envía nada de sus proyectos. tC4 usará el internet hasta que lo desactive en el menú de cuenta o cierre tC4. Ahora no y Activar internet, marcado con 1.",
+  "f332176c6971": "El menú de la cuenta: la cuenta de Door43, Usar el internet con su interruptor desactivado (marcado con 1) y la línea Desactivado. Un paso que necesite el internet lo pedirá primero., Ayuda y guías, Idioma de la aplicación, Informar de un problema, Acerca de translationCore."
+}

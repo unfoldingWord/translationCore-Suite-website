@@ -1,0 +1,17 @@
+{
+  "2444fbf270b8": "Tải xuống văn bản nguồn · Trợ giúp translationCore 4",
+  "3d6eae5d0cf6": "Ngôn ngữ cầu nối là ngôn ngữ mà nhóm của bạn dùng để đọc văn bản nguồn và tài liệu trợ giúp. Tiếng Anh có sẵn trong ứng dụng.",
+  "7d17ef831dae": "Dưới <span class=\"ui\">Chọn ngôn ngữ cầu nối của bạn</span>, nhấp vào một ngôn ngữ (1). Nếu \"Bật internet?\" xuất hiện, nhấp <span class=\"ui\">Bật internet</span>. Xem <a href=\"rs-offline\">Làm việc ngoại tuyến</a>.",
+  "87c2a0c6f088": "Chọn <span class=\"ui\">Sách</span>.",
+  "619a3f60dc35": "Kiểm tra <span class=\"ui\">Nội dung gói</span>. Nhấp vào một thẻ để bỏ ra, hoặc nhấp lần nữa để thêm lại.",
+  "b2d5c7505186": "Nhấp <span class=\"ui\">⇣ Tải xuống gói</span>. Khi ứng dụng ghi \"✓ {book} · {language} đã sẵn sàng\", nhấp <span class=\"ui\">Đóng</span>.",
+  "8b9d01dac0a2": "Trong khi gói đang tải xuống, cuối hộp thoại hiện <span class=\"ui\">Đang tải xuống …</span> cùng kho lưu trữ đang được tải, và một nút <span class=\"ui\">Hủy</span>. Chúng vẫn ở đó nếu bạn chọn sách khác hoặc quay lại danh sách ngôn ngữ. Nhấp <span class=\"ui\">Hủy</span> để dừng tải xuống.",
+  "8b8f02c8633e": "Để rời đi mà không tải xuống, nhấp <span class=\"ui\">Đóng</span> hoặc nút ✕. Đóng hộp thoại không làm dừng một lượt tải xuống đã bắt đầu; hãy mở lại <span class=\"ui\">Nhận văn bản nguồn</span> để xem hoặc hủy lượt tải đó.",
+  "2fc42d3c75b4": "Với hầu hết các ngôn ngữ cầu nối, gói có kèm kho <strong>Liên kết Từ ngữ dịch thuật</strong> (<code>…_twl</code>) bên cạnh Từ ngữ dịch thuật. Hãy để mục này được chọn để phần kiểm tra cài đặt đầy đủ.",
+  "acf775b53543": "Hai hàng có thể có cùng tên, như hai hàng Français. Tên tổ chức ghi dưới tên ngôn ngữ giúp phân biệt chúng.",
+  "1c359191fab9": "Các phiên bản trong danh sách là phiên bản mới nhất trên Door43, không phải phiên bản dự án của bạn đang dùng.",
+  "84b941e238b1": "Để kiểm tra bằng ngôn ngữ đã tải xuống, hãy chọn ngôn ngữ đó trong <a href=\"st-project-settings\">Cài đặt dự án</a>. Xem <a href=\"rs-checking-language\">Đổi ngôn ngữ kiểm tra</a>.",
+  "ab9ab2d35728": "Khi ngoại tuyến, hộp thoại ghi \"tC4 chưa đọc danh sách văn bản nguồn của Door43.\" kèm nút <span class=\"ui\">Đọc danh sách</span>. Dòng bên dưới, \"Tổ chức này không xuất bản nội dung nào mà tC4 có thể sử dụng…\", chỉ có nghĩa là danh sách chưa được đọc.",
+  "2827fe51be40": "Nếu có lượt tải xuống thất bại, hộp thoại sẽ liệt kê chúng.",
+  "7dd6ae7b823d": "Nhận văn bản nguồn. Tài nguyên đã ghim với nút Kiểm tra bản cập nhật, rồi Chọn ngôn ngữ cầu nối của bạn: English (unfoldingWord, ghi chú v91, từ ngữ v91, học viện v91), Español (Latinoamérica) (es-419_gl, đánh số 1), hai hàng tên Français (Xenizo và MVHS), và Русский."
+}

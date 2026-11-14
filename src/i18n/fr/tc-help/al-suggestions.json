@@ -1,0 +1,16 @@
+{
+  "123be2e03014": "Suggestions d’alignement · Aide de translationCore 4",
+  "40874bd0a1a3": "Les suggestions se basent sur la façon dont vous avez aligné les versets précédents du même Testament. Rien n’est enregistré tant que vous ne l’avez pas confirmé.",
+  "32ab0c08f832": "Alignez d’abord quelques versets à la main, avec soin.",
+  "09a28312d3ae": "Dans <span class=\"ui\">Aligner</span>, cochez <span class=\"ui\">Suggérer des liens</span> dans la ligne <span class=\"ui\">Suggestions</span>.",
+  "68e2fe28b4c6": "La ligne indique « Tiré de N versets que vous avez déjà alignés ». Ouvrez un verset et cliquez sur <span class=\"ui\">Suggérer</span>.",
+  "44922420e182": "Vérifiez chaque suggestion en pointillés et cliquez sur son ✓ pour la confirmer.",
+  "10a63366095c": "<span class=\"ui\">Tout accepter</span> confirme toutes les suggestions, <span class=\"ui\">Tout rejeter</span> les refuse toutes, et <span class=\"ui\">Réinitialiser</span> les efface.",
+  "e15d7cac9afd": "Les suggestions peuvent être fausses, surtout quand peu de versets ont été alignés à la main : des mots peuvent être placés dans l’ordre où ils apparaissent plutôt que selon leur sens. Vérifiez chacune avant de la confirmer, et n’utilisez pas <span class=\"ui\">Tout accepter</span> sans vérifier.",
+  "b6b82e231f6f": "Confirmez ou rejetez les suggestions avant de marquer le verset comme terminé.",
+  "d183c99d4a01": "Si rien ne convient, il est écrit « Rien à suggérer pour les mots encore dans la banque. »",
+  "18b4683798bc": "Ce réglage est mémorisé pour chaque projet sur cet ordinateur.",
+  "707fcef772c8": "Les suggestions utilisent les mêmes mots que la banque de mots, donc <span class=\"ui\">Tout accepter</span> place chaque suggestion que vous voyez.",
+  "216a3df37c0e": "Les suggestions fonctionnent aussi bien pour les versets en hébreu que pour ceux en grec.",
+  "4df3c42ec15a": "La ligne Suggestions dans Aligner, avec Suggérer des liens décoché. Elle indique Désactivé. Activez pour recevoir des liens proposés à partir des versets déjà alignés."
+}

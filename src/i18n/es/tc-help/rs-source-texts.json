@@ -1,0 +1,17 @@
+{
+  "2444fbf270b8": "Descargar textos fuente · Ayuda de translationCore 4",
+  "3d6eae5d0cf6": "Un idioma puente es el idioma en el que su equipo lee el texto fuente y las ayudas. El inglés viene con la aplicación.",
+  "7d17ef831dae": "En <span class=\"ui\">Elige tu idioma puente</span>, haga clic en un idioma (1). Si aparece \"¿Activar el internet?\", haga clic en <span class=\"ui\">Activar internet</span>. Vea <a href=\"rs-offline\">Trabajar sin conexión</a>.",
+  "87c2a0c6f088": "Elija el <span class=\"ui\">Libro</span>.",
+  "619a3f60dc35": "Revise el <span class=\"ui\">Contenido del paquete</span>. Haga clic en una tarjeta para dejarla fuera, o de nuevo para volver a agregarla.",
+  "b2d5c7505186": "Haga clic en <span class=\"ui\">⇣ Descargar paquete</span>. Cuando diga \"✓ {book} · {language} está listo\", haga clic en <span class=\"ui\">Cerrar</span>.",
+  "8b9d01dac0a2": "Mientras se descarga el paquete, la parte inferior del cuadro de diálogo muestra <span class=\"ui\">Descargando …</span> con el repositorio que está obteniendo, y un botón <span class=\"ui\">Cancelar</span>. Se quedan ahí aunque elija otro libro o vuelva a la lista de idiomas. Haga clic en <span class=\"ui\">Cancelar</span> para detener la descarga.",
+  "8b8f02c8633e": "Para salir sin descargar, haga clic en <span class=\"ui\">Cerrar</span> o en la ✕. Cerrar el cuadro de diálogo no detiene una descarga que ya empezó; abra <span class=\"ui\">Obtener textos fuente</span> de nuevo para verla o cancelarla.",
+  "2fc42d3c75b4": "Para la mayoría de los idiomas puente, el paquete incluye un repositorio de <strong>enlaces de Palabras de traducción</strong> (<code>…_twl</code>) además de Palabras de traducción. Déjelo seleccionado para que la revisión pueda terminar de instalarse.",
+  "acf775b53543": "Dos filas pueden tener el mismo nombre, como las dos filas de Français. La organización que aparece debajo del nombre las distingue.",
+  "1c359191fab9": "Las versiones de la lista son las más nuevas de Door43, no las que usa su proyecto.",
+  "84b941e238b1": "Para revisar en el idioma descargado, elíjalo en <a href=\"st-project-settings\">Configuración del proyecto</a>. Vea <a href=\"rs-checking-language\">Cambiar el idioma de revisión</a>.",
+  "ab9ab2d35728": "Sin conexión, el cuadro de diálogo dice \"tC4 no leyó la lista de textos fuente de Door43.\" con <span class=\"ui\">Leer la lista</span>. La línea de abajo, \"Esta organización no publica nada que tC4 pueda usar…\", solo significa que la lista no se ha leído.",
+  "2827fe51be40": "Si algunas descargas fallan, el cuadro de diálogo las muestra en una lista.",
+  "7dd6ae7b823d": "Obtener textos fuente. Recursos fijados con Buscar actualizaciones, y luego Elige tu idioma puente: English (unfoldingWord, notas v91, palabras v91, academia v91), Español (Latinoamérica) (es-419_gl, marcado con 1), dos filas llamadas Français (Xenizo y MVHS), y Русский."
+}

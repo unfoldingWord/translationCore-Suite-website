@@ -1,0 +1,19 @@
+{
+  "8acbc3565c3a": "Rédiger une section · Aide de translationCore 4",
+  "e884672aa2a3": "Vous tapez la section d’un bout à l’autre, comme vous la diriez, et vous ajoutez les numéros de verset ensuite.",
+  "373905fa673d": "Dans <span class=\"ui\">Traduire</span>, vérifiez que le sélecteur au-dessus de votre traduction indique <span class=\"ui\">Section</span>.",
+  "3328663ae42d": "Sur la ligne voulue, cliquez sur le bouton <span class=\"ui\">Rédiger la section {span}</span> en haut à droite (1). C’est un petit bouton arrondi, toujours visible.",
+  "3f5705e15b4a": "L’éditeur s’ouvre en mode <span class=\"ui\">Saisir</span>. Tapez votre traduction de toute la section.",
+  "2f27795e51f7": "Cliquez sur <span class=\"ui\">Placer les numéros de verset</span> et mettez chaque numéro là où commence son verset. Voir <a href=\"tr-place-verse-numbers\">Placer les numéros de verset</a>.",
+  "9ff595806235": "Cliquez sur <span class=\"ui\">Enregistrer la section</span>.",
+  "dd51008cfa25": "Pour fermer l’éditeur sans enregistrer, cliquez sur <span class=\"ui\">Annuler</span>.",
+  "e8bd62ab6bae": "L’éditeur a la même hauteur que le passage source à côté. Un texte plus long défile dans la zone. Pour agrandir la zone, faites glisser son coin.",
+  "a2c7feffadbe": "Pour modifier une section enregistrée, cliquez de nouveau sur son étiquette <span class=\"ui\">Rédiger la section {span}</span>. Cliquer sur le texte enregistré n’ouvre pas l’éditeur.",
+  "13ec65ee89e4": "Vous pouvez taper les numéros de verset vous-même : commencez une ligne par le numéro, par exemple <code>5 no nos salvó…</code>.",
+  "96b5ba2eb54e": "Le premier numéro de verset d’une section est toujours au début.",
+  "216c556a0556": "Après l’ouverture de l’éditeur, attendez un instant avant de taper, et vérifiez le début de votre texte avant d’enregistrer.",
+  "e6f7c7888349": "Tant qu’un éditeur est ouvert, le sélecteur <span class=\"ui\">Section</span> / <span class=\"ui\">Verset</span> ne peut pas être utilisé.",
+  "8113693e524a": "Un numéro de verset que vous laissez dans la zone <span class=\"ui\">À placer</span> est enregistré comme un verset vide.",
+  "ac06415394d5": "Une ligne de section vide : TITE 2:9-10 à gauche, et Rédiger la section 9-10 en haut à droite, marqué 1.",
+  "a85065e98273": "L’éditeur de section ouvert à côté de la source pour Tite 2:9-10 : RÉDACTION 9-10, avec Saisir sélectionné, l’indication Entrée pour un paragraphe, Tab pour la poésie, les versets 9 et 10 tapés, puis Enregistrer la section et Annuler. La carte a la même hauteur que le passage source à côté."
+}

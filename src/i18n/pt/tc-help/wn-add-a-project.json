@@ -1,11 +1,11 @@
 {
-  "f882d1692c25": "27 de setembro de 2026 — um único botão + Adicionar um projeto no Início · Ajuda do translationCore 4",
+  "f882d1692c25": "27 de set. de 2026 — um só botão + Adicionar um projeto no Início · Ajuda do translationCore 4",
   "22889dff5dd5": "O Início agora tem um único botão <span class=\"ui\">+ Adicionar um projeto</span> em vez de três. Ele abre uma janela onde você escolhe uma nova Bíblia, um novo Open Bible Stories ou uma importação. O título do Início agora é <span class=\"ui\">Seus projetos</span>.",
   "7e4b91991b86": "O que mudou",
   "0b05f77e4428": "O título do Início agora é <span class=\"ui\">Seus projetos</span> (antes era \"Suas Bíblias\").",
   "58b1575818d7": "Um botão azul <span class=\"ui\">+ Adicionar um projeto</span> substitui os botões separados para nova Bíblia, novo Open Bible Stories e importação.",
   "f92b05182fa1": "<span class=\"ui\">+ Adicionar um projeto</span> abre uma janela com três cartões: <span class=\"ui\">Nova Bíblia</span>, <span class=\"ui\">Novo Open Bible Stories</span> e <span class=\"ui\">Importar um projeto</span>. Veja <a href=\"gs-home\">A tela Início</a>.",
-  "56254fba4c31": "Cada cartão abre o mesmo formulário de antes: <a href=\"bp-new-bible\">Criar um projeto de Bíblia</a>, <a href=\"obs-create\">Iniciar um projeto de Open Bible Stories</a>, <a href=\"bp-import\">Importar um projeto</a>.",
+  "56254fba4c31": "Cada cartão abre o mesmo formulário de antes: <a href=\"bp-new-bible\">Criar um projeto da Bíblia</a>, <a href=\"obs-create\">Iniciar um projeto de Open Bible Stories</a>, <a href=\"bp-import\">Importar um projeto</a>.",
   "180b65cd249f": "A etapa 1 da importação tem um botão <span class=\"ui\">← Voltar</span> que retorna aos três cartões.",
   "8dec9d8ba023": "Quando ainda não há projetos, o Início diz \"Nenhum projeto ainda. Selecione + Adicionar um projeto para começar.\"",
   "80d5aaf1c8eb": "Teclado: Tab passa pelos cartões, Enter ou Espaço abre um deles, e Esc fecha a janela.",

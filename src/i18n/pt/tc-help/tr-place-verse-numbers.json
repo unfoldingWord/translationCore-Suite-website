@@ -1,0 +1,17 @@
+{
+  "4376ec103233": "Posicionar os números dos versículos · Ajuda do translationCore 4",
+  "5eca11c21193": "Depois de digitar uma seção, clique em cada número de versículo e depois na palavra onde esse versículo começa.",
+  "dbe8b6820c98": "Cada número de versículo é um pequeno marcador laranja, e os números que você ainda não posicionou esperam na caixa <span class=\"ui\">A posicionar</span>.",
+  "0ebe78d1b672": "No editor de seção, clique em <span class=\"ui\">Posicionar números dos versículos</span>.",
+  "3b3fea276e32": "Clique em um número na caixa <span class=\"ui\">A posicionar</span> (1). A caixa diz \"Clique em um número de versículo e depois na palavra que começa o versículo.\"",
+  "0f18a5341cd8": "Agora a caixa diz \"Clique na palavra onde o versículo 10 começa\". Clique nessa palavra no texto.",
+  "d02dd9bad9b1": "Repita para cada número e depois clique em <span class=\"ui\">Salvar seção</span>.",
+  "cb344d0f23be": "Para voltar a digitar, clique em <span class=\"ui\">Digitar</span>. Os números que você posicionou são mantidos. <span class=\"ui\">Cancelar</span> fecha o editor sem salvar.",
+  "ca6abd1aaedf": "Para mover um número que já está posicionado, clique nele no texto e depois em outra palavra.",
+  "42739399ed72": "Se um número cair em uma palavra próxima assim que você clicar nele, clique nele de novo e depois na palavra certa.",
+  "fac2a16d248a": "Quando você clica em um número já posicionado, a caixa continua dizendo \"Todos os versículos foram posicionados. Clique em um número de versículo para mover onde o versículo começa.\" Siga a linha abaixo: \"Clique na palavra onde o versículo 10 começa\".",
+  "0ab63b894abe": "Um número não pode passar por outro número, e o primeiro número da seção não pode ser movido.",
+  "62b7e7cf49e0": "Colocar um número na palavra onde outro versículo começa junta os dois em um intervalo. Veja <a href=\"tr-verse-spans\">Criar ou desfazer um intervalo de versículos</a>.",
+  "ddaf79c7ea52": "Modo Posicionar números dos versículos para Tito 2:9–10. O versículo 9 está fixo no início do texto, e o número 10 espera na caixa A posicionar, marcada com 1, com a dica Clique em um número de versículo e depois na palavra que começa o versículo.",
+  "a22a81f22a81": "A mesma seção depois de clicar no 10: a caixa A posicionar diz Clique na palavra onde o versículo 10 começa."
+}

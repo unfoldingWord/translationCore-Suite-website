@@ -1,0 +1,14 @@
+{
+  "a468001b6df7": "Exportar historias como PDF o Markdown · Ayuda de translationCore 4",
+  "0f29d9d6694a": "<strong>Exportar PDF:</strong> una copia de lectura para los revisores, con o sin imágenes.",
+  "9bf5238223e9": "<strong>Historias en Markdown (.zip):</strong> los archivos de las historias para otras herramientas de Open Bible Stories.",
+  "24350718eb1d": "<strong>Scripture Burrito (.zip):</strong> el proyecto completo. Vea <a href=\"bp-export-burrito\">Exportar un proyecto como Scripture Burrito</a>.",
+  "ee25f850300e": "Abra una historia y haga clic en <span class=\"ui\">Revisar</span>, y luego en <span class=\"ui\">Abrir →</span> en <span class=\"ui\">Revisión comunitaria</span>.",
+  "cd1b84c31406": "Opcional: elija el diseño y las imágenes. Vea <a href=\"obs-community-checking\">Vista previa y exportación de historias</a>.",
+  "f882c57168b5": "Haga clic en <span class=\"ui\">Exportar</span> (1) y luego elija un formato (2).",
+  "cbe483bf884a": "Antes de exportar un PDF, redacte al menos el título o un cuadro.",
+  "c02654738f7c": "Para guardar un segundo PDF con otro diseño, cambie el diseño, exporte de nuevo y póngale un nombre nuevo.",
+  "b6f55effd7d7": "Si ve \"La aplicación no pudo imprimir el PDF con sus imágenes…\", desactive <span class=\"ui\">Imágenes</span> y exporte de nuevo.",
+  "8aec4a792c94": "En Linux, la ventana para guardar se abre en su carpeta <strong>Descargas</strong>. Si no ve sus botones, presione <strong>Enter</strong> para guardar o <strong>Esc</strong> para cancelar.",
+  "81c4c63c64df": "Revisión comunitaria de una historia con el menú Exportar abierto. Exportar está marcado con 1. El menú, marcado con 2, tiene Exportar PDF, Historias en Markdown (.zip) y Scripture Burrito (.zip)."
+}

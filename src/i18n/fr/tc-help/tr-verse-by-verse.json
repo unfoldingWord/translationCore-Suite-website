@@ -1,0 +1,14 @@
+{
+  "7161ee1494a3": "Rédiger ou réviser un seul verset · Aide de translationCore 4",
+  "924f10cde3b8": "La vue par verset est pratique pour de petites corrections et pour les traducteurs qui préfèrent travailler un verset à la fois.",
+  "2e916581c6b1": "Dans <span class=\"ui\">Traduire</span>, cliquez sur <span class=\"ui\">Verset</span> dans le sélecteur au-dessus de votre traduction.",
+  "3a741eaf2d05": "Pour un verset vide, cliquez sur son bouton en pointillés <span class=\"ui\">Rédiger le verset {n}</span>. Pour un verset déjà rédigé, cliquez sur son texte.",
+  "f0f1b05904d7": "Tapez dans l’éditeur.",
+  "967d0e1e904d": "Cliquez sur <span class=\"ui\">Enregistrer le verset</span>, ou cliquez en dehors de l’éditeur.",
+  "c1b69e650e2b": "Pour abandonner votre modification, cliquez plutôt sur <span class=\"ui\">Annuler</span>.",
+  "66522b86c05a": "Le panneau d’aides suit le verset que vous modifiez.",
+  "c949d8f44bd1": "Pour créer une plage de versets, utilisez la vue <span class=\"ui\">Section</span>. Voir <a href=\"tr-verse-spans\">Créer ou séparer une plage de versets</a>.",
+  "d40609f9c65f": "Un verset de poésie s’ouvre avec toutes ses lignes. <strong>Maj+Entrée</strong> commence une nouvelle ligne ; Tab et Entrée enregistrent et ferment l’éditeur. Voir <a href=\"tr-formatting\">Paragraphes et poésie</a>.",
+  "e0173097549a": "La vue par verset pour Tite 3:1-2 : Verset est sélectionné dans le sélecteur Section / Verset, et les versets vides montrent les boutons en pointillés Rédiger le verset 1 et Rédiger le verset 2.",
+  "8e82740d866e": "L’éditeur de verset ouvert pour Tite 3:1 : l’emplacement du verset indique qu’il est en cours de modification plus bas, l’éditeur a pour titre RÉDACTION 1 avec du texte espagnol tapé, et Enregistrer le verset et Annuler sont en dessous."
+}

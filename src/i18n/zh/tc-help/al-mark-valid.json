@@ -1,0 +1,17 @@
+{
+  "0a68ae08fec4": "将对齐标记为完成 · translationCore 4 帮助",
+  "713d1218f9a9": "一节经文对齐好之后，把它标记为有效，它就会计入“已对齐经节”的进度。你也可以把这节经文上所有已放置的词清除，送回词库。",
+  "73920c43d088": "它的意思是“这节经文的对齐已完成”，即使有些词仍留在词库中。",
+  "b0a4929a4563": "完成一节经文中词语的连接，并确认或拒绝所有建议。",
+  "33108dcfb335": "滚动到这节经文的底部，点击 <span class=\"ui\">✓ Mark valid</span>。",
+  "9ed01acb5a8c": "用左侧的列表或 <span class=\"ui\">Next →</span> 前往下一节经文。标记经文不会自动跳到下一节。",
+  "fc9e63c512d4": "清除一节经文的对齐",
+  "6dc5417eba84": "在同一底部行中，点击 <span class=\"ui\">Clear alignments</span>。",
+  "1253bfd93fb0": "在对话框中确认，例如 <span class=\"ui\">Clear the alignments of Titus 1:1?</span>（清除提多书 1:1 的对齐？）对话框会告诉你有多少已放置的词会回到词库，并说明每张卡片都保留原来的词。",
+  "f7341b652e2a": "清除之后，已放置的词会作为单独的卡片回到词库，在你再次放置词语之前，<span class=\"ui\">Clear alignments</span> 显示为灰色。",
+  "96a2f18d2c9b": "每标记一节经文，列表顶部的计数（“0 of 9 verses aligned”，即已对齐 0 节，共 9 节）就会增加。",
+  "1c635dc349f2": "如果你之后编辑了这节经文，标记会被撤回，这节经文需要再看一遍。请参阅<a href=\"tr-edit-after-check\">编辑已检查或已对齐的经节</a>。",
+  "711170ac5cca": "升级希腊文或希伯来文文本也会撤回标记。请参阅<a href=\"rs-upgrade-texts\">更新经文文本</a>。",
+  "f098152b82de": "对齐工具的底部行：← Previous、✓ Mark valid、Next → 和 Clear alignments。",
+  "060def52271a": "确认对话框：Clear the alignments of Titus 1:1?（清除提多书 1:1 的对齐？），有 Cancel 和一个红色的 Clear alignments 按钮。"
+}

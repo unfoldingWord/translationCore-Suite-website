@@ -1,0 +1,23 @@
+{
+  "8be8c19d2c6f": "判定检查项（有效、无效、待办） · translationCore 4 帮助",
+  "dc5a4bb169b8": "每一项在你做出判定之前，都是 <strong>To do</strong>（待办）。",
+  "894b1e6ce1d3": "阅读源文本卡片中高亮显示的引文：原文、通用语言直译文本，以及（如果在你的电脑上）简化文本（UST 或 GST）。",
+  "4bf754304693": "在 <span class=\"ui\">Your translation</span> (1) 下，点选翻译它的那个词或那几个词。再点一次可以取消选择。要选择相连的几个词，在它们上面拖动即可。拖动会选择完整的词。",
+  "24c29466f17a": "如果译文正确，点击 <span class=\"ui\">✓ Mark valid</span>；如果需要修改，点击 <span class=\"ui\">Invalid</span> (2)。点击 <span class=\"ui\">To do</span> 可以撤回判定。",
+  "eca00a6e15d7": "点击标记按钮旁边的 <span class=\"ui\">Next</span> (3) 转到下一项，或点击左侧列表中的任意一项。",
+  "e607ef4eec06": "只有做出标记才会保存你选中的词。当你选中的词还没有通过标记保存时，<span class=\"ui\">Previous</span> 和 <span class=\"ui\">Next</span> 会显示为灰色 (3)。把鼠标指向它们会显示 <span class=\"ui\">Mark this check or unselect the words to move on</span>（请标记此检查项，或取消选择这些词后再继续）。",
+  "d0337058b0d0": "如果你带着未保存的词转到列表中的另一个检查项、<span class=\"ui\">← All checking tools</span>、另一种模式或另一个项目，tC4 会先询问：<span class=\"ui\">The selected words are not saved</span>（所选的词尚未保存）。点击 <span class=\"ui\">Stay</span> 保留它们，或点击 <span class=\"ui\">Leave without them</span> 不保留而离开。",
+  "f6a68de5bb91": "标记某一项不会自动跳到下一项，所以在转到下一项之前，你还可以改变主意。",
+  "7c6d8bec7d11": "每个标记都会立即保存。只有 <span class=\"ui\">✓ Mark valid</span> 会保存你选中的词，当你回到该项时，它们仍处于选中状态。<span class=\"ui\">Invalid</span> 不保存任何词，<span class=\"ui\">To do</span> 会保留该检查项原有的词。",
+  "153b15d01507": "如果你在标记之后更改了选中的词，标记会被取消，该项会重新算作未判定。再次标记即可保存新的词。",
+  "a8ee027daf62": "保存标记时，词语、标记按钮、<span class=\"ui\">Previous</span> 和 <span class=\"ui\">Next</span> 会短暂不可用。如果标记无法保存，你会停留在该检查项上，你选的词仍在，并会看到一条通知。",
+  "12a2c0d4d0aa": "如果从第一个词的左边开始拖动，则会改为选择要复制的文字。这时显示的是普通的蓝色高亮，而不是黄色。",
+  "6e9502f6e19d": "<span class=\"ui\">Previous</span> 和 <span class=\"ui\">Next</span> 与标记按钮在同一行。在小屏幕上，较长的注释可能会把这一行推到窗口下方。向下滚动即可看到。",
+  "853278c24d49": "<span class=\"ui\">Your translation</span> 显示你的词语时不带标点，带撇号的词可能看起来被拆开了（例如“God's”显示为“God s”）。你在 <span class=\"ui\">Translate</span> 中的文字不会被改变。",
+  "b52bcae8449b": "要修改文字，请点击 <span class=\"ui\">← Back to translating</span>。请参阅<a href=\"tr-edit-after-check\">修改已检查或已对齐的节</a>。",
+  "fd6f087438a1": "以后可以用 <span class=\"ui\">Invalid</span> 筛选器找出所有仍需修改的内容。",
+  "168a47fab8c2": "如果看到“This check was not saved. The project's resource changed since this book was checked…”（此检查未保存。自从本书卷检查以来，项目的资源已更改……），请先更新资源，然后再检查。没有丢失任何内容。",
+  "0eb15a611e9b": "一个 Translation Words 检查项，提多书 1:1 中的 Paul（保罗）。Your translation 上方有三张源文本卡片：希腊文、unfoldingWord Literal Text 和 UST，每张中的 Paul 都高亮显示。Your translation 标为 1，✓ Mark valid 标为 2，Next 标为 3。",
+  "16803d5b845d": "Your translation (1) 下的 Pablo 已用黄色选中，但还没有标记。✓ Mark valid 标为 2。Previous 和 Next 显示为灰色，标为 3。",
+  "183dd98c4962": "提问 The selected words are not saved：Only a mark saves the words you selected. If you leave this check now, they are unselected.（只有做出标记才会保存你选中的词。如果现在离开此检查项，这些词将被取消选择。）按钮为 Stay 和 Leave without them。"
+}
