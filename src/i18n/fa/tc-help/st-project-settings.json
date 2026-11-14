@@ -1,0 +1,14 @@
+{
+  "cfc94f2ad007": "تنظیمات پروژه · راهنمای translationCore 4",
+  "5c31a5d7af92": "آنچه لازم دارید تغییر دهید:",
+  "05947a56b8f2": "<span class=\"ui\">Text direction</span> (جهت متن): <span class=\"ui\">Left to right</span> (چپ به راست) یا <span class=\"ui\">Right to left</span> (راست به چپ).",
+  "c3f7bd798553": "<span class=\"ui\">Checking language</span> (1). <a href=\"rs-checking-language\">تغییر زبان بازبینی</a> را ببینید.",
+  "bdf0ed5d6154": "<span class=\"ui\">Manage source texts →</span> (2). <a href=\"rs-source-texts\">دانلود متن‌های مبدأ</a> را ببینید.",
+  "58d3a2eeb7ed": "<span class=\"ui\">Script font</span> (3): قلمی که ترجمهٔ شما با آن نشان داده می‌شود.",
+  "12b7031960a9": "روی <span class=\"ui\">Save changes</span> کلیک کنید.",
+  "152e8dbab82d": "برای لغو، روی <span class=\"ui\">Cancel</span> یا ✕ کلیک کنید، یا کلید Esc را بزنید. چیزی ذخیره نمی‌شود.",
+  "b27935a0af63": "تنظیمات فقط روی کارت صفحهٔ اصلی است، نه در نوار بالا. برای بازگشت به صفحهٔ اصلی، روی نام پروژه در بالا سمت چپ کلیک کنید.",
+  "f5efa05091cf": "قلم‌ها عبارت‌اند از Noto Sans (پیش‌فرض)، Charis SIL، Scheherazade New (خط عربی)، Awami Nastaliq (نستعلیق) و Padauk (خط میانمار). قلمی را انتخاب کنید که حروف شما را درست نشان دهد.",
+  "e4ebe7b1659a": "در این نسخه نام و زبان قابل تغییر نیستند. تنظیمات پروژه آن‌ها را خاکستری نشان می‌دهد، با یادداشت «Renaming arrives with a later increment.» (تغییر نام در نسخه‌ای بعدی می‌آید.)",
+  "caca25561146": "تنظیمات پروژه برای Sample Titus · 1 book. Bible name، Language name و Code خاکستری‌اند، با Renaming arrives with a later increment. Text direction روی Left to right. Checking language روی English، با برچسب CURRENT (1). Manage source texts → (2). Script font روی Noto Sans (default) (3). Cancel و Save changes."
+}
