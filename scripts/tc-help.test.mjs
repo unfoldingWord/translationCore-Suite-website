@@ -59,3 +59,32 @@ test('help pages live in src/tc-help/, not public/tc-help/ (a refresh must not p
   const stray = readdirSync(new URL('../public/tc-help/', import.meta.url)).filter((f) => f.endsWith('.html'));
   assert.deepEqual(stray, [], 'move these to src/tc-help/ (see README → Desktop help)');
 });
+
+test('prune keeps live translations, moves them with their key, and deletes files left empty', async () => {
+  const { mkdtempSync, writeFileSync, readFileSync: read, readdirSync: ls } = await import('node:fs');
+  const { tmpdir } = await import('node:os');
+  const { join } = await import('node:path');
+  const { pruneLocaleDir } = await import('./tc-help-i18n.mjs');
+  const dir = mkdtempSync(join(tmpdir(), 'tc-help-prune-'));
+  const shared = new Map([['s1', 'Steps']]);
+  const perPage = new Map([
+    ['gs-install', new Map([['k-new', 'Install and start tC4 (changed)']])],
+    ['gs-home', new Map([['h1', 'The Home screen'], ['moved', 'Moved here']])],
+  ]);
+  const files = {
+    '_shared.json': { s1: 'Pasos', moved: 'Movido' },
+    'gs-install.json': { 'k-old': 'Instalar e iniciar tC4' }, // every key's English changed
+    'gs-home.json': { h1: 'La pantalla de inicio' },
+    'removed-page.json': { gone: 'Ya no existe' }, // the page itself was removed
+    '_ui.json': { language: 'Idioma' },
+  };
+  for (const [f, data] of Object.entries(files)) writeFileSync(join(dir, f), JSON.stringify(data));
+  for (let run = 1; run <= 2; run++) {
+    const dropped = pruneLocaleDir(dir, shared, perPage);
+    assert.equal(dropped, run === 1 ? 2 : 0, `run ${run}: dropped`);
+    assert.deepEqual(ls(dir).sort(), ['_shared.json', '_ui.json', 'gs-home.json'], `run ${run}: files`);
+    assert.deepEqual(JSON.parse(read(join(dir, '_shared.json'), 'utf8')), { s1: 'Pasos' });
+    assert.deepEqual(JSON.parse(read(join(dir, 'gs-home.json'), 'utf8')), { h1: 'La pantalla de inicio', moved: 'Movido' });
+    assert.deepEqual(JSON.parse(read(join(dir, '_ui.json'), 'utf8')), { language: 'Idioma' });
+  }
+});

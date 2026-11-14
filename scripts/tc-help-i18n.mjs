@@ -8,7 +8,7 @@
 // See README → "Desktop help" for the refresh workflow. The integrity check
 // (markup, code and protected names intact) is checkHelpLocales(), run by
 // `npm run check:locales`.
-import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync, unlinkSync } from 'node:fs';
 import { join } from 'node:path';
 import { pageSegments, tagsOf, codeOf } from '../src/lib/tc-help-i18n.mjs';
 
@@ -66,28 +66,39 @@ function extract(prune) {
   console.log(`${perPage.size} pages, ${shared.size} shared + ${[...perPage.values()].reduce((a, m) => a + m.size, 0)} page strings (${chars} characters).`);
 
   if (!prune) return;
-  const all = new Set([...shared.keys(), ...[...perPage.values()].flatMap((m) => [...m.keys()])]);
   for (const locale of readdirSync(I18N)) {
     const ldir = join(I18N, locale, 'tc-help');
     if (locale === 'en' || !existsSync(ldir)) continue;
-    // A translation is kept wherever its English still is: a paragraph that
-    // moved between a page and _shared keeps its translation.
-    const pool = {};
-    for (const f of readdirSync(ldir)) if (f !== `${UI}.json`) Object.assign(pool, readJson(join(ldir, f)));
-    const files = [[SHARED, shared], ...perPage];
-    let dropped = 0;
-    for (const [name, segs] of files) {
-      const out = {};
-      for (const k of segs.keys()) if (k in pool) out[k] = pool[k];
-      if (Object.keys(out).length) writeJson(join(ldir, `${name}.json`), out);
-    }
-    for (const k of Object.keys(pool)) if (!all.has(k)) dropped++;
-    for (const f of readdirSync(ldir)) {
-      const name = f.replace(/\.json$/, '');
-      if (name !== UI && name !== SHARED && !perPage.has(name)) writeFileSync(join(ldir, f), '{}\n');
-    }
+    const dropped = pruneLocaleDir(ldir, shared, perPage);
     if (dropped) console.log(`${locale}: dropped ${dropped} translation(s) of English that changed or was removed`);
   }
+}
+
+/**
+ * Rewrite one locale's tc-help folder to the current English strings: every
+ * translation whose English key still exists is kept (in whichever file now
+ * holds that key, so a paragraph that moved between a page and _shared keeps
+ * its translation), everything else is dropped. A file left with no keys, or
+ * belonging to a page that no longer exists, is deleted rather than left with
+ * stale keys. _ui.json is hand-written and untouched. Returns the number of
+ * translations dropped.
+ */
+export function pruneLocaleDir(ldir, shared, perPage) {
+  const all = new Set([...shared.keys(), ...[...perPage.values()].flatMap((m) => [...m.keys()])]);
+  const pool = {};
+  const existing = readdirSync(ldir).filter((f) => f.endsWith('.json') && f !== `${UI}.json`);
+  for (const f of existing) Object.assign(pool, readJson(join(ldir, f)));
+  const written = new Set();
+  for (const [name, segs] of [[SHARED, shared], ...perPage]) {
+    const out = {};
+    for (const k of segs.keys()) if (k in pool) out[k] = pool[k];
+    if (Object.keys(out).length) {
+      writeJson(join(ldir, `${name}.json`), out);
+      written.add(`${name}.json`);
+    }
+  }
+  for (const f of existing) if (!written.has(f)) unlinkSync(join(ldir, f));
+  return Object.keys(pool).filter((k) => !all.has(k)).length;
 }
 
 /** The merged translations of a locale: key → text. */
