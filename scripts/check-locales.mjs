@@ -14,14 +14,9 @@ const LOCALES = ['en', 'es', 'fr', 'hi', 'ru', 'ar', 'zh', 'sw', 'pt', 'id', 'vi
 const PAGES = ['ui', 'home', 'desktop', 'mobile', 'resources', 'training', 'previous-version'];
 // Keys whose values must be byte-identical to English (routing data).
 const ASSET_KEYS = new Set(['slug']);
-// Names that are never translated: wherever English has one, the locale must
-// carry it verbatim. (Order matters only for readability.)
-export const PROTECTED = [
-  'translationCore', 'unfoldingWord', 'translationNotes', 'translationWords', 'translationQuestions',
-  'translationAcademy', 'BT Servant', 'Foundations BT', 'Open Bible Stories', 'Church-Based Training',
-  'Door43', 'ULT', 'UST', 'GitHub', 'Discord', 'USFM', 'Scripture Burrito', 'Markdown', 'tcmobile.app',
-  'Google Play', 'App Store', 'v4 Beta', 'start-tc4.sh',
-];
+import { PROTECTED, HELP_PROTECTED } from './protected-names.mjs';
+import { checkHelpLocales } from './tc-help-i18n.mjs';
+export { PROTECTED };
 
 let errors = 0;
 const err = (m) => {
@@ -88,6 +83,10 @@ for (const locale of LOCALES) {
   }
 }
 
+// The Desktop help strings (src/i18n/{lang}/tc-help/), see scripts/tc-help-i18n.mjs.
+const help = checkHelpLocales(LOCALES, HELP_PROTECTED);
+for (const e of help.errors) err(e);
+
 console.log('\nUntranslated ratio (identical to English):');
 for (const locale of LOCALES.filter((l) => l !== 'en')) {
   let same = 0;
@@ -112,6 +111,9 @@ for (const locale of LOCALES.filter((l) => l !== 'en')) {
   }
   console.log(`  ${locale}: ${total ? ((same / total) * 100).toFixed(1) : '0.0'}% (${same}/${total})`);
 }
+
+console.log('\nDesktop help (strings translated):');
+for (const line of help.report) console.log(line);
 
 console.log(errors ? `\n${errors} error(s)` : '\nAll locale checks passed.');
 process.exit(errors ? 1 : 0);

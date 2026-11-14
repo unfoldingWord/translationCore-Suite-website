@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "Choose a checking tool · translationCore 4 Help",
+  "5aab95d571be": "Each checking tool takes you through the whole book once, one item at a time. translationCore remembers your place in each tool.",
+  "0e70b0e894cc": "Open a tool",
+  "edfdb403ebaa": "Open a book, then click <span class=\"ui\">Check</span> at the top.",
+  "e1de982504aa": "Look at the cards. Each one shows how many items are resolved and which one is next.",
+  "f0d077c72286": "Click <span class=\"ui\">Start checking →</span> on the card you want, or <span class=\"ui\">Continue →</span> if you have started. On Community Checking the link is <span class=\"ui\">Open →</span>.",
+  "7843b655da84": "To come back to this list, click <span class=\"ui\">← All checking tools</span> at the top left of the tool.",
+  "d78a20319fa6": "The next time you click <span class=\"ui\">Check</span>, translationCore opens the checking tool you used last.",
+  "3a1d2391f3d2": "The tools",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Translation Words</a>: key terms, one at a time.",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Translation Notes</a>: the places a translation note points to.",
+  "8bfdd2ed6811": "<a href=\"al-open\">Align</a>: link your words to the original language. This card counts drafted verses, so a book with nothing drafted says <span class=\"ui\">No items in this book yet</span>.",
+  "7def275b185b": "<a href=\"ck-community-checking\">Community Checking</a>: read the whole book as a printed page and export it for reviewers.",
+  "fa2c72678197": "A story project has no Align card.",
+  "d228c7b705aa": "If a card says <span class=\"ui\">Needs downloading</span> or <span class=\"ui\">Unavailable offline</span>, click <span class=\"ui\">Fix this…</span>. See <a href=\"rs-guided-fix\">Fix a missing resource</a>. The other tools still work while you fix it.",
+  "b756c9f3a838": "<strong>Note:</strong> Only drafted verses can be checked. Draft first, then come back."
+}

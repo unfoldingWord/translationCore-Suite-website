@@ -1,0 +1,11 @@
+{
+  "27ac6039a7a9": "Windows, macOS and Linux notes · translationCore 4 Help",
+  "d0c7ab9751d6": "Test builds aren't signed yet, so your system may warn you the first time.",
+  "ed98f85183a9": "What to expect",
+  "20db2dc87caf": "SmartScreen may warn: click <strong>More info › Run anyway</strong>. You may need the Microsoft Visual C++ runtime. The plain USFM export may not download.",
+  "50d2cfa2722c": "The first time, go to <strong>System Settings › Privacy &amp; Security</strong> and click <strong>Open Anyway</strong>. Quit tC4 before you install another version.",
+  "3520c5b035eb": "Unzip and run <code>start-tc4.sh</code>.",
+  "6dbabc36f7bd": "Follow <a href=\"gs-install\">Install and start tC4</a>.",
+  "58fdb41bf2e3": "If your system blocks it, follow its \"open anyway\" steps above.",
+  "59ed570323af": "Run only one copy of tC4 at a time."
+}

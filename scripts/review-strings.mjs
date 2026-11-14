@@ -17,7 +17,8 @@
 //   node scripts/review-strings.mjs sw            # markdown to stdout
 //   node scripts/review-strings.mjs sw --out=sw-review.md
 //   node scripts/review-strings.mjs --priority    # the four first asks
-import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+//   node scripts/review-strings.mjs es --tc-help  # the Desktop help instead (a longer sheet)
+import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -30,6 +31,12 @@ const PRIORITY = ['es', 'fr', 'hi', 'ar'];
 const args = process.argv.slice(2);
 const out = args.find((a) => a.startsWith('--out='))?.slice(6);
 const locales = args.includes('--priority') ? PRIORITY : args.filter((a) => !a.startsWith('--'));
+// --tc-help: the Desktop help strings (src/i18n/{lang}/tc-help/), shared
+// sidebar and interface strings first, then each page.
+const HELP = args.includes('--tc-help');
+const files = HELP
+  ? ['_ui', '_shared', ...readdirSync(join(ROOT, 'src/i18n/en/tc-help')).map((f) => f.replace(/\.json$/, '')).filter((f) => !f.startsWith('_')).sort()].map((f) => `tc-help/${f}`)
+  : FILES;
 
 if (!locales.length) {
   console.error('usage: node scripts/review-strings.mjs <locale…> | --priority [--out=FILE]');
@@ -61,15 +68,15 @@ for (const locale of locales) {
     'and anything marked `[markup]` must keep its `<…>` tags exactly as they are.',
     ''
   );
-  for (const page of FILES) {
+  for (const page of files) {
     const enFile = join(ROOT, 'src/i18n/en', `${page}.json`);
     const locFile = join(ROOT, 'src/i18n', locale, `${page}.json`);
-    if (!existsSync(locFile)) {
+    if (!existsSync(locFile) && !HELP) {
       console.error(`missing: src/i18n/${locale}/${page}.json`);
       process.exit(1);
     }
     const en = Object.fromEntries(flatten(JSON.parse(readFileSync(enFile, 'utf8'))));
-    const loc = Object.fromEntries(flatten(JSON.parse(readFileSync(locFile, 'utf8'))));
+    const loc = existsSync(locFile) ? Object.fromEntries(flatten(JSON.parse(readFileSync(locFile, 'utf8')))) : {};
     lines.push(`## ${page}.json`, '', '| Key | English | Current | Suggested |', '| --- | --- | --- | --- |');
     for (const [key, source] of Object.entries(en)) {
       if (key.endsWith('.slug')) continue;

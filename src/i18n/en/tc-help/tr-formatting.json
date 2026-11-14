@@ -1,0 +1,16 @@
+{
+  "e40379202528": "Paragraphs and poetry · translationCore 4 Help",
+  "b91feb823675": "This works in the section editor's <span class=\"ui\">Type</span> mode.",
+  "b3ab5b935792": "Open a section with <span class=\"ui\">Draft section {span}</span>.",
+  "b2c1beaae3c7": "Type your text. Press <strong>Enter</strong> where a new paragraph begins.",
+  "030e16e8a13c": "At the start of a poetry line, press <strong>Tab</strong>. Press Tab again for a second level, or <strong>Shift+Tab</strong> to take an indent back.",
+  "f83c757421ba": "Place the verse numbers and click <span class=\"ui\">Save section</span>.",
+  "1b472269257b": "Poetry you already have",
+  "2787d96d98dd": "When you open a verse of poetry, the editor shows the whole verse, every line of the poem. Each line starts with its indent: one tab for the first level, two for the second, three for the third. A paragraph break or chunk break inside the verse shows as a blank line, and a heading inside a verse shows as its own line. Keep those lines as they are, and change only the words.",
+  "e6b4d5f6d18d": "tC4 has three poetry levels. A fourth tab is saved as the third level.",
+  "3c0186069dd6": "In the <strong>Verse</strong> editor, Tab and Enter close the editor and save. To start a new poetry line there, press <strong>Shift+Enter</strong>. To indent a line, use the section editor.",
+  "95da95d9a880": "The source text shows its own paragraphs and poetry lines, so you can follow them.",
+  "02068dbf6788": "Headings, footnotes and other formatting can't be added in the editor yet.",
+  "36f5d759734c": "The section editor for Titus 2:9–10 in Type mode. The hint reads Enter for paragraph, Tab for poetry. Lines that start further in are indented poetry lines; two are marked 1 and 2.",
+  "5b477b5d2415": "The verse editor open on Psalms 9:1: both lines of the poem are in the editor, and the second line starts further in because it is a second-level poetry line."
+}

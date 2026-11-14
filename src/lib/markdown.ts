@@ -3,12 +3,11 @@
 // file is required and the HTML stays canonical; this restates the same
 // public facts and links only URLs this build produces (npm run check:routes
 // re-reads the built file and fails on any that is missing).
-import { readFileSync } from 'node:fs';
-import { fileURLToPath } from 'node:url';
 import { localePath, localizedSlugs, englishOnlySlugs, locales, type PageSlug } from '../i18n/config';
 import { content } from '../i18n/content';
 import { SITE_URL, DEFINITION } from './jsonld';
 import { helpPages } from './sitemap';
+import { helpSource } from './tc-help';
 import { inlineToMarkdown } from './inline-markdown';
 
 export function textResponse(body: string, type = 'text/plain'): Response {
@@ -27,9 +26,9 @@ const LEGAL: Record<string, { title: string; description: string }> = {
 };
 
 function helpTitle(path: string): string {
-  const file = path === '/tc-help/' ? 'index.html' : `${path.slice('/tc-help/'.length)}.html`;
-  const html = readFileSync(fileURLToPath(new URL(`../../public/tc-help/${file}`, import.meta.url)), 'utf8');
-  return (html.match(/<title>([^<]*)<\/title>/)?.[1] ?? file).replace(/\s*·\s*translationCore 4 Help$/, '').replace(/&amp;/g, '&');
+  const page = path === '/tc-help/' ? 'index' : path.slice('/tc-help/'.length);
+  const html = helpSource(page);
+  return (html.match(/<title>([^<]*)<\/title>/)?.[1] ?? page).replace(/\s*·\s*translationCore 4 Help$/, '').replace(/&amp;/g, '&');
 }
 
 export function llmsTxt(): string {
@@ -55,6 +54,8 @@ The site is published in 16 languages. English is at the root; the others are ${
 ${pages.join('\n')}
 
 ## Desktop help
+
+The help is published in the same 16 languages: English at ${SITE_URL}/tc-help/, the others at ${SITE_URL}/{lang}/tc-help/ (for example ${SITE_URL}/es/tc-help/). The English pages:
 
 ${help.join('\n')}
 

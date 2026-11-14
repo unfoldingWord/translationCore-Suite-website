@@ -1,0 +1,15 @@
+{
+  "fd7bfead716f": "If the app closed unexpectedly or the window went blank · translationCore 4 Help",
+  "55b76d8a66e8": "tC4 records each step that changes a project. If it stops in the middle of one, it finishes or cleans up at the next start, so no broken project is left.",
+  "78bd5ab8337d": "If the window goes blank or stops responding",
+  "87388e67fa24": "Open the <strong>Window</strong> menu and click <strong>Reload</strong>, or press Ctrl+R.",
+  "b5fd05422653": "tC4 comes back on Home. Open your project again.",
+  "699657357b3c": "If you see \"This screen could not be shown.\", click <strong>Back to Home</strong>, then open the project again.",
+  "3ab37d80c428": "If tC4 closed",
+  "a09dba536852": "Start tC4 again.",
+  "8b0d89d59a34": "Check that your projects are on Home.",
+  "e0c604da4f04": "If an import was interrupted, import the file again.",
+  "f38932ff0291": "Reload takes you to Home. Your projects are still there.",
+  "814d83120c04": "<strong>Toggle Developer Tools</strong> is for developers. You don't need it.",
+  "b55e6bd5d484": "The Window menu of the desktop app, with Reload Ctrl+R, Force Reload Ctrl+Shift+R and Toggle Developer Tools Ctrl+Shift+I."
+}

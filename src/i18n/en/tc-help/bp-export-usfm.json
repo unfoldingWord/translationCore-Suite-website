@@ -1,0 +1,17 @@
+{
+  "a96d11edfa6b": "Export a book as USFM (aligned or plain) · translationCore 4 Help",
+  "f94a9df0cb10": "USFM is the standard text format for Bible translations.",
+  "1e94ef8ceb99": "Click <span class=\"ui\">Export</span> (1), then <span class=\"ui\">USFM, aligned</span> (2) or <span class=\"ui\">USFM, plain</span>.",
+  "f9b0a11478e5": "Which one?",
+  "db946efab3d8": "<strong><span class=\"ui\">USFM, aligned</span></strong> includes your links to the original language, for tools that read alignments. Align the verses first. See <a href=\"al-link-words\">Link your words to the source</a>.",
+  "dd38b1bfdf16": "<strong><span class=\"ui\">USFM, plain</span></strong> is just your text.",
+  "53ede8bc7c3b": "Your project doesn't change.",
+  "ffb0917a26ef": "A joined verse span is written as one verse, for example <code>\\v 2-3</code>.",
+  "1b8ddfde1a2c": "Undrafted verses are written as <code>___</code>.",
+  "46717a73e9ca": "The header lines (<code>\\h</code>, <code>\\toc1</code>–<code>\\toc3</code>, <code>\\mt</code>) contain the book code, such as <code>TIT</code>, not the book name. Edit them if another program needs the name.",
+  "1d6a4dcee725": "<span class=\"ui\">USFM, aligned</span> writes the alignment of each verse whose alignment is up to date. A verse that needs review is written without its alignment, and the panel says <strong>Your alignment of these verses is not in the file</strong> and lists them. Review those verses in Align and export again. The next export clears the message.",
+  "8e797de8362c": "Verses you imported with alignments are written exactly as they were imported.",
+  "d7ba70e5d6d8": "<span class=\"ui\">USFM, plain</span> and PDF never include alignments, so they never show this message.",
+  "44afc7d304ce": "Saving over a file that already exists replaces it without asking. Choose a new file name if you want to keep the old file.",
+  "caf999f3879c": "Community Checking with the Export menu open. Export is marked 1, and USFM, aligned is marked 2; USFM, plain is just below it."
+}

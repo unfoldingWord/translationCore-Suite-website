@@ -1,0 +1,13 @@
+{
+  "4b6a6a014b40": "When a save fails · translationCore 4 Help",
+  "747f2583a77a": "The indicator at the top right shows <span class=\"ui\">Saved</span>, <span class=\"ui\">Saving…</span>, <span class=\"ui\">Unsaved changes</span> or <span class=\"ui\">Save failed — retry</span>.",
+  "e3580bd75749": "If you see <span class=\"ui\">Save failed — retry</span>, click <span class=\"ui\">Retry</span> once and wait.",
+  "2d40c64dbf9d": "If it fails again, stay on the screen. Moving to another mode may be refused until the save works.",
+  "2fd17609c503": "If you try to close tC4 with unsaved changes, it warns you. Stay, and try <span class=\"ui\">Retry</span> again.",
+  "8e2daa28aeb0": "If it keeps failing, write down the message and ask for help.",
+  "893b07b094b5": "Clicking <span class=\"ui\">Retry</span> many times doesn't help. It tries once at a time.",
+  "9e57e0b22b6f": "In an imported project, writing the first text into an empty verse can fail to save every time. Retry won't fix it. Copy your text somewhere safe before you close tC4, because the verse comes back empty. Cancelling such a verse after typing can show the same message.",
+  "e5f60e2765f9": "<span class=\"ui\">← All checking tools</span> still works while a save problem is showing.",
+  "f7028df78512": "If the message under the save indicator says <strong>This project was synced, so the app must open it again</strong>, click Home, open the project again, and make your last change again. Retry won't help in that case. See <a href=\"ts-protect-messages\">Messages that protect your project</a>.",
+  "978fdc3be81d": "The save indicator at the top right showing Save failed — retry, with a Retry button."
+}

@@ -1,0 +1,13 @@
+{
+  "01a53e588c40": "Translation notes and Translation Academy articles · translationCore 4 Help",
+  "0671ee584d38": "Many notes link to a Translation Academy article, a short lesson about a translation issue such as metaphors or abstract nouns.",
+  "d1a1a2a4e8d2": "In <span class=\"ui\">Understand</span>, click a section to select it.",
+  "f568ce10b811": "In the helps panel, click <span class=\"ui\">Notes</span>. Notes are grouped under headings such as <span class=\"ui\">INTRODUCTION</span> and <span class=\"ui\">VERSE 1</span>. Point at a card to highlight its phrase in the passage.",
+  "df79ebb34868": "Click the article link on a note — it names the real Translation Academy article, for example <span class=\"ui\">Abstract Nouns →</span>. The article opens under the notes with a close control.",
+  "eccd45ba7618": "The chapter introduction sits under <span class=\"ui\">INTRODUCTION</span>. Click <span class=\"ui\">Show more</span> to read all of it.",
+  "25dad734607e": "Notes are in the project's checking language. If you see \"Shown from the English fallback\", the notes in that language aren't on this computer, so the English notes are shown. See <a href=\"rs-checking-language\">Change the checking language</a>.",
+  "2decfe0af6a1": "Article links name the Translation Academy article itself (for example <span class=\"ui\">Abstract Nouns →</span>), not a generic <span class=\"ui\">Translation Academy →</span> label.",
+  "75ae79166212": "If an article is missing, the panel says \"The pinned resources do not carry the article for this check.\" The note still shows.",
+  "5fa1648a1e84": "The same notes become check items in <a href=\"ck-translation-notes\">Check with Translation Notes</a>.",
+  "76e2d8ec0e70": "The Notes tab in Understand on Titus 1. Notes are grouped under INTRODUCTION and VERSE 1. Article links use the real name, such as Abstract Nouns →. There are no NOTE badges."
+}

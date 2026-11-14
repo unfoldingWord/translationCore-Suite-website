@@ -1,0 +1,15 @@
+{
+  "fa9b9d341efe": "Make or break a verse span · translationCore 4 Help",
+  "f530bcc1d6ff": "A verse span (also called a verse bridge) is two or more verses translated as one unit, for example <code>2-3</code>.",
+  "95ad44313a34": "Open the section with its <span class=\"ui\">Draft section {span}</span> label, type the text, and click <span class=\"ui\">Place verse numbers</span>.",
+  "3fcf8b283cb1": "Click the later number in the text, for example 10.",
+  "ed04b4022fbd": "Click the word where the earlier verse (9) begins. The tooltip says \"Join verse 10 to verse 9 at …\".",
+  "00965f803729": "Click <span class=\"ui\">Save section</span>. The verses are saved as one span, numbered 2-3.",
+  "37da7d58596b": "Break a span",
+  "8040a4812e1b": "Open the section again, click <span class=\"ui\">Place verse numbers</span>, click the 10 and click the word where verse 10 should begin. Then click <span class=\"ui\">Save section</span>.",
+  "3a781f8fca28": "In <span class=\"ui\">Type</span> mode you can also start a line with the span, for example <code>2-3 …</code>.",
+  "50b37754200f": "Making or breaking a span marks the checks and alignments of those verses for review. Nothing is deleted. See <a href=\"tr-edit-after-check\">Editing a verse you already checked or aligned</a>.",
+  "2a9614442c0b": "Spans can't be made in <span class=\"ui\">Verse</span> view.",
+  "e2cade4b6fa9": "Open Bible Stories have frames, not verse numbers, so they have no spans.",
+  "fa2c6f1d53f1": "Place verse numbers mode for Titus 2:9–10 after joining: the numbers 9 and 10 sit side by side on the first word, Exhorta, so the two verses are one span."
+}

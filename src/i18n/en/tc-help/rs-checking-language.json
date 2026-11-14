@@ -1,0 +1,20 @@
+{
+  "92833ce9e8b2": "Change the checking language · translationCore 4 Help",
+  "68427c9028dd": "Checks use the notes and word articles of one gateway language.",
+  "5aa71e16aef1": "If the language isn't listed yet, download it first. See <a href=\"rs-source-texts\">Download source texts</a>.",
+  "c03214fc86f3": "Under <span class=\"ui\">Checking language</span>, click the language you want. The current one is marked <span class=\"ui\">Current</span> (1).",
+  "379f666918d8": "Read the confirmation. It says how many decisions carry over and how many come back as work.",
+  "42260194b915": "Click \"Change to …\" to confirm. The new language is now marked <span class=\"ui\">Current</span>.",
+  "ea856a88e0c5": "To cancel, click \"Keep …\" in the confirmation.",
+  "79bd6b234469": "Completeness includes <strong>Translation Words Links</strong> (<code>_twl</code>) when that language publishes one. Download the package so Links is installed; the app does not fall back to English Links for those languages.",
+  "252b7ea72f2c": "A few gateway organisations publish words but no Links repository. For those, checks use the <strong>English</strong> Links list with that language's word articles. Two Arabic rows can appear: pick the organisation named under the language.",
+  "4f43d14a1c34": "After you change language, Translation Words items are rebuilt from the new Links pin. Decisions carry over only when the same check still exists.",
+  "589e7d510f4b": "The language already in use for checking is not offered again as a new choice.",
+  "15bd0b9b5396": "When tC4 asks you to confirm a change of checking language, the two actions sit side by side.",
+  "736157ec9cf8": "A decision carries over only when the new notes have the same check on the same words. Notes in another language are often split differently, so few may carry over. That is expected.",
+  "65e0f34827da": "Nothing is deleted. Decisions that don't carry over stop counting, and those checks come back as To do. A finished book may not be finished any more.",
+  "1a41374668d3": "The language set must be complete: notes, words and academy.",
+  "393c252ea8a7": "The confirmation names each language as the list does, for example \"Español (Latinoamérica)\". When two packages share a name, such as the two Français rows, each also names its owner.",
+  "2431cd8e2c7a": "The Checking language part of Project settings: This project checks in English · unfoldingWord., the English row marked CURRENT (1), and Manage source texts →.",
+  "6f7c4d536d9a": "The confirmation: Change checking language to English? 4 decisions in Titus were made against the notes you are leaving. Titus · Translation Words: 2 carried over, 0 to check again. Titus · Translation Notes: 0 carried over, 1 to check again. Keep Español (Latinoamérica), and Change to English."
+}

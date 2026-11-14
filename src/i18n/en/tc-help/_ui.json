@@ -1,0 +1,9 @@
+{
+  "language": "Language",
+  "onThisPage": "On this page",
+  "noResults": "No topics match “{query}”. Try another word, such as align, check, story or offline.",
+  "seeAll": "See all results →",
+  "resultsOne": "1 topic for “{query}”",
+  "resultsMany": "{count} topics for “{query}”",
+  "searchPrompt": "Type a word or two, such as “align”, “bookmark” or “verse span”."
+}

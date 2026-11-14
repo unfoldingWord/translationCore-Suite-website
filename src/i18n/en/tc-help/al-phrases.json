@@ -1,0 +1,11 @@
+{
+  "514e3938bc29": "Align a phrase (merge and split cards) · translationCore 4 Help",
+  "c927f7073553": "Use a phrase card when two or more source words become one word in your language, or a phrase translates a phrase.",
+  "c9202bd74f60": "In <span class=\"ui\">Align</span>, drag a word card onto the card next to it. The tooltip says \"Drag onto another word card to merge them into a phrase.\"",
+  "a6977e999162": "The two cards become one phrase card.",
+  "e4f9c5b57ad8": "Place your word or words under the phrase card.",
+  "fa040e76edd1": "To undo, click <span class=\"ui\">SPLIT</span> on the phrase card.",
+  "1dc34f17a71b": "Merge only neighbouring words that belong together.",
+  "f6cb843af438": "If you had already placed words under the phrase card, check where they are after <span class=\"ui\">SPLIT</span>. Click a misplaced word to send it back to the bank, then place it under the right card.",
+  "035b96416e1e": "The cards for Titus 1:1 after dragging of Jesus onto Christ. They are now one wide card, of Jesus Christ over Ἰησοῦ Χριστοῦ, with a SPLIT button."
+}

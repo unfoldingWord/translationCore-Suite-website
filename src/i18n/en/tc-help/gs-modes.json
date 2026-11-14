@@ -1,0 +1,16 @@
+{
+  "13d6112f254d": "Understand, Translate and Check — the three modes · translationCore 4 Help",
+  "22c05e04d926": "Your place in the book stays the same when you switch, and Open Bible Stories projects have the same three modes.",
+  "61aee9109a1b": "Open a book or story from Home.",
+  "128bfef94f36": "Click <span class=\"ui\">Understand</span>, <span class=\"ui\">Translate</span> or <span class=\"ui\">Check</span> in the middle of the top bar. The one you are in is filled in.",
+  "cf7e68e6b38d": "What each mode is for",
+  "08d61dfdd7ca": "<strong><span class=\"ui\">Understand</span>:</strong> read the passage with its notes, word links and questions, and write your own comments. See <a href=\"un-read-passage\">Read a passage before you translate</a>.",
+  "79ebbb5807f3": "<strong><span class=\"ui\">Translate</span>:</strong> draft your translation beside the source texts. See <a href=\"tr-screen\">The Translate screen</a>.",
+  "c0cac543b795": "<strong><span class=\"ui\">Check</span>:</strong> check your draft with Translation Notes and Translation Words, align words, and preview the book. See <a href=\"ck-tool-picker\">Choose a checking tool</a>.",
+  "29c21f035696": "Many teams go in that order, but you can switch at any time.",
+  "20b3650806b8": "A book or story you open for the first time starts in <span class=\"ui\">Understand</span>. After that, tC4 opens it in the mode you used last.",
+  "7ae9ea51f3a9": "<span class=\"ui\">Check</span> goes back to the checking tool you used last. To pick another one, click <span class=\"ui\">← All checking tools</span> at the top left.",
+  "89c9737cc63f": "Switching modes saves a checkpoint if anything changed. See <a href=\"gs-save\">Saving and checkpoints</a>.",
+  "4ffefe6c913a": "Exporting is not a separate mode. It is in <span class=\"ui\">Check</span> › <span class=\"ui\">Community Checking</span>. See <a href=\"bp-export-pdf\">Export a book as PDF</a>.",
+  "20f0ff816d20": "The switch in the middle of the top bar: Understand, Translate (selected, filled in light blue) and Check."
+}

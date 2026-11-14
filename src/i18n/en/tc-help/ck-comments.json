@@ -1,0 +1,10 @@
+{
+  "477a2177da05": "Write a check comment · translationCore 4 Help",
+  "5c84068ecc6a": "Use it to record why you decided something, or a question for a consultant.",
+  "f5d2ad61cdd4": "In a checking tool, click <span class=\"ui\">✎ Add a comment</span>.",
+  "76f4ae1c1a1e": "Type your note in the box <span class=\"ui\">My comment on this check</span>.",
+  "a637ffd12deb": "Click <span class=\"ui\">Done</span>. The item gets a ✎ in the list and counts under the <span class=\"ui\">Commented</span> filter.",
+  "eeea49f682bc": "To close the box without changes, click <span class=\"ui\">Hide comment</span>. To remove a comment, click <span class=\"ui\">Delete comment</span>.",
+  "de74e8024a35": "Check comments can be deleted; comments in <span class=\"ui\">Understand</span> can't. See <a href=\"un-user-comments\">Write a user comment</a>.",
+  "46cc700d8522": "A check item with its comment box open: the button now reads Hide comment, the box is titled My comment on this check and asks Say what you decided, or what to ask your team about this check. Done and Delete comment are under it."
+}

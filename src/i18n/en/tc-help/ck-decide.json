@@ -1,0 +1,23 @@
+{
+  "8be8c19d2c6f": "Decide on a check item (valid, invalid, to do) · translationCore 4 Help",
+  "dc5a4bb169b8": "Every item starts as <strong>To do</strong> until you decide it.",
+  "894b1e6ce1d3": "Read the highlighted quote in the source cards: the original language, the literal gateway text and, when it is on your computer, the simplified text (UST or GST).",
+  "4bf754304693": "Under <span class=\"ui\">Your translation</span> (1), tap the word or words that translate it. Tap again to unselect. To select several words in a row, drag across them. The drag selects whole words.",
+  "24c29466f17a": "Click <span class=\"ui\">✓ Mark valid</span> if the translation is right, or <span class=\"ui\">Invalid</span> if something needs fixing (2). Click <span class=\"ui\">To do</span> to take a decision back.",
+  "eca00a6e15d7": "Click <span class=\"ui\">Next</span> beside the marking buttons (3) to go to the next item, or click any item in the list on the left.",
+  "e607ef4eec06": "Only a mark saves the words you selected. While you have selected words that no mark saved, <span class=\"ui\">Previous</span> and <span class=\"ui\">Next</span> are greyed out (3). Pointing at them says <span class=\"ui\">Mark this check or unselect the words to move on</span>.",
+  "d0337058b0d0": "If you go to another check in the list, <span class=\"ui\">← All checking tools</span>, another mode or another project with unsaved words, tC4 asks first: <span class=\"ui\">The selected words are not saved</span>. Click <span class=\"ui\">Stay</span> to keep them, or <span class=\"ui\">Leave without them</span>.",
+  "f6a68de5bb91": "Marking an item doesn't move you on, so you can change your mind before you go to the next one.",
+  "7c6d8bec7d11": "Each mark is saved right away. Only <span class=\"ui\">✓ Mark valid</span> saves the words you selected, and they are still selected when you come back to the item. <span class=\"ui\">Invalid</span> saves no words, and <span class=\"ui\">To do</span> keeps the words the check already had.",
+  "153b15d01507": "If you change the selected words after you marked the item, the mark is taken away and the item counts as not decided again. Mark it again to save the new words.",
+  "a8ee027daf62": "While a mark is being saved, the words, the marking buttons, <span class=\"ui\">Previous</span> and <span class=\"ui\">Next</span> are off for a moment. If the mark could not be saved, you stay on the check with your words and a notice.",
+  "12a2c0d4d0aa": "A drag that starts to the left of the first word selects text to copy instead. That shows in the normal blue highlight, not yellow.",
+  "6e9502f6e19d": "<span class=\"ui\">Previous</span> and <span class=\"ui\">Next</span> are on the same row as the marking buttons. On a small screen, a long note can push that row below the window. Scroll down to reach it.",
+  "853278c24d49": "<span class=\"ui\">Your translation</span> shows your words without punctuation, and a word with an apostrophe can look split (for example \"God's\" as \"God s\"). Your text in <span class=\"ui\">Translate</span> isn't changed.",
+  "b52bcae8449b": "To fix the text, click <span class=\"ui\">← Back to translating</span>. See <a href=\"tr-edit-after-check\">Editing a verse you already checked or aligned</a>.",
+  "fd6f087438a1": "Use the <span class=\"ui\">Invalid</span> filter later to find everything you still need to fix.",
+  "168a47fab8c2": "If you see \"This check was not saved. The project's resource changed since this book was checked…\", update the resource first, then check again. Nothing was lost.",
+  "0eb15a611e9b": "A Translation Words item, Paul in Titus 1:1. Above Your translation are three source cards: the Greek, the unfoldingWord Literal Text and the UST, each with Paul highlighted. Your translation is marked 1, ✓ Mark valid is marked 2 and Next is marked 3.",
+  "16803d5b845d": "Pablo is selected in yellow under Your translation (1) but not marked yet. ✓ Mark valid is marked 2. Previous and Next are greyed out, marked 3.",
+  "183dd98c4962": "The question The selected words are not saved: Only a mark saves the words you selected. If you leave this check now, they are unselected. Buttons Stay and Leave without them."
+}

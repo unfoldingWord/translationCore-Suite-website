@@ -1,0 +1,19 @@
+{
+  "8acbc3565c3a": "Draft a section · translationCore 4 Help",
+  "e884672aa2a3": "You type the section straight through, the way you would say it, and add the verse numbers afterwards.",
+  "373905fa673d": "In <span class=\"ui\">Translate</span>, make sure the switch above your translation says <span class=\"ui\">Section</span>.",
+  "3328663ae42d": "On the row you want, click the <span class=\"ui\">Draft section {span}</span> button at its top right (1). It is a small rounded button, always visible.",
+  "3f5705e15b4a": "The editor opens in <span class=\"ui\">Type</span> mode. Type your translation of the whole section.",
+  "2f27795e51f7": "Click <span class=\"ui\">Place verse numbers</span> and put each number where its verse begins. See <a href=\"tr-place-verse-numbers\">Place verse numbers</a>.",
+  "9ff595806235": "Click <span class=\"ui\">Save section</span>.",
+  "dd51008cfa25": "To close the editor without saving, click <span class=\"ui\">Cancel</span>.",
+  "e8bd62ab6bae": "The editor is as tall as the source passage beside it. Longer text scrolls inside the box. To make the box taller, drag its corner.",
+  "a2c7feffadbe": "To change a saved section, click its <span class=\"ui\">Draft section {span}</span> label again. Clicking the saved text does not open the editor.",
+  "13ec65ee89e4": "You can type the verse numbers yourself: start a line with the number, for example <code>5 no nos salvó…</code>.",
+  "96b5ba2eb54e": "The first verse number of a section is always at the start.",
+  "216c556a0556": "Wait a moment after the editor opens before you type, and check the start of your text before you save.",
+  "e6f7c7888349": "While an editor is open, the <span class=\"ui\">Section</span> / <span class=\"ui\">Verse</span> switch can't be used.",
+  "8113693e524a": "A verse number you leave in the <span class=\"ui\">To place</span> box is saved as an empty verse.",
+  "ac06415394d5": "An empty section row: TITUS 2:9–10 on the left, and Draft section 9–10 at its top right, marked 1.",
+  "a85065e98273": "The section editor open beside the source for Titus 2:9–10: DRAFTING 9–10, with Type selected, the hint Enter for paragraph, Tab for poetry, the typed verses 9 and 10, and Save section and Cancel. The card is as tall as the source passage beside it."
+}

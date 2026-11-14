@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Community Checking preview · translationCore 4 Help",
+  "32f4bed68332": "Use it to read the book as a whole, or to read it aloud with your community.",
+  "f407ab1cd68e": "Preview and export",
+  "dcc507361ac5": "Click <span class=\"ui\">Check</span>, then <span class=\"ui\">Open →</span> on the <span class=\"ui\">Community Checking</span> card.",
+  "95eb586f7dfe": "Scroll the preview. Verses that are not drafted yet show as \"[ verse not yet drafted ]\".",
+  "f283b735ac27": "In <span class=\"ui\">Page setup</span>, choose <span class=\"ui\">Columns</span> (1 or 2), <span class=\"ui\">Spacing</span> (<span class=\"ui\">Single</span> or <span class=\"ui\">Double</span>) and <span class=\"ui\">Paper size</span> (<span class=\"ui\">A4</span> or <span class=\"ui\">Letter</span>). Turn <span class=\"ui\">Drop-cap chapters</span> and <span class=\"ui\">Verse numbers</span> on or off.",
+  "66a07da4a05a": "Click <span class=\"ui\">Export</span> to save a copy. See <a href=\"bp-export-pdf\">Export a book as PDF</a>, <a href=\"bp-export-usfm\">Export a book as USFM</a> and <a href=\"bp-export-burrito\">Export a project as a Scripture Burrito</a>.",
+  "a95f2176183a": "To go back, click <span class=\"ui\">← All checking tools</span>.",
+  "d80f07c55306": "<span class=\"ui\">Double</span> spacing leaves room for reviewers to write between the lines.",
+  "e161f48410c3": "The page setup changes only the preview and the export, not your translation.",
+  "1913f785b5a4": "With <span class=\"ui\">Drop-cap chapters</span> on, the large chapter number starts verse 1, so verse 1 has no small number of its own. Turn drop caps off to show it.",
+  "df1ceace7eba": "translationCore does not keep the page setup when you leave this screen. Set it again before you export.",
+  "d19d1de53268": "<span class=\"ui\">Footnotes</span> is greyed out and cannot be turned on yet.",
+  "79ce1f17e1a6": "Community Checking for Titus. Labels point to the large chapter number (drop cap) with no small verse 1 number beside it, the book title, All checking tools, Export, the page preview, the verses not yet drafted, Page setup and the Incomplete draft note."
+}

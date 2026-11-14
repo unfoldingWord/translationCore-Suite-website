@@ -4,7 +4,7 @@
 //    built file behind it
 //  - an internal link or image (href/src) on any built page does not resolve
 //    — including the /tc-help/ pages' own relative links
-//  - a /tc-help/ page, the help sitemap or /llms.txt links a help page with
+//  - a help page (/tc-help/, /{lang}/tc-help/), the help sitemap or /llms.txt links a help page with
 //    its .html extension (Cloudflare Pages 308-redirects /x.html to /x, so
 //    such a link costs every visitor a redirect and splits the URL)
 //  - a page has no <h1>, more than one, or a canonical that is not its own URL
@@ -66,8 +66,13 @@ const canonicals = new Map();
 for (const f of htmlFiles) {
   const path = rel(f);
   const html = readFileSync(f, 'utf8');
-  const isHelp = path.startsWith('/tc-help/');
-  const pageUrl = path.endsWith('/index.html') ? path.slice(0, -'index.html'.length) : path;
+  const isHelp = /^\/([a-z]{2}\/)?tc-help\//.test(path);
+  // Help pages are served extensionless (/tc-help/gs-install for gs-install.html).
+  const pageUrl = path.endsWith('/index.html')
+    ? path.slice(0, -'index.html'.length)
+    : isHelp
+      ? path.slice(0, -'.html'.length)
+      : path;
 
   // Internal links and images. tc-help pages use relative links.
   for (const m of html.matchAll(/\s(?:href|src)="([^"]+)"/g)) {
@@ -83,7 +88,12 @@ for (const f of htmlFiles) {
     if (!resolves(m[1]) && !redirectSources.has(m[1])) err(`${path}: absolute link ${m[0]} does not resolve`);
   }
 
-  if (isHelp || path === '/404.html' || path === '/404/index.html') continue;
+  if (path === '/404.html' || path === '/404/index.html') continue;
+  // The help's search results page is noindex: no canonical, no hreflang.
+  if (isHelp && /\/search\.html$/.test(path)) {
+    if (!html.includes('<meta name="robots" content="noindex">')) err(`${path}: help search page is not noindex`);
+    continue;
+  }
   const h1s = (html.match(/<h1[\s>]/g) || []).length;
   if (h1s !== 1) err(`${path}: ${h1s} <h1> elements (want exactly 1)`);
   const canonical = html.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
