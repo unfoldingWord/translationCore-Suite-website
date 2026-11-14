@@ -17,25 +17,29 @@
 .help-lang a[aria-current="true"] { font-weight: 700; color: #014263; }
 @media (max-width: 720px) { .help-lang summary span { display: none; } .help-lang summary { padding: 6px 8px; } }
 
-/* Scripts Avenir/system-ui may not cover well: the same self-hosted Noto
- * packs as the rest of the site (public/assets/fonts/{script}.css). */
-html[data-script="arabic"] body, html[data-script="arabic"] :root { font-family: 'Noto Sans Arabic', system-ui, sans-serif; }
-html[data-script="nastaliq"] body { font-family: 'Noto Nastaliq Urdu', 'Noto Sans Arabic', system-ui, serif; line-height: 2.1; }
-html[data-script="devanagari"] body { font-family: 'Noto Sans Devanagari', system-ui, sans-serif; }
-html[data-script="bengali"] body { font-family: 'Noto Sans Bengali', system-ui, sans-serif; }
-html[data-script="myanmar"] body { font-family: 'Noto Sans Myanmar', system-ui, sans-serif; line-height: 1.9; }
-html[data-script="han"] body { font-family: 'Noto Sans SC', system-ui, sans-serif; }
+/* Scripts the help's system-ui stack may not cover or shape well: the same
+ * self-hosted Noto packs as the rest of the site (public/assets/fonts/{script}.css).
+ * Every element, not just body: style.css gives the sidebar, cards and the
+ * Contents rail their own UI font, and form fields never inherit one, and an
+ * unshaped fallback breaks Burmese, Bengali and Nastaliq apart. Code and the
+ * translationCore wordmark stay in their own faces. */
+html[data-script="arabic"] :is(body, body *:not(code, code *, .brand, .brand *)) { font-family: 'Noto Sans Arabic', system-ui, sans-serif; letter-spacing: normal; }
+html[data-script="nastaliq"] :is(body, body *:not(code, code *, .brand, .brand *)) { font-family: 'Noto Nastaliq Urdu', 'Noto Sans Arabic', system-ui, serif; letter-spacing: normal; }
+html[data-script="devanagari"] :is(body, body *:not(code, code *, .brand, .brand *)) { font-family: 'Noto Sans Devanagari', system-ui, sans-serif; letter-spacing: normal; }
+html[data-script="bengali"] :is(body, body *:not(code, code *, .brand, .brand *)) { font-family: 'Noto Sans Bengali', system-ui, sans-serif; letter-spacing: normal; }
+html[data-script="myanmar"] :is(body, body *:not(code, code *, .brand, .brand *)) { font-family: 'Noto Sans Myanmar', system-ui, sans-serif; letter-spacing: normal; }
+html[data-script="han"] :is(body, body *:not(code, code *, .brand, .brand *)) { font-family: 'Noto Sans SC', system-ui, sans-serif; letter-spacing: normal; }
+html[data-script="nastaliq"] body { line-height: 2.1; }
+html[data-script="myanmar"] body { line-height: 1.9; }
 html[data-script="nastaliq"] .content h1, html[data-script="nastaliq"] .content h2, html[data-script="nastaliq"] .content h3 { line-height: 1.8; }
 html[data-script="myanmar"] .content h1, html[data-script="myanmar"] .content h2, html[data-script="myanmar"] .content h3 { line-height: 1.6; }
-/* The sidebar, cards and Contents rail set their own UI font; follow the script. */
-html[data-script="arabic"] .sidebar, html[data-script="arabic"] .page-toc, html[data-script="arabic"] .card, html[data-script="arabic"] .brand-text { font-family: 'Noto Sans Arabic', system-ui, sans-serif; }
-html[data-script="nastaliq"] .sidebar, html[data-script="nastaliq"] .page-toc, html[data-script="nastaliq"] .card, html[data-script="nastaliq"] .brand-text { font-family: 'Noto Nastaliq Urdu', 'Noto Sans Arabic', system-ui, serif; }
-html[data-script="devanagari"] .sidebar, html[data-script="devanagari"] .page-toc, html[data-script="devanagari"] .card, html[data-script="devanagari"] .brand-text { font-family: 'Noto Sans Devanagari', system-ui, sans-serif; }
-html[data-script="bengali"] .sidebar, html[data-script="bengali"] .page-toc, html[data-script="bengali"] .card, html[data-script="bengali"] .brand-text { font-family: 'Noto Sans Bengali', system-ui, sans-serif; }
-html[data-script="myanmar"] .sidebar, html[data-script="myanmar"] .page-toc, html[data-script="myanmar"] .card, html[data-script="myanmar"] .brand-text { font-family: 'Noto Sans Myanmar', system-ui, sans-serif; }
-html[data-script="han"] .sidebar, html[data-script="han"] .page-toc, html[data-script="han"] .card, html[data-script="han"] .brand-text { font-family: 'Noto Sans SC', system-ui, sans-serif; }
-/* Code, file names and the wordmark stay Latin. */
-html[data-script] code { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+/* The help's own label, next to the wordmark, follows the script. */
+html[data-script="arabic"] .brand-text { font-family: 'Noto Sans Arabic', system-ui, sans-serif; }
+html[data-script="nastaliq"] .brand-text { font-family: 'Noto Nastaliq Urdu', 'Noto Sans Arabic', system-ui, serif; }
+html[data-script="devanagari"] .brand-text { font-family: 'Noto Sans Devanagari', system-ui, sans-serif; }
+html[data-script="bengali"] .brand-text { font-family: 'Noto Sans Bengali', system-ui, sans-serif; }
+html[data-script="myanmar"] .brand-text { font-family: 'Noto Sans Myanmar', system-ui, sans-serif; }
+html[data-script="han"] .brand-text { font-family: 'Noto Sans SC', system-ui, sans-serif; }
 
 /* Right-to-left (ar, fa, ur). Flex rows already follow dir; these are the
  * physical left/right rules in style.css that need mirroring. */
