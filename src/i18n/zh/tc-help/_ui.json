@@ -1,0 +1,9 @@
+{
+  "language": "语言",
+  "onThisPage": "本页内容",
+  "noResults": "没有与“{query}”相符的主题。请换个词试试，例如“对齐”“检查”“故事”或“离线”。",
+  "seeAll": "查看全部结果 →",
+  "resultsOne": "“{query}”有 1 个相关主题",
+  "resultsMany": "“{query}”有 {count} 个相关主题",
+  "searchPrompt": "输入一两个词，例如“对齐”“书签”或“节范围”。"
+}

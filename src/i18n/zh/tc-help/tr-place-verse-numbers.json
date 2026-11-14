@@ -1,0 +1,17 @@
+{
+  "4376ec103233": "放置节号 · translationCore 4 帮助",
+  "5eca11c21193": "输入一个段落后，先点击每个节号，再点击该节开始的那个词。",
+  "dbe8b6820c98": "每个节号都是一个橙色的小标记，尚未放置的节号会在 <span class=\"ui\">To place</span> 框中等待。",
+  "0ebe78d1b672": "在段落编辑器中，点击 <span class=\"ui\">Place verse numbers</span>。",
+  "3b3fea276e32": "点击 <span class=\"ui\">To place</span> 框 (1) 中的一个节号。框中会显示“Click a verse number, then click the word that begins the verse.”（点击一个节号，再点击该节开始的词。）",
+  "0f18a5341cd8": "这时框中显示“Click the word where verse 10 begins”（点击第 10 节开始的词）。请在文字中点击那个词。",
+  "d02dd9bad9b1": "对每个节号重复以上操作，然后点击 <span class=\"ui\">Save section</span>。",
+  "cb344d0f23be": "要回到输入状态，请点击 <span class=\"ui\">Type</span>。已放置的节号会被保留。<span class=\"ui\">Cancel</span> 会不保存就关闭编辑器。",
+  "ca6abd1aaedf": "要移动已放置的节号，请在文字中点击它，然后点击另一个词。",
+  "42739399ed72": "如果节号一点击就落在了附近的词上，请再点击它一次，然后点击正确的词。",
+  "fac2a16d248a": "当你点击已放置的节号时，框中仍显示“Every verse is placed. Click a verse number to move where its verse begins.”（每一节都已放置。点击节号可以移动该节的起始位置。）请按照它下面那一行的提示操作：“Click the word where verse 10 begins”。",
+  "0ab63b894abe": "节号不能越过另一个节号，段落的第一个节号也不能移动。",
+  "62b7e7cf49e0": "把一个节号放在另一节开始的词上，会把它们合并成节范围。请参阅<a href=\"tr-verse-spans\">合并或拆分节范围</a>。",
+  "ddaf79c7ea52": "提多书 2:9–10 的 Place verse numbers 模式。第 9 节固定在文字开头，节号 10 在 To place 框中等待（标为 1），并显示提示 Click a verse number, then click the word that begins the verse.",
+  "a22a81f22a81": "点击 10 之后的同一段落：To place 框显示 Click the word where verse 10 begins。"
+}

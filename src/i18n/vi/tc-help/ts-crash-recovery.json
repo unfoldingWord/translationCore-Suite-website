@@ -1,0 +1,15 @@
+{
+  "fd7bfead716f": "Nếu ứng dụng bị đóng đột ngột hoặc cửa sổ bị trống · Trợ giúp translationCore 4",
+  "55b76d8a66e8": "tC4 ghi lại từng bước làm thay đổi dự án. Nếu ứng dụng dừng giữa chừng một bước, nó sẽ hoàn tất hoặc dọn dẹp bước đó ở lần khởi động tiếp theo, nên không có dự án nào bị hỏng.",
+  "78bd5ab8337d": "Nếu cửa sổ bị trống hoặc không phản hồi",
+  "87388e67fa24": "Mở trình đơn <strong>Window</strong> và nhấp <strong>Reload</strong>, hoặc nhấn Ctrl+R.",
+  "b5fd05422653": "tC4 mở lại ở Trang chủ. Hãy mở lại dự án của bạn.",
+  "699657357b3c": "Nếu bạn thấy \"Không thể hiển thị màn hình này.\", hãy nhấp <strong>Quay lại Trang chủ</strong>, rồi mở lại dự án.",
+  "3ab37d80c428": "Nếu tC4 đã bị đóng",
+  "a09dba536852": "Khởi động lại tC4.",
+  "8b0d89d59a34": "Kiểm tra xem các dự án của bạn có trên Trang chủ không.",
+  "e0c604da4f04": "Nếu việc nhập bị gián đoạn, hãy nhập lại tệp đó.",
+  "f38932ff0291": "Reload đưa bạn về Trang chủ. Các dự án của bạn vẫn còn đó.",
+  "814d83120c04": "<strong>Toggle Developer Tools</strong> dành cho nhà phát triển. Bạn không cần dùng.",
+  "b55e6bd5d484": "Trình đơn Window của ứng dụng máy tính, với Reload Ctrl+R, Force Reload Ctrl+Shift+R và Toggle Developer Tools Ctrl+Shift+I."
+}

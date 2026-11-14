@@ -1,0 +1,16 @@
+{
+  "a7446f300ed7": "添加书卷 · translationCore 4 帮助",
+  "173d4fc7a677": "英文起草源文本随 tC4 一起提供，所以不联网也可以开始。",
+  "04693dee9eda": "在主页上，点击项目卡片上的 <span class=\"ui\">Add a book</span> 图块。",
+  "fc9747845e76": "点击 <span class=\"ui\">Start a blank book</span>。",
+  "02fed80d8af4": "在 <span class=\"ui\">Book</span> 列表 (1) 中选择书卷。",
+  "c370b74c248f": "要添加多卷书，请点击 <span class=\"ui\">Choose several at once →</span> (2)，然后逐一点击各卷书。<span class=\"ui\">Pick one book →</span> 会回到列表。",
+  "68a890a39a9a": "点击 <span class=\"ui\">Create book</span> (3) 或 <span class=\"ui\">Create {n} books</span>。",
+  "d73766911c3a": "新书卷会在 <span class=\"ui\">Understand</span> 中的第 1 章打开，让你可以先阅读经文及其辅助资源。",
+  "39992d6bf57a": "要取消，请点击 <span class=\"ui\">← Back</span> 或 ✕。不会添加任何内容。",
+  "6066ccda969f": "已经在项目中的书卷会显示 ✓，不能再次选择。",
+  "b64ffcaf8616": "第一步还提供 <span class=\"ui\">Add books from USFM files</span>：“Choose one or more USFM files. Each file becomes a book, with the file's text as its draft.”（选择一个或多个 USFM 文件。每个文件会成为一卷书，文件中的文字就是它的草稿。）",
+  "afa1bbefd65b": "可以先用较短的书卷练习，例如提多书、腓利门书或约翰三书。",
+  "27dbafdecdc9": "目前还不能起草书卷导言，也还不能移除书卷。",
+  "d5b73d148408": "Sample Titus 的 Add a book 对话框，处于选择书卷的步骤。Book 列表 (1) 显示 Genesis GEN，下面是 Choose several at once → (2)、一行 Drafting sources: unfoldingWord ULT + UST v91 — installed with the app（起草源文本：unfoldingWord ULT + UST v91，随应用安装），以及 ← Back 和 Create book (3)。"
+}

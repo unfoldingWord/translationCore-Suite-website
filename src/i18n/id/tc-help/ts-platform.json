@@ -1,0 +1,11 @@
+{
+  "27ac6039a7a9": "Catatan Windows, macOS, dan Linux · Bantuan translationCore 4",
+  "d0c7ab9751d6": "Versi uji belum ditandatangani, jadi sistem Anda mungkin memberi peringatan saat pertama kali.",
+  "ed98f85183a9": "Yang perlu diperhatikan",
+  "20db2dc87caf": "SmartScreen mungkin memberi peringatan: klik <strong>Info selengkapnya › Tetap jalankan</strong>. Anda mungkin memerlukan Microsoft Visual C++ runtime. Ekspor USFM biasa mungkin tidak terunduh.",
+  "50d2cfa2722c": "Saat pertama kali, buka <strong>Pengaturan Sistem › Privasi &amp; Keamanan</strong> lalu klik <strong>Tetap Buka</strong>. Keluar dari tC4 sebelum Anda memasang versi lain.",
+  "3520c5b035eb": "Ekstrak file zip lalu jalankan <code>start-tc4.sh</code>.",
+  "6dbabc36f7bd": "Ikuti <a href=\"gs-install\">Pasang dan mulai tC4</a>.",
+  "58fdb41bf2e3": "Jika sistem Anda memblokirnya, ikuti langkah \"tetap buka\" di atas.",
+  "59ed570323af": "Jalankan hanya satu salinan tC4 pada satu waktu."
+}

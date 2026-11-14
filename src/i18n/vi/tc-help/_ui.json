@@ -1,0 +1,9 @@
+{
+  "language": "Ngôn ngữ",
+  "onThisPage": "Trên trang này",
+  "noResults": "Không có chủ đề nào khớp với “{query}”. Hãy thử từ khác, chẳng hạn căn chỉnh, kiểm tra, câu chuyện hoặc ngoại tuyến.",
+  "seeAll": "Xem tất cả kết quả →",
+  "resultsOne": "1 chủ đề cho “{query}”",
+  "resultsMany": "{count} chủ đề cho “{query}”",
+  "searchPrompt": "Gõ một hai từ, chẳng hạn “căn chỉnh”, “đánh dấu” hoặc “nhóm câu”."
+}

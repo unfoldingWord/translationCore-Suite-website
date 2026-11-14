@@ -1,0 +1,20 @@
+{
+  "92833ce9e8b2": "Cambiar el idioma de revisión · Ayuda de translationCore 4",
+  "68427c9028dd": "Las revisiones usan las notas y los artículos de palabras de un solo idioma puente.",
+  "5aa71e16aef1": "Si el idioma todavía no aparece en la lista, descárguelo primero. Vea <a href=\"rs-source-texts\">Descargar textos fuente</a>.",
+  "c03214fc86f3": "En <span class=\"ui\">Idioma de revisión</span>, haga clic en el idioma que quiere. El idioma actual está marcado como <span class=\"ui\">Actual</span> (1).",
+  "379f666918d8": "Lea la confirmación. Dice cuántas decisiones se conservan y cuántas vuelven como trabajo pendiente.",
+  "42260194b915": "Haga clic en \"Cambiar a …\" para confirmar. Ahora el nuevo idioma está marcado como <span class=\"ui\">Actual</span>.",
+  "ea856a88e0c5": "Para cancelar, haga clic en \"Conservar …\" en la confirmación.",
+  "79bd6b234469": "Para que el idioma esté completo, también se necesitan los <strong>enlaces de Palabras de traducción</strong> (<code>_twl</code>) cuando ese idioma los publica. Descargue el paquete para que se instalen los enlaces (Links); para esos idiomas, la aplicación no usa los enlaces en inglés como alternativa.",
+  "252b7ea72f2c": "Algunas organizaciones de idiomas puente publican palabras, pero no un repositorio de enlaces (Links). Para esos idiomas, las revisiones usan la lista de enlaces en <strong>inglés</strong> con los artículos de palabras de ese idioma. Pueden aparecer dos filas de árabe: elija la organización que aparece debajo del idioma.",
+  "4f43d14a1c34": "Después de cambiar de idioma, los elementos de Palabras de traducción se vuelven a crear a partir de la nueva versión fijada de los enlaces. Las decisiones se conservan solo cuando la misma revisión todavía existe.",
+  "589e7d510f4b": "El idioma que ya se usa para revisar no se vuelve a ofrecer como nueva opción.",
+  "15bd0b9b5396": "Cuando tC4 le pide confirmar un cambio de idioma de revisión, los dos botones aparecen uno al lado del otro.",
+  "736157ec9cf8": "Una decisión se conserva solo cuando las nuevas notas tienen la misma revisión sobre las mismas palabras. Las notas en otro idioma a menudo se dividen de otra manera, así que es posible que se conserven pocas. Eso es normal.",
+  "65e0f34827da": "No se elimina nada. Las decisiones que no se conservan dejan de contar, y esas revisiones vuelven como Pendiente. Un libro terminado puede dejar de estar terminado.",
+  "1a41374668d3": "El conjunto del idioma debe estar completo: notas, palabras y academia.",
+  "393c252ea8a7": "La confirmación nombra cada idioma como aparece en la lista, por ejemplo \"Español (Latinoamérica)\". Cuando dos paquetes tienen el mismo nombre, como las dos filas de Français, cada uno también nombra a su dueño.",
+  "2431cd8e2c7a": "La parte Idioma de revisión de la Configuración del proyecto: Este proyecto revisa en English · unfoldingWord., la fila de English marcada como ACTUAL (1), y Administrar textos fuente →.",
+  "6f7c4d536d9a": "La confirmación: ¿Cambiar el idioma de revisión a English? 4 decisiones de Tito se tomaron con las notas que está dejando. Tito · Palabras de traducción: 2 conservadas, 0 por revisar de nuevo. Tito · Notas de traducción: 0 conservadas, 1 por revisar de nuevo. Conservar Español (Latinoamérica) y Cambiar a English."
+}

@@ -1,0 +1,17 @@
+{
+  "a96d11edfa6b": "Mengekspor kitab sebagai USFM (diselaraskan atau teks biasa) · Bantuan translationCore 4",
+  "f94a9df0cb10": "USFM adalah format teks standar untuk terjemahan Alkitab.",
+  "1e94ef8ceb99": "Klik <span class=\"ui\">Ekspor</span> (1), lalu <span class=\"ui\">USFM, diselaraskan</span> (2) atau <span class=\"ui\">USFM, teks biasa</span>.",
+  "f9b0a11478e5": "Yang mana?",
+  "db946efab3d8": "<strong><span class=\"ui\">USFM, diselaraskan</span></strong> menyertakan tautan Anda ke bahasa asli, untuk alat yang dapat membaca penyelarasan. Selaraskan ayat-ayatnya terlebih dahulu. Lihat <a href=\"al-link-words\">Menautkan kata-kata Anda ke sumber</a>.",
+  "dd38b1bfdf16": "<strong><span class=\"ui\">USFM, teks biasa</span></strong> hanya berisi teks Anda.",
+  "53ede8bc7c3b": "Proyek Anda tidak berubah.",
+  "ffb0917a26ef": "Gabungan ayat ditulis sebagai satu ayat, misalnya <code>\\v 2-3</code>.",
+  "1b8ddfde1a2c": "Ayat yang belum didraf ditulis sebagai <code>___</code>.",
+  "46717a73e9ca": "Baris-baris kepala (<code>\\h</code>, <code>\\toc1</code>–<code>\\toc3</code>, <code>\\mt</code>) berisi kode kitab, seperti <code>TIT</code>, bukan nama kitab. Sunting baris-baris itu jika program lain membutuhkan namanya.",
+  "1d6a4dcee725": "<span class=\"ui\">USFM, diselaraskan</span> menulis penyelarasan setiap ayat yang penyelarasannya masih sesuai. Ayat yang perlu ditinjau ditulis tanpa penyelarasannya, dan panel menampilkan <strong>Penyelarasan Anda untuk ayat-ayat ini tidak ada di berkas</strong> beserta daftarnya. Tinjau ayat-ayat itu di Selaraskan, lalu ekspor lagi. Ekspor berikutnya menghapus pesan itu.",
+  "8e797de8362c": "Ayat yang Anda impor beserta penyelarasannya ditulis persis seperti saat diimpor.",
+  "d7ba70e5d6d8": "<span class=\"ui\">USFM, teks biasa</span> dan PDF tidak pernah menyertakan penyelarasan, jadi pesan ini tidak pernah muncul untuk keduanya.",
+  "44afc7d304ce": "Menyimpan di atas file yang sudah ada akan menggantinya tanpa bertanya. Pilih nama file baru jika Anda ingin menyimpan file lama.",
+  "caf999f3879c": "Pemeriksaan Komunitas dengan menu Ekspor terbuka. Ekspor bertanda 1, dan USFM, diselaraskan bertanda 2; USFM, teks biasa ada tepat di bawahnya."
+}

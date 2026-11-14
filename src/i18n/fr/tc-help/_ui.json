@@ -1,0 +1,9 @@
+{
+  "language": "Langue",
+  "onThisPage": "Sur cette page",
+  "noResults": "Aucun sujet ne correspond à « {query} ». Essayez un autre mot, comme aligner, vérifier, histoire ou hors ligne.",
+  "seeAll": "Voir tous les résultats →",
+  "resultsOne": "1 sujet pour « {query} »",
+  "resultsMany": "{count} sujets pour « {query} »",
+  "searchPrompt": "Tapez un ou deux mots, comme « aligner », « marquer » ou « plage de versets »."
+}

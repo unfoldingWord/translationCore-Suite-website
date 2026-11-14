@@ -1,0 +1,13 @@
+{
+  "4b6a6a014b40": "Khi lưu thất bại · Trợ giúp translationCore 4",
+  "747f2583a77a": "Chỉ báo ở góc trên bên phải hiển thị <span class=\"ui\">Đã lưu</span>, <span class=\"ui\">Đang lưu…</span>, <span class=\"ui\">Thay đổi chưa lưu</span> hoặc <span class=\"ui\">Lưu thất bại — thử lại</span>.",
+  "e3580bd75749": "Nếu bạn thấy <span class=\"ui\">Lưu thất bại — thử lại</span>, hãy nhấp <span class=\"ui\">Thử lại</span> một lần và chờ.",
+  "2d40c64dbf9d": "Nếu vẫn thất bại, hãy ở lại màn hình đó. Việc chuyển sang chế độ khác có thể bị từ chối cho đến khi lưu được.",
+  "2fd17609c503": "Nếu bạn cố đóng tC4 khi còn thay đổi chưa lưu, ứng dụng sẽ cảnh báo bạn. Hãy ở lại và thử <span class=\"ui\">Thử lại</span> lần nữa.",
+  "8e2daa28aeb0": "Nếu vẫn tiếp tục thất bại, hãy ghi lại thông báo và yêu cầu trợ giúp.",
+  "893b07b094b5": "Nhấp <span class=\"ui\">Thử lại</span> nhiều lần không giúp được gì. Ứng dụng chỉ thử từng lần một.",
+  "9e57e0b22b6f": "Trong một dự án đã nhập, việc viết văn bản đầu tiên vào một câu trống có thể lần nào cũng không lưu được. Thử lại sẽ không khắc phục được. Hãy sao chép văn bản của bạn ra một nơi an toàn trước khi đóng tC4, vì câu đó sẽ trở lại trống. Việc hủy một câu như vậy sau khi gõ cũng có thể hiện cùng thông báo đó.",
+  "e5f60e2765f9": "<span class=\"ui\">← Tất cả công cụ kiểm tra</span> vẫn hoạt động khi đang hiện sự cố lưu.",
+  "f7028df78512": "Nếu thông báo bên dưới chỉ báo lưu ghi <strong>Dự án này đã được đồng bộ, nên ứng dụng phải mở lại nó</strong>, hãy nhấp Trang chủ, mở lại dự án và thực hiện lại thay đổi cuối cùng của bạn. Trong trường hợp đó, Thử lại sẽ không giúp được. Xem <a href=\"ts-protect-messages\">Các thông báo bảo vệ dự án của bạn</a>.",
+  "978fdc3be81d": "Chỉ báo lưu ở góc trên bên phải hiển thị Lưu thất bại — thử lại, với nút Thử lại."
+}

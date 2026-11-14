@@ -1,0 +1,12 @@
+{
+  "edd47bb7e4f9": "打开书卷并在各章之间切换 · translationCore 4 帮助",
+  "fdb82b951699": "每卷书都会记住你的位置，所以点击图块会带你回到同一个地方。",
+  "b16fa3cca459": "在主页上，点击一个书卷图块，例如 <strong>Titus</strong>（提多书）。第一次打开的书卷会从 <span class=\"ui\">Understand</span> 开始。",
+  "7b7e47110214": "在左侧列表中，点击一个章号 (1)。",
+  "74919cd500b9": "要打开项目中的另一卷书，请在列表中点击它的名称。",
+  "f239a66142ac": "如果列表被隐藏，请点击章标题旁边的 <span class=\"ui\">Toggle book list</span> 按钮 (2)。",
+  "2edac6f378f7": "文字上方的标题（例如“Titus 1”）告诉你当前所在的位置。",
+  "c291b52a763a": "每卷书下方的百分比显示该书卷已起草的比例。",
+  "30ab5b145470": "大型项目在 tC4 读取已保存的工作时，可能会短暂显示 <span class=\"ui\">Opening the project…</span>。",
+  "827f1fb0ec0f": "Sample Titus 的翻译模式。左侧书卷列表显示 Titus 为 20%，有第 1、2、3 章；第 1 章标为 1。Titus 1 标题旁边的 Toggle book list 按钮标为 2。"
+}

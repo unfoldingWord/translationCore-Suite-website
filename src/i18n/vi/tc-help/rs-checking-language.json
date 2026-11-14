@@ -1,0 +1,20 @@
+{
+  "92833ce9e8b2": "Đổi ngôn ngữ kiểm tra · Trợ giúp translationCore 4",
+  "68427c9028dd": "Việc kiểm tra dùng ghi chú và bài viết từ ngữ của một ngôn ngữ cầu nối.",
+  "5aa71e16aef1": "Nếu ngôn ngữ đó chưa có trong danh sách, hãy tải xuống trước. Xem <a href=\"rs-source-texts\">Tải xuống văn bản nguồn</a>.",
+  "c03214fc86f3": "Dưới <span class=\"ui\">Ngôn ngữ kiểm tra</span>, nhấp vào ngôn ngữ bạn muốn. Ngôn ngữ đang dùng được đánh dấu <span class=\"ui\">Hiện tại</span> (1).",
+  "379f666918d8": "Đọc lời xác nhận. Lời xác nhận cho biết có bao nhiêu quyết định được chuyển sang và bao nhiêu mục trở thành việc cần làm.",
+  "42260194b915": "Nhấp \"Đổi sang …\" để xác nhận. Ngôn ngữ mới lúc này được đánh dấu <span class=\"ui\">Hiện tại</span>.",
+  "ea856a88e0c5": "Để hủy, nhấp \"Giữ …\" trong lời xác nhận.",
+  "79bd6b234469": "Một bộ ngôn ngữ đầy đủ bao gồm cả <strong>Liên kết Từ ngữ dịch thuật</strong> (<code>_twl</code>) khi ngôn ngữ đó có phát hành. Hãy tải gói xuống để cài đặt Liên kết; với những ngôn ngữ đó, ứng dụng không dùng Liên kết tiếng Anh thay thế.",
+  "252b7ea72f2c": "Một vài tổ chức ngôn ngữ cầu nối phát hành từ ngữ nhưng không có kho Liên kết. Với những ngôn ngữ này, việc kiểm tra dùng danh sách Liên kết <strong>tiếng Anh</strong> với các bài viết từ ngữ của ngôn ngữ đó. Có thể xuất hiện hai hàng tiếng Ả Rập: hãy chọn tổ chức được ghi dưới tên ngôn ngữ.",
+  "4f43d14a1c34": "Sau khi bạn đổi ngôn ngữ, các mục Từ ngữ dịch thuật được tạo lại từ ghim Liên kết mới. Các quyết định chỉ được chuyển sang khi cùng một mục kiểm tra vẫn còn tồn tại.",
+  "589e7d510f4b": "Ngôn ngữ đang dùng để kiểm tra sẽ không được đề xuất lại như một lựa chọn mới.",
+  "15bd0b9b5396": "Khi tC4 yêu cầu bạn xác nhận việc đổi ngôn ngữ kiểm tra, hai nút hành động nằm cạnh nhau.",
+  "736157ec9cf8": "Một quyết định chỉ được chuyển sang khi ghi chú mới có cùng mục kiểm tra trên cùng các từ. Ghi chú bằng ngôn ngữ khác thường được chia theo cách khác, nên có thể chỉ ít quyết định được chuyển sang. Đó là điều bình thường.",
+  "65e0f34827da": "Không có gì bị xóa. Các quyết định không được chuyển sang sẽ không còn được tính, và các mục kiểm tra đó trở lại thành Cần làm. Một sách đã hoàn tất có thể không còn hoàn tất nữa.",
+  "1a41374668d3": "Bộ ngôn ngữ phải đầy đủ: ghi chú, từ ngữ và học viện.",
+  "393c252ea8a7": "Lời xác nhận ghi tên mỗi ngôn ngữ giống như trong danh sách, ví dụ \"Español (Latinoamérica)\". Khi hai gói có cùng tên, như hai hàng Français, mỗi gói cũng ghi tên chủ sở hữu.",
+  "2431cd8e2c7a": "Phần Ngôn ngữ kiểm tra trong Cài đặt dự án: Dự án này kiểm tra bằng English · unfoldingWord., hàng English được đánh dấu HIỆN TẠI (1), và Quản lý văn bản nguồn →.",
+  "6f7c4d536d9a": "Lời xác nhận: Đổi ngôn ngữ kiểm tra sang English? 4 quyết định trong sách Tít đã được đưa ra dựa trên ghi chú bạn sắp rời khỏi. Tít · Từ ngữ dịch thuật: 2 được chuyển tiếp, 0 cần kiểm tra lại. Tít · Ghi chú dịch thuật: 0 được chuyển tiếp, 1 cần kiểm tra lại. Giữ Español (Latinoamérica), và Đổi sang English."
+}

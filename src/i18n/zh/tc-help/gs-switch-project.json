@@ -1,0 +1,9 @@
+{
+  "ecfc708977e6": "切换项目或返回主页 · translationCore 4 帮助",
+  "fdcdcd76e3fc": "左上角始终显示当前打开的项目，包括它的首字母缩写、名称和语言代码。",
+  "35b12d46a060": "打开项目后，点击左上角的项目名称。它的提示文字是 <span class=\"ui\">Switch project</span>。",
+  "8fcfcb55f641": "主页会打开。如果你有任何改动，tC4 会在你离开时保存一个检查点。",
+  "97b1e2fff1e4": "点击任意项目中的书卷或故事图块即可打开。",
+  "8c84eb16c1b2": "要切换到同一项目中的另一卷书，不需要回到主页：使用 <span class=\"ui\">Translate</span> 或 <span class=\"ui\">Understand</span> 左侧的书卷列表即可。请参阅<a href=\"bp-open-book\">打开书卷并在各章之间切换</a>。",
+  "3b85d755e10f": "顶部栏左侧：translationCore 标志，以及项目按钮，上面有首字母缩写 ST、名称 Sample Titus 和语言代码 es。"
+}

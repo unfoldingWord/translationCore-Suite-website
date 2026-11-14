@@ -1,0 +1,12 @@
+{
+  "144d61aa04df": "更新锁定的辅助资源 · translationCore 4 帮助",
+  "ecd3d1db71ca": "项目会保留它开始时所用的确切版本，使检查保持稳定。是否更新始终由你决定。",
+  "259052d9165e": "每一组资源会显示 <span class=\"ui\">✓ Up to date</span>（已是最新），或显示“Upgrade N resource(s)”（升级 N 个资源）并列出每项更改，例如 <code>en_tn v86 → v91</code>。",
+  "b84f82f5c6bd": "点击“Upgrade N resource(s)”，阅读确认信息，然后点击 <span class=\"ui\">Upgrade</span>。",
+  "0be217637c39": "要取消，请点击 <span class=\"ui\">Keep the current release</span>（保留当前版本）。",
+  "b49d3f3e0d3c": "与新版本中某项检查相匹配的决定会被保留。其余的会重新变成待做的工作。不会删除任何内容。",
+  "c91781710cf1": "新项目已经在使用应用自带的辅助资源，所以会显示 <span class=\"ui\">✓ Up to date</span>。",
+  "43e6b4d60747": "使用其他语言检查的项目，会把该语言列为主要资源组，把英文列为后备资源组。",
+  "55378d00e458": "tC4 不会自行检查更新。",
+  "c26d654cec50": "对一个用较旧辅助资源创建的项目点击 Check for updates 之后：Primary set · en（主要资源组）和 Fallback set · en（后备资源组）都提供 Upgrade 4 resource(s)：en_tn v86 → v91、en_tw v87 → v91、en_ta v86 → v91、en_tq v89 → v91。下方是经文文本。"
+}

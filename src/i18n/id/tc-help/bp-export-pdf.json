@@ -1,0 +1,11 @@
+{
+  "4720b0d24d63": "Mengekspor kitab sebagai PDF · Bantuan translationCore 4",
+  "2798a01adbaa": "Nama file memuat kode kitab dan tanggal hari ini.",
+  "296c22d5869b": "Opsional: atur tata letak halaman (ukuran kertas, kolom, spasi). Lihat <a href=\"ck-community-checking\">Pratinjau Pemeriksaan Komunitas dan tata letak halaman</a>.",
+  "2cab4f333825": "Klik <span class=\"ui\">Ekspor</span> (1), lalu <span class=\"ui\">Ekspor PDF</span> (2).",
+  "f12ec931faa5": "Ayat yang belum didraf dicetak sebagai \"[ ayat belum didraf ]\". Pasal yang belum didraf di awal atau di akhir tidak disertakan.",
+  "5febb95ab85f": "Jika belum ada yang didraf di kitab itu, tC4 memberi tahu Anda dan tidak membuat file.",
+  "7fb34b0c18d9": "Ukuran kertas dan spasi tidak diingat. Atur setiap kali Anda mengekspor.",
+  "86f68bd349db": "Catatan kaki belum dicetak.",
+  "282716ae7eab": "Pemeriksaan Komunitas dengan menu Ekspor terbuka. Ekspor bertanda 1, dan Ekspor PDF, pilihan pertama, bertanda 2. Pilihan lainnya adalah USFM, diselaraskan, USFM, teks biasa, dan Scripture Burrito (.zip)."
+}

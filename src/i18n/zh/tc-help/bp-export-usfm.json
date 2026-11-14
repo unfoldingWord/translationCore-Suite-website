@@ -1,0 +1,17 @@
+{
+  "a96d11edfa6b": "将书卷导出为 USFM（含对齐或纯文本） · translationCore 4 帮助",
+  "f94a9df0cb10": "USFM 是圣经译文的标准文本格式。",
+  "1e94ef8ceb99": "点击 <span class=\"ui\">Export</span> (1)，然后点击 <span class=\"ui\">USFM, aligned</span> (2) 或 <span class=\"ui\">USFM, plain</span>。",
+  "f9b0a11478e5": "选哪一个？",
+  "db946efab3d8": "<strong><span class=\"ui\">USFM, aligned</span></strong>（含对齐）包含你与原文之间的关联，供能读取对齐信息的工具使用。请先对齐经节。请参阅<a href=\"al-link-words\">将你的词语与源文本关联</a>。",
+  "dd38b1bfdf16": "<strong><span class=\"ui\">USFM, plain</span></strong>（纯文本）只包含你的译文。",
+  "53ede8bc7c3b": "你的项目不会被更改。",
+  "ffb0917a26ef": "合并的节范围会写成一节，例如 <code>\\v 2-3</code>。",
+  "1b8ddfde1a2c": "尚未起草的经节会写成 <code>___</code>。",
+  "46717a73e9ca": "标题行（<code>\\h</code>、<code>\\toc1</code>–<code>\\toc3</code>、<code>\\mt</code>）中写的是书卷代码，例如 <code>TIT</code>，而不是书卷名称。如果其他程序需要书卷名称，请自行修改。",
+  "1d6a4dcee725": "<span class=\"ui\">USFM, aligned</span> 会写入对齐信息为最新状态的每节经文的对齐。需要复核的经节会不带对齐地写入，面板会显示 <strong>Your alignment of these verses is not in the file</strong>（这些经节的对齐未包含在文件中），并列出这些经节。请在对齐工具中复核这些经节，然后重新导出。下一次导出时，这条消息会清除。",
+  "8e797de8362c": "导入时就带有对齐的经节，会按导入时的原样写入。",
+  "d7ba70e5d6d8": "<span class=\"ui\">USFM, plain</span> 和 PDF 从不包含对齐，所以不会显示这条消息。",
+  "44afc7d304ce": "保存到已存在的文件时，会直接替换它，不会询问。如果想保留旧文件，请换一个新文件名。",
+  "caf999f3879c": "打开了 Export 菜单的 Community Checking。Export 标为 1，USFM, aligned 标为 2；USFM, plain 就在它下面。"
+}

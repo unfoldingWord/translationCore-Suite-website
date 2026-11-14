@@ -1,0 +1,9 @@
+{
+  "language": "Idioma",
+  "onThisPage": "Nesta página",
+  "noResults": "Nenhum tópico corresponde a “{query}”. Tente outra palavra, como alinhar, verificar, história ou off-line.",
+  "seeAll": "Ver todos os resultados →",
+  "resultsOne": "1 tópico para “{query}”",
+  "resultsMany": "{count} tópicos para “{query}”",
+  "searchPrompt": "Digite uma ou duas palavras, como “alinhar”, “marcador” ou “intervalo de versículos”."
+}

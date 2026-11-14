@@ -1,0 +1,17 @@
+{
+  "a96d11edfa6b": "Exportar un libro como USFM (alineado o sin alinear) · Ayuda de translationCore 4",
+  "f94a9df0cb10": "USFM es el formato de texto estándar para las traducciones de la Biblia.",
+  "1e94ef8ceb99": "Haga clic en <span class=\"ui\">Exportar</span> (1) y luego en <span class=\"ui\">USFM, alineado</span> (2) o <span class=\"ui\">USFM, sin alinear</span>.",
+  "f9b0a11478e5": "¿Cuál elegir?",
+  "db946efab3d8": "<strong><span class=\"ui\">USFM, alineado</span></strong> incluye sus enlaces con el idioma original, para herramientas que leen alineaciones. Primero alinee los versículos. Vea <a href=\"al-link-words\">Enlazar sus palabras con la fuente</a>.",
+  "dd38b1bfdf16": "<strong><span class=\"ui\">USFM, sin alinear</span></strong> es solo su texto.",
+  "53ede8bc7c3b": "Su proyecto no cambia.",
+  "ffb0917a26ef": "Un rango de versículos unidos se escribe como un solo versículo, por ejemplo <code>\\v 2-3</code>.",
+  "1b8ddfde1a2c": "Los versículos sin redactar se escriben como <code>___</code>.",
+  "46717a73e9ca": "Las líneas de encabezado (<code>\\h</code>, <code>\\toc1</code>–<code>\\toc3</code>, <code>\\mt</code>) contienen el código del libro, como <code>TIT</code>, no el nombre del libro. Edítelas si otro programa necesita el nombre.",
+  "1d6a4dcee725": "<span class=\"ui\">USFM, alineado</span> escribe la alineación de cada versículo cuya alineación está al día. Un versículo que necesita repasarse se escribe sin su alineación, y el panel dice <strong>Tu alineación de estos versículos no está en el archivo</strong> y los enumera. Repase esos versículos en Alinear y exporte de nuevo. La siguiente exportación borra el mensaje.",
+  "8e797de8362c": "Los versículos que importó con alineaciones se escriben exactamente como se importaron.",
+  "d7ba70e5d6d8": "<span class=\"ui\">USFM, sin alinear</span> y PDF nunca incluyen alineaciones, así que nunca muestran este mensaje.",
+  "44afc7d304ce": "Guardar encima de un archivo que ya existe lo reemplaza sin preguntar. Elija otro nombre de archivo si quiere conservar el archivo anterior.",
+  "caf999f3879c": "Revisión comunitaria con el menú Exportar abierto. Exportar está marcado con 1, y USFM, alineado con 2; USFM, sin alinear está justo debajo."
+}

@@ -1,0 +1,13 @@
+{
+  "4b6a6a014b40": "Cuando no se puede guardar · Ayuda de translationCore 4",
+  "747f2583a77a": "El indicador en la parte superior derecha muestra <span class=\"ui\">Guardado</span>, <span class=\"ui\">Guardando…</span>, <span class=\"ui\">Cambios sin guardar</span> o <span class=\"ui\">No se pudo guardar — reintentar</span>.",
+  "e3580bd75749": "Si ve <span class=\"ui\">No se pudo guardar — reintentar</span>, haga clic en <span class=\"ui\">Reintentar</span> una vez y espere.",
+  "2d40c64dbf9d": "Si vuelve a fallar, quédese en la pantalla. Es posible que no se le permita pasar a otro modo hasta que el guardado funcione.",
+  "2fd17609c503": "Si intenta cerrar tC4 con cambios sin guardar, se lo advierte. Quédese e intente <span class=\"ui\">Reintentar</span> otra vez.",
+  "8e2daa28aeb0": "Si sigue fallando, anote el mensaje y pida ayuda.",
+  "893b07b094b5": "Hacer clic en <span class=\"ui\">Reintentar</span> muchas veces no ayuda. Lo intenta una vez a la vez.",
+  "9e57e0b22b6f": "En un proyecto importado, escribir el primer texto en un versículo vacío puede fallar al guardar cada vez. Reintentar no lo resuelve. Copie su texto en un lugar seguro antes de cerrar tC4, porque el versículo vuelve vacío. Cancelar un versículo así después de escribir puede mostrar el mismo mensaje.",
+  "e5f60e2765f9": "<span class=\"ui\">← Todas las herramientas de revisión</span> sigue funcionando mientras se muestra un problema al guardar.",
+  "f7028df78512": "Si el mensaje debajo del indicador de guardado dice <strong>Este proyecto se sincronizó, así que la aplicación debe abrirlo de nuevo</strong>, haga clic en Inicio, abra el proyecto de nuevo y vuelva a hacer su último cambio. En ese caso, Reintentar no ayuda. Vea <a href=\"ts-protect-messages\">Mensajes que protegen su proyecto</a>.",
+  "978fdc3be81d": "El indicador de guardado en la parte superior derecha muestra No se pudo guardar — reintentar, con un botón Reintentar."
+}

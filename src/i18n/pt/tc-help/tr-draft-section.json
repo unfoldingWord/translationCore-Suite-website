@@ -1,0 +1,19 @@
+{
+  "8acbc3565c3a": "Redigir uma seção · Ajuda do translationCore 4",
+  "e884672aa2a3": "Você digita a seção de uma vez, do jeito que a diria, e acrescenta os números dos versículos depois.",
+  "373905fa673d": "Em <span class=\"ui\">Traduzir</span>, confira se a chave acima da sua tradução está em <span class=\"ui\">Seção</span>.",
+  "3328663ae42d": "Na linha que você quer, clique no botão <span class=\"ui\">Redigir seção {span}</span>, no canto superior direito dela (1). É um botão pequeno e arredondado, sempre visível.",
+  "3f5705e15b4a": "O editor abre no modo <span class=\"ui\">Digitar</span>. Digite sua tradução da seção inteira.",
+  "2f27795e51f7": "Clique em <span class=\"ui\">Posicionar números dos versículos</span> e coloque cada número onde o versículo dele começa. Veja <a href=\"tr-place-verse-numbers\">Posicionar os números dos versículos</a>.",
+  "9ff595806235": "Clique em <span class=\"ui\">Salvar seção</span>.",
+  "dd51008cfa25": "Para fechar o editor sem salvar, clique em <span class=\"ui\">Cancelar</span>.",
+  "e8bd62ab6bae": "O editor tem a mesma altura da passagem da fonte ao lado dele. Um texto mais longo rola dentro da caixa. Para deixar a caixa mais alta, arraste o canto dela.",
+  "a2c7feffadbe": "Para mudar uma seção salva, clique de novo no rótulo <span class=\"ui\">Redigir seção {span}</span> dela. Clicar no texto salvo não abre o editor.",
+  "13ec65ee89e4": "Você mesmo pode digitar os números dos versículos: comece uma linha com o número, por exemplo <code>5 no nos salvó…</code>.",
+  "96b5ba2eb54e": "O primeiro número de versículo de uma seção fica sempre no início.",
+  "216c556a0556": "Depois que o editor abrir, espere um instante antes de digitar e confira o começo do seu texto antes de salvar.",
+  "e6f7c7888349": "Enquanto um editor está aberto, a chave <span class=\"ui\">Seção</span> / <span class=\"ui\">Versículo</span> não pode ser usada.",
+  "8113693e524a": "Um número de versículo que você deixar na caixa <span class=\"ui\">A posicionar</span> é salvo como um versículo vazio.",
+  "ac06415394d5": "Uma linha de seção vazia: TITO 2:9–10 à esquerda e Redigir seção 9–10 no canto superior direito, marcado com 1.",
+  "a85065e98273": "O editor de seção aberto ao lado da fonte de Tito 2:9–10: REDAÇÃO 9–10, com Digitar selecionado, a dica Enter para parágrafo, Tab para poesia, os versículos 9 e 10 digitados e Salvar seção e Cancelar. O cartão tem a mesma altura da passagem da fonte ao lado dele."
+}

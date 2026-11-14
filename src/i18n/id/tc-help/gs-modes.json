@@ -1,0 +1,16 @@
+{
+  "13d6112f254d": "Pahami, Terjemahkan, dan Periksa — tiga mode · Bantuan translationCore 4",
+  "22c05e04d926": "Posisi Anda di dalam kitab tetap sama saat Anda berganti mode, dan proyek Open Bible Stories memiliki tiga mode yang sama.",
+  "61aee9109a1b": "Buka sebuah kitab atau cerita dari Beranda.",
+  "128bfef94f36": "Klik <span class=\"ui\">Pahami</span>, <span class=\"ui\">Terjemahkan</span>, atau <span class=\"ui\">Periksa</span> di tengah bilah atas. Mode yang sedang Anda pakai tampil berwarna.",
+  "cf7e68e6b38d": "Kegunaan setiap mode",
+  "08d61dfdd7ca": "<strong><span class=\"ui\">Pahami</span>:</strong> baca perikop beserta catatan, tautan kata, dan pertanyaannya, lalu tulis komentar Anda sendiri. Lihat <a href=\"un-read-passage\">Membaca perikop sebelum menerjemahkan</a>.",
+  "79ebbb5807f3": "<strong><span class=\"ui\">Terjemahkan</span>:</strong> susun draf terjemahan Anda di samping teks sumber. Lihat <a href=\"tr-screen\">Layar Terjemahkan</a>.",
+  "c0cac543b795": "<strong><span class=\"ui\">Periksa</span>:</strong> periksa draf Anda dengan Catatan Penerjemahan dan Kata Penerjemahan, selaraskan kata-kata, dan lihat pratinjau kitab. Lihat <a href=\"ck-tool-picker\">Memilih alat pemeriksaan</a>.",
+  "29c21f035696": "Banyak tim mengikuti urutan itu, tetapi Anda dapat berganti mode kapan saja.",
+  "20b3650806b8": "Kitab atau cerita yang Anda buka untuk pertama kali dimulai di <span class=\"ui\">Pahami</span>. Setelah itu, tC4 membukanya dalam mode yang terakhir Anda pakai.",
+  "7ae9ea51f3a9": "<span class=\"ui\">Periksa</span> kembali ke alat pemeriksaan yang terakhir Anda pakai. Untuk memilih alat lain, klik <span class=\"ui\">← Semua alat pemeriksaan</span> di kiri atas.",
+  "89c9737cc63f": "Berganti mode menyimpan titik pemeriksaan jika ada yang berubah. Lihat <a href=\"gs-save\">Penyimpanan dan titik pemeriksaan</a>.",
+  "4ffefe6c913a": "Ekspor bukan mode tersendiri. Ekspor ada di <span class=\"ui\">Periksa</span> › <span class=\"ui\">Pemeriksaan Komunitas</span>. Lihat <a href=\"bp-export-pdf\">Mengekspor kitab sebagai PDF</a>.",
+  "20f0ff816d20": "Pengalih di tengah bilah atas: Pahami, Terjemahkan (terpilih, berwarna biru muda), dan Periksa."
+}

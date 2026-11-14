@@ -1,0 +1,9 @@
+{
+  "language": "Bahasa",
+  "onThisPage": "Di halaman ini",
+  "noResults": "Tidak ada topik yang cocok dengan “{query}”. Coba kata lain, seperti selaraskan, periksa, cerita, atau offline.",
+  "seeAll": "Lihat semua hasil →",
+  "resultsOne": "1 topik untuk “{query}”",
+  "resultsMany": "{count} topik untuk “{query}”",
+  "searchPrompt": "Ketik satu atau dua kata, seperti “selaraskan”, “penanda”, atau “gabungan ayat”."
+}

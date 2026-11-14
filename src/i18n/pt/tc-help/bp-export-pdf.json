@@ -1,0 +1,11 @@
+{
+  "4720b0d24d63": "Exportar um livro em PDF · Ajuda do translationCore 4",
+  "2798a01adbaa": "O nome do arquivo traz o código do livro e a data de hoje.",
+  "296c22d5869b": "Opcional: ajuste a configuração de página (tamanho do papel, colunas, espaçamento). Veja <a href=\"ck-community-checking\">Prévia da Verificação comunitária e configuração de página</a>.",
+  "2cab4f333825": "Clique em <span class=\"ui\">Exportar</span> (1) e depois em <span class=\"ui\">Exportar PDF</span> (2).",
+  "f12ec931faa5": "Os versículos não redigidos saem impressos como \"[ versículo ainda não redigido ]\". Os capítulos não redigidos no início ou no fim ficam de fora.",
+  "5febb95ab85f": "Se nada no livro estiver redigido, o tC4 avisa e não cria nenhum arquivo.",
+  "7fb34b0c18d9": "O tamanho do papel e o espaçamento não ficam guardados. Ajuste-os todas as vezes.",
+  "86f68bd349db": "As notas de rodapé ainda não são impressas.",
+  "282716ae7eab": "Verificação comunitária com o menu Exportar aberto. Exportar está marcado com 1, e Exportar PDF, o primeiro item, está marcado com 2. Os outros itens são USFM, alinhado, USFM, sem alinhamento e Scripture Burrito (.zip)."
+}

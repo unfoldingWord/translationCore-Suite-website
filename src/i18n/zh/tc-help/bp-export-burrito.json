@@ -1,0 +1,10 @@
+{
+  "1ef38a0282f8": "将项目导出为 Scripture Burrito · translationCore 4 帮助",
+  "f1f8443ff439": "可以用它保存一份安全副本、把项目转移到另一台电脑，或交给其他支持 Scripture Burrito 的工具使用。",
+  "5d4400e992d3": "点击 <span class=\"ui\">Export</span> (1)，然后点击 <span class=\"ui\">Scripture Burrito (.zip)</span> (2)。",
+  "d8bb820a4085": "这个 zip 文件包含项目中的每一卷书，而不只是当前打开的那一卷。",
+  "e95992875ba5": "Open Bible Stories 项目也有同样的菜单项。",
+  "ad0e62755747": "要在另一台电脑上把这个 zip 文件导入 tC4，请使用 <span class=\"ui\">+ Add a project</span> › <span class=\"ui\">Receive work from a file</span>。",
+  "0c60c04fe561": "要把项目放到 Door43 上，请使用该项目主页卡片上的 <span class=\"ui\">Share on Door43</span>。请参阅<a href=\"ts-share-door43\">分享到 Door43</a>。",
+  "f8b1f827081e": "打开了 Export 菜单的 Community Checking。Export 标为 1，最后一项 Scripture Burrito (.zip) 标为 2。"
+}

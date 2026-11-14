@@ -1,0 +1,13 @@
+{
+  "4b6a6a014b40": "Quando um salvamento falha · Ajuda do translationCore 4",
+  "747f2583a77a": "O indicador no canto superior direito mostra <span class=\"ui\">Salvo</span>, <span class=\"ui\">Salvando…</span>, <span class=\"ui\">Alterações não salvas</span> ou <span class=\"ui\">Falha ao salvar — tente novamente</span>.",
+  "e3580bd75749": "Se aparecer <span class=\"ui\">Falha ao salvar — tente novamente</span>, clique em <span class=\"ui\">Tentar novamente</span> uma vez e espere.",
+  "2d40c64dbf9d": "Se falhar de novo, fique na mesma tela. Mudar para outro modo pode ser recusado até o salvamento funcionar.",
+  "2fd17609c503": "Se você tentar fechar o tC4 com alterações não salvas, ele avisa. Fique e clique em <span class=\"ui\">Tentar novamente</span> outra vez.",
+  "8e2daa28aeb0": "Se continuar falhando, anote a mensagem e peça ajuda.",
+  "893b07b094b5": "Clicar em <span class=\"ui\">Tentar novamente</span> muitas vezes não ajuda. Ele faz uma tentativa por vez.",
+  "9e57e0b22b6f": "Em um projeto importado, escrever o primeiro texto em um versículo vazio pode falhar ao salvar todas as vezes. Tentar novamente não resolve. Copie seu texto para um lugar seguro antes de fechar o tC4, porque o versículo volta vazio. Cancelar um versículo assim depois de digitar pode mostrar a mesma mensagem.",
+  "e5f60e2765f9": "<span class=\"ui\">← Todas as ferramentas de verificação</span> continua funcionando enquanto um problema de salvamento está sendo mostrado.",
+  "f7028df78512": "Se a mensagem abaixo do indicador de salvamento disser <strong>Este projeto foi sincronizado, então o aplicativo precisa abri-lo de novo</strong>, clique em Início, abra o projeto de novo e faça sua última alteração de novo. Tentar novamente não ajuda nesse caso. Veja <a href=\"ts-protect-messages\">Mensagens que protegem seu projeto</a>.",
+  "978fdc3be81d": "O indicador de salvamento no canto superior direito mostrando Falha ao salvar — tente novamente, com um botão Tentar novamente."
+}

@@ -1,0 +1,11 @@
+{
+  "27ac6039a7a9": "Lưu ý cho Windows, macOS và Linux · Trợ giúp translationCore 4",
+  "d0c7ab9751d6": "Các bản dựng thử nghiệm chưa được ký số, nên hệ thống có thể cảnh báo bạn ở lần đầu.",
+  "ed98f85183a9": "Những điều cần biết",
+  "20db2dc87caf": "SmartScreen có thể cảnh báo: nhấp <strong>More info › Run anyway</strong>. Có thể bạn cần bộ thư viện Microsoft Visual C++ runtime. Tệp USFM xuất dạng văn bản thuần có thể không tải xuống được.",
+  "50d2cfa2722c": "Lần đầu tiên, hãy vào <strong>System Settings › Privacy &amp; Security</strong> và nhấp <strong>Open Anyway</strong>. Hãy thoát tC4 trước khi cài một phiên bản khác.",
+  "3520c5b035eb": "Giải nén và chạy <code>start-tc4.sh</code>.",
+  "6dbabc36f7bd": "Làm theo <a href=\"gs-install\">Cài đặt và khởi động tC4</a>.",
+  "58fdb41bf2e3": "Nếu hệ thống chặn, hãy làm theo các bước \"open anyway\" ở trên.",
+  "59ed570323af": "Mỗi lần chỉ chạy một bản tC4."
+}
