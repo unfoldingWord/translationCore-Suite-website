@@ -1,0 +1,17 @@
+{
+  "a96d11edfa6b": "Een boek exporteren als USFM (uitgelijnd of zonder uitlijning) · translationCore 4 Help",
+  "f94a9df0cb10": "USFM is het standaard tekstformaat voor Bijbelvertalingen.",
+  "1e94ef8ceb99": "Klik op <span class=\"ui\">Export</span> (1) en daarna op <span class=\"ui\">USFM, aligned</span> (2) of <span class=\"ui\">USFM, plain</span>.",
+  "f9b0a11478e5": "Welke kies je?",
+  "db946efab3d8": "<strong><span class=\"ui\">USFM, aligned</span></strong> bevat je koppelingen met de grondtaal, voor programma's die uitlijningen lezen. Lijn eerst de verzen uit. Zie <a href=\"al-link-words\">Je woorden koppelen aan de brontekst</a>.",
+  "dd38b1bfdf16": "<strong><span class=\"ui\">USFM, plain</span></strong> bevat alleen je tekst.",
+  "53ede8bc7c3b": "Je project verandert niet.",
+  "ffb0917a26ef": "Een versgroep wordt als één vers geschreven, bijvoorbeeld <code>\\v 2-3</code>.",
+  "1b8ddfde1a2c": "Verzen die nog niet geschreven zijn, worden geschreven als <code>___</code>.",
+  "46717a73e9ca": "De kopregels (<code>\\h</code>, <code>\\toc1</code>–<code>\\toc3</code>, <code>\\mt</code>) bevatten de boekcode, zoals <code>TIT</code>, niet de naam van het boek. Pas ze aan als een ander programma de naam nodig heeft.",
+  "1d6a4dcee725": "<span class=\"ui\">USFM, aligned</span> schrijft de uitlijning van elk vers waarvan de uitlijning bijgewerkt is. Een vers dat opnieuw bekeken moet worden, wordt zonder uitlijning geschreven. Het paneel zegt dan <strong>Your alignment of these verses is not in the file</strong> en noemt die verzen. Bekijk die verzen opnieuw in Align en exporteer nog een keer. Bij de volgende export verdwijnt de melding.",
+  "8e797de8362c": "Verzen die je met uitlijningen hebt geïmporteerd, worden precies zo geschreven als ze geïmporteerd zijn.",
+  "d7ba70e5d6d8": "<span class=\"ui\">USFM, plain</span> en PDF bevatten nooit uitlijningen, dus daarbij zie je deze melding nooit.",
+  "44afc7d304ce": "Als je opslaat over een bestand dat al bestaat, wordt het zonder te vragen vervangen. Kies een nieuwe bestandsnaam als je het oude bestand wilt houden.",
+  "caf999f3879c": "Community Checking met het menu Export open. Export is gemarkeerd met 1, en USFM, aligned met 2; USFM, plain staat er direct onder."
+}

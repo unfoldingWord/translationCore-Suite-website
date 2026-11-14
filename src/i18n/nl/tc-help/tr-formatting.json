@@ -1,0 +1,16 @@
+{
+  "e40379202528": "Alinea's en poëzie · translationCore 4 Help",
+  "b91feb823675": "Dit werkt in de modus <span class=\"ui\">Type</span> van de editor voor een gedeelte.",
+  "b3ab5b935792": "Open een gedeelte met <span class=\"ui\">Draft section {span}</span>.",
+  "b2c1beaae3c7": "Typ je tekst. Druk op <strong>Enter</strong> waar een nieuwe alinea begint.",
+  "030e16e8a13c": "Druk aan het begin van een poëzieregel op <strong>Tab</strong>. Druk nog een keer op Tab voor een tweede niveau, of op <strong>Shift+Tab</strong> om een inspringing terug te nemen.",
+  "f83c757421ba": "Plaats de versnummers en klik op <span class=\"ui\">Save section</span>.",
+  "1b472269257b": "Poëzie die je al hebt",
+  "2787d96d98dd": "Als je een poëzievers opent, toont de editor het hele vers, elke regel van het gedicht. Elke regel begint met zijn inspringing: één tab voor het eerste niveau, twee voor het tweede, drie voor het derde. Een alinea-einde of blokeinde binnen het vers verschijnt als een lege regel, en een kop binnen een vers als een eigen regel. Laat die regels zoals ze zijn en verander alleen de woorden.",
+  "e6b4d5f6d18d": "tC4 heeft drie poëzieniveaus. Een vierde tab wordt opgeslagen als het derde niveau.",
+  "3c0186069dd6": "In de editor <strong>Verse</strong> sluiten Tab en Enter de editor en slaan ze op. Om daar een nieuwe poëzieregel te beginnen, druk je op <strong>Shift+Enter</strong>. Gebruik de editor voor een gedeelte om een regel te laten inspringen.",
+  "95da95d9a880": "De brontekst toont zijn eigen alinea's en poëzieregels, zodat je die kunt volgen.",
+  "02068dbf6788": "Koppen, voetnoten en andere opmaak kun je nog niet toevoegen in de editor.",
+  "36f5d759734c": "De editor voor het gedeelte Titus 2:9-10 in de modus Type. De tip zegt Enter for paragraph, Tab for poetry. Regels die verder naar binnen beginnen, zijn ingesprongen poëzieregels; twee ervan zijn gemarkeerd met 1 en 2.",
+  "5b477b5d2415": "De verseditor open bij Psalm 9:1: beide regels van het gedicht staan in de editor, en de tweede regel begint verder naar binnen omdat het een poëzieregel van het tweede niveau is."
+}

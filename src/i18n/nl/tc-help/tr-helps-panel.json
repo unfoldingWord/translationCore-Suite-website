@@ -1,0 +1,22 @@
+{
+  "b49c82d49c5f": "Het hulpmiddelenpaneel in Translate · translationCore 4 Help",
+  "3d9b8979a962": "Terwijl je schrijft, toont het hulpmiddelenpaneel de notities, woordkoppelingen, vragen, vereenvoudigde tekst en je eigen opmerkingen bij de verzen waar je mee bezig bent. Notities zijn gegroepeerd onder koppen per gedeelte en vers, en woordkaarten openen met de eerste alinea van hun artikel.",
+  "df70fd1625f8": "Het staat rechts in <span class=\"ui\">Translate</span>, naast je concept.",
+  "af3dfe77d9a4": "Is het paneel verborgen, klik dan rechtsboven bij het hoofdstuk op <span class=\"ui\">Toggle helps panel</span>.",
+  "48c67ad415f4": "Klik op een tabblad.",
+  "980289211f26": "Open een editor voor een gedeelte of vers. Het paneel toont dan alleen de verzen die je bewerkt.",
+  "f951e1ba14e3": "De tabbladen",
+  "1d25ef42dfa1": "<strong><span class=\"ui\">Notes</span>:</strong> vertaalnotities, gegroepeerd onder koppen in hoofdletters zoals <span class=\"ui\">INTRODUCTION</span> en <span class=\"ui\">VERSE 1</span>. Elke notitie met een artikel van Translation Academy verwijst ernaar met de echte naam van het artikel (bijvoorbeeld <span class=\"ui\">Abstract Nouns →</span>), niet met een algemeen label.",
+  "680855295e6f": "<strong><span class=\"ui\">Words</span>:</strong> kernbegrippen. Elke kaart toont de eerste alinea van het artikel van Translation Words en <span class=\"ui\">Read the article →</span>. Klik op een kaart om elke plek waar dat woord in het gedeelte voorkomt te markeren.",
+  "b7e2c851b894": "<strong><span class=\"ui\">Questions</span>:</strong> vragen met antwoorden, om de betekenis van je concept te testen.",
+  "61fbe4d4f999": "<strong><span class=\"ui\">UST</span>:</strong> de vereenvoudigde tekst van het hoofdstuk. In sommige brugtalen heeft dit tabblad een andere naam, zoals <span class=\"ui\">GST</span>.",
+  "677b73d21e67": "<strong><span class=\"ui\">Comments</span>:</strong> opmerkingen die je in <span class=\"ui\">Understand</span> hebt geschreven. Zijn er geen, dan staat er \"Nothing in this chapter.\"",
+  "dfa182fcb244": "De hulpmiddelen volgen waar je op hebt geklikt: een gedeelte in de modus <span class=\"ui\">Section</span>, een vers in de modus <span class=\"ui\">Verse</span>, of een verhaalfragment. Ze blijven daarbij nadat je op <span class=\"ui\">Save</span> hebt geklikt, totdat je op iets anders klikt of het hoofdstuk verlaat.",
+  "389f7dc7c683": "Wijs een kaart van Notes aan om de bijbehorende woorden in de brontekst te markeren; klik erop om de markering te laten staan.",
+  "2ae564edc954": "Klik op een kaart van Words om elk overeenkomend woord te markeren in het hele gedeelte dat je leest.",
+  "5e55e030c14d": "Lange notities hebben <span class=\"ui\">Show more</span> en <span class=\"ui\">Show less</span>.",
+  "2fdf64a3a145": "Sleep de verticale scheidingslijn tussen je concept en de hulpmiddelen om het paneel breder of smaller te maken. <span class=\"ui\">Toggle helps panel</span> toont of verbergt het paneel helemaal (één knop; er is geen aparte knop om te verbreden).",
+  "2c005b25598b": "Artikelen openen met een zwevende sluitknop boven een scheidingslijn, en tonen regeleinden, superscript en onderstrepingen uit de bron netjes.",
+  "92e84f73cbfc": "Elk hulpmiddel wordt uitgelegd in het onderdeel <a href=\"section-understand\">Begrijpen</a>.",
+  "bdf1e518f4c6": "Het hulpmiddelenpaneel bij Titus 1 met het tabblad Words geselecteerd. Elke woordkaart toont de eerste alinea van het artikel van Translation Words en een link Read the article →. Er zijn geen labels KEY WORD."
+}

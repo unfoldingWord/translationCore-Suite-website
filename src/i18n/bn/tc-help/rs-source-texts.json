@@ -1,0 +1,17 @@
+{
+  "2444fbf270b8": "উৎস পাঠ ডাউনলোড করুন · translationCore 4 সহায়তা",
+  "3d6eae5d0cf6": "গেটওয়ে ভাষা হলো সেই ভাষা, যে ভাষায় আপনার দল উৎস পাঠ ও সহায়িকা পড়ে। ইংরেজি অ্যাপের সাথেই আসে।",
+  "7d17ef831dae": "<span class=\"ui\">Choose your gateway language</span>-এর নিচে একটি ভাষায় ক্লিক করুন (1)। \"Turn on the internet?\" দেখা গেলে <span class=\"ui\">Turn on internet</span>-এ ক্লিক করুন। দেখুন <a href=\"rs-offline\">অফলাইনে কাজ করা</a>।",
+  "87c2a0c6f088": "<span class=\"ui\">Book</span> বেছে নিন।",
+  "619a3f60dc35": "<span class=\"ui\">Package contents</span> দেখে নিন। কোনো কার্ড বাদ দিতে তাতে ক্লিক করুন, আবার যোগ করতে আবার ক্লিক করুন।",
+  "b2d5c7505186": "<span class=\"ui\">⇣ Download package</span>-এ ক্লিক করুন। যখন লেখা আসে \"✓ {book} · {language} is ready\", তখন <span class=\"ui\">Close</span>-এ ক্লিক করুন।",
+  "8b9d01dac0a2": "প্যাকেজ ডাউনলোড হওয়ার সময় ডায়ালগের নিচে <span class=\"ui\">Downloading …</span> দেখায়, সাথে যে রিপোজিটরি আনা হচ্ছে সেটি, এবং একটি <span class=\"ui\">Cancel</span> বোতাম। আপনি অন্য বই বেছে নিলে বা ভাষার তালিকায় ফিরে গেলেও এগুলো সেখানে থাকে। ডাউনলোড থামাতে <span class=\"ui\">Cancel</span>-এ ক্লিক করুন।",
+  "8b8f02c8633e": "ডাউনলোড না করে বেরিয়ে যেতে <span class=\"ui\">Close</span> বা ✕-এ ক্লিক করুন। ডায়ালগ বন্ধ করলে শুরু হওয়া ডাউনলোড থামে না; সেটি দেখতে বা বাতিল করতে আবার <span class=\"ui\">Get source texts</span> খুলুন।",
+  "2fc42d3c75b4": "বেশির ভাগ গেটওয়ে ভাষার প্যাকেজে Translation Words-এর সাথে একটি <strong>Translation Words Links</strong> রিপোজিটরিও (<code>…_twl</code>) থাকে। এটি বাছাই করা অবস্থায় রাখুন, যাতে যাচাইয়ের জন্য ইনস্টলেশন সম্পূর্ণ হয়।",
+  "acf775b53543": "দুটি সারির নাম এক হতে পারে, যেমন Français-এর দুটি সারি। নামের নিচের সংস্থা দেখে সেগুলো আলাদা করা যায়।",
+  "1c359191fab9": "তালিকার সংস্করণগুলো Door43-এর সবচেয়ে নতুন সংস্করণ, আপনার প্রকল্প যেগুলো ব্যবহার করে সেগুলো নয়।",
+  "84b941e238b1": "ডাউনলোড করা ভাষায় যাচাই করতে <a href=\"st-project-settings\">প্রকল্পের সেটিংস</a>-এ সেটি বেছে নিন। দেখুন <a href=\"rs-checking-language\">যাচাইয়ের ভাষা বদলান</a>।",
+  "ab9ab2d35728": "অফলাইনে থাকলে ডায়ালগে লেখা থাকে \"tC4 did not read the Door43 list of source texts.\", সাথে <span class=\"ui\">Read the list</span>। এর নিচের লাইন \"This organisation publishes nothing tC4 can use…\"-এর মানে শুধু এই যে তালিকাটি পড়া হয়নি।",
+  "2827fe51be40": "কিছু ডাউনলোড ব্যর্থ হলে ডায়ালগে সেগুলোর তালিকা দেখায়।",
+  "7dd6ae7b823d": "Get source texts। Check for updates সহ স্থির করা সহায়িকা, তারপর Choose your gateway language: English (unfoldingWord, notes v91, words v91, academy v91), Español (Latinoamérica) (es-419_gl, চিহ্নিত 1), Français নামের দুটি সারি (Xenizo ও MVHS), এবং Русский।"
+}

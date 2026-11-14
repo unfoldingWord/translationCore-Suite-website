@@ -1,0 +1,12 @@
+{
+  "144d61aa04df": "Vastgezette hulpmiddelen bijwerken · Hulp voor translationCore 4",
+  "ecd3d1db71ca": "Een project houdt precies de versies waarmee het begonnen is, zodat de controles stabiel blijven. Bijwerken is altijd jouw keuze.",
+  "259052d9165e": "Elke set toont <span class=\"ui\">✓ Up to date</span> of \"Upgrade N resource(s)\" met elke wijziging, bijvoorbeeld <code>en_tn v86 → v91</code>.",
+  "b84f82f5c6bd": "Klik op \"Upgrade N resource(s)\", lees de bevestiging en klik op <span class=\"ui\">Upgrade</span>.",
+  "0be217637c39": "Klik op <span class=\"ui\">Keep the current release</span> om te annuleren.",
+  "b49d3f3e0d3c": "Beslissingen die passen bij een controle in de nieuwe uitgave, gaan mee. De rest komt terug als werk. Er wordt niets verwijderd.",
+  "c91781710cf1": "Een nieuw project gebruikt al de hulpmiddelen die met de app zijn meegeleverd, dus daar staat <span class=\"ui\">✓ Up to date</span>.",
+  "43e6b4d60747": "Een project dat in een andere taal controleert, toont die taal als de primaire set en Engels als de reserveset.",
+  "55378d00e458": "tC4 zoekt niet uit zichzelf naar updates.",
+  "c26d654cec50": "Na Check for updates voor een project dat met oudere hulpmiddelen is gemaakt: Primary set · en en Fallback set · en bieden elk Upgrade 4 resource(s) aan, en_tn v86 → v91, en_tw v87 → v91, en_ta v86 → v91, en_tq v89 → v91. Daaronder Scripture texts."
+}

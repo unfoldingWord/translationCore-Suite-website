@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "অনুবাদের স্ক্রিন · translationCore 4 সহায়তা",
+  "b5e20a3b5c23": "প্রতিটি সারিতে উৎস পাঠের একটি অংশ আর তার পাশে আপনার অনুবাদ থাকে।",
+  "ccd3b0577ccf": "একটি পুস্তক খুলুন, তারপর ওপরে <span class=\"ui\">Translate</span>-এ ক্লিক করুন।",
+  "6eb73fcf4caa": "ওপরের ট্যাবগুলো দিয়ে উৎস পাঠ বেছে নিন: <span class=\"ui\">ULT</span> (আক্ষরিক), <span class=\"ui\">UST</span> (সরলীকৃত) বা মূল ভাষা (<span class=\"ui\">Greek</span> বা <span class=\"ui\">Hebrew</span>)। ট্যাবগুলোর নিচের লাইনে পাঠটির নাম ও সংস্করণ থাকে।",
+  "cba9851fabf8": "একবারে পুরো অংশের খসড়া লিখতে <span class=\"ui\">Section</span>, বা একবারে একটি পদের খসড়া লিখতে <span class=\"ui\">Verse</span> বেছে নিন।",
+  "c7138b6f2ae2": "যে অংশটি চান তার পাশে <span class=\"ui\">Draft section</span>-এ ক্লিক করুন। লেখাটি লিখুন, তারপর <span class=\"ui\">Place verse numbers</span> ব্যবহার করুন। দেখুন <a href=\"tr-draft-section\">একটি অংশের খসড়া লিখুন</a>।",
+  "6f6d5b88466d": "<span class=\"ui\">Save section</span>-এ ক্লিক করুন। অংশটি আগের মতো রেখে দিতে <span class=\"ui\">Cancel</span>-এ ক্লিক করুন।",
+  "fb24ef6c8a86": "জায়গা করে নিন",
+  "8c8975cae9b6": "পাতার ওপরে বাঁ দিকের বোতামটি পুস্তক-তালিকা দেখায় বা লুকায়।",
+  "d034ae5cfc60": "পাতার ওপরে ডান দিকে <span class=\"ui\">Toggle helps panel</span> সহায়িকা দেখায় বা লুকায়। প্যানেলের প্রস্থ বদলাতে খাড়া বিভাজকটি টেনে নিন।",
+  "4d761027a250": "সহায়িকা প্যানেল",
+  "ddbdbe454552": "প্যানেলটি আপনি যে অংশে কাজ করছেন তার সহায়িকা দেখায়: <span class=\"ui\">Notes</span>, <span class=\"ui\">Words</span>, <span class=\"ui\">Questions</span>, সরলীকৃত পাঠ (<span class=\"ui\">UST</span>) এবং বোঝার মোড থেকে <span class=\"ui\">Comments</span>। একটি সহায়িকা-কার্ডে ক্লিক করলে সেটি যে শব্দগুলো নিয়ে, সেগুলো উৎস পাঠে হাইলাইট হয়। দেখুন <a href=\"tr-helps-panel\">অনুবাদ মোডে সহায়িকা প্যানেল</a>।",
+  "2ac8369ebd1d": "অনুবাদ মোড প্রতিটি প্রকল্পের জন্য আপনার বেছে নেওয়া <span class=\"ui\">Section</span> বা <span class=\"ui\">Verse</span> মনে রাখে।",
+  "a17f0c7ae079": "তীত 1-এর অনুবাদের স্ক্রিন, খসড়া লেখার জন্য অংশ 1–3 খোলা। লেবেলগুলো দেখায়: উৎস পাঠের ট্যাব (ULT, UST, Greek), Translate নির্বাচিত অবস্থায় Modes সুইচ, Section বা Verse সুইচ, সহায়িকা প্যানেলের ট্যাব, সংরক্ষণের অবস্থা, অধ্যায়ের বোতাম, উৎস অনুচ্ছেদ, খসড়া লেখার ধাপ (Type, Place verse numbers), Save section, পরের Draft section বোতাম এবং একটি সহায়িকা কার্ড।"
+}

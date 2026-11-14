@@ -1,0 +1,14 @@
+{
+  "a468001b6df7": "Verhalen exporteren als PDF of Markdown · Hulp voor translationCore 4",
+  "0f29d9d6694a": "<strong>Export PDF:</strong> een leesexemplaar voor beoordelaars, met of zonder afbeeldingen.",
+  "9bf5238223e9": "<strong>Story Markdown (.zip):</strong> de verhaalbestanden voor andere tools voor Open Bible Stories.",
+  "24350718eb1d": "<strong>Scripture Burrito (.zip):</strong> het hele project. Zie <a href=\"bp-export-burrito\">Een project exporteren als Scripture Burrito</a>.",
+  "ee25f850300e": "Open een verhaal en klik op <span class=\"ui\">Check</span>, en daarna op <span class=\"ui\">Open →</span> bij <span class=\"ui\">Community Checking</span>.",
+  "cd1b84c31406": "Als je wilt: kies de opmaak en de afbeeldingen. Zie <a href=\"obs-community-checking\">Voorbeeld en export van een verhaal</a>.",
+  "f882c57168b5": "Klik op <span class=\"ui\">Export</span> (1) en kies een formaat (2).",
+  "cbe483bf884a": "Schrijf minstens de titel of één frame voordat je een PDF exporteert.",
+  "c02654738f7c": "Wil je een tweede PDF met een andere opmaak bewaren, verander dan de opmaak, exporteer opnieuw en geef het bestand een nieuwe naam.",
+  "b6f55effd7d7": "Zie je \"The app could not print the PDF with its pictures…\", zet dan <span class=\"ui\">Pictures</span> uit en exporteer opnieuw.",
+  "8aec4a792c94": "Op Linux opent het opslagvenster in je map <strong>Downloads</strong>. Als je de knoppen ervan niet ziet, druk dan op <strong>Enter</strong> om op te slaan of op <strong>Esc</strong> om te annuleren.",
+  "81c4c63c64df": "Community Checking voor een verhaal met het menu Export open. Export is gemarkeerd met 1. Het menu, gemarkeerd met 2, heeft Export PDF, Story Markdown (.zip) en Scripture Burrito (.zip)."
+}
