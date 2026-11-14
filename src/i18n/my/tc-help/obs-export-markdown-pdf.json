@@ -1,0 +1,14 @@
+{
+  "a468001b6df7": "ဇာတ်လမ်းများကို PDF သို့မဟုတ် Markdown အဖြစ် ထုတ်ယူခြင်း · translationCore 4 အကူအညီ",
+  "0f29d9d6694a": "<strong>Export PDF -</strong> ပြန်လည်သုံးသပ်သူများအတွက် ဖတ်ရန် မိတ္တူ၊ ပုံများ ပါသည်ဖြစ်စေ မပါသည်ဖြစ်စေ။",
+  "9bf5238223e9": "<strong>Story Markdown (.zip) -</strong> အခြား Open Bible Stories ကိရိယာများအတွက် ဇာတ်လမ်း ဖိုင်များ။",
+  "24350718eb1d": "<strong>Scripture Burrito (.zip) -</strong> ပရောဂျက် တစ်ခုလုံး။ <a href=\"bp-export-burrito\">ပရောဂျက်ကို Scripture Burrito အဖြစ် ထုတ်ယူခြင်း</a> ကို ကြည့်ပါ။",
+  "ee25f850300e": "ဇာတ်လမ်းတစ်ပုဒ်ကို ဖွင့်ပြီး <span class=\"ui\">Check</span> ကို နှိပ်ပါ၊ ထို့နောက် <span class=\"ui\">Community Checking</span> ပေါ်ရှိ <span class=\"ui\">Open →</span> ကို နှိပ်ပါ။",
+  "cd1b84c31406": "မဖြစ်မနေ မဟုတ်ပါ - အပြင်အဆင်နှင့် ပုံများကို ရွေးပါ။ <a href=\"obs-community-checking\">ဇာတ်လမ်း အစမ်းကြည့်ခြင်းနှင့် ထုတ်ယူခြင်း</a> ကို ကြည့်ပါ။",
+  "f882c57168b5": "<span class=\"ui\">Export</span> ကို နှိပ်ပါ (1)၊ ထို့နောက် ဖော်မတ်တစ်ခုကို ရွေးပါ (2)။",
+  "cbe483bf884a": "PDF မထုတ်ယူမီ အနည်းဆုံး ခေါင်းစဉ် သို့မဟုတ် ပုံကွက်တစ်ခုကို မူကြမ်းရေးပါ။",
+  "c02654738f7c": "အခြား အပြင်အဆင်ဖြင့် ဒုတိယ PDF ကို သိမ်းရန် အပြင်အဆင်ကို ပြောင်းပါ၊ ထပ်မံ ထုတ်ယူပြီး အမည်အသစ် ပေးပါ။",
+  "b6f55effd7d7": "“The app could not print the PDF with its pictures…” ဟု မြင်ရလျှင် <span class=\"ui\">Pictures</span> ကို ပိတ်ပြီး ထပ်မံ ထုတ်ယူပါ။",
+  "8aec4a792c94": "Linux တွင် သိမ်းဆည်းရန် ဝင်းဒိုးသည် သင့် <strong>Downloads</strong> ဖိုင်တွဲတွင် ပွင့်သည်။ ၎င်း၏ ခလုတ်များကို မမြင်ရလျှင် သိမ်းရန် <strong>Enter</strong> ကို နှိပ်ပါ သို့မဟုတ် ပယ်ဖျက်ရန် <strong>Esc</strong> ကို နှိပ်ပါ။",
+  "81c4c63c64df": "Export မီနူး ဖွင့်ထားသော ဇာတ်လမ်းတစ်ပုဒ်အတွက် Community Checking။ Export ကို 1 ဖြင့် မှတ်ထားသည်။ 2 ဖြင့် မှတ်ထားသော မီနူးတွင် Export PDF၊ Story Markdown (.zip) နှင့် Scripture Burrito (.zip) ပါသည်။"
+}
