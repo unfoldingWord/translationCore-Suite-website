@@ -1,0 +1,14 @@
+{
+  "419606e87b4a": "Lire un passage avant de le traduire · Aide de translationCore 4",
+  "bcafa7720d63": "Beaucoup d’équipes lisent un passage et en discutent ici avant de le rédiger.",
+  "4a05a926ba5e": "Lire un passage",
+  "ff749b696f71": "Ouvrez un livre, puis cliquez sur <span class=\"ui\">Comprendre</span> en haut.",
+  "44e086f6011e": "Choisissez le texte source avec l’onglet <span class=\"ui\">ULT</span> ou <span class=\"ui\">UST</span>. Les projets dont la langue de vérification est l’espagnol affichent plutôt <span class=\"ui\">GLT</span> et <span class=\"ui\">GST</span>.",
+  "fd228361bd37": "À côté de <span class=\"ui\">Commenter par</span>, choisissez <span class=\"ui\">Section</span> pour lire une section à la fois, ou <span class=\"ui\">Verset</span> pour un verset à la fois.",
+  "15b2c0fc90be": "Lisez les aides à droite : <span class=\"ui\">Notes</span>, <span class=\"ui\">Mots</span>, <span class=\"ui\">Questions</span> et <span class=\"ui\">UST</span>. Cliquez sur une carte d’aide, et les mots qu’elle concerne sont surlignés dans le passage.",
+  "23260f03a26c": "Pour garder une idée pour plus tard, tapez-la dans la zone de commentaire sous la section. Voir <a href=\"un-user-comments\">Écrire un commentaire d’utilisateur</a>.",
+  "f4cf47fb096e": "Un petit point vert sur une section signifie que vous y avez écrit un commentaire.",
+  "ab2dbdc038e5": "Les sections suivent les découpages du texte source ; un chapitre peut donc être découpé différemment selon la langue passerelle.",
+  "41bcd926695c": "Votre choix de <span class=\"ui\">Section</span> ou <span class=\"ui\">Verset</span> est partagé avec Traduire.",
+  "52372b78ed9b": "Comprendre affiche les textes passerelles. Le grec ou l’hébreu se trouve dans <span class=\"ui\">Traduire</span> et <span class=\"ui\">Vérifier</span>."
+}

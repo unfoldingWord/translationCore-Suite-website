@@ -1,0 +1,15 @@
+{
+  "fd7bfead716f": "Jika aplikasi tertutup tiba-tiba atau jendelanya kosong · Bantuan translationCore 4",
+  "55b76d8a66e8": "tC4 mencatat setiap langkah yang mengubah proyek. Jika aplikasi berhenti di tengah suatu langkah, langkah itu diselesaikan atau dibereskan saat aplikasi dimulai berikutnya, sehingga tidak ada proyek yang tertinggal dalam keadaan rusak.",
+  "78bd5ab8337d": "Jika jendela menjadi kosong atau tidak merespons",
+  "87388e67fa24": "Buka menu <strong>Window</strong> lalu klik <strong>Reload</strong>, atau tekan Ctrl+R.",
+  "b5fd05422653": "tC4 kembali ke Beranda. Buka proyek Anda lagi.",
+  "699657357b3c": "Jika Anda melihat \"Layar ini tidak dapat ditampilkan.\", klik <strong>Kembali ke Beranda</strong>, lalu buka proyek lagi.",
+  "3ab37d80c428": "Jika tC4 tertutup",
+  "a09dba536852": "Mulai tC4 lagi.",
+  "8b0d89d59a34": "Pastikan proyek Anda ada di Beranda.",
+  "e0c604da4f04": "Jika impor terputus, impor file itu lagi.",
+  "f38932ff0291": "Reload membawa Anda ke Beranda. Proyek Anda masih ada di sana.",
+  "814d83120c04": "<strong>Toggle Developer Tools</strong> ditujukan untuk pengembang. Anda tidak memerlukannya.",
+  "b55e6bd5d484": "Menu Window pada aplikasi desktop, dengan Reload Ctrl+R, Force Reload Ctrl+Shift+R, dan Toggle Developer Tools Ctrl+Shift+I."
+}

@@ -1,0 +1,15 @@
+{
+  "fd7bfead716f": "Als de app onverwacht sloot of het venster leeg werd · translationCore 4 Help",
+  "55b76d8a66e8": "tC4 legt elke stap vast die een project verandert. Als de app midden in zo'n stap stopt, maakt hij die bij de volgende start af of ruimt hij hem op, zodat er geen beschadigd project achterblijft.",
+  "78bd5ab8337d": "Als het venster leeg wordt of niet meer reageert",
+  "87388e67fa24": "Open het menu <strong>Window</strong> en klik op <strong>Reload</strong>, of druk op Ctrl+R.",
+  "b5fd05422653": "tC4 komt terug op Home. Open je project opnieuw.",
+  "699657357b3c": "Zie je \"This screen could not be shown.\", klik dan op <strong>Back to Home</strong> en open het project opnieuw.",
+  "3ab37d80c428": "Als tC4 gesloten is",
+  "a09dba536852": "Start tC4 opnieuw.",
+  "8b0d89d59a34": "Kijk of je projecten op Home staan.",
+  "e0c604da4f04": "Als een import werd onderbroken, importeer het bestand dan opnieuw.",
+  "f38932ff0291": "Reload brengt je naar Home. Je projecten zijn er nog.",
+  "814d83120c04": "<strong>Toggle Developer Tools</strong> is voor ontwikkelaars. Je hebt het niet nodig.",
+  "b55e6bd5d484": "Het menu Window van de desktop-app, met Reload Ctrl+R, Force Reload Ctrl+Shift+R en Toggle Developer Tools Ctrl+Shift+I."
+}

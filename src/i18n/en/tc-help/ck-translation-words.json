@@ -1,0 +1,16 @@
+{
+  "2cb8183fcd0b": "Check with Translation Words · translationCore 4 Help",
+  "f8b008126386": "Use it to make sure each term is translated the right way, and the same way everywhere it appears.",
+  "89604295b1b7": "Check a term",
+  "50bd5b9f5db9": "Click <span class=\"ui\">Check</span>, then <span class=\"ui\">Start checking →</span> on the <span class=\"ui\">Translation Words</span> card.",
+  "cdd56a2b7b1c": "Read the term at the top. It is highlighted in the source cards: the original language, the literal gateway text and the simplified text (UST or GST). Click <span class=\"ui\">Learn more</span> to read what it means. The article opens in a panel on the right. Close it with ✕.",
+  "d54a05521846": "Under <span class=\"ui\">Your translation</span>, tap the word or words that translate the highlighted term.",
+  "737aba652a84": "To stop, click <span class=\"ui\">← Back to translating</span> at the bottom left. Next time, <span class=\"ui\">Check</span> opens Translation Words where you left it.",
+  "05e33bb36d32": "<span class=\"ui\">Sort</span> <span class=\"ui\">By word</span> puts every place a term is used together, so you can see whether you translated \"grace\" the same way each time. <span class=\"ui\">By verse</span> goes through the book in order.",
+  "0614c935d23a": "<span class=\"ui\">⚑ Bookmark</span> marks an item to come back to. <span class=\"ui\">✎ Add a comment</span> leaves a note for your team. See <a href=\"ck-bookmarks\">Bookmark a check</a> and <a href=\"ck-comments\">Write a check comment</a>.",
+  "778d734f3abb": "<strong>Note:</strong> A verse that is not drafted yet cannot be checked. Draft it in Translate first.",
+  "1dbb172a6232": "The check list comes from a <strong>Translation Words Links</strong> release (for English, <code>en_twl</code> that ships with the app). The articles come from <strong>Translation Words</strong> (<code>en_tw</code>).",
+  "af2e13e3bbd7": "Some books have no Translation Words check yet (for example Ezekiel), until a Links release includes them.",
+  "815d4cf3dd27": "If a link points to an article your checking language does not have, that item is hidden and does not count in progress.",
+  "69c53fbb8fa4": "Translation Words for Titus, item 1 of 182: “Paul” in Titus 1:1. Labels point to All checking tools, the filters, the word, Learn more, the Greek, the literal gateway text, the simplified text (UST), Back to translating, the check list grouped by word, your decision, Previous and Next, Your translation and Add a comment."
+}

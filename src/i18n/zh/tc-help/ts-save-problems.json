@@ -1,0 +1,13 @@
+{
+  "4b6a6a014b40": "保存失败时 · translationCore 4 帮助",
+  "747f2583a77a": "右上角的指示器会显示 <span class=\"ui\">Saved</span>（已保存）、<span class=\"ui\">Saving…</span>（正在保存）、<span class=\"ui\">Unsaved changes</span>（有未保存的更改）或 <span class=\"ui\">Save failed — retry</span>（保存失败，请重试）。",
+  "e3580bd75749": "如果看到 <span class=\"ui\">Save failed — retry</span>，请点击一次 <span class=\"ui\">Retry</span>，然后等待。",
+  "2d40c64dbf9d": "如果再次失败，请留在当前页面。在保存成功之前，切换到其他模式可能会被拒绝。",
+  "2fd17609c503": "如果你在有未保存的更改时关闭 tC4，它会发出警告。请留下，再试一次 <span class=\"ui\">Retry</span>。",
+  "8e2daa28aeb0": "如果一直失败，请记下消息内容并寻求帮助。",
+  "893b07b094b5": "多次点击 <span class=\"ui\">Retry</span> 没有帮助，它每次只尝试一次。",
+  "9e57e0b22b6f": "在导入的项目中，向空白经节写入第一段文字时，可能每次都保存失败，Retry 也无法解决。关闭 tC4 之前，请把你的文字复制到安全的地方，因为这节经文会恢复为空白。在这样的经节中输入后点击取消，也可能出现同样的消息。",
+  "e5f60e2765f9": "显示保存问题时，<span class=\"ui\">← All checking tools</span> 仍然可以使用。",
+  "f7028df78512": "如果保存指示器下方的消息是 <strong>This project was synced, so the app must open it again</strong>（这个项目已同步，所以应用必须重新打开它），请点击主页，重新打开项目，再做一次你最后的更改。这种情况下 Retry 没有帮助。请参阅<a href=\"ts-protect-messages\">保护项目的提示信息</a>。",
+  "978fdc3be81d": "右上角的保存指示器显示 Save failed — retry，旁边有一个 Retry 按钮。"
+}

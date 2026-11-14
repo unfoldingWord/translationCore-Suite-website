@@ -1,0 +1,9 @@
+{
+  "language": "Idioma",
+  "onThisPage": "En esta página",
+  "noResults": "Ningún tema coincide con “{query}”. Pruebe otra palabra, como alinear, revisar, historia o sin conexión.",
+  "seeAll": "Ver todos los resultados →",
+  "resultsOne": "1 tema para “{query}”",
+  "resultsMany": "{count} temas para “{query}”",
+  "searchPrompt": "Escriba una o dos palabras, como “alinear”, “marcador” o “rango de versículos”."
+}

@@ -1,0 +1,16 @@
+{
+  "13d6112f254d": "理解、翻译、检查——三种模式 · translationCore 4 帮助",
+  "22c05e04d926": "切换模式时，你在书卷中的位置保持不变。Open Bible Stories 项目也有同样的三种模式。",
+  "61aee9109a1b": "从主页打开一卷书或一个故事。",
+  "128bfef94f36": "点击顶部栏中间的 <span class=\"ui\">Understand</span>、<span class=\"ui\">Translate</span> 或 <span class=\"ui\">Check</span>。当前所在的模式会以填充色显示。",
+  "cf7e68e6b38d": "每种模式的用途",
+  "08d61dfdd7ca": "<strong><span class=\"ui\">Understand</span>（理解）：</strong>阅读经文及其注释、词汇链接和问题，并写下你自己的评论。请参阅<a href=\"un-read-passage\">翻译前先阅读经文</a>。",
+  "79ebbb5807f3": "<strong><span class=\"ui\">Translate</span>（翻译）：</strong>在源文本旁起草你的译文。请参阅<a href=\"tr-screen\">翻译界面</a>。",
+  "c0cac543b795": "<strong><span class=\"ui\">Check</span>（检查）：</strong>用 Translation Notes 和 Translation Words 检查草稿、对齐词语，并预览书卷。请参阅<a href=\"ck-tool-picker\">选择检查工具</a>。",
+  "29c21f035696": "许多团队按这个顺序进行，但你可以随时切换。",
+  "20b3650806b8": "第一次打开的书卷或故事会从 <span class=\"ui\">Understand</span> 开始。之后，tC4 会以你上次使用的模式打开它。",
+  "7ae9ea51f3a9": "<span class=\"ui\">Check</span> 会回到你上次使用的检查工具。要选择其他工具，请点击左上角的 <span class=\"ui\">← All checking tools</span>。",
+  "89c9737cc63f": "如果有任何改动，切换模式时会保存一个检查点。请参阅<a href=\"gs-save\">保存与检查点</a>。",
+  "4ffefe6c913a": "导出不是单独的模式，它在 <span class=\"ui\">Check</span> › <span class=\"ui\">Community Checking</span> 中。请参阅<a href=\"bp-export-pdf\">将书卷导出为 PDF</a>。",
+  "20f0ff816d20": "顶部栏中间的切换开关：Understand、Translate（已选中，以浅蓝色填充）和 Check。"
+}

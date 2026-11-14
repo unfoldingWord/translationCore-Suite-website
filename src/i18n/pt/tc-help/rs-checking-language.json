@@ -1,0 +1,20 @@
+{
+  "92833ce9e8b2": "Mudar o idioma de verificação · Ajuda do translationCore 4",
+  "68427c9028dd": "As verificações usam as notas e os artigos de palavras de um idioma ponte.",
+  "5aa71e16aef1": "Se o idioma ainda não estiver na lista, baixe-o primeiro. Veja <a href=\"rs-source-texts\">Baixar textos-fonte</a>.",
+  "c03214fc86f3": "Em <span class=\"ui\">Idioma de verificação</span>, clique no idioma que você quer. O idioma atual está marcado como <span class=\"ui\">Atual</span> (1).",
+  "379f666918d8": "Leia a confirmação. Ela diz quantas decisões são mantidas e quantas voltam como trabalho a fazer.",
+  "42260194b915": "Clique em \"Alterar para …\" para confirmar. O novo idioma agora está marcado como <span class=\"ui\">Atual</span>.",
+  "ea856a88e0c5": "Para cancelar, clique em \"Manter …\" na confirmação.",
+  "79bd6b234469": "Um conjunto completo inclui os <strong>Links de Palavras de Tradução</strong> (<code>_twl</code>) quando esse idioma publica um. Baixe o pacote para que os Links sejam instalados; para esses idiomas, o aplicativo não usa os Links em inglês como alternativa.",
+  "252b7ea72f2c": "Algumas organizações de idiomas ponte publicam as palavras, mas não um repositório de Links. Para essas, as verificações usam a lista de Links em <strong>inglês</strong> com os artigos de palavras daquele idioma. Podem aparecer duas linhas de árabe: escolha a organização indicada abaixo do idioma.",
+  "4f43d14a1c34": "Depois que você muda o idioma, os itens de Palavras de Tradução são refeitos a partir da nova fixação dos Links. As decisões só são mantidas quando a mesma verificação ainda existe.",
+  "589e7d510f4b": "O idioma que já está em uso para a verificação não é oferecido de novo como uma nova opção.",
+  "15bd0b9b5396": "Quando o tC4 pede que você confirme uma mudança do idioma de verificação, as duas opções ficam lado a lado.",
+  "736157ec9cf8": "Uma decisão só é mantida quando as novas notas têm a mesma verificação sobre as mesmas palavras. As notas em outro idioma muitas vezes são divididas de outro jeito, então poucas decisões podem ser mantidas. Isso é normal.",
+  "65e0f34827da": "Nada é excluído. As decisões que não são mantidas deixam de contar, e essas verificações voltam como A fazer. Um livro que estava concluído pode deixar de estar.",
+  "1a41374668d3": "O conjunto do idioma precisa estar completo: notas, palavras e academia.",
+  "393c252ea8a7": "A confirmação dá a cada idioma o mesmo nome da lista, por exemplo \"Español (Latinoamérica)\". Quando dois pacotes têm o mesmo nome, como as duas linhas Français, cada um também mostra o nome do seu dono.",
+  "2431cd8e2c7a": "A parte Idioma de verificação das Configurações do projeto: Este projeto verifica em English · unfoldingWord., a linha English marcada como ATUAL (1) e Gerenciar textos fonte →.",
+  "6f7c4d536d9a": "A confirmação: Alterar o idioma de verificação para English? 4 decisões em Tito foram tomadas com base nas notas que você está deixando. Tito · Palavras de Tradução: 2 mantidas, 0 para verificar novamente. Tito · Notas de Tradução: 0 mantidas, 1 para verificar novamente. Manter Español (Latinoamérica) e Alterar para English."
+}

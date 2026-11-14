@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "Translate اسکرین · translationCore 4 مدد",
+  "b5e20a3b5c23": "ہر قطار ماخذ متن کے ایک حصے کو اس کے آپ کے ترجمے کے ساتھ رکھتی ہے۔",
+  "ccd3b0577ccf": "کوئی کتاب کھولیں، پھر اوپر <span class=\"ui\">Translate</span> پر کلک کریں۔",
+  "6eb73fcf4caa": "اوپر والے ٹیبز سے ماخذ متن منتخب کریں: <span class=\"ui\">ULT</span> (لفظی)، <span class=\"ui\">UST</span> (آسان) یا اصل زبان (<span class=\"ui\">Greek</span> یا <span class=\"ui\">Hebrew</span>)۔ ٹیبز کے نیچے والی لائن متن اور اس کے ورژن کا نام بتاتی ہے۔",
+  "cba9851fabf8": "ایک ساتھ پورے حصے کا مسودہ لکھنے کے لیے <span class=\"ui\">Section</span> منتخب کریں، یا ایک وقت میں ایک آیت کا مسودہ لکھنے کے لیے <span class=\"ui\">Verse</span>۔",
+  "c7138b6f2ae2": "جس حصے پر کام کرنا ہے اس کے ساتھ <span class=\"ui\">Draft section</span> پر کلک کریں۔ متن لکھیں، پھر <span class=\"ui\">Place verse numbers</span> استعمال کریں۔ دیکھیں <a href=\"tr-draft-section\">ایک حصے کا مسودہ لکھیں</a>۔",
+  "6f6d5b88466d": "<span class=\"ui\">Save section</span> پر کلک کریں۔ حصے کو پہلے جیسا رکھنے کے لیے <span class=\"ui\">Cancel</span> پر کلک کریں۔",
+  "fb24ef6c8a86": "جگہ بنائیں",
+  "8c8975cae9b6": "صفحے کے اوپر بائیں طرف والا بٹن کتابوں کی فہرست دکھاتا یا چھپاتا ہے۔",
+  "d034ae5cfc60": "صفحے کے اوپر دائیں طرف <span class=\"ui\">Toggle helps panel</span> مددگار وسائل دکھاتا یا چھپاتا ہے۔ پینل کی چوڑائی بدلنے کے لیے عمودی لکیر کو گھسیٹیں۔",
+  "4d761027a250": "مددگار وسائل کا پینل",
+  "ddbdbe454552": "پینل اس حصے کے لیے مدد دکھاتا ہے جس پر آپ کام کر رہے ہیں: <span class=\"ui\">Notes</span>، <span class=\"ui\">Words</span>، <span class=\"ui\">Questions</span>، آسان متن (<span class=\"ui\">UST</span>) اور Understand موڈ سے <span class=\"ui\">Comments</span>۔ کسی مدد کے کارڈ پر کلک کریں تو جن الفاظ کے بارے میں وہ ہے وہ ماخذ متن میں نمایاں ہو جاتے ہیں۔ دیکھیں <a href=\"tr-helps-panel\">Translate میں مددگار وسائل کا پینل</a>۔",
+  "2ac8369ebd1d": "Translate موڈ ہر پروجیکٹ کے لیے آپ کا <span class=\"ui\">Section</span> یا <span class=\"ui\">Verse</span> کا انتخاب یاد رکھتا ہے۔",
+  "a17f0c7ae079": "ططس 1 کے لیے Translate اسکرین، جس میں حصہ 1–3 مسودہ لکھنے کے لیے کھلا ہے۔ نشانات ان چیزوں کی طرف اشارہ کرتے ہیں: ماخذ متن کے ٹیب (ULT، UST، Greek)، Modes سوئچ جس میں Translate منتخب ہے، Section یا Verse سوئچ، مددگار وسائل کے پینل کے ٹیب، محفوظ ہونے کی حالت، ابواب کے بٹن، ماخذ کا حوالہ، مسودہ لکھنے کے مراحل (Type، Place verse numbers)، Save section، اگلا Draft section بٹن، اور ایک مدد کا کارڈ۔"
+}

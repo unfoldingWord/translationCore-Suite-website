@@ -1,0 +1,16 @@
+{
+  "e40379202528": "Paragraphes et poésie · Aide de translationCore 4",
+  "b91feb823675": "Cela fonctionne dans le mode <span class=\"ui\">Saisir</span> de l’éditeur de section.",
+  "b3ab5b935792": "Ouvrez une section avec <span class=\"ui\">Rédiger la section {span}</span>.",
+  "b2c1beaae3c7": "Tapez votre texte. Appuyez sur <strong>Entrée</strong> là où commence un nouveau paragraphe.",
+  "030e16e8a13c": "Au début d’une ligne de poésie, appuyez sur <strong>Tab</strong>. Appuyez de nouveau sur Tab pour un deuxième niveau, ou sur <strong>Maj+Tab</strong> pour retirer un retrait.",
+  "f83c757421ba": "Placez les numéros de verset et cliquez sur <span class=\"ui\">Enregistrer la section</span>.",
+  "1b472269257b": "La poésie déjà présente",
+  "2787d96d98dd": "Quand vous ouvrez un verset de poésie, l’éditeur affiche le verset entier, chaque ligne du poème. Chaque ligne commence par son retrait : une tabulation pour le premier niveau, deux pour le deuxième, trois pour le troisième. Un saut de paragraphe ou de bloc dans le verset apparaît comme une ligne vide, et un titre dans un verset apparaît sur sa propre ligne. Laissez ces lignes telles quelles et ne modifiez que les mots.",
+  "e6b4d5f6d18d": "tC4 a trois niveaux de poésie. Une quatrième tabulation est enregistrée comme troisième niveau.",
+  "3c0186069dd6": "Dans l’éditeur de <strong>Verset</strong>, Tab et Entrée ferment l’éditeur et enregistrent. Pour y commencer une nouvelle ligne de poésie, appuyez sur <strong>Maj+Entrée</strong>. Pour mettre un retrait à une ligne, utilisez l’éditeur de section.",
+  "95da95d9a880": "Le texte source affiche ses propres paragraphes et lignes de poésie : vous pouvez donc les suivre.",
+  "02068dbf6788": "Les titres, les notes de bas de page et les autres mises en forme ne peuvent pas encore être ajoutés dans l’éditeur.",
+  "36f5d759734c": "L’éditeur de section pour Tite 2:9-10 en mode Saisir. L’indication dit Entrée pour un paragraphe, Tab pour la poésie. Les lignes qui commencent plus à droite sont des lignes de poésie en retrait ; deux sont marquées 1 et 2.",
+  "5b477b5d2415": "L’éditeur de verset ouvert sur Psaumes 9:1 : les deux lignes du poème sont dans l’éditeur, et la deuxième commence plus à droite parce que c’est une ligne de poésie de deuxième niveau."
+}

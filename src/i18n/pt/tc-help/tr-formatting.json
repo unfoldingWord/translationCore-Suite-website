@@ -1,0 +1,16 @@
+{
+  "e40379202528": "Parágrafos e poesia · Ajuda do translationCore 4",
+  "b91feb823675": "Isto funciona no modo <span class=\"ui\">Digitar</span> do editor de seção.",
+  "b3ab5b935792": "Abra uma seção com <span class=\"ui\">Redigir seção {span}</span>.",
+  "b2c1beaae3c7": "Digite seu texto. Pressione <strong>Enter</strong> onde começa um novo parágrafo.",
+  "030e16e8a13c": "No início de uma linha de poesia, pressione <strong>Tab</strong>. Pressione Tab de novo para um segundo nível, ou <strong>Shift+Tab</strong> para tirar um recuo.",
+  "f83c757421ba": "Posicione os números dos versículos e clique em <span class=\"ui\">Salvar seção</span>.",
+  "1b472269257b": "Poesia que você já tem",
+  "2787d96d98dd": "Quando você abre um versículo de poesia, o editor mostra o versículo inteiro, com todas as linhas do poema. Cada linha começa com o seu recuo: uma tabulação para o primeiro nível, duas para o segundo, três para o terceiro. Uma quebra de parágrafo ou de trecho dentro do versículo aparece como uma linha em branco, e um título dentro de um versículo aparece em uma linha própria. Deixe essas linhas como estão e mude só as palavras.",
+  "e6b4d5f6d18d": "O tC4 tem três níveis de poesia. Uma quarta tabulação é salva como terceiro nível.",
+  "3c0186069dd6": "No editor de <strong>Versículo</strong>, Tab e Enter fecham o editor e salvam. Para começar ali uma nova linha de poesia, pressione <strong>Shift+Enter</strong>. Para recuar uma linha, use o editor de seção.",
+  "95da95d9a880": "O texto-fonte mostra os próprios parágrafos e linhas de poesia, para que você possa acompanhá-los.",
+  "02068dbf6788": "Ainda não é possível acrescentar títulos, notas de rodapé e outras formatações no editor.",
+  "36f5d759734c": "O editor de seção para Tito 2:9–10 no modo Digitar. A dica diz Enter para parágrafo, Tab para poesia. As linhas que começam mais para dentro são linhas de poesia recuadas; duas estão marcadas com 1 e 2.",
+  "5b477b5d2415": "O editor de versículo aberto em Salmos 9:1: as duas linhas do poema estão no editor, e a segunda começa mais para dentro porque é uma linha de poesia de segundo nível."
+}

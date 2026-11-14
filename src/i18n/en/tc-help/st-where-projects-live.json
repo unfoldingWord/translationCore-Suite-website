@@ -1,0 +1,12 @@
+{
+  "e4359c86424d": "Where your projects are stored · translationCore 4 Help",
+  "3eab40f3847e": "\"Only on this computer\" (1) on a project card means the project is stored only in this folder.",
+  "30baa24967e0": "Folder",
+  "02c7ab4c886a": "Back up your projects",
+  "1a3b4a6ebb72": "Close tC4.",
+  "e025bbb3943b": "Copy the whole <code>tc4-projects</code> folder to a USB drive or another backup place.",
+  "9aba78ed16f6": "Uninstalling tC4 keeps your projects.",
+  "103374590ee0": "To move one project to another computer, use <span class=\"ui\">Save or receive work by USB</span>, or <a href=\"bp-export-burrito\">export a Scripture Burrito</a> and open it there with <span class=\"ui\">+ Add a project</span> › <span class=\"ui\">Receive work from a file</span>. That's safer than copying folders.",
+  "a667363ac5b9": "Don't change files in the folder while tC4 is open. tC4 notices and stops to protect the project. See <a href=\"ts-protect-messages\">Messages that protect your project</a>.",
+  "05aa89ccda13": "A Bible project card on Home. The line es-419 · 2 books · 2 in progress · Only on this computer is marked 1. Share on Door43, Save or receive work by USB and Settings are on the right."
+}

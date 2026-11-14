@@ -1,0 +1,17 @@
+{
+  "4376ec103233": "Đặt số câu · Trợ giúp translationCore 4",
+  "5eca11c21193": "Sau khi gõ xong một phần, hãy nhấp vào từng số câu, rồi nhấp vào từ mà câu đó bắt đầu.",
+  "dbe8b6820c98": "Mỗi số câu là một dấu nhỏ màu cam, và những số bạn chưa đặt sẽ chờ trong ô <span class=\"ui\">Cần đặt</span>.",
+  "0ebe78d1b672": "Trong trình soạn thảo phần, nhấp vào <span class=\"ui\">Đặt số câu</span>.",
+  "3b3fea276e32": "Nhấp vào một số trong ô <span class=\"ui\">Cần đặt</span> (1). Ô này ghi \"Chọn một số, sau đó nhấp vào từ mà câu đó bắt đầu.\"",
+  "0f18a5341cd8": "Bây giờ ô ghi \"Nhấp vào từ nơi câu 10 bắt đầu\". Hãy nhấp vào từ đó trong văn bản.",
+  "d02dd9bad9b1": "Lặp lại với mọi số, rồi nhấp vào <span class=\"ui\">Lưu phần này</span>.",
+  "cb344d0f23be": "Để quay lại gõ chữ, hãy nhấp vào <span class=\"ui\">Gõ chữ</span>. Các số bạn đã đặt vẫn được giữ. <span class=\"ui\">Hủy</span> đóng trình soạn thảo mà không lưu.",
+  "ca6abd1aaedf": "Để di chuyển một số đã đặt, hãy nhấp vào số đó trong văn bản, rồi nhấp vào một từ khác.",
+  "42739399ed72": "Nếu một số rơi vào một từ gần đó ngay khi bạn nhấp, hãy nhấp lại vào số đó và nhấp vào đúng từ.",
+  "fac2a16d248a": "Khi bạn nhấp vào một số đã đặt, ô vẫn ghi \"Mọi câu đã được đặt. Chọn một số để di chuyển vị trí bắt đầu câu.\" Hãy làm theo dòng bên dưới: \"Nhấp vào từ nơi câu 10 bắt đầu\".",
+  "0ab63b894abe": "Một số không thể vượt qua số khác, và số đầu tiên của phần không thể di chuyển.",
+  "62b7e7cf49e0": "Đặt một số lên từ mà câu khác bắt đầu sẽ gộp chúng thành một nhóm câu. Xem <a href=\"tr-verse-spans\">Gộp hoặc tách nhóm câu</a>.",
+  "ddaf79c7ea52": "Chế độ Đặt số câu cho Tít 2:9–10. Câu 9 cố định ở đầu văn bản, và số 10 đang chờ trong ô Cần đặt, được đánh số 1, với gợi ý Chọn một số, sau đó nhấp vào từ mà câu đó bắt đầu.",
+  "a22a81f22a81": "Cùng phần đó sau khi nhấp vào số 10: ô Cần đặt ghi Nhấp vào từ nơi câu 10 bắt đầu."
+}

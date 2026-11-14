@@ -1,0 +1,14 @@
+{
+  "f882d1692c25": "27 de septiembre de 2026 — un solo botón + Agregar un proyecto en Inicio · Ayuda de translationCore 4",
+  "22889dff5dd5": "Inicio ahora tiene un solo botón <span class=\"ui\">+ Agregar un proyecto</span> en lugar de tres. Abre un cuadro de diálogo donde usted elige una Biblia nueva, Open Bible Stories nuevas o una importación. El encabezado de Inicio ahora es <span class=\"ui\">Tus proyectos</span>.",
+  "7e4b91991b86": "Qué cambió",
+  "0b05f77e4428": "El encabezado de Inicio ahora es <span class=\"ui\">Tus proyectos</span> (antes era \"Tus Biblias\").",
+  "58b1575818d7": "Un botón azul <span class=\"ui\">+ Agregar un proyecto</span> reemplaza los botones separados para una Biblia nueva, Open Bible Stories nuevas y la importación.",
+  "f92b05182fa1": "<span class=\"ui\">+ Agregar un proyecto</span> abre un cuadro de diálogo con tres tarjetas: <span class=\"ui\">Nueva Biblia</span>, <span class=\"ui\">Nuevas Historias Bíblicas Abiertas</span> (Open Bible Stories) e <span class=\"ui\">Importar un proyecto</span>. Vea <a href=\"gs-home\">La pantalla de Inicio</a>.",
+  "56254fba4c31": "Cada tarjeta abre el mismo formulario que antes: <a href=\"bp-new-bible\">Crear un proyecto bíblico</a>, <a href=\"obs-create\">Iniciar un proyecto de Open Bible Stories</a>, <a href=\"bp-import\">Importar un proyecto</a>.",
+  "180b65cd249f": "El paso 1 de la importación tiene un botón <span class=\"ui\">← Atrás</span> que vuelve a las tres tarjetas.",
+  "8dec9d8ba023": "Cuando todavía no hay proyectos, Inicio dice \"Aún no hay proyectos. Selecciona + Agregar un proyecto para comenzar.\"",
+  "80d5aaf1c8eb": "Teclado: Tab recorre las tarjetas, Enter o la barra espaciadora abre una, y Esc cierra el cuadro de diálogo.",
+  "24b8408d001b": "Después de que se cierra un formulario, el foco del teclado no vuelve a <span class=\"ui\">+ Agregar un proyecto</span>.",
+  "2c9c6bcf5f5f": "El formulario <span class=\"ui\">Nueva Biblia</span> puede ser más alto que una ventana pequeña. Desplácese dentro de él para llegar a <span class=\"ui\">Crear Biblia →</span>."
+}

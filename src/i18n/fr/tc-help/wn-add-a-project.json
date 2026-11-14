@@ -1,0 +1,14 @@
+{
+  "f882d1692c25": "27 sept. 2026 — un seul bouton + Ajouter un projet sur l’accueil · Aide de translationCore 4",
+  "22889dff5dd5": "L’accueil a maintenant un seul bouton <span class=\"ui\">+ Ajouter un projet</span> au lieu de trois. Il ouvre une boîte de dialogue où vous choisissez une nouvelle Bible, de nouvelles Open Bible Stories ou une importation. Le titre de l’accueil est maintenant <span class=\"ui\">Vos projets</span>.",
+  "7e4b91991b86": "Ce qui a changé",
+  "0b05f77e4428": "Le titre de l’accueil est maintenant <span class=\"ui\">Vos projets</span> (c’était « Vos Bibles »).",
+  "58b1575818d7": "Un seul bouton bleu <span class=\"ui\">+ Ajouter un projet</span> remplace les boutons séparés pour une nouvelle Bible, de nouvelles Open Bible Stories et l’importation.",
+  "f92b05182fa1": "<span class=\"ui\">+ Ajouter un projet</span> ouvre une boîte de dialogue avec trois cartes : <span class=\"ui\">Nouvelle Bible</span>, <span class=\"ui\">Nouvelles Open Bible Stories</span> et <span class=\"ui\">Importer un projet</span>. Voir <a href=\"gs-home\">L’écran d’accueil</a>.",
+  "56254fba4c31": "Chaque carte ouvre le même formulaire qu’avant : <a href=\"bp-new-bible\">Créer un projet biblique</a>, <a href=\"obs-create\">Commencer un projet Open Bible Stories</a>, <a href=\"bp-import\">Importer un projet</a>.",
+  "180b65cd249f": "L’étape 1 de l’importation a un bouton <span class=\"ui\">← Retour</span> qui ramène aux trois cartes.",
+  "8dec9d8ba023": "Quand il n’y a encore aucun projet, l’accueil affiche « Aucun projet pour l’instant. Sélectionnez + Ajouter un projet pour commencer. »",
+  "80d5aaf1c8eb": "Clavier : Tab passe d’une carte à l’autre, Entrée ou Espace en ouvre une, et Échap ferme la boîte de dialogue.",
+  "24b8408d001b": "Après la fermeture d’un formulaire, le focus du clavier ne revient pas sur <span class=\"ui\">+ Ajouter un projet</span>.",
+  "2c9c6bcf5f5f": "Le formulaire <span class=\"ui\">Nouvelle Bible</span> peut être plus haut qu’une petite fenêtre. Faites défiler à l’intérieur pour atteindre <span class=\"ui\">Créer la Bible →</span>."
+}

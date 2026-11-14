@@ -1,0 +1,17 @@
+{
+  "2444fbf270b8": "Baixar textos-fonte · Ajuda do translationCore 4",
+  "3d6eae5d0cf6": "O idioma ponte é o idioma em que sua equipe lê o texto-fonte e as ajudas. O inglês vem com o aplicativo.",
+  "7d17ef831dae": "Em <span class=\"ui\">Escolha seu idioma ponte</span>, clique em um idioma (1). Se aparecer \"Conectar à internet?\", clique em <span class=\"ui\">Ativar internet</span>. Veja <a href=\"rs-offline\">Trabalhar off-line</a>.",
+  "87c2a0c6f088": "Escolha o <span class=\"ui\">Livro</span>.",
+  "619a3f60dc35": "Confira o <span class=\"ui\">Conteúdo do pacote</span>. Clique em um cartão para deixá-lo de fora, ou clique de novo para incluí-lo outra vez.",
+  "b2d5c7505186": "Clique em <span class=\"ui\">⇣ Baixar pacote</span>. Quando aparecer \"✓ {book} · {language} está pronto\", clique em <span class=\"ui\">Fechar</span>.",
+  "8b9d01dac0a2": "Enquanto o pacote é baixado, a parte de baixo da janela mostra <span class=\"ui\">Baixando …</span> com o repositório que está sendo buscado, e um botão <span class=\"ui\">Cancelar</span>. Eles continuam lá se você escolher outro livro ou voltar para a lista de idiomas. Clique em <span class=\"ui\">Cancelar</span> para parar o download.",
+  "8b8f02c8633e": "Para sair sem baixar, clique em <span class=\"ui\">Fechar</span> ou no ✕. Fechar a janela não interrompe um download que já começou; abra <span class=\"ui\">Obter textos-fonte</span> de novo para vê-lo ou cancelá-lo.",
+  "2fc42d3c75b4": "Para a maioria dos idiomas ponte, o pacote inclui um repositório de <strong>Links de Palavras de Tradução</strong> (<code>…_twl</code>) além das Palavras de Tradução. Deixe-o selecionado para que a instalação da verificação fique completa.",
+  "acf775b53543": "Duas linhas podem ter o mesmo nome, como as duas linhas Français. A organização indicada abaixo do nome mostra a diferença.",
+  "1c359191fab9": "As versões da lista são as mais recentes no Door43, e não as que o seu projeto usa.",
+  "84b941e238b1": "Para verificar no idioma baixado, escolha-o em <a href=\"st-project-settings\">Configurações do projeto</a>. Veja <a href=\"rs-checking-language\">Mudar o idioma de verificação</a>.",
+  "ab9ab2d35728": "Off-line, a janela diz \"O tC4 não leu a lista de textos-fonte do Door43.\" com <span class=\"ui\">Ler a lista</span>. A linha abaixo, \"Esta organização não publica nada que o tC4 possa usar…\", só quer dizer que a lista não foi lida.",
+  "2827fe51be40": "Se alguns downloads falharem, a janela mostra a lista deles.",
+  "7dd6ae7b823d": "Obter textos-fonte. Recursos fixados com Verificar atualizações e, depois, Escolha seu idioma ponte: English (unfoldingWord, notas v91, palavras v91, academia v91), Español (Latinoamérica) (es-419_gl, marcado com 1), duas linhas chamadas Français (Xenizo e MVHS) e Русский."
+}

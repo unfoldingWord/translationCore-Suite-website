@@ -1,0 +1,17 @@
+{
+  "0fcd91d58b19": "Editing a verse you already checked or aligned · translationCore 4 Help",
+  "c1ba7e1a0bf9": "Checks and alignments are tied to the exact words of a verse, so when those words change tC4 marks what may no longer fit.",
+  "bab305fa9966": "Change a verse in <span class=\"ui\">Translate</span> that you already checked or aligned.",
+  "cf4ff9ae160d": "Go to <span class=\"ui\">Check</span> and open the checking tool. A notice at the top says how many decisions need review.",
+  "1ad836e88066": "Click the <span class=\"ui\">Invalid</span> filter to see those items, and decide each one again.",
+  "8adaab7c37c9": "Open <span class=\"ui\">Align</span> for the verse. Words you changed are back in the word bank. Place them and click <span class=\"ui\">✓ Mark valid</span> again.",
+  "9e7f896a239f": "A check decision whose words changed becomes <strong>Invalid</strong>. It is kept, not deleted.",
+  "3d5c7795898c": "In Align, links to the words you didn't change are kept. The verse shows as to do again.",
+  "c69cb0af2d36": "A link stays on the word it was placed on, even if you add or remove words before it. If you delete a linked word, its link goes too.",
+  "52199ccf3ef4": "If you change a word that comes more than once, and tC4 can't tell which copy you kept, the verse is flagged for review. Open it in Align, check the links, and click <span class=\"ui\">✓ Mark valid</span> again.",
+  "02c774e022a1": "A verse that needs review shows a notice at the top of the verse in Align and is marked in the verse list.",
+  "223edf8f0d6d": "Making or breaking a verse span has the same effect on those verses.",
+  "8c8ae7daabbf": "A checking tool may reopen at the item you were on. Use the <span class=\"ui\">Invalid</span> filter to find every item that needs review.",
+  "e395662b6ada": "The notice at the top of a checking tool: 1 decision(s) no longer match the draft text and need re-review. Nothing was discarded.",
+  "a3c0c8a79510": "The Align word bank after an edit: WORD BANK · YOUR TRANSLATION, 25 of 26 words placed, and the changed word belief waiting to be placed again."
+}

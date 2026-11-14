@@ -1,0 +1,13 @@
+{
+  "01a53e588c40": "Notas de tradução e artigos da Academia de Tradução · Ajuda do translationCore 4",
+  "0671ee584d38": "Muitas notas têm um link para um artigo da Academia de Tradução, uma lição curta sobre uma questão de tradução, como metáforas ou substantivos abstratos.",
+  "d1a1a2a4e8d2": "Em <span class=\"ui\">Compreender</span>, clique em uma seção para selecioná-la.",
+  "f568ce10b811": "No painel de ajudas, clique em <span class=\"ui\">Notas</span>. As notas ficam agrupadas sob títulos como <span class=\"ui\">INTRODUÇÃO</span> e <span class=\"ui\">VERSÍCULO 1</span>. Aponte para um cartão para destacar a expressão dele na passagem.",
+  "df79ebb34868": "Clique no link do artigo em uma nota — ele mostra o nome verdadeiro do artigo da Academia de Tradução, por exemplo <span class=\"ui\">Abstract Nouns →</span>. O artigo abre abaixo das notas, com um controle para fechar.",
+  "eccd45ba7618": "A introdução do capítulo fica sob <span class=\"ui\">INTRODUÇÃO</span>. Clique em <span class=\"ui\">Mostrar mais</span> para ler tudo.",
+  "25dad734607e": "As notas ficam no idioma de verificação do projeto. Se aparecer \"Exibido a partir da alternativa em inglês\", as notas nesse idioma não estão neste computador, então as notas em inglês são mostradas. Veja <a href=\"rs-checking-language\">Mudar o idioma de verificação</a>.",
+  "2decfe0af6a1": "Os links de artigos mostram o nome do próprio artigo da Academia de Tradução (por exemplo <span class=\"ui\">Abstract Nouns →</span>), e não um rótulo genérico <span class=\"ui\">Academia de Tradução →</span>.",
+  "75ae79166212": "Se um artigo estiver faltando, o painel diz \"Os recursos fixados não contêm o artigo para esta verificação.\" A nota continua aparecendo.",
+  "5fa1648a1e84": "As mesmas notas viram itens de verificação em <a href=\"ck-translation-notes\">Verificar com Notas de Tradução</a>.",
+  "76e2d8ec0e70": "A aba Notas em Compreender, em Tito 1. As notas ficam agrupadas sob INTRODUÇÃO e VERSÍCULO 1. Os links de artigos usam o nome verdadeiro, como Abstract Nouns →. Não há selos NOTA."
+}

@@ -1,0 +1,16 @@
+{
+  "5af4889f5ac7": "Traducir una historia · Ayuda de translationCore 4",
+  "a10337e72f9e": "Las historias se redactan por partes: el título, cada cuadro y, al final, la referencia.",
+  "984b4856ee89": "Abra una historia y haga clic en <span class=\"ui\">Traducir</span>.",
+  "8995602f6958": "Haga clic en <span class=\"ui\">Redactar el título</span> (1) y escriba el título.",
+  "7533633a8c2c": "Haga clic en <span class=\"ui\">Guardar</span>.",
+  "d80905a60fc6": "Para cada cuadro, haga clic en \"Redactar el cuadro N\" (2), mire la imagen y el texto en inglés, y escriba su traducción. Haga clic en <span class=\"ui\">Guardar</span> (1).",
+  "b886423ff2ad": "Al final, haga clic en <span class=\"ui\">Redactar la referencia</span> y traduzca la línea \"A Bible story from: …\" (Una historia bíblica de: …).",
+  "66edcca3d388": "Para cambiar una parte guardada, haga clic en su texto. Para cancelar, haga clic en <span class=\"ui\">Cancelar</span>.",
+  "bf95ea47b7f4": "El porcentaje redactado de la historia, a la izquierda, aumenta a medida que guarda partes.",
+  "118fa9449fd3": "Las notas, las palabras y las preguntas del cuadro están en el panel de ayudas de la derecha. Se quedan en ese cuadro después de hacer clic en <span class=\"ui\">Guardar</span>. La pestaña Comentarios muestra el comentario más reciente de ese cuadro.",
+  "94591424f449": "El cuadro de edición tiene la misma altura que la imagen y el texto que están a su lado. Si el texto es más largo, se desplaza dentro del cuadro; arrastre su esquina para hacerlo más alto.",
+  "0c398604d8c4": "Las historias no tienen números de versículo ni rangos de versículos.",
+  "ec94e642294e": "Historia 1 en Traducir. La columna puente muestra Historia puente · v9 · fijada, el título The Creation y el cuadro 1 con su imagen. En su columna, Redactar el título está marcado con 1 y Redactar el cuadro 1 está marcado con 2.",
+  "1cc4c1aeb82e": "El cuadro 2 abierto para redactar junto al texto en inglés del cuadro. El cuadro de edición tiene el encabezado Redactando el cuadro 2, tiene la misma altura que el cuadro de al lado y contiene Entonces Dios dijo: «¡Que haya luz!». Y hubo luz. Guardar está marcado con 1, junto a Cancelar."
+}

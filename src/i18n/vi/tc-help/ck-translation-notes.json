@@ -1,0 +1,14 @@
+{
+  "359d3bd718d5": "Kiểm tra với Ghi chú dịch thuật · Trợ giúp translationCore 4",
+  "34dabdfbc2ff": "Mỗi mục là một ghi chú có liên kết đến một bài học Học viện dịch thuật. Các ghi chú khác vẫn ở trong bảng trợ giúp.",
+  "37ed9dc0480b": "Kiểm tra một ghi chú",
+  "c2ed52ecfaef": "Nhấp vào <span class=\"ui\">Kiểm tra</span>, rồi <span class=\"ui\">Bắt đầu kiểm tra →</span> trên thẻ <span class=\"ui\">Ghi chú dịch thuật</span>.",
+  "aa2a2d64b884": "Đọc <span class=\"ui\">Nội dung cần kiểm tra</span>. Các từ liên quan được tô sáng trong các thẻ nguồn bên dưới: nguyên ngữ, văn bản cầu nối sát nghĩa (ví dụ <span class=\"ui\">Cầu nối · unfoldingWord Literal Text</span>) và văn bản đơn giản hóa (<span class=\"ui\">Cầu nối · UST</span>, hoặc <span class=\"ui\">GST</span> ở một số ngôn ngữ cầu nối).",
+  "af9960d2e388": "Để tìm hiểu thêm về vấn đề này, hãy nhấp vào <span class=\"ui\">Tìm hiểu thêm</span> bên dưới ghi chú. Bài học Học viện dịch thuật sẽ mở trong một bảng ở bên phải. Đóng bảng bằng ✕.",
+  "009010512001": "Bên dưới <span class=\"ui\">Bản dịch của bạn</span>, hãy chạm vào từ hoặc các từ dịch phần trích dẫn được tô sáng.",
+  "540bd764162b": "Để dừng, hãy nhấp vào <span class=\"ui\">← Quay lại dịch</span> ở góc dưới bên trái.",
+  "b46b87bfb0b1": "<span class=\"ui\">Sắp xếp</span> <span class=\"ui\">Theo câu</span> đi qua sách theo thứ tự. <span class=\"ui\">Theo danh mục</span> gom tất cả ghi chú về cùng một vấn đề lại với nhau, ví dụ mọi ẩn dụ.",
+  "3a9f02b502fa": "Các ghi chú hiển thị bằng ngôn ngữ kiểm tra của dự án. Xem <a href=\"rs-checking-language\">Đổi ngôn ngữ kiểm tra</a>.",
+  "4352b92c4356": "Nếu bạn thay đổi một câu sau khi đã quyết định cho câu đó, translationCore sẽ yêu cầu bạn xem lại quyết định đó. Không có gì bị mất.",
+  "e3c4462a8aa2": "Ghi chú dịch thuật cho sách Tít, mục 1 trên 157: phần trích dẫn “for the faith of the chosen people of God and knowledge of the truth” (vì đức tin của những người được Đức Chúa Trời chọn và sự hiểu biết lẽ thật) trong Tít 1:1. Các nhãn chỉ vào Tất cả công cụ kiểm tra, Sắp xếp, phần trích dẫn, Nội dung cần kiểm tra, tiếng Hy Lạp, văn bản cầu nối sát nghĩa, văn bản đơn giản hóa (UST), Quay lại dịch, danh sách kiểm tra, quyết định của bạn, Trước và Tiếp, Bản dịch của bạn và Thêm nhận xét."
+}

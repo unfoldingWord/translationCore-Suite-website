@@ -1,0 +1,23 @@
+{
+  "8be8c19d2c6f": "Een besluit nemen over een controlepunt (valid, invalid, to do) · translationCore 4 Help",
+  "dc5a4bb169b8": "Elk punt begint als <strong>To do</strong>, totdat je een besluit neemt.",
+  "894b1e6ce1d3": "Lees het gemarkeerde citaat in de bronkaarten: de grondtaal, de letterlijke brugtaaltekst en, als die op je computer staat, de vereenvoudigde tekst (UST of GST).",
+  "4bf754304693": "Tik onder <span class=\"ui\">Your translation</span> (1) op het woord of de woorden die het vertalen. Tik nog een keer om de selectie op te heffen. Om meerdere woorden achter elkaar te selecteren, sleep je eroverheen. Slepen selecteert altijd hele woorden.",
+  "24c29466f17a": "Klik op <span class=\"ui\">✓ Mark valid</span> als de vertaling goed is, of op <span class=\"ui\">Invalid</span> als er iets verbeterd moet worden (2). Klik op <span class=\"ui\">To do</span> om een besluit terug te draaien.",
+  "eca00a6e15d7": "Klik op <span class=\"ui\">Next</span> naast de markeerknoppen (3) om naar het volgende punt te gaan, of klik op een punt in de lijst links.",
+  "e607ef4eec06": "Alleen een markering slaat de woorden op die je hebt geselecteerd. Zolang je woorden hebt geselecteerd die door geen markering zijn opgeslagen, zijn <span class=\"ui\">Previous</span> en <span class=\"ui\">Next</span> grijs (3). Als je ze aanwijst, staat er <span class=\"ui\">Mark this check or unselect the words to move on</span>.",
+  "d0337058b0d0": "Ga je met niet-opgeslagen woorden naar een ander controlepunt in de lijst, naar <span class=\"ui\">← All checking tools</span>, naar een andere modus of naar een ander project, dan vraagt tC4 eerst: <span class=\"ui\">The selected words are not saved</span>. Klik op <span class=\"ui\">Stay</span> om ze te houden, of op <span class=\"ui\">Leave without them</span>.",
+  "f6a68de5bb91": "Een punt markeren brengt je niet vanzelf verder, dus je kunt nog van gedachten veranderen voordat je naar het volgende gaat.",
+  "7c6d8bec7d11": "Elke markering wordt meteen opgeslagen. Alleen <span class=\"ui\">✓ Mark valid</span> slaat de woorden op die je hebt geselecteerd, en ze zijn nog steeds geselecteerd als je bij het punt terugkomt. <span class=\"ui\">Invalid</span> slaat geen woorden op, en <span class=\"ui\">To do</span> houdt de woorden die het controlepunt al had.",
+  "153b15d01507": "Verander je de geselecteerde woorden nadat je het punt hebt gemarkeerd, dan vervalt de markering en telt het punt weer als niet besloten. Markeer het opnieuw om de nieuwe woorden op te slaan.",
+  "a8ee027daf62": "Terwijl een markering wordt opgeslagen, zijn de woorden, de markeerknoppen, <span class=\"ui\">Previous</span> en <span class=\"ui\">Next</span> even uitgeschakeld. Kon de markering niet worden opgeslagen, dan blijf je bij het controlepunt met je woorden en een melding.",
+  "12a2c0d4d0aa": "Als je links van het eerste woord begint met slepen, selecteer je in plaats daarvan tekst om te kopiëren. Dat zie je aan de gewone blauwe markering, niet aan geel.",
+  "6e9502f6e19d": "<span class=\"ui\">Previous</span> en <span class=\"ui\">Next</span> staan in dezelfde rij als de markeerknoppen. Op een klein scherm kan een lange notitie die rij onder het venster duwen. Scrol dan omlaag om erbij te komen.",
+  "853278c24d49": "<span class=\"ui\">Your translation</span> toont je woorden zonder leestekens, en een woord met een apostrof kan gesplitst lijken (bijvoorbeeld \"God's\" als \"God s\"). Je tekst in <span class=\"ui\">Translate</span> verandert niet.",
+  "b52bcae8449b": "Klik op <span class=\"ui\">← Back to translating</span> om de tekst te verbeteren. Zie <a href=\"tr-edit-after-check\">Een vers bewerken dat je al gecontroleerd of uitgelijnd hebt</a>.",
+  "fd6f087438a1": "Gebruik later het filter <span class=\"ui\">Invalid</span> om alles te vinden wat je nog moet verbeteren.",
+  "168a47fab8c2": "Zie je \"This check was not saved. The project's resource changed since this book was checked…\", werk dan eerst de bron bij en controleer opnieuw. Er is niets verloren gegaan.",
+  "0eb15a611e9b": "Een punt van Translation Words, “Paul” in Titus 1:1. Boven Your translation staan drie bronkaarten: het Grieks, de unfoldingWord Literal Text en de UST, elk met Paul gemarkeerd. Your translation is gemarkeerd met 1, ✓ Mark valid met 2 en Next met 3.",
+  "16803d5b845d": "Pablo is geel geselecteerd onder Your translation (1), maar nog niet gemarkeerd. ✓ Mark valid is gemarkeerd met 2. Previous en Next zijn grijs, gemarkeerd met 3.",
+  "183dd98c4962": "De vraag The selected words are not saved: Only a mark saves the words you selected. If you leave this check now, they are unselected. De knoppen Stay en Leave without them."
+}

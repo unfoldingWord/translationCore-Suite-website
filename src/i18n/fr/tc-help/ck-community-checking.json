@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Aperçu de la Vérification communautaire · Aide de translationCore 4",
+  "32f4bed68332": "Servez-vous-en pour lire le livre dans son ensemble, ou pour le lire à voix haute avec votre communauté.",
+  "f407ab1cd68e": "Aperçu et exportation",
+  "dcc507361ac5": "Cliquez sur <span class=\"ui\">Vérifier</span>, puis sur <span class=\"ui\">Ouvrir →</span> sur la carte <span class=\"ui\">Vérification communautaire</span>.",
+  "95eb586f7dfe": "Faites défiler l’aperçu. Les versets pas encore rédigés apparaissent sous la forme « [ verset pas encore rédigé ] ».",
+  "f283b735ac27": "Dans <span class=\"ui\">Mise en page</span>, choisissez <span class=\"ui\">Colonnes</span> (1 ou 2), <span class=\"ui\">Interligne</span> (<span class=\"ui\">Simple</span> ou <span class=\"ui\">Double</span>) et <span class=\"ui\">Format du papier</span> (<span class=\"ui\">A4</span> ou <span class=\"ui\">Lettre</span>). Activez ou désactivez <span class=\"ui\">Chapitres à lettrine</span> et <span class=\"ui\">Numéros de verset</span>.",
+  "66a07da4a05a": "Cliquez sur <span class=\"ui\">Exporter</span> pour enregistrer une copie. Voir <a href=\"bp-export-pdf\">Exporter un livre en PDF</a>, <a href=\"bp-export-usfm\">Exporter un livre en USFM</a> et <a href=\"bp-export-burrito\">Exporter un projet en Scripture Burrito</a>.",
+  "a95f2176183a": "Pour revenir en arrière, cliquez sur <span class=\"ui\">← Tous les outils de vérification</span>.",
+  "d80f07c55306": "L’interligne <span class=\"ui\">Double</span> laisse de la place aux relecteurs pour écrire entre les lignes.",
+  "e161f48410c3": "La mise en page ne change que l’aperçu et l’exportation, pas votre traduction.",
+  "1913f785b5a4": "Avec <span class=\"ui\">Chapitres à lettrine</span> activé, le grand numéro de chapitre commence le verset 1 : le verset 1 n’a donc pas de petit numéro à lui. Désactivez les lettrines pour l’afficher.",
+  "df1ceace7eba": "translationCore ne garde pas la mise en page quand vous quittez cet écran. Réglez-la de nouveau avant d’exporter.",
+  "d19d1de53268": "<span class=\"ui\">Notes de bas de page</span> est grisé et ne peut pas encore être activé.",
+  "79ce1f17e1a6": "Vérification communautaire pour Tite. Les repères montrent le grand numéro de chapitre (lettrine) sans petit numéro de verset 1 à côté, le titre du livre, Tous les outils de vérification, Exporter, l’aperçu de la page, les versets pas encore rédigés, Mise en page et la remarque Brouillon incomplet."
+}

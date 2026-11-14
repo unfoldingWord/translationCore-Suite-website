@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Prévia da Verificação comunitária · Ajuda do translationCore 4",
+  "32f4bed68332": "Use-a para ler o livro como um todo ou para lê-lo em voz alta com sua comunidade.",
+  "f407ab1cd68e": "Prévia e exportação",
+  "dcc507361ac5": "Clique em <span class=\"ui\">Verificar</span> e depois em <span class=\"ui\">Abrir →</span> no cartão <span class=\"ui\">Verificação comunitária</span>.",
+  "95eb586f7dfe": "Role a prévia. Os versículos que ainda não foram redigidos aparecem como \"[ versículo ainda não redigido ]\".",
+  "f283b735ac27": "Em <span class=\"ui\">Configuração de página</span>, escolha <span class=\"ui\">Colunas</span> (1 ou 2), <span class=\"ui\">Espaçamento</span> (<span class=\"ui\">Simples</span> ou <span class=\"ui\">Duplo</span>) e <span class=\"ui\">Tamanho do papel</span> (<span class=\"ui\">A4</span> ou <span class=\"ui\">Carta</span>). Ligue ou desligue <span class=\"ui\">Capítulos com letra capitular</span> e <span class=\"ui\">Números dos versículos</span>.",
+  "66a07da4a05a": "Clique em <span class=\"ui\">Exportar</span> para salvar uma cópia. Veja <a href=\"bp-export-pdf\">Exportar um livro em PDF</a>, <a href=\"bp-export-usfm\">Exportar um livro em USFM</a> e <a href=\"bp-export-burrito\">Exportar um projeto como Scripture Burrito</a>.",
+  "a95f2176183a": "Para voltar, clique em <span class=\"ui\">← Todas as ferramentas de verificação</span>.",
+  "d80f07c55306": "O espaçamento <span class=\"ui\">Duplo</span> deixa espaço para os revisores escreverem entre as linhas.",
+  "e161f48410c3": "A configuração de página muda só a prévia e a exportação, não a sua tradução.",
+  "1913f785b5a4": "Com <span class=\"ui\">Capítulos com letra capitular</span> ligado, o número grande do capítulo abre o versículo 1, então o versículo 1 não tem um número pequeno próprio. Desligue a letra capitular para mostrá-lo.",
+  "df1ceace7eba": "O translationCore não guarda a configuração de página quando você sai desta tela. Ajuste-a de novo antes de exportar.",
+  "d19d1de53268": "<span class=\"ui\">Notas de rodapé</span> aparece em cinza e ainda não pode ser ligado.",
+  "79ce1f17e1a6": "Verificação comunitária para Tito. As indicações apontam para o número grande do capítulo (letra capitular), sem o número pequeno do versículo 1 ao lado, o título do livro, Todas as ferramentas de verificação, Exportar, a prévia da página, os versículos ainda não redigidos, Configuração de página e a nota Rascunho incompleto."
+}

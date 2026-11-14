@@ -1,0 +1,17 @@
+{
+  "0fcd91d58b19": "修改已检查或已对齐的节 · translationCore 4 帮助",
+  "c1ba7e1a0bf9": "检查和对齐都与一节经文的具体词语绑定，所以当这些词语改变时，tC4 会标出可能不再相符的内容。",
+  "bab305fa9966": "在 <span class=\"ui\">Translate</span> 中修改一节你已经检查或对齐过的经文。",
+  "cf4ff9ae160d": "转到 <span class=\"ui\">Check</span>，打开检查工具。顶部的通知会说明有多少个判定需要复核。",
+  "1ad836e88066": "点击 <span class=\"ui\">Invalid</span> 筛选器查看这些项，并重新判定每一项。",
+  "8adaab7c37c9": "为这节经文打开 <span class=\"ui\">Align</span>。你修改过的词语会回到词库中。放置好它们后，再次点击 <span class=\"ui\">✓ Mark valid</span>。",
+  "9e7f896a239f": "词语发生变化的检查判定会变成 <strong>Invalid</strong>（无效）。它会被保留，而不是删除。",
+  "3d5c7795898c": "在对齐工具中，与未修改词语的关联会被保留。这节经文会重新显示为待办。",
+  "c69cb0af2d36": "关联会留在它所放置的词语上，即使你在它前面添加或删除了词语。如果你删除了一个已关联的词语，它的关联也会随之删除。",
+  "52199ccf3ef4": "如果你修改了一个出现不止一次的词，而 tC4 无法判断你保留的是哪一个，这节经文会被标记为需要复核。请在对齐工具中打开它，检查关联，然后再次点击 <span class=\"ui\">✓ Mark valid</span>。",
+  "02c774e022a1": "需要复核的经节会在对齐工具中该节顶部显示通知，并在经节列表中加以标记。",
+  "223edf8f0d6d": "合并或拆分节范围，对相关经节也有同样的影响。",
+  "8c8ae7daabbf": "检查工具可能会在你之前所在的项重新打开。请使用 <span class=\"ui\">Invalid</span> 筛选器找出所有需要复核的项。",
+  "e395662b6ada": "检查工具顶部的通知：1 decision(s) no longer match the draft text and need re-review. Nothing was discarded.（有 1 个判定与草稿文字不再相符，需要重新复核。没有丢弃任何内容。）",
+  "a3c0c8a79510": "编辑后对齐工具中的词库：WORD BANK · YOUR TRANSLATION，25 of 26 words placed（已放置 26 个词中的 25 个），被修改的词 belief 正等待重新放置。"
+}

@@ -1,0 +1,11 @@
+{
+  "4720b0d24d63": "Exporter un livre en PDF · Aide de translationCore 4",
+  "2798a01adbaa": "Le nom du fichier contient le code du livre et la date du jour.",
+  "296c22d5869b": "Facultatif : réglez la mise en page (format du papier, colonnes, interligne). Voir <a href=\"ck-community-checking\">Aperçu de la Vérification communautaire et mise en page</a>.",
+  "2cab4f333825": "Cliquez sur <span class=\"ui\">Exporter</span> (1), puis sur <span class=\"ui\">Exporter en PDF</span> (2).",
+  "f12ec931faa5": "Les versets non rédigés s’impriment sous la forme « [ verset pas encore rédigé ] ». Les chapitres non rédigés au début ou à la fin sont laissés de côté.",
+  "5febb95ab85f": "Si rien n’est rédigé dans le livre, tC4 vous le dit et ne crée aucun fichier.",
+  "7fb34b0c18d9": "Le format du papier et l’interligne ne sont pas retenus. Réglez-les à chaque fois.",
+  "86f68bd349db": "Les notes de bas de page ne sont pas encore imprimées.",
+  "282716ae7eab": "Vérification communautaire avec le menu Exporter ouvert. Exporter est marqué 1, et Exporter en PDF, le premier élément, est marqué 2. Les autres éléments sont USFM, aligné, USFM, simple et Scripture Burrito (.zip)."
+}

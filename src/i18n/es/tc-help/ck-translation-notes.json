@@ -1,0 +1,14 @@
+{
+  "359d3bd718d5": "Revisar con Notas de traducción · Ayuda de translationCore 4",
+  "34dabdfbc2ff": "Cada elemento es una nota que enlaza a una lección de la Academia de traducción. Las demás notas se quedan en el panel de ayudas.",
+  "37ed9dc0480b": "Revisar una nota",
+  "c2ed52ecfaef": "Haga clic en <span class=\"ui\">Revisar</span> y luego en <span class=\"ui\">Empezar a revisar →</span> en la tarjeta <span class=\"ui\">Notas de traducción</span>.",
+  "aa2a2d64b884": "Lea <span class=\"ui\">Qué revisar</span>. Las palabras de las que trata aparecen resaltadas en las tarjetas de la fuente, más abajo: el idioma original, el texto literal en el idioma puente (por ejemplo <span class=\"ui\">Puente · Texto Literal de unfoldingWord</span>) y el texto simplificado (<span class=\"ui\">Puente · UST</span>, o <span class=\"ui\">GST</span> en algunos idiomas puente).",
+  "af9960d2e388": "Para saber más sobre el problema, haga clic en <span class=\"ui\">Más información</span> debajo de la nota. La lección de la Academia de traducción se abre en un panel a la derecha. Ciérrela con ✕.",
+  "009010512001": "Debajo de <span class=\"ui\">Tu traducción</span>, toque la palabra o las palabras que traducen la cita resaltada.",
+  "540bd764162b": "Para terminar, haga clic en <span class=\"ui\">← Volver a traducir</span>, abajo a la izquierda.",
+  "b46b87bfb0b1": "<span class=\"ui\">Ordenar</span> <span class=\"ui\">Por versículo</span> recorre el libro en orden. <span class=\"ui\">Por categoría</span> junta todas las notas sobre un mismo problema, por ejemplo todas las metáforas.",
+  "3a9f02b502fa": "Las notas están en el idioma de revisión de su proyecto. Vea <a href=\"rs-checking-language\">Cambiar el idioma de revisión</a>.",
+  "4352b92c4356": "Si cambia un versículo después de haber decidido sobre él, translationCore le pide que vuelva a mirar esa decisión. No se pierde nada.",
+  "e3c4462a8aa2": "Notas de traducción para Tito, elemento 1 de 157: la cita “for the faith of the chosen people of God and knowledge of the truth” en Tito 1:1. Las etiquetas señalan Todas las herramientas de revisión, Ordenar, la cita, Qué revisar, el griego, el texto literal en el idioma puente, el texto simplificado (UST), Volver a traducir, la lista de revisión, su decisión, Anterior y Siguiente, Tu traducción y Agregar un comentario."
+}

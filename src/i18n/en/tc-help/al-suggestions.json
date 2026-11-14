@@ -1,0 +1,16 @@
+{
+  "123be2e03014": "Alignment suggestions · translationCore 4 Help",
+  "40874bd0a1a3": "Suggestions are based on how you aligned earlier verses in the same testament. Nothing is saved until you confirm it.",
+  "32ab0c08f832": "Align a few verses carefully by hand first.",
+  "09a28312d3ae": "In <span class=\"ui\">Align</span>, tick <span class=\"ui\">Suggest links</span> in the <span class=\"ui\">Suggestions</span> row.",
+  "68e2fe28b4c6": "The row says \"Drawn from N verses you have already aligned\". Open a verse and click <span class=\"ui\">Suggest</span>.",
+  "44922420e182": "Check each dashed suggestion and click its ✓ to confirm it.",
+  "10a63366095c": "<span class=\"ui\">Accept all</span> confirms every suggestion, <span class=\"ui\">Reject all</span> turns them all down, and <span class=\"ui\">Reset</span> clears them.",
+  "e15d7cac9afd": "Suggestions can be wrong, especially after only a few hand-aligned verses: words may be placed in the order they come rather than by meaning. Check every one before you confirm it, and don't use <span class=\"ui\">Accept all</span> without checking.",
+  "b6b82e231f6f": "Confirm or reject the suggestions before you mark the verse done.",
+  "d183c99d4a01": "If nothing fits, it says \"Nothing to suggest for the words still in the bank.\"",
+  "18b4683798bc": "The setting is remembered for each project on this computer.",
+  "707fcef772c8": "Suggestions use the same words as the word bank, so <span class=\"ui\">Accept all</span> places every suggestion you see.",
+  "216a3df37c0e": "Suggestions for Hebrew verses work as well as for Greek.",
+  "4df3c42ec15a": "The Suggestions row in Align with Suggest links unticked. It says Off. Turn on to get links proposed from the verses you have already aligned."
+}

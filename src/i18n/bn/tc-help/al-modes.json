@@ -1,0 +1,12 @@
+{
+  "a4f23a1550e5": "গেটওয়ে পাঠ বা মূল ভাষার সাথে সমন্বয় করুন · translationCore 4 সহায়তা",
+  "0fefc3764842": "যেভাবেই করুন, সংরক্ষিত লিংকগুলো মূল ভাষার দিকেই নির্দেশ করে।",
+  "81dfc97839cd": "<span class=\"ui\">Gateway · ULT</span> বা <span class=\"ui\">Original · Greek</span>-এ ক্লিক করুন। পুরাতন নিয়মের পুস্তকে দেখায় <span class=\"ui\">Original · Hebrew</span>।",
+  "8262a1c6271b": "স্বাভাবিকভাবে শব্দগুলো যুক্ত করুন। দেখুন <a href=\"al-link-words\">আপনার শব্দগুলো উৎসের সাথে যুক্ত করুন</a>।",
+  "8fad724d20cc": "কোনটি বেছে নেবেন",
+  "81f903564a6a": "<strong><span class=\"ui\">Gateway · ULT</span>:</strong> \"Align to the gateway text you can read — its words already carry the original-language alignment.\" আপনি গ্রিক বা হিব্রু না পড়লে এটি সহজ। একটি কার্ডে গেটওয়ে ভাষার একটি বাক্যাংশ থাকতে পারে, যেমন ἐκλεκτῶν-এর ওপরে \"of the chosen people\"।",
+  "8c59cbaf7b79": "<strong><span class=\"ui\">Original · Greek</span></strong> বা <strong><span class=\"ui\">Original · Hebrew</span>:</strong> \"Align directly to the original-language words.\" কার্ডগুলো শুধু মূল শব্দগুলো দেখায়।",
+  "212214f76668": "মোড বদলালে আগে বসানো শব্দগুলো যেখানে আছে সেখানেই থাকে।",
+  "4a7c948ee755": "কোনো পদের গেটওয়ে পাঠে সমন্বয়ের তথ্য না থাকলে গেটওয়ে মোড বলে \"The gateway lens needs the gateway source text with alignment data for this verse.\" এর বদলে মূল ভাষার মোড ব্যবহার করুন।",
+  "8b21ae71366f": "তীত 1:1-এ Align, Original · Greek বাছাই করা। ইঙ্গিতে লেখা Align directly to the original-language words। উৎসের শিরোনাম Original language · Greek, আর শব্দ-ভান্ডারের নিচের কার্ডগুলো শুধু গ্রিক শব্দ দেখায়।"
+}

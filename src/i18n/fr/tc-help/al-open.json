@@ -1,0 +1,20 @@
+{
+  "7ef680c2ab89": "Ouvrir l’outil Aligner · Aide de translationCore 4",
+  "5e6b62c8398f": "Les outils de vérification utilisent ces liens pour surligner vos mots, et une exportation USFM alignée les contient.",
+  "bb0ae2797229": "Ouvrir Aligner",
+  "e45cb668c003": "Cliquez sur <span class=\"ui\">Vérifier</span>, puis sur <span class=\"ui\">Commencer la vérification →</span> sur la carte <span class=\"ui\">Aligner</span>.",
+  "d282158fcc1e": "Choisissez un verset dans la liste des versets à gauche. Les versets qui ne sont pas encore rédigés sont grisés.",
+  "e3b884563832": "Reliez vos mots aux cartes de mots. Voir <a href=\"al-link-words\">Relier vos mots à la source</a>.",
+  "88485c019666": "Quand le verset est terminé, cliquez sur <span class=\"ui\">✓ Marquer valide</span>. Voir <a href=\"al-mark-valid\">Marquer un alignement comme terminé</a>.",
+  "9e63a70b7cb6": "Pour sortir, cliquez sur <span class=\"ui\">← Tous les outils de vérification</span> en haut à gauche, ou sur <span class=\"ui\">← Retour à la traduction</span> en bas à gauche.",
+  "301a064f6f16": "Sur cet écran",
+  "ad5c7353eb70": "<span class=\"ui\">Passerelle · ULT</span> aligne sur le texte passerelle que vous pouvez lire. Ses mots portent déjà le lien vers la langue originale. <span class=\"ui\">Original · grec</span> aligne directement sur les mots grecs. Voir <a href=\"al-modes\">Aligner sur le texte passerelle ou sur la langue originale</a>.",
+  "7fe4b76804a6": "<span class=\"ui\">Suggérer des liens</span> est désactivé au départ. Activez-le pour recevoir des liens proposés à partir des versets que vous avez déjà alignés. Voir <a href=\"al-suggestions\">Suggestions d’alignement</a>.",
+  "50f0d72fb224": "Au-dessus de la banque de mots, un compteur indique combien de mots du verset sont placés.",
+  "e1bb27c319b7": "<span class=\"ui\">Comment fonctionne l’alignement</span> ouvre une courte explication.",
+  "e01ac24b75fc": "<strong>Remarque :</strong> Aligner est destiné aux livres de la Bible. Les projets d’histoires n’ont pas de carte Aligner.",
+  "939bebcfbfc5": "Versets importés avec des alignements",
+  "bb519f9da8e1": "Si un livre vient d’un fichier USFM qui contenait déjà des alignements, ses versets alignés s’ouvrent dans Aligner avec l’avis <strong>Ce verset contient déjà un alignement</strong>. Vous ne pouvez pas encore modifier ces versets dans Aligner. tC4 garde leur alignement tel qu’il a été importé et l’écrit sans changement dans l’exportation USFM alignée.",
+  "b70cc1d616d4": "Les cartes sources suivent toujours le texte en langue originale utilisé par votre projet. Si un lien enregistré pointe vers un mot que ce texte n’a pas, le lien est supprimé, ses mots retournent dans la banque de mots, et le verset est signalé pour révision.",
+  "4298e3a1f848": "Un verset dans Aligner, d’un livre ajouté à partir d’un fichier USFM aligné. L’avis indique Ce verset contient déjà un alignement. Tite a été ajouté à partir d’un fichier qui contient déjà des alignements. tC4 conserve l’alignement de ce verset tel quel. Vous ne pouvez pas encore le modifier dans tC4."
+}

@@ -1,0 +1,13 @@
+{
+  "a6b2052d66fa": "Các thẻ nguồn — văn bản cầu nối và nguyên ngữ · Trợ giúp translationCore 4",
+  "409e4552518f": "Bản dịch của bạn vẫn giữ nguyên khi bạn chuyển thẻ; chỉ cột nguồn thay đổi.",
+  "3dece7da8454": "Trong <span class=\"ui\">Dịch</span>, hãy nhìn các thẻ phía trên cột nguồn.",
+  "c999c767379e": "Nhấp vào <span class=\"ui\">ULT</span> (văn bản sát nghĩa), <span class=\"ui\">UST</span> (văn bản đơn giản hóa) hoặc <span class=\"ui\">Tiếng Hy Lạp</span>. Sách Cựu Ước có <span class=\"ui\">Tiếng Híp-ri</span> thay cho tiếng Hy Lạp.",
+  "db1b4818efb2": "Dòng chú thích bên dưới các thẻ cho biết tên văn bản và phiên bản.",
+  "2ce85b8042c3": "Các phần đi theo văn bản nguồn được chọn. Trong Tít 1, ULT và UST bắt đầu với 1–3, còn tiếng Hy Lạp hiển thị cả chương thành 1–16.",
+  "252056729e99": "Các từ trong dấu ngoặc nhọn, chẳng hạn {and}, là một phần của văn bản nguồn. Chúng đánh dấu những từ được thêm vào để làm rõ ý nghĩa.",
+  "883201366f8a": "Một số ngôn ngữ cầu nối đặt tên khác cho hai thẻ đầu tiên, ví dụ <span class=\"ui\">GLT</span> và <span class=\"ui\">GST</span>.",
+  "2e5e7739fb44": "Các thẻ này cũng có trong <span class=\"ui\">Thấu hiểu</span>.",
+  "fa9f82f61cc2": "Nếu thiếu một văn bản, cột sẽ ghi \"Văn bản nguồn này không khả dụng cho sách này.\" Xem <a href=\"rs-source-texts\">Xem và tải xuống văn bản nguồn</a>.",
+  "a038d25e701e": "Phần trên của Dịch ở Tít 1 với thẻ tiếng Hy Lạp được chọn. Chú thích của thẻ ghi unfoldingWord Greek New Testament · v0.34 · đã ghim. Văn bản nguồn tiếng Hy Lạp hiển thị TÍT 1:1–16, và cột bản nháp hiển thị Soạn nháp phần 1–16 bên cạnh."
+}

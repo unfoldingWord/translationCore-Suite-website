@@ -1,0 +1,14 @@
+{
+  "359d3bd718d5": "Check with Translation Notes · translationCore 4 Help",
+  "34dabdfbc2ff": "Each item is a note that links to a Translation Academy lesson. Other notes stay in the helps panel.",
+  "37ed9dc0480b": "Check a note",
+  "c2ed52ecfaef": "Click <span class=\"ui\">Check</span>, then <span class=\"ui\">Start checking →</span> on the <span class=\"ui\">Translation Notes</span> card.",
+  "aa2a2d64b884": "Read <span class=\"ui\">What to check</span>. The words it is about are highlighted in the source cards below: the original language, the literal gateway text (for example <span class=\"ui\">Gateway · unfoldingWord Literal Text</span>) and the simplified text (<span class=\"ui\">Gateway · UST</span>, or <span class=\"ui\">GST</span> in some gateway languages).",
+  "af9960d2e388": "To learn more about the issue, click <span class=\"ui\">Learn more</span> under the note. The Translation Academy lesson opens in a panel on the right. Close it with ✕.",
+  "009010512001": "Under <span class=\"ui\">Your translation</span>, tap the word or words that translate the highlighted quote.",
+  "540bd764162b": "To stop, click <span class=\"ui\">← Back to translating</span> at the bottom left.",
+  "b46b87bfb0b1": "<span class=\"ui\">Sort</span> <span class=\"ui\">By verse</span> goes through the book in order. <span class=\"ui\">By category</span> puts all the notes about one issue together, for example every metaphor.",
+  "3a9f02b502fa": "The notes are in your project's checking language. See <a href=\"rs-checking-language\">Change the checking language</a>.",
+  "4352b92c4356": "If you change a verse after you decided on it, translationCore asks you to look at that decision again. Nothing is lost.",
+  "e3c4462a8aa2": "Translation Notes for Titus, item 1 of 157: the quote “for the faith of the chosen people of God and knowledge of the truth” in Titus 1:1. Labels point to All checking tools, Sort, the quote, What to check, the Greek, the literal gateway text, the simplified text (UST), Back to translating, the check list, your decision, Previous and Next, Your translation and Add a comment."
+}

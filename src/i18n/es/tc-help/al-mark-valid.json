@@ -1,0 +1,17 @@
+{
+  "0a68ae08fec4": "Marcar una alineación como terminada · Ayuda de translationCore 4",
+  "713d1218f9a9": "Cuando un versículo está alineado, márquelo como válido. Cuenta para el progreso de versículos alineados. También puede devolver al banco de palabras todas las palabras colocadas en el versículo.",
+  "73920c43d088": "Significa \"la alineación de este versículo está terminada\", aunque algunas palabras se queden en el banco de palabras.",
+  "b0a4929a4563": "Termine de enlazar las palabras de un versículo y confirme o rechace las sugerencias que haya.",
+  "33108dcfb335": "Desplácese hasta el final del versículo y haga clic en <span class=\"ui\">✓ Marcar válido</span>.",
+  "9ed01acb5a8c": "Pase al siguiente versículo con la lista de la izquierda o con <span class=\"ui\">Siguiente →</span>. Marcar un versículo no lo lleva al siguiente.",
+  "fc9e63c512d4": "Borrar las alineaciones de un versículo",
+  "6dc5417eba84": "En la misma fila inferior, haga clic en <span class=\"ui\">Borrar alineaciones</span>.",
+  "1253bfd93fb0": "Confirme en el cuadro de diálogo, por ejemplo <span class=\"ui\">¿Borrar las alineaciones de Tito 1:1?</span> Le indica cuántas palabras colocadas vuelven al banco de palabras, y que cada tarjeta conserva sus palabras originales.",
+  "f7341b652e2a": "Después de borrar, las palabras colocadas vuelven al banco de palabras como tarjetas separadas, y <span class=\"ui\">Borrar alineaciones</span> queda en gris hasta que vuelva a colocar palabras.",
+  "96a2f18d2c9b": "El contador en la parte superior de la lista (\"0 de 9 versículos alineados\") aumenta con cada versículo que marca.",
+  "1c635dc349f2": "Si más adelante edita el versículo, se quita la marca y el versículo necesita otra revisión. Vea <a href=\"tr-edit-after-check\">Editar un versículo que ya revisó o alineó</a>.",
+  "711170ac5cca": "Actualizar el texto griego o hebreo también quita las marcas. Vea <a href=\"rs-upgrade-texts\">Actualizar los textos bíblicos</a>.",
+  "f098152b82de": "La fila inferior de Alinear: ← Anterior, ✓ Marcar válido, Siguiente → y Borrar alineaciones.",
+  "060def52271a": "Cuadro de diálogo de confirmación: ¿Borrar las alineaciones de Tito 1:1? con Cancelar y un botón rojo Borrar alineaciones."
+}

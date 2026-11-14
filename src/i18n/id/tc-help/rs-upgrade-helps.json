@@ -1,0 +1,12 @@
+{
+  "144d61aa04df": "Memperbarui bantuan yang disematkan · Bantuan translationCore 4",
+  "ecd3d1db71ca": "Sebuah proyek tetap memakai versi yang tepat saat proyek itu dimulai, sehingga pemeriksaan tetap stabil. Memperbarui selalu merupakan pilihan Anda.",
+  "259052d9165e": "Setiap set menampilkan <span class=\"ui\">✓ Terbaru</span> atau \"Tingkatkan N sumber daya\" dengan setiap perubahannya, misalnya <code>en_tn v86 → v91</code>.",
+  "b84f82f5c6bd": "Klik \"Tingkatkan N sumber daya\", baca konfirmasinya, lalu klik <span class=\"ui\">Tingkatkan</span>.",
+  "0be217637c39": "Untuk membatalkan, klik <span class=\"ui\">Pertahankan rilis saat ini</span>.",
+  "b49d3f3e0d3c": "Keputusan yang cocok dengan pemeriksaan dalam rilis baru akan dipertahankan. Sisanya kembali menjadi pekerjaan. Tidak ada yang dihapus.",
+  "c91781710cf1": "Proyek baru sudah memakai bantuan yang disertakan bersama aplikasi, jadi tertulis <span class=\"ui\">✓ Terbaru</span>.",
+  "43e6b4d60747": "Proyek yang diperiksa dalam bahasa lain menampilkan bahasa itu sebagai set utama dan bahasa Inggris sebagai cadangan.",
+  "55378d00e458": "tC4 tidak memeriksa pembaruan dengan sendirinya.",
+  "c26d654cec50": "Setelah Periksa pembaruan untuk proyek yang dibuat dengan bantuan lama: Set utama · en dan Set cadangan · en masing-masing menawarkan Tingkatkan 4 sumber daya, en_tn v86 → v91, en_tw v87 → v91, en_ta v86 → v91, en_tq v89 → v91. Teks Alkitab di bawahnya."
+}

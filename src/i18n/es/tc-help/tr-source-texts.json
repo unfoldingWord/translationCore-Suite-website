@@ -1,0 +1,13 @@
+{
+  "a6b2052d66fa": "Pestañas de texto fuente: textos puente y el idioma original · Ayuda de translationCore 4",
+  "409e4552518f": "Su traducción no cambia cuando cambia de pestaña; solo cambia la columna fuente.",
+  "3dece7da8454": "En <span class=\"ui\">Traducir</span>, mire las pestañas encima de la columna fuente.",
+  "c999c767379e": "Haga clic en <span class=\"ui\">ULT</span> (el texto literal), <span class=\"ui\">UST</span> (el texto simplificado) o <span class=\"ui\">Griego</span>. Un libro del Antiguo Testamento tiene <span class=\"ui\">Hebreo</span> en lugar de griego.",
+  "db1b4818efb2": "La leyenda debajo de las pestañas indica el nombre del texto y su versión.",
+  "2ce85b8042c3": "Las secciones siguen la fuente seleccionada. En Tito 1, la ULT y la UST empiezan con 1–3, mientras que el griego muestra todo el capítulo como 1–16.",
+  "252056729e99": "Las palabras entre llaves, como {and}, son parte del texto fuente. Marcan palabras que se agregaron para que el significado quede claro.",
+  "883201366f8a": "Algunos idiomas puente dan otro nombre a las dos primeras pestañas, por ejemplo <span class=\"ui\">GLT</span> y <span class=\"ui\">GST</span>.",
+  "2e5e7739fb44": "Las mismas pestañas están en <span class=\"ui\">Comprender</span>.",
+  "fa9f82f61cc2": "Si falta un texto, la columna dice “Esta fuente no está disponible para este libro.” Vea <a href=\"rs-source-texts\">Explorar y descargar textos fuente</a>.",
+  "a038d25e701e": "La parte superior de Traducir en Tito 1 con la pestaña Griego seleccionada. Su leyenda dice unfoldingWord Greek New Testament · v0.34 · fijada. La fuente griega muestra TITO 1:1–16, y la columna del borrador muestra Redactar la sección 1–16 a su lado."
+}

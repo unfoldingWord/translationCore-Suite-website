@@ -16,6 +16,14 @@ This writes a sheet with the key, the English, the current translation and an em
 
 `npm run review -- --priority` produces sheets for es, fr, hi and ar first: the largest translation-team audiences among the 15.
 
+The Desktop help (`/{lang}/tc-help/`) is much longer (about 1,450 strings per language) and was machine-translated the same way. Its sheet is separate:
+
+```
+npm run review -- es --tc-help --out=es-help-review.md
+```
+
+Help strings are edited in `src/i18n/{locale}/tc-help/*.json`. In es, fr, hi, pt, id, ru, vi and ar the names of buttons and menus (`<span class="ui">…</span>`) follow the app's own translation; if a reviewer finds one wrong, the fix may belong in the app's catalog (translationCore4) as well.
+
 ## Applying a review
 
 Edit `src/i18n/{locale}/*.json`, run `npm run check:locales`, open a pull request, and note the reviewer and date below.

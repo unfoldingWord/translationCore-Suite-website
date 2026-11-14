@@ -1,0 +1,17 @@
+{
+  "2444fbf270b8": "下载源文本 · translationCore 4 帮助",
+  "3d6eae5d0cf6": "通用语言是你的团队阅读源文本和辅助资源时所用的语言。英文随应用一起提供。",
+  "7d17ef831dae": "在 <span class=\"ui\">Choose your gateway language</span> 下，点击一种语言（1）。如果出现“Turn on the internet?”（打开互联网连接？），请点击 <span class=\"ui\">Turn on internet</span>。请参阅<a href=\"rs-offline\">离线工作</a>。",
+  "87c2a0c6f088": "选择 <span class=\"ui\">Book</span>（书卷）。",
+  "619a3f60dc35": "查看 <span class=\"ui\">Package contents</span>（语言包内容）。点击一张卡片可以不下载它，再点击一次可以重新加入。",
+  "b2d5c7505186": "点击 <span class=\"ui\">⇣ Download package</span>。当显示“✓ {book} · {language} is ready”（{book} · {language} 已就绪）时，点击 <span class=\"ui\">Close</span>。",
+  "8b9d01dac0a2": "下载语言包时，对话框底部会显示 <span class=\"ui\">Downloading …</span> 和正在获取的存储库，以及一个 <span class=\"ui\">Cancel</span> 按钮。即使你选择另一卷书，或返回语言列表，它们也会一直显示。点击 <span class=\"ui\">Cancel</span> 可以停止下载。",
+  "8b8f02c8633e": "要不下载就离开，请点击 <span class=\"ui\">Close</span> 或 ✕。关闭对话框不会停止已经开始的下载；再次打开 <span class=\"ui\">Get source texts</span> 可以查看或取消下载。",
+  "2fc42d3c75b4": "对大多数通用语言来说，语言包除了 Translation Words 之外，还包括一个 <strong>Translation Words Links</strong> 存储库（<code>…_twl</code>）。请保持选中，以便检查功能完成安装。",
+  "acf775b53543": "两行可能同名，例如两行 Français。名称下方的组织可以区分它们。",
+  "1c359191fab9": "列表中的版本是 Door43 上最新的版本，不是你的项目正在使用的版本。",
+  "84b941e238b1": "要使用已下载的语言进行检查，请在<a href=\"st-project-settings\">项目设置</a>中选择它。请参阅<a href=\"rs-checking-language\">更改检查语言</a>。",
+  "ab9ab2d35728": "离线时，对话框显示“tC4 did not read the Door43 list of source texts.”（tC4 尚未读取 Door43 的源文本列表。），并有 <span class=\"ui\">Read the list</span> 按钮。下面一行“This organisation publishes nothing tC4 can use…”（该组织没有发布 tC4 可用的内容…）只是表示还没有读取列表。",
+  "2827fe51be40": "如果有些下载失败，对话框会把它们列出来。",
+  "7dd6ae7b823d": "Get source texts。上方是固定的资源和 Check for updates，下方是 Choose your gateway language：English（unfoldingWord，注释 v91，词汇 v91，学院 v91）、Español (Latinoamérica)（es-419_gl，标为 1）、两行名为 Français 的语言（Xenizo 和 MVHS），以及 Русский。"
+}

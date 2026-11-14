@@ -1,0 +1,17 @@
+{
+  "0fcd91d58b19": "Modifier un verset déjà vérifié ou aligné · Aide de translationCore 4",
+  "c1ba7e1a0bf9": "Les vérifications et les alignements sont liés aux mots exacts d’un verset : quand ces mots changent, tC4 signale donc ce qui risque de ne plus correspondre.",
+  "bab305fa9966": "Modifiez dans <span class=\"ui\">Traduire</span> un verset que vous avez déjà vérifié ou aligné.",
+  "cf4ff9ae160d": "Allez dans <span class=\"ui\">Vérifier</span> et ouvrez l’outil de vérification. Un avis en haut indique combien de décisions sont à revoir.",
+  "1ad836e88066": "Cliquez sur le filtre <span class=\"ui\">Non valides</span> pour voir ces éléments, et décidez de nouveau pour chacun.",
+  "8adaab7c37c9": "Ouvrez <span class=\"ui\">Aligner</span> pour ce verset. Les mots que vous avez modifiés sont revenus dans la banque de mots. Placez-les et cliquez de nouveau sur <span class=\"ui\">✓ Marquer valide</span>.",
+  "9e7f896a239f": "Une décision de vérification dont les mots ont changé devient <strong>Non valide</strong>. Elle est conservée, pas supprimée.",
+  "3d5c7795898c": "Dans Aligner, les liens vers les mots que vous n’avez pas modifiés sont conservés. Le verset redevient « à faire ».",
+  "c69cb0af2d36": "Un lien reste sur le mot où il a été placé, même si vous ajoutez ou retirez des mots avant lui. Si vous supprimez un mot relié, son lien disparaît aussi.",
+  "52199ccf3ef4": "Si vous modifiez un mot qui apparaît plusieurs fois et que tC4 ne peut pas savoir quelle occurrence vous avez gardée, le verset est signalé pour être revu. Ouvrez-le dans Aligner, vérifiez les liens, et cliquez de nouveau sur <span class=\"ui\">✓ Marquer valide</span>.",
+  "02c774e022a1": "Un verset à revoir affiche un avis en haut du verset dans Aligner et est signalé dans la liste des versets.",
+  "223edf8f0d6d": "Créer ou séparer une plage de versets a le même effet sur ces versets.",
+  "8c8ae7daabbf": "Un outil de vérification peut se rouvrir sur l’élément où vous étiez. Utilisez le filtre <span class=\"ui\">Non valides</span> pour trouver tous les éléments à revoir.",
+  "e395662b6ada": "L’avis en haut d’un outil de vérification : 1 décision(s) ne correspondent plus au texte du brouillon et doivent être revues. Rien n’a été supprimé.",
+  "a3c0c8a79510": "La banque de mots d’Aligner après une modification : BANQUE DE MOTS · VOTRE TRADUCTION, 25 sur 26 mots placés, et le mot modifié belief qui attend d’être placé de nouveau."
+}

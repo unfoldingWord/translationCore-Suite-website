@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "Het scherm Translate · translationCore 4 Help",
+  "b5e20a3b5c23": "Elke rij zet een gedeelte van de brontekst naast jouw vertaling ervan.",
+  "ccd3b0577ccf": "Open een boek en klik bovenaan op <span class=\"ui\">Translate</span>.",
+  "6eb73fcf4caa": "Kies de brontekst met de tabbladen erboven: <span class=\"ui\">ULT</span> (letterlijk), <span class=\"ui\">UST</span> (vereenvoudigd) of de grondtaal (<span class=\"ui\">Greek</span> of <span class=\"ui\">Hebrew</span>). De regel onder de tabbladen noemt de tekst en de versie.",
+  "cba9851fabf8": "Kies <span class=\"ui\">Section</span> om een heel gedeelte tegelijk te schrijven, of <span class=\"ui\">Verse</span> om telkens één vers te schrijven.",
+  "c7138b6f2ae2": "Klik op <span class=\"ui\">Draft section</span> naast het gedeelte dat je wilt. Typ de tekst en gebruik daarna <span class=\"ui\">Place verse numbers</span>. Zie <a href=\"tr-draft-section\">Een gedeelte schrijven</a>.",
+  "6f6d5b88466d": "Klik op <span class=\"ui\">Save section</span>. Klik op <span class=\"ui\">Cancel</span> om het gedeelte te laten zoals het was.",
+  "fb24ef6c8a86": "Ruimte maken",
+  "8c8975cae9b6": "De knop linksboven op de pagina toont of verbergt de boekenlijst.",
+  "d034ae5cfc60": "Rechtsboven op de pagina toont of verbergt <span class=\"ui\">Toggle helps panel</span> de hulpmiddelen. Sleep de verticale scheidingslijn om het paneel breder of smaller te maken.",
+  "4d761027a250": "Het hulpmiddelenpaneel",
+  "ddbdbe454552": "Het paneel toont hulp bij het gedeelte waar je aan werkt: <span class=\"ui\">Notes</span>, <span class=\"ui\">Words</span>, <span class=\"ui\">Questions</span>, de vereenvoudigde tekst (<span class=\"ui\">UST</span>) en <span class=\"ui\">Comments</span> uit Understand. Klik op een hulpkaart en de woorden waar die over gaat, worden gemarkeerd in de brontekst. Zie <a href=\"tr-helps-panel\">Het hulpmiddelenpaneel in Translate</a>.",
+  "2ac8369ebd1d": "Translate onthoudt per project of je <span class=\"ui\">Section</span> of <span class=\"ui\">Verse</span> hebt gekozen.",
+  "a17f0c7ae079": "Het scherm Translate bij Titus 1 met gedeelte 1-3 open om te schrijven. De labels wijzen naar de tabbladen met de brontekst (ULT, UST, Greek), de schakelaar Modes met Translate geselecteerd, de schakelaar Section of Verse, de tabbladen van het hulpmiddelenpaneel, de opslagstatus, de hoofdstukknoppen, de bronpassage, de schrijfstappen (Type, Place verse numbers), Save section, de knop Draft section voor het volgende gedeelte en een hulpkaart."
+}

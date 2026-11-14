@@ -1,0 +1,17 @@
+{
+  "0a68ae08fec4": "Een uitlijning als klaar markeren · translationCore 4 Help",
+  "713d1218f9a9": "Als een vers is uitgelijnd, markeer je het als valid. Het telt dan mee in de voortgang van uitgelijnde verzen. Je kunt ook alle geplaatste woorden van het vers terugzetten naar de woordenbank.",
+  "73920c43d088": "Het betekent \"de uitlijning van dit vers is klaar\", ook als er nog woorden in de woordenbank staan.",
+  "b0a4929a4563": "Koppel alle woorden van een vers en bevestig of weiger eventuele suggesties.",
+  "33108dcfb335": "Scrol naar de onderkant van het vers en klik op <span class=\"ui\">✓ Mark valid</span>.",
+  "9ed01acb5a8c": "Ga naar het volgende vers met de lijst links of met <span class=\"ui\">Next →</span>. Een vers markeren brengt je niet vanzelf verder.",
+  "fc9e63c512d4": "De uitlijning van een vers wissen",
+  "6dc5417eba84": "Klik in dezelfde onderste rij op <span class=\"ui\">Clear alignments</span>.",
+  "1253bfd93fb0": "Bevestig in het venster, bijvoorbeeld <span class=\"ui\">Clear the alignments of Titus 1:1?</span> Het venster zegt hoeveel geplaatste woorden teruggaan naar de woordenbank, en dat elke kaart zijn oorspronkelijke woorden houdt.",
+  "f7341b652e2a": "Na het wissen gaan geplaatste woorden als losse kaarten terug naar de woordenbank, en is <span class=\"ui\">Clear alignments</span> grijs tot je weer woorden plaatst.",
+  "96a2f18d2c9b": "De teller bovenaan de lijst (\"0 of 9 verses aligned\") loopt op voor elk vers dat je markeert.",
+  "1c635dc349f2": "Als je het vers later bewerkt, wordt de markering ingetrokken en moet het vers opnieuw bekeken worden. Zie <a href=\"tr-edit-after-check\">Een vers bewerken dat je al gecontroleerd of uitgelijnd hebt</a>.",
+  "711170ac5cca": "Een nieuwere versie van de Griekse of Hebreeuwse tekst trekt de markeringen ook in. Zie <a href=\"rs-upgrade-texts\">Bijbelteksten bijwerken</a>.",
+  "f098152b82de": "De onderste rij van Align: ← Previous, ✓ Mark valid, Next → en Clear alignments.",
+  "060def52271a": "Bevestigingsvenster: Clear the alignments of Titus 1:1? met Cancel en een rode knop Clear alignments."
+}

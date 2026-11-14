@@ -1,0 +1,14 @@
+{
+  "7161ee1494a3": "Draft or revise one verse · translationCore 4 Help",
+  "924f10cde3b8": "Verse view is handy for small corrections and for translators who prefer to work one verse at a time.",
+  "2e916581c6b1": "In <span class=\"ui\">Translate</span>, click <span class=\"ui\">Verse</span> in the switch above your translation.",
+  "3a741eaf2d05": "For an empty verse, click its dashed <span class=\"ui\">Draft verse {n}</span> button. For a drafted verse, click its text.",
+  "f0f1b05904d7": "Type in the editor.",
+  "967d0e1e904d": "Click <span class=\"ui\">Save verse</span>, or click outside the editor.",
+  "c1b69e650e2b": "To throw away your change, click <span class=\"ui\">Cancel</span> instead.",
+  "66522b86c05a": "The helps panel follows the verse you are editing.",
+  "c949d8f44bd1": "To make a verse span, use <span class=\"ui\">Section</span> view. See <a href=\"tr-verse-spans\">Make or break a verse span</a>.",
+  "d40609f9c65f": "A poetry verse opens with all its lines. <strong>Shift+Enter</strong> starts a new line; Tab and Enter save and close the editor. See <a href=\"tr-formatting\">Paragraphs and poetry</a>.",
+  "e0173097549a": "Verse view for Titus 3:1–2: Verse is selected in the Section / Verse switch, and the empty verses show dashed Draft verse 1 and Draft verse 2 buttons.",
+  "8e82740d866e": "The verse editor open for Titus 3:1: the verse place says Editing below, the editor is headed DRAFTING 1 with Spanish text typed, and Save verse and Cancel are under it."
+}

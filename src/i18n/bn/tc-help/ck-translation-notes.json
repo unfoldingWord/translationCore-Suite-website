@@ -1,0 +1,14 @@
+{
+  "359d3bd718d5": "Translation Notes দিয়ে যাচাই করুন · translationCore 4 সহায়তা",
+  "34dabdfbc2ff": "প্রতিটি বিষয় হলো এমন একটি টীকা যা একটি Translation Academy পাঠের সাথে যুক্ত। অন্য টীকাগুলো সহায়িকা প্যানেলে থাকে।",
+  "37ed9dc0480b": "একটি টীকা যাচাই করুন",
+  "c2ed52ecfaef": "<span class=\"ui\">Check</span>-এ ক্লিক করুন, তারপর <span class=\"ui\">Translation Notes</span> কার্ডে <span class=\"ui\">Start checking →</span>-এ।",
+  "aa2a2d64b884": "<span class=\"ui\">What to check</span> পড়ুন। এটি যে শব্দগুলো নিয়ে, সেগুলো নিচের উৎস কার্ডগুলোতে হাইলাইট করা থাকে: মূল ভাষা, আক্ষরিক গেটওয়ে পাঠ (যেমন <span class=\"ui\">Gateway · unfoldingWord Literal Text</span>) এবং সরলীকৃত পাঠ (<span class=\"ui\">Gateway · UST</span>, বা কিছু গেটওয়ে ভাষায় <span class=\"ui\">GST</span>)।",
+  "af9960d2e388": "বিষয়টি সম্পর্কে আরও জানতে টীকার নিচে <span class=\"ui\">Learn more</span>-এ ক্লিক করুন। Translation Academy পাঠটি ডান দিকের একটি প্যানেলে খোলে। ✕ দিয়ে এটি বন্ধ করুন।",
+  "009010512001": "<span class=\"ui\">Your translation</span>-এর নিচে হাইলাইট করা উদ্ধৃতিটি যে শব্দ বা শব্দগুলো অনুবাদ করে সেগুলোতে ট্যাপ করুন।",
+  "540bd764162b": "থামতে নিচে বাঁ দিকে <span class=\"ui\">← Back to translating</span>-এ ক্লিক করুন।",
+  "b46b87bfb0b1": "<span class=\"ui\">Sort</span> <span class=\"ui\">By verse</span> পুস্তকটির মধ্য দিয়ে ক্রমানুসারে যায়। <span class=\"ui\">By category</span> একই সমস্যা নিয়ে সব টীকা একসাথে রাখে, যেমন প্রতিটি রূপক।",
+  "3a9f02b502fa": "টীকাগুলো আপনার প্রকল্পের যাচাইয়ের ভাষায় থাকে। দেখুন <a href=\"rs-checking-language\">যাচাইয়ের ভাষা বদলান</a>।",
+  "4352b92c4356": "কোনো পদে সিদ্ধান্ত নেওয়ার পর পদটি বদলালে translationCore আপনাকে সেই সিদ্ধান্তটি আবার দেখতে বলে। কিছুই হারায় না।",
+  "e3c4462a8aa2": "তীত পুস্তকের Translation Notes, 157টির মধ্যে বিষয় 1: তীত 1:1-এ “for the faith of the chosen people of God and knowledge of the truth” উদ্ধৃতি। লেবেলগুলো দেখায়: All checking tools, Sort, উদ্ধৃতি, What to check, গ্রিক, আক্ষরিক গেটওয়ে পাঠ, সরলীকৃত পাঠ (UST), Back to translating, যাচাইয়ের তালিকা, আপনার সিদ্ধান্ত, Previous ও Next, Your translation এবং Add a comment।"
+}

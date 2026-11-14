@@ -1,0 +1,14 @@
+{
+  "cfc94f2ad007": "Configurações do projeto · Ajuda do translationCore 4",
+  "5c31a5d7af92": "Mude o que precisar:",
+  "05947a56b8f2": "<span class=\"ui\">Direção do texto</span>: <span class=\"ui\">Da esquerda para a direita</span> ou <span class=\"ui\">Da direita para a esquerda</span>.",
+  "c3f7bd798553": "<span class=\"ui\">Idioma de verificação</span> (1). Veja <a href=\"rs-checking-language\">Mudar o idioma de verificação</a>.",
+  "bdf0ed5d6154": "<span class=\"ui\">Gerenciar textos fonte →</span> (2). Veja <a href=\"rs-source-texts\">Baixar textos-fonte</a>.",
+  "58d3a2eeb7ed": "<span class=\"ui\">Fonte do texto</span> (3): a fonte em que sua tradução aparece.",
+  "12b7031960a9": "Clique em <span class=\"ui\">Salvar alterações</span>.",
+  "152e8dbab82d": "Para cancelar, clique em <span class=\"ui\">Cancelar</span> ou no ✕, ou pressione Esc. Nada é salvo.",
+  "b27935a0af63": "As configurações ficam só no cartão do Início, não na barra superior. Para voltar ao Início, clique no nome do projeto no canto superior esquerdo.",
+  "f5efa05091cf": "As fontes são Noto Sans (padrão), Charis SIL, Scheherazade New (escrita árabe), Awami Nastaliq (nastaliq) e Padauk (birmanês). Escolha a que mostra suas letras corretamente.",
+  "e4ebe7b1659a": "O nome e o idioma não podem ser mudados nesta versão. As configurações do projeto os mostram em cinza, com a nota \"A renomeação chegará em um incremento posterior.\"",
+  "caca25561146": "Configurações do projeto para Sample Titus · 1 livro. Nome da Bíblia, Nome do idioma e Código estão em cinza, com A renomeação chegará em um incremento posterior. Direção do texto Da esquerda para a direita. Idioma de verificação inglês, marcado como ATUAL (1). Gerenciar textos fonte → (2). Fonte do texto Noto Sans (padrão) (3). Cancelar e Salvar alterações."
+}

@@ -1,0 +1,17 @@
+{
+  "2444fbf270b8": "Bronteksten downloaden · translationCore 4 Help",
+  "3d6eae5d0cf6": "Een brugtaal is de taal waarin je team de bron en de hulpmiddelen leest. Engels wordt met de app meegeleverd.",
+  "7d17ef831dae": "Klik onder <span class=\"ui\">Choose your gateway language</span> op een taal (1). Verschijnt \"Turn on the internet?\", klik dan op <span class=\"ui\">Turn on internet</span>. Zie <a href=\"rs-offline\">Offline werken</a>.",
+  "87c2a0c6f088": "Kies het boek bij <span class=\"ui\">Book</span>.",
+  "619a3f60dc35": "Bekijk de <span class=\"ui\">Package contents</span>. Klik op een kaart om die weg te laten, of nog een keer om hem weer toe te voegen.",
+  "b2d5c7505186": "Klik op <span class=\"ui\">⇣ Download package</span>. Als er \"✓ {book} · {language} is ready\" staat, klik je op <span class=\"ui\">Close</span>.",
+  "8b9d01dac0a2": "Terwijl het pakket wordt gedownload, toont de onderkant van het venster <span class=\"ui\">Downloading …</span> met de repository die wordt opgehaald, en een knop <span class=\"ui\">Cancel</span>. Die blijven staan als je een ander boek kiest of teruggaat naar de lijst met talen. Klik op <span class=\"ui\">Cancel</span> om de download te stoppen.",
+  "8b8f02c8633e": "Wil je weggaan zonder te downloaden, klik dan op <span class=\"ui\">Close</span> of op het ✕. Als je het venster sluit, stopt een download die al begonnen is niet; open <span class=\"ui\">Get source texts</span> opnieuw om hem te zien of te annuleren.",
+  "2fc42d3c75b4": "Voor de meeste brugtalen bevat het pakket een repository <strong>Translation Words Links</strong> (<code>…_twl</code>) naast Translation Words. Laat die geselecteerd, zodat de installatie voor het controleren compleet wordt.",
+  "acf775b53543": "Twee rijen kunnen dezelfde naam hebben, zoals de twee rijen Français. De organisatie onder de naam laat zien welke welke is.",
+  "1c359191fab9": "De versies in de lijst zijn de nieuwste op Door43, niet de versies die je project gebruikt.",
+  "84b941e238b1": "Om in de gedownloade taal te controleren, kies je die in <a href=\"st-project-settings\">Projectinstellingen</a>. Zie <a href=\"rs-checking-language\">De controletaal wijzigen</a>.",
+  "ab9ab2d35728": "Offline zegt het venster \"tC4 did not read the Door43 list of source texts.\" met <span class=\"ui\">Read the list</span>. De regel daaronder, \"This organisation publishes nothing tC4 can use…\", betekent alleen dat de lijst niet gelezen is.",
+  "2827fe51be40": "Als sommige downloads mislukken, toont het venster een lijst ervan.",
+  "7dd6ae7b823d": "Get source texts. Pinned resources met Check for updates, daarna Choose your gateway language: English (unfoldingWord, notes v91, words v91, academy v91), Español (Latinoamérica) (es-419_gl, gemarkeerd met 1), twee rijen met de naam Français (Xenizo en MVHS), en Русский."
+}

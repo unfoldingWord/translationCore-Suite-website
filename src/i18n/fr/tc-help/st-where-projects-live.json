@@ -1,0 +1,12 @@
+{
+  "e4359c86424d": "Où vos projets sont enregistrés · Aide de translationCore 4",
+  "3eab40f3847e": "« Seulement sur cet ordinateur » (1) sur la carte d’un projet signifie que le projet est enregistré seulement dans ce dossier.",
+  "30baa24967e0": "Dossier",
+  "02c7ab4c886a": "Sauvegarder vos projets",
+  "1a3b4a6ebb72": "Fermez tC4.",
+  "e025bbb3943b": "Copiez tout le dossier <code>tc4-projects</code> sur une clé USB ou un autre emplacement de sauvegarde.",
+  "9aba78ed16f6": "Désinstaller tC4 conserve vos projets.",
+  "103374590ee0": "Pour déplacer un projet sur un autre ordinateur, utilisez <span class=\"ui\">Enregistrer ou recevoir du travail par USB</span>, ou <a href=\"bp-export-burrito\">exportez un Scripture Burrito</a> et ouvrez-le là-bas avec <span class=\"ui\">+ Ajouter un projet</span> › <span class=\"ui\">Recevoir du travail depuis un fichier</span>. C’est plus sûr que de copier des dossiers.",
+  "a667363ac5b9": "Ne modifiez pas les fichiers du dossier pendant que tC4 est ouvert. tC4 s’en aperçoit et s’arrête pour protéger le projet. Voir <a href=\"ts-protect-messages\">Les messages qui protègent votre projet</a>.",
+  "05aa89ccda13": "La carte d’un projet biblique sur l’accueil. La ligne es-419 · 2 livres · 2 en cours · Seulement sur cet ordinateur est marquée 1. Partager sur Door43, Enregistrer ou recevoir du travail par USB et Paramètres sont à droite."
+}

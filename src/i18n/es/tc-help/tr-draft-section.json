@@ -1,0 +1,19 @@
+{
+  "8acbc3565c3a": "Redactar una sección · Ayuda de translationCore 4",
+  "e884672aa2a3": "Escribe la sección de corrido, como la diría en voz alta, y después agrega los números de versículo.",
+  "373905fa673d": "En <span class=\"ui\">Traducir</span>, asegúrese de que el selector encima de su traducción diga <span class=\"ui\">Sección</span>.",
+  "3328663ae42d": "En la fila que quiere, haga clic en el botón <span class=\"ui\">Redactar la sección {span}</span>, en su esquina superior derecha (1). Es un botón pequeño y redondeado, siempre visible.",
+  "3f5705e15b4a": "El editor se abre en el modo <span class=\"ui\">Escribir</span>. Escriba su traducción de toda la sección.",
+  "2f27795e51f7": "Haga clic en <span class=\"ui\">Ubicar los números de versículo</span> y ponga cada número donde empieza su versículo. Vea <a href=\"tr-place-verse-numbers\">Ubicar los números de versículo</a>.",
+  "9ff595806235": "Haga clic en <span class=\"ui\">Guardar sección</span>.",
+  "dd51008cfa25": "Para cerrar el editor sin guardar, haga clic en <span class=\"ui\">Cancelar</span>.",
+  "e8bd62ab6bae": "El editor tiene la misma altura que el pasaje fuente que está a su lado. Si el texto es más largo, se desplaza dentro del cuadro. Para hacer el cuadro más alto, arrastre su esquina.",
+  "a2c7feffadbe": "Para cambiar una sección guardada, haga clic otra vez en su etiqueta <span class=\"ui\">Redactar la sección {span}</span>. Hacer clic en el texto guardado no abre el editor.",
+  "13ec65ee89e4": "Puede escribir los números de versículo usted mismo: empiece una línea con el número, por ejemplo <code>5 no nos salvó…</code>.",
+  "96b5ba2eb54e": "El primer número de versículo de una sección siempre está al principio.",
+  "216c556a0556": "Cuando se abra el editor, espere un momento antes de escribir, y revise el comienzo de su texto antes de guardar.",
+  "e6f7c7888349": "Mientras haya un editor abierto, no se puede usar el selector <span class=\"ui\">Sección</span> / <span class=\"ui\">Versículo</span>.",
+  "8113693e524a": "Un número de versículo que deje en el cuadro <span class=\"ui\">Por ubicar</span> se guarda como un versículo vacío.",
+  "ac06415394d5": "Una fila de sección vacía: TITO 2:9–10 a la izquierda, y Redactar la sección 9–10 en su esquina superior derecha, marcado con 1.",
+  "a85065e98273": "El editor de sección abierto junto a la fuente de Tito 2:9–10: REDACTANDO 9–10, con Escribir seleccionado, la indicación Enter para párrafo, Tab para poesía, los versículos 9 y 10 ya escritos, y Guardar sección y Cancelar. La tarjeta tiene la misma altura que el pasaje fuente que está a su lado."
+}

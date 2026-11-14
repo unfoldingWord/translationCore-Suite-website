@@ -1,0 +1,16 @@
+{
+  "13d6112f254d": "Comprender, Traducir y Revisar: los tres modos · Ayuda de translationCore 4",
+  "22c05e04d926": "Su lugar en el libro se mantiene cuando cambia de modo, y los proyectos de Open Bible Stories tienen los mismos tres modos.",
+  "61aee9109a1b": "Abra un libro o una historia desde Inicio.",
+  "128bfef94f36": "Haga clic en <span class=\"ui\">Comprender</span>, <span class=\"ui\">Traducir</span> o <span class=\"ui\">Revisar</span>, en el centro de la barra superior. El modo en el que está aparece relleno.",
+  "cf7e68e6b38d": "Para qué sirve cada modo",
+  "08d61dfdd7ca": "<strong><span class=\"ui\">Comprender</span>:</strong> lea el pasaje con sus notas, enlaces de palabras y preguntas, y escriba sus propios comentarios. Vea <a href=\"un-read-passage\">Leer un pasaje antes de traducir</a>.",
+  "79ebbb5807f3": "<strong><span class=\"ui\">Traducir</span>:</strong> redacte su traducción junto a los textos fuente. Vea <a href=\"tr-screen\">La pantalla Traducir</a>.",
+  "c0cac543b795": "<strong><span class=\"ui\">Revisar</span>:</strong> revise su borrador con Notas de traducción y Palabras de traducción, alinee palabras y vea el libro en vista previa. Vea <a href=\"ck-tool-picker\">Elegir una herramienta de revisión</a>.",
+  "29c21f035696": "Muchos equipos siguen ese orden, pero puede cambiar en cualquier momento.",
+  "20b3650806b8": "Un libro o una historia que abre por primera vez empieza en <span class=\"ui\">Comprender</span>. Después, tC4 lo abre en el último modo que usó.",
+  "7ae9ea51f3a9": "<span class=\"ui\">Revisar</span> vuelve a la última herramienta de revisión que usó. Para elegir otra, haga clic en <span class=\"ui\">← Todas las herramientas de revisión</span>, arriba a la izquierda.",
+  "89c9737cc63f": "Al cambiar de modo se guarda un punto de control si algo cambió. Vea <a href=\"gs-save\">Guardado y puntos de control</a>.",
+  "4ffefe6c913a": "Exportar no es un modo aparte. Está en <span class=\"ui\">Revisar</span> › <span class=\"ui\">Revisión comunitaria</span>. Vea <a href=\"bp-export-pdf\">Exportar un libro como PDF</a>.",
+  "20f0ff816d20": "El selector en el centro de la barra superior: Comprender, Traducir (seleccionado, relleno de azul claro) y Revisar."
+}

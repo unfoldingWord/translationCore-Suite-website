@@ -1,0 +1,16 @@
+{
+  "2cb8183fcd0b": "Controleren met Translation Words · translationCore 4 Help",
+  "f8b008126386": "Gebruik dit om te zorgen dat elk begrip goed vertaald is, en overal waar het voorkomt op dezelfde manier.",
+  "89604295b1b7": "Een begrip controleren",
+  "50bd5b9f5db9": "Klik op <span class=\"ui\">Check</span> en daarna op <span class=\"ui\">Start checking →</span> op de kaart <span class=\"ui\">Translation Words</span>.",
+  "cdd56a2b7b1c": "Lees het begrip bovenaan. Het is gemarkeerd in de bronkaarten: de grondtaal, de letterlijke brugtaaltekst en de vereenvoudigde tekst (UST of GST). Klik op <span class=\"ui\">Learn more</span> om te lezen wat het betekent. Het artikel opent in een paneel rechts. Sluit het met ✕.",
+  "d54a05521846": "Tik onder <span class=\"ui\">Your translation</span> op het woord of de woorden die het gemarkeerde begrip vertalen.",
+  "737aba652a84": "Klik linksonder op <span class=\"ui\">← Back to translating</span> om te stoppen. De volgende keer opent <span class=\"ui\">Check</span> Translation Words waar je gebleven was.",
+  "05e33bb36d32": "<span class=\"ui\">Sort</span> <span class=\"ui\">By word</span> zet alle plaatsen waar een begrip voorkomt bij elkaar, zodat je kunt zien of je \"genade\" elke keer op dezelfde manier hebt vertaald. <span class=\"ui\">By verse</span> loopt het boek op volgorde door.",
+  "0614c935d23a": "<span class=\"ui\">⚑ Bookmark</span> markeert een punt om er later op terug te komen. Met <span class=\"ui\">✎ Add a comment</span> laat je een notitie achter voor je team. Zie <a href=\"ck-bookmarks\">Een bladwijzer bij een controlepunt zetten</a> en <a href=\"ck-comments\">Een opmerking bij een controlepunt schrijven</a>.",
+  "778d734f3abb": "<strong>Let op:</strong> een vers dat nog niet geschreven is, kan niet worden gecontroleerd. Schrijf het eerst in Translate.",
+  "1dbb172a6232": "De controlelijst komt uit een release van <strong>Translation Words Links</strong> (voor het Engels <code>en_twl</code>, dat met de app wordt meegeleverd). De artikelen komen uit <strong>Translation Words</strong> (<code>en_tw</code>).",
+  "af2e13e3bbd7": "Sommige boeken hebben nog geen controle met Translation Words (bijvoorbeeld Ezechiël), totdat een release van Links ze bevat.",
+  "815d4cf3dd27": "Als een koppeling verwijst naar een artikel dat je controletaal niet heeft, wordt dat punt verborgen en telt het niet mee in de voortgang.",
+  "69c53fbb8fa4": "Translation Words voor Titus, punt 1 van 182: “Paul” in Titus 1:1. De labels wijzen naar All checking tools, de filters, het woord, Learn more, het Grieks, de letterlijke brugtaaltekst, de vereenvoudigde tekst (UST), Back to translating, de controlelijst gegroepeerd per woord, je besluit, Previous en Next, Your translation en Add a comment."
+}

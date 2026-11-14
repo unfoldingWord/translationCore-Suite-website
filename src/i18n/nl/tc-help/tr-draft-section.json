@@ -1,0 +1,19 @@
+{
+  "8acbc3565c3a": "Een gedeelte schrijven · translationCore 4 Help",
+  "e884672aa2a3": "Je typt het gedeelte in één keer door, zoals je het zou zeggen, en voegt de versnummers daarna toe.",
+  "373905fa673d": "Zorg dat de schakelaar boven je vertaling in <span class=\"ui\">Translate</span> op <span class=\"ui\">Section</span> staat.",
+  "3328663ae42d": "Klik in de rij die je wilt rechtsboven op de knop <span class=\"ui\">Draft section {span}</span> (1). Het is een kleine afgeronde knop die altijd zichtbaar is.",
+  "3f5705e15b4a": "De editor opent in de modus <span class=\"ui\">Type</span>. Typ je vertaling van het hele gedeelte.",
+  "2f27795e51f7": "Klik op <span class=\"ui\">Place verse numbers</span> en zet elk nummer waar het vers begint. Zie <a href=\"tr-place-verse-numbers\">Versnummers plaatsen</a>.",
+  "9ff595806235": "Klik op <span class=\"ui\">Save section</span>.",
+  "dd51008cfa25": "Klik op <span class=\"ui\">Cancel</span> om de editor te sluiten zonder op te slaan.",
+  "e8bd62ab6bae": "De editor is even hoog als de bronpassage ernaast. Langere tekst scrolt binnen het vak. Sleep aan de hoek om het vak hoger te maken.",
+  "a2c7feffadbe": "Om een opgeslagen gedeelte te wijzigen, klik je opnieuw op het label <span class=\"ui\">Draft section {span}</span>. Als je op de opgeslagen tekst klikt, opent de editor niet.",
+  "13ec65ee89e4": "Je kunt de versnummers ook zelf typen: begin een regel met het nummer, bijvoorbeeld <code>5 no nos salvó…</code>.",
+  "96b5ba2eb54e": "Het eerste versnummer van een gedeelte staat altijd aan het begin.",
+  "216c556a0556": "Wacht even nadat de editor is geopend voordat je begint te typen, en controleer het begin van je tekst voordat je opslaat.",
+  "e6f7c7888349": "Zolang er een editor open is, kun je de schakelaar <span class=\"ui\">Section</span> / <span class=\"ui\">Verse</span> niet gebruiken.",
+  "8113693e524a": "Een versnummer dat je in het vak <span class=\"ui\">To place</span> laat staan, wordt opgeslagen als leeg vers.",
+  "ac06415394d5": "Een lege rij van een gedeelte: TITUS 2:9-10 links, en rechtsboven Draft section 9-10, gemarkeerd met 1.",
+  "a85065e98273": "De editor voor het gedeelte open naast de brontekst van Titus 2:9-10: DRAFTING 9–10, met Type geselecteerd, de tip Enter for paragraph, Tab for poetry, de getypte verzen 9 en 10, en Save section en Cancel. De kaart is even hoog als de bronpassage ernaast."
+}

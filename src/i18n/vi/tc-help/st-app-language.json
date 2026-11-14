@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "Đổi ngôn ngữ ứng dụng · Trợ giúp translationCore 4",
+  "17845592efa5": "Chọn ngôn ngữ cho các nút, trình đơn và thông báo trong tC4. Cho đến khi bạn chọn, tC4 dùng theo ngôn ngữ của máy tính này; sau khi bạn chọn, ứng dụng sẽ giữ lựa chọn đó.",
+  "45563e5c8a97": "Bản dịch và các dự án của bạn không thay đổi.",
+  "ee049a6941eb": "Nhấp vào biểu tượng hình người tròn ở góc trên bên phải (1), rồi <span class=\"ui\">Ngôn ngữ ứng dụng</span> (2). Trình đơn này giống nhau trên Trang chủ và bên trong dự án.",
+  "dc7b6c5db74e": "Nhấp vào ô <span class=\"ui\">Ngôn ngữ</span> và chọn một ngôn ngữ.",
+  "3727c4ee54ba": "Toàn bộ ứng dụng chuyển sang ngôn ngữ đó ngay lập tức, để bạn có thể xem trước trước khi quyết định.",
+  "11954b3e0c6e": "Nhấp vào <span class=\"ui\">Áp dụng</span> để giữ lựa chọn. Trong tiếng Tây Ban Nha, nút này ghi <span class=\"ui\">Aplicar</span>.",
+  "c83abfae8b10": "Để quay lại ngôn ngữ cũ, hãy nhấp vào <span class=\"ui\">Hủy</span> hoặc ✕. translationCore sẽ nhớ lựa chọn của bạn cho lần mở sau.",
+  "73cdc5d82a85": "Những gì thay đổi và không thay đổi",
+  "f321bc45749b": "Thay đổi: trình đơn, nút, nhãn và hộp thoại, chẳng hạn <span class=\"ui\">Thấu hiểu</span>, <span class=\"ui\">Dịch</span> và <span class=\"ui\">Kiểm tra</span> ở đầu một dự án.",
+  "2b6bca26ac47": "Không thay đổi: bản dịch của bạn, văn bản nguồn (chẳng hạn ULT) và tài liệu trợ giúp dịch thuật (ghi chú, từ ngữ và câu hỏi). Những nội dung này vẫn giữ ngôn ngữ mà chúng được viết. Để chọn ngôn ngữ của tài liệu trợ giúp kiểm tra, xem <a href=\"rs-checking-language\">Ngôn ngữ kiểm tra</a>.",
+  "029f491d3863": "Các ngôn ngữ trong danh sách",
+  "22afbdc189d0": "English, Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский và Tiếng Việt. Bốn ngôn ngữ đầu tiên có từ <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a>; năm ngôn ngữ tiếp theo có từ <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a>.",
+  "aa3bf50cfe0b": "Tìm lại tiếng Anh",
+  "d3f81c8b784c": "Nếu bạn không đọc được ngôn ngữ hiện tại, biểu tượng hình người luôn ở góc trên bên phải, và <span class=\"ui\">Ngôn ngữ ứng dụng</span> nằm trong trình đơn tài khoản (sau Trợ giúp và hướng dẫn). English luôn đứng đầu danh sách.",
+  "54513425bd7d": "Trình đơn tài khoản đang mở khi đã đăng nhập Door43: tên tài khoản Door43, Sử dụng internet (bật), Trợ giúp và hướng dẫn, Ngôn ngữ ứng dụng (English), Báo cáo sự cố, Về translationCore và Đăng xuất khỏi Door43. Số 1 nằm trên biểu tượng hình người tròn ở góc trên bên phải. Số 2 nằm trên Ngôn ngữ ứng dụng.",
+  "171294dd60a6": "Hộp thoại Ngôn ngữ ứng dụng với danh sách Ngôn ngữ đang mở: English (được chọn), Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский và Tiếng Việt.",
+  "e58555e59c08": "Trang chủ phía sau hộp thoại Ngôn ngữ ứng dụng sau khi chọn Español (Latinoamérica). Toàn bộ màn hình đã chuyển sang tiếng Tây Ban Nha, và các nút của hộp thoại giờ ghi Cancelar và Aplicar."
+}

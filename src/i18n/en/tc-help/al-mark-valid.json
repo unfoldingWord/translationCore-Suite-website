@@ -1,0 +1,17 @@
+{
+  "0a68ae08fec4": "Mark an alignment done · translationCore 4 Help",
+  "713d1218f9a9": "When a verse is aligned, mark it valid. It counts toward the verses-aligned progress. You can also clear every placed word on the verse back to the word bank.",
+  "73920c43d088": "It means \"this verse's alignment is done\", even if some words stay in the word bank.",
+  "b0a4929a4563": "Finish linking the words of a verse, and confirm or reject any suggestions.",
+  "33108dcfb335": "Scroll to the bottom of the verse and click <span class=\"ui\">✓ Mark valid</span>.",
+  "9ed01acb5a8c": "Go to the next verse with the list on the left or with <span class=\"ui\">Next →</span>. Marking a verse doesn't move you on.",
+  "fc9e63c512d4": "Clear the alignments of a verse",
+  "6dc5417eba84": "On the same footer row, click <span class=\"ui\">Clear alignments</span>.",
+  "1253bfd93fb0": "Confirm in the dialog, for example <span class=\"ui\">Clear the alignments of Titus 1:1?</span> It tells you how many placed words go back to the word bank, and that every card keeps its original words.",
+  "f7341b652e2a": "After you clear, placed words return to the word bank as separate cards, and <span class=\"ui\">Clear alignments</span> greys out until you place words again.",
+  "96a2f18d2c9b": "The count at the top of the list (\"0 of 9 verses aligned\") goes up for each verse you mark.",
+  "1c635dc349f2": "If you edit the verse later, the mark is taken back and the verse needs another look. See <a href=\"tr-edit-after-check\">Editing a verse you already checked or aligned</a>.",
+  "711170ac5cca": "Upgrading the Greek or Hebrew text also takes the marks back. See <a href=\"rs-upgrade-texts\">Update scripture texts</a>.",
+  "f098152b82de": "The Align footer row: ← Previous, ✓ Mark valid, Next →, and Clear alignments.",
+  "060def52271a": "Confirmation dialog: Clear the alignments of Titus 1:1? with Cancel and a red Clear alignments button."
+}

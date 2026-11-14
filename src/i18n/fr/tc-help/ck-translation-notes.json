@@ -1,0 +1,14 @@
+{
+  "359d3bd718d5": "Vérifier avec les Notes de traduction · Aide de translationCore 4",
+  "34dabdfbc2ff": "Chaque élément est une note qui renvoie à une leçon de l’Académie de traduction. Les autres notes restent dans le panneau d’aides.",
+  "37ed9dc0480b": "Vérifier une note",
+  "c2ed52ecfaef": "Cliquez sur <span class=\"ui\">Vérifier</span>, puis sur <span class=\"ui\">Commencer la vérification →</span> sur la carte <span class=\"ui\">Notes de traduction</span>.",
+  "aa2a2d64b884": "Lisez <span class=\"ui\">Quoi vérifier</span>. Les mots concernés sont surlignés dans les cartes sources en dessous : la langue originale, le texte passerelle littéral (par exemple <span class=\"ui\">Passerelle · unfoldingWord Literal Text</span>) et le texte simplifié (<span class=\"ui\">Passerelle · UST</span>, ou <span class=\"ui\">GST</span> dans certaines langues passerelles).",
+  "af9960d2e388": "Pour en savoir plus sur la question, cliquez sur <span class=\"ui\">En savoir plus</span> sous la note. La leçon de l’Académie de traduction s’ouvre dans un panneau à droite. Fermez-la avec ✕.",
+  "009010512001": "Sous <span class=\"ui\">Votre traduction</span>, touchez le ou les mots qui traduisent la citation surlignée.",
+  "540bd764162b": "Pour arrêter, cliquez sur <span class=\"ui\">← Retour à la traduction</span> en bas à gauche.",
+  "b46b87bfb0b1": "<span class=\"ui\">Trier</span> <span class=\"ui\">Par verset</span> parcourt le livre dans l’ordre. <span class=\"ui\">Par catégorie</span> regroupe toutes les notes sur une même question, par exemple toutes les métaphores.",
+  "3a9f02b502fa": "Les notes sont dans la langue de vérification de votre projet. Voir <a href=\"rs-checking-language\">Changer la langue de vérification</a>.",
+  "4352b92c4356": "Si vous modifiez un verset après avoir pris une décision, translationCore vous demande de revoir cette décision. Rien n’est perdu.",
+  "e3c4462a8aa2": "Notes de traduction pour Tite, élément 1 sur 157 : la citation « for the faith of the chosen people of God and knowledge of the truth » dans Tite 1:1. Les repères montrent Tous les outils de vérification, Trier, la citation, Quoi vérifier, le grec, le texte passerelle littéral, le texte simplifié (UST), Retour à la traduction, la liste des vérifications, votre décision, Précédent et Suivant, Votre traduction et Ajouter un commentaire."
+}

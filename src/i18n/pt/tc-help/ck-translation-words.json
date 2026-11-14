@@ -1,0 +1,16 @@
+{
+  "2cb8183fcd0b": "Verificar com Palavras de Tradução · Ajuda do translationCore 4",
+  "f8b008126386": "Use esta ferramenta para garantir que cada termo esteja traduzido do jeito certo e do mesmo jeito em todos os lugares em que aparece.",
+  "89604295b1b7": "Verificar um termo",
+  "50bd5b9f5db9": "Clique em <span class=\"ui\">Verificar</span> e depois em <span class=\"ui\">Iniciar verificação →</span> no cartão <span class=\"ui\">Palavras de Tradução</span>.",
+  "cdd56a2b7b1c": "Leia o termo no alto. Ele está destacado nos cartões da fonte: a língua original, o texto literal do idioma ponte e o texto simplificado (UST ou GST). Clique em <span class=\"ui\">Saiba mais</span> para ler o que ele significa. O artigo abre em um painel à direita. Feche-o com ✕.",
+  "d54a05521846": "Em <span class=\"ui\">Sua tradução</span>, toque na palavra ou nas palavras que traduzem o termo destacado.",
+  "737aba652a84": "Para parar, clique em <span class=\"ui\">← Voltar à tradução</span> no canto inferior esquerdo. Da próxima vez, <span class=\"ui\">Verificar</span> abre Palavras de Tradução onde você parou.",
+  "05e33bb36d32": "<span class=\"ui\">Classificar</span> <span class=\"ui\">Por palavra</span> junta todos os lugares em que um termo é usado, para que você veja se traduziu \"graça\" do mesmo jeito todas as vezes. <span class=\"ui\">Por versículo</span> percorre o livro em ordem.",
+  "0614c935d23a": "<span class=\"ui\">⚑ Marcar</span> marca um item para você voltar a ele. <span class=\"ui\">✎ Adicionar um comentário</span> deixa uma nota para sua equipe. Veja <a href=\"ck-bookmarks\">Marcar uma verificação</a> e <a href=\"ck-comments\">Escrever um comentário de verificação</a>.",
+  "778d734f3abb": "<strong>Observação:</strong> um versículo que ainda não foi redigido não pode ser verificado. Redija-o primeiro em Traduzir.",
+  "1dbb172a6232": "A lista de verificação vem de um lançamento de <strong>Translation Words Links</strong> (para o inglês, o <code>en_twl</code> que vem com o aplicativo). Os artigos vêm de <strong>Palavras de Tradução</strong> (<code>en_tw</code>).",
+  "af2e13e3bbd7": "Alguns livros ainda não têm verificação de Palavras de Tradução (por exemplo Ezequiel), até que um lançamento de Links os inclua.",
+  "815d4cf3dd27": "Se um link apontar para um artigo que o seu idioma de verificação não tem, esse item fica escondido e não conta no progresso.",
+  "69c53fbb8fa4": "Palavras de Tradução para Tito, item 1 de 182: “Paulo” em Tito 1:1. As indicações apontam para Todas as ferramentas de verificação, os filtros, a palavra, Saiba mais, o grego, o texto literal do idioma ponte, o texto simplificado (UST), Voltar à tradução, a lista de verificação agrupada por palavra, sua decisão, Anterior e Próximo, Sua tradução e Adicionar um comentário."
+}

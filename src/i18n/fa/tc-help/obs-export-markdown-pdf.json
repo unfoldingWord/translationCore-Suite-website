@@ -1,0 +1,14 @@
+{
+  "a468001b6df7": "خروجی گرفتن از داستان‌ها به صورت PDF یا Markdown · راهنمای translationCore 4",
+  "0f29d9d6694a": "<strong>Export PDF:</strong> نسخه‌ای برای خواندن بازبین‌ها، با تصویر یا بدون تصویر.",
+  "9bf5238223e9": "<strong>Story Markdown (.zip):</strong> فایل‌های داستان برای ابزارهای دیگر Open Bible Stories.",
+  "24350718eb1d": "<strong>Scripture Burrito (.zip):</strong> کل پروژه. <a href=\"bp-export-burrito\">خروجی گرفتن از پروژه به صورت Scripture Burrito</a> را ببینید.",
+  "ee25f850300e": "یک داستان را باز کنید و روی <span class=\"ui\">Check</span> کلیک کنید، سپس روی <span class=\"ui\">Open →</span> در <span class=\"ui\">Community Checking</span>.",
+  "cd1b84c31406": "اختیاری: چیدمان و تصویرها را انتخاب کنید. <a href=\"obs-community-checking\">پیش‌نمایش و خروجی داستان</a> را ببینید.",
+  "f882c57168b5": "روی <span class=\"ui\">Export</span> کلیک کنید (1)، سپس یک قالب انتخاب کنید (2).",
+  "cbe483bf884a": "پیش از گرفتن خروجی PDF، دست‌کم عنوان یا یک قاب را پیش‌نویس کنید.",
+  "c02654738f7c": "برای ذخیرهٔ PDF دوم با چیدمانی دیگر، چیدمان را تغییر دهید، دوباره خروجی بگیرید و نام تازه‌ای به آن بدهید.",
+  "b6f55effd7d7": "اگر پیام «The app could not print the PDF with its pictures…» (برنامه نتوانست PDF را با تصویرهایش چاپ کند…) را دیدید، <span class=\"ui\">Pictures</span> را خاموش کنید و دوباره خروجی بگیرید.",
+  "8aec4a792c94": "در Linux پنجرهٔ ذخیره در پوشهٔ <strong>Downloads</strong> شما باز می‌شود. اگر دکمه‌های آن را نمی‌بینید، برای ذخیره <strong>Enter</strong> و برای لغو <strong>Esc</strong> را بزنید.",
+  "81c4c63c64df": "Community Checking برای یک داستان با منوی Export باز. Export با شمارهٔ 1 مشخص شده است. منو، با شمارهٔ 2، گزینه‌های Export PDF، Story Markdown (.zip) و Scripture Burrito (.zip) را دارد."
+}

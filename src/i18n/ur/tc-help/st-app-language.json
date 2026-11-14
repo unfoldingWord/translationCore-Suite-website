@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "ایپ کی زبان بدلیں · translationCore 4 مدد",
+  "17845592efa5": "tC4 کے بٹنوں، مینو اور پیغامات کی زبان منتخب کریں۔ جب تک آپ کوئی زبان منتخب نہ کریں، tC4 اس کمپیوٹر کی زبان کے مطابق چلتا ہے؛ انتخاب کے بعد یہ آپ کا انتخاب برقرار رکھتا ہے۔",
+  "45563e5c8a97": "آپ کا ترجمہ اور آپ کے پروجیکٹس نہیں بدلتے۔",
+  "ee049a6941eb": "اوپر دائیں طرف گول شخص والے آئیکن (1) پر کلک کریں، پھر <span class=\"ui\">App language</span> (2) پر۔ یہ مینو ہوم پر اور پروجیکٹ کے اندر ایک جیسا ہے۔",
+  "dc7b6c5db74e": "<span class=\"ui\">Language</span> خانے پر کلک کریں اور کوئی زبان منتخب کریں۔",
+  "3727c4ee54ba": "پوری ایپ فوراً اس زبان میں بدل جاتی ہے، تاکہ فیصلہ کرنے سے پہلے آپ دیکھ سکیں کہ یہ کیسی لگتی ہے۔",
+  "11954b3e0c6e": "اسے رکھنے کے لیے <span class=\"ui\">Apply</span> پر کلک کریں۔ ہسپانوی میں اس بٹن پر <span class=\"ui\">Aplicar</span> لکھا ہوتا ہے۔",
+  "c83abfae8b10": "پہلے والی زبان پر واپس جانے کے لیے اس کے بجائے <span class=\"ui\">Cancel</span> یا ✕ پر کلک کریں۔ اگلی بار کھولنے پر translationCore آپ کا انتخاب یاد رکھتا ہے۔",
+  "73cdc5d82a85": "کیا بدلتا ہے اور کیا نہیں",
+  "f321bc45749b": "بدلتا ہے: مینو، بٹن، لیبل اور ڈائیلاگ، جیسے پروجیکٹ کے اوپر <span class=\"ui\">Understand</span>، <span class=\"ui\">Translate</span> اور <span class=\"ui\">Check</span>۔",
+  "2b6bca26ac47": "نہیں بدلتا: آپ کا ترجمہ، ماخذ متن (جیسے ULT) اور ترجمے کے مددگار وسائل (نوٹس، الفاظ اور سوالات)۔ یہ اسی زبان میں رہتے ہیں جس میں لکھے گئے تھے۔ جانچ کے مددگار وسائل کی زبان منتخب کرنے کے لیے دیکھیں <a href=\"rs-checking-language\">جانچ کی زبان</a>۔",
+  "029f491d3863": "فہرست میں موجود زبانیں",
+  "22afbdc189d0": "English، Español (Latinoamérica)، Français، हिन्दी، Português (Brasil)، Bahasa Indonesia، Українська، Русский اور Tiếng Việt۔ پہلی چار <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a> کے ساتھ آئیں؛ اگلی پانچ <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a> کے ساتھ۔",
+  "aa3bf50cfe0b": "انگریزی دوبارہ تلاش کریں",
+  "d3f81c8b784c": "اگر آپ موجودہ زبان نہیں پڑھ سکتے تو شخص والا آئیکن ہمیشہ اوپر دائیں طرف ہوتا ہے، اور <span class=\"ui\">App language</span> اکاؤنٹ کے مینو میں (Help and guides کے بعد) ہے۔ فہرست میں English ہمیشہ سب سے پہلے ہوتی ہے۔",
+  "54513425bd7d": "Door43 میں سائن ان ہونے کی حالت میں کھلا ہوا اکاؤنٹ کا مینو: Door43 اکاؤنٹ کا نام، Use the internet (آن)، Help and guides، App language (English)، Report a problem، About translationCore اور Sign out of Door43۔ نشان 1 اوپر دائیں طرف گول شخص والے آئیکن پر ہے۔ نشان 2 App language پر ہے۔",
+  "171294dd60a6": "App language ڈائیلاگ جس میں Language فہرست کھلی ہے: English (منتخب)، Español (Latinoamérica)، Français، हिन्दी، Português (Brasil)، Bahasa Indonesia، Українська، Русский اور Tiếng Việt۔",
+  "e58555e59c08": "Español (Latinoamérica) منتخب کرنے کے بعد App language ڈائیلاگ کے پیچھے ہوم اسکرین۔ پوری اسکرین پہلے ہی ہسپانوی میں بدل چکی ہے، اور ڈائیلاگ کے بٹنوں پر اب Cancelar اور Aplicar لکھا ہے۔"
+}

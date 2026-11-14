@@ -1,0 +1,11 @@
+{
+  "4720b0d24d63": "Een boek exporteren als PDF · translationCore 4 Help",
+  "2798a01adbaa": "De bestandsnaam bevat de boekcode en de datum van vandaag.",
+  "296c22d5869b": "Optioneel: stel de pagina in (papierformaat, kolommen, regelafstand). Zie <a href=\"ck-community-checking\">Voorbeeldweergave en pagina-instelling voor Community Checking</a>.",
+  "2cab4f333825": "Klik op <span class=\"ui\">Export</span> (1) en daarna op <span class=\"ui\">Export PDF</span> (2).",
+  "f12ec931faa5": "Verzen die nog niet geschreven zijn, worden afgedrukt als \"[ verse not yet drafted ]\". Hoofdstukken aan het begin of eind die nog niet geschreven zijn, worden weggelaten.",
+  "5febb95ab85f": "Als er in het boek nog niets geschreven is, meldt tC4 dat en maakt het geen bestand.",
+  "7fb34b0c18d9": "Het papierformaat en de regelafstand worden niet onthouden. Stel ze elke keer opnieuw in.",
+  "86f68bd349db": "Voetnoten worden nog niet afgedrukt.",
+  "282716ae7eab": "Community Checking met het menu Export open. Export is gemarkeerd met 1, en Export PDF, het eerste item, met 2. De andere items zijn USFM, aligned, USFM, plain en Scripture Burrito (.zip)."
+}

@@ -1,0 +1,14 @@
+{
+  "cfc94f2ad007": "Project settings · translationCore 4 Help",
+  "5c31a5d7af92": "Change what you need:",
+  "05947a56b8f2": "<span class=\"ui\">Text direction</span>: <span class=\"ui\">Left to right</span> or <span class=\"ui\">Right to left</span>.",
+  "c3f7bd798553": "<span class=\"ui\">Checking language</span> (1). See <a href=\"rs-checking-language\">Change the checking language</a>.",
+  "bdf0ed5d6154": "<span class=\"ui\">Manage source texts →</span> (2). See <a href=\"rs-source-texts\">Download source texts</a>.",
+  "58d3a2eeb7ed": "<span class=\"ui\">Script font</span> (3): the font your translation is shown in.",
+  "12b7031960a9": "Click <span class=\"ui\">Save changes</span>.",
+  "152e8dbab82d": "To cancel, click <span class=\"ui\">Cancel</span> or the ✕, or press Esc. Nothing is saved.",
+  "b27935a0af63": "The settings are only on the Home card, not in the top bar. To get back to Home, click the project name at the top left.",
+  "f5efa05091cf": "The fonts are Noto Sans (default), Charis SIL, Scheherazade New (Arabic script), Awami Nastaliq (Nastaliq) and Padauk (Myanmar). Pick the one that shows your letters correctly.",
+  "e4ebe7b1659a": "The name and language can't be changed in this version. Project settings show them greyed out, with the note \"Renaming arrives with a later increment.\"",
+  "caca25561146": "Project settings for Sample Titus · 1 book. Bible name, Language name and Code are greyed, with Renaming arrives with a later increment. Text direction Left to right. Checking language English, marked CURRENT (1). Manage source texts → (2). Script font Noto Sans (default) (3). Cancel and Save changes."
+}

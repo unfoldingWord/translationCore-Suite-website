@@ -1,0 +1,19 @@
+{
+  "8acbc3565c3a": "起草一个段落 · translationCore 4 帮助",
+  "e884672aa2a3": "你可以按照说话的方式把整个段落一口气输入，然后再添加节号。",
+  "373905fa673d": "在 <span class=\"ui\">Translate</span> 中，确认译文上方的切换开关显示的是 <span class=\"ui\">Section</span>。",
+  "3328663ae42d": "在你要起草的那一行，点击右上角的 <span class=\"ui\">Draft section {span}</span> 按钮 (1)。这是一个小的圆角按钮，始终可见。",
+  "3f5705e15b4a": "编辑器会以 <span class=\"ui\">Type</span> 模式打开。输入你对整个段落的翻译。",
+  "2f27795e51f7": "点击 <span class=\"ui\">Place verse numbers</span>，把每个节号放在该节开始的地方。请参阅<a href=\"tr-place-verse-numbers\">放置节号</a>。",
+  "9ff595806235": "点击 <span class=\"ui\">Save section</span>。",
+  "dd51008cfa25": "要不保存就关闭编辑器，请点击 <span class=\"ui\">Cancel</span>。",
+  "e8bd62ab6bae": "编辑器的高度与旁边的源经文相同。文字较长时，可以在框内滚动。要把框拉高，请拖动它的角。",
+  "a2c7feffadbe": "要修改已保存的段落，请再次点击它的 <span class=\"ui\">Draft section {span}</span> 标签。点击已保存的文字不会打开编辑器。",
+  "13ec65ee89e4": "你也可以自己输入节号：在一行开头写上节号，例如 <code>5 no nos salvó…</code>。",
+  "96b5ba2eb54e": "段落的第一个节号总是在开头。",
+  "216c556a0556": "编辑器打开后请稍等片刻再输入，保存前请检查文字的开头部分。",
+  "e6f7c7888349": "编辑器打开时，不能使用 <span class=\"ui\">Section</span> / <span class=\"ui\">Verse</span> 切换开关。",
+  "8113693e524a": "留在 <span class=\"ui\">To place</span> 框中的节号会被保存为空的经节。",
+  "ac06415394d5": "一个空的段落行：左边是 TITUS 2:9–10，右上角是 Draft section 9–10，标为 1。",
+  "a85065e98273": "在提多书 2:9–10 源经文旁打开的段落编辑器：DRAFTING 9–10，已选中 Type，提示 Enter for paragraph, Tab for poetry（Enter 分段，Tab 用于诗歌），已输入的第 9 和第 10 节，以及 Save section 和 Cancel。卡片的高度与旁边的源经文相同。"
+}

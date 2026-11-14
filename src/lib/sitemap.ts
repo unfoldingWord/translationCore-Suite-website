@@ -2,11 +2,10 @@
 // file for the marketing pages — every locale of every localized page, each
 // with the full reciprocal hreflang set + x-default, plus the English-only
 // legal pages — and one for the translationCore Desktop help pages under
-// /tc-help/, which are static HTML carried over unchanged.
-import { readdirSync } from 'node:fs';
-import { fileURLToPath } from 'node:url';
+// /tc-help/ and /{lang}/tc-help/, with the same hreflang set (src/lib/tc-help.ts).
 import { locales, defaultLocale, localePath, localizedSlugs, englishOnlySlugs } from '../i18n/config';
 import { SITE_URL } from './jsonld';
+import { helpPageNames, helpPath } from './tc-help';
 
 const SITE = SITE_URL;
 
@@ -41,20 +40,28 @@ export function pagesSitemap(): string {
   return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${urls.join('\n')}\n</urlset>\n`;
 }
 
-/** Every page of the Desktop help site, read from public/tc-help/ at build
- *  time so a page added there is listed without editing this file. The URLs
- *  are extensionless: Cloudflare Pages serves /tc-help/x for x.html and
- *  308-redirects /tc-help/x.html to it, so the help pages link that way too.
- *  The search results page is not a landing page and is left out. */
+/** The Desktop help pages (src/tc-help/*.html), so a page added there is
+ *  listed without editing this file. The URLs are extensionless: Cloudflare
+ *  Pages serves /tc-help/x for x.html and 308-redirects /tc-help/x.html to
+ *  it, so the help pages link that way too. The search results page is not a
+ *  landing page and is left out. */
+function helpLandingPages(): string[] {
+  return helpPageNames.filter((p) => p !== 'search');
+}
+
+/** The English help URLs (/llms.txt lists these). */
 export function helpPages(): string[] {
-  const dir = fileURLToPath(new URL('../../public/tc-help/', import.meta.url));
-  return readdirSync(dir)
-    .filter((f) => f.endsWith('.html') && f !== 'search.html')
-    .sort()
-    .map((f) => (f === 'index.html' ? '/tc-help/' : `/tc-help/${f.slice(0, -'.html'.length)}`));
+  return helpLandingPages().map((p) => helpPath(defaultLocale, p));
 }
 
 export function helpSitemap(): string {
-  const urls = helpPages().map((p) => `  <url>\n    <loc>${SITE}${p}</loc>\n  </url>`);
-  return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join('\n')}\n</urlset>\n`;
+  const urls: string[] = [];
+  for (const page of helpLandingPages()) {
+    const alternates = [
+      ...locales.map((l) => `    <xhtml:link rel="alternate" hreflang="${l.tag}" href="${SITE}${helpPath(l.code, page)}"/>`),
+      `    <xhtml:link rel="alternate" hreflang="x-default" href="${SITE}${helpPath(defaultLocale, page)}"/>`,
+    ].join('\n');
+    for (const l of locales) urls.push(`  <url>\n    <loc>${SITE}${helpPath(l.code, page)}</loc>\n${alternates}\n  </url>`);
+  }
+  return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${urls.join('\n')}\n</urlset>\n`;
 }

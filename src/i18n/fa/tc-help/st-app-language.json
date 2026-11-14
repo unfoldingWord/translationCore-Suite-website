@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "تغییر زبان برنامه · راهنمای translationCore 4",
+  "17845592efa5": "زبان دکمه‌ها، منوها و پیام‌های tC4 را انتخاب کنید. تا وقتی زبانی انتخاب نکرده‌اید، tC4 از زبان این رایانه پیروی می‌کند؛ پس از انتخاب، همان را نگه می‌دارد.",
+  "45563e5c8a97": "ترجمه و پروژه‌های شما تغییر نمی‌کنند.",
+  "ee049a6941eb": "روی نماد گرد آدمک در بالا سمت راست (1) کلیک کنید، سپس روی <span class=\"ui\">App language</span> (2). این منو در صفحهٔ اصلی و درون پروژه یکسان است.",
+  "dc7b6c5db74e": "روی کادر <span class=\"ui\">Language</span> کلیک کنید و یک زبان انتخاب کنید.",
+  "3727c4ee54ba": "کل برنامه بی‌درنگ به آن زبان تغییر می‌کند، تا پیش از تصمیم ببینید چه شکلی دارد.",
+  "11954b3e0c6e": "برای نگه داشتن آن، روی <span class=\"ui\">Apply</span> کلیک کنید. در زبان اسپانیایی این دکمه <span class=\"ui\">Aplicar</span> نوشته می‌شود.",
+  "c83abfae8b10": "برای بازگشت به زبانی که داشتید، به جای آن روی <span class=\"ui\">Cancel</span> یا ✕ کلیک کنید. translationCore دفعهٔ بعد که آن را باز کنید انتخاب شما را به یاد دارد.",
+  "73cdc5d82a85": "چه چیزی تغییر می‌کند و چه چیزی نه",
+  "f321bc45749b": "تغییر می‌کند: منوها، دکمه‌ها، برچسب‌ها و پنجره‌های گفت‌وگو، مانند <span class=\"ui\">Understand</span>، <span class=\"ui\">Translate</span> و <span class=\"ui\">Check</span> در بالای یک پروژه.",
+  "2b6bca26ac47": "تغییر نمی‌کند: ترجمهٔ شما، متن‌های مبدأ (مانند ULT) و کمک‌های ترجمه (یادداشت‌ها، واژه‌ها و پرسش‌ها). این‌ها به همان زبانی می‌مانند که نوشته شده‌اند. برای انتخاب زبان کمک‌های بازبینی، <a href=\"rs-checking-language\">زبان بازبینی</a> را ببینید.",
+  "029f491d3863": "زبان‌های فهرست",
+  "22afbdc189d0": "English، Español (Latinoamérica)، Français، हिन्दी، Português (Brasil)، Bahasa Indonesia، Українська، Русский و Tiếng Việt. چهار زبان نخست با <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a> آمدند و پنج زبان بعدی با <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a>.",
+  "aa3bf50cfe0b": "دوباره پیدا کردن English",
+  "d3f81c8b784c": "اگر نمی‌توانید زبان فعلی را بخوانید، نماد آدمک همیشه در بالا سمت راست است، و <span class=\"ui\">App language</span> در منوی حساب کاربری است (پس از Help and guides). English همیشه نخستین گزینهٔ فهرست است.",
+  "54513425bd7d": "منوی حساب کاربری، باز در حالی که وارد Door43 شده‌اید: نام حساب Door43، Use the internet (روشن)، Help and guides، App language (English)، Report a problem، About translationCore و Sign out of Door43. نشان 1 روی نماد گرد آدمک در بالا سمت راست است. نشان 2 روی App language است.",
+  "171294dd60a6": "پنجرهٔ App language با فهرست Language باز: English (تیک‌خورده)، Español (Latinoamérica)، Français، हिन्दी، Português (Brasil)، Bahasa Indonesia، Українська، Русский و Tiếng Việt.",
+  "e58555e59c08": "صفحهٔ اصلی پشت پنجرهٔ App language پس از انتخاب Español (Latinoamérica). کل صفحه از قبل به اسپانیایی تغییر کرده است، و دکمه‌های پنجره اکنون Cancelar و Aplicar هستند."
+}

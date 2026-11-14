@@ -1,0 +1,15 @@
+{
+  "fa9b9d341efe": "Membuat atau memecah gabungan ayat · Bantuan translationCore 4",
+  "f530bcc1d6ff": "Gabungan ayat (disebut juga jembatan ayat) adalah dua ayat atau lebih yang diterjemahkan sebagai satu kesatuan, misalnya <code>2-3</code>.",
+  "95ad44313a34": "Buka bagian itu dengan label <span class=\"ui\">Susun draf bagian {span}</span>-nya, ketik teksnya, lalu klik <span class=\"ui\">Tempatkan nomor ayat</span>.",
+  "3fcf8b283cb1": "Klik nomor yang lebih akhir di teks, misalnya 10.",
+  "ed04b4022fbd": "Klik kata tempat ayat yang lebih awal (9) dimulai. Keterangan alatnya bertuliskan \"Gabungkan ayat 10 ke ayat 9 pada …\".",
+  "00965f803729": "Klik <span class=\"ui\">Simpan bagian</span>. Ayat-ayat itu disimpan sebagai satu gabungan, dengan nomor 2-3.",
+  "37da7d58596b": "Memecah gabungan ayat",
+  "8040a4812e1b": "Buka bagian itu lagi, klik <span class=\"ui\">Tempatkan nomor ayat</span>, klik nomor 10, lalu klik kata tempat ayat 10 seharusnya dimulai. Kemudian klik <span class=\"ui\">Simpan bagian</span>.",
+  "3a781f8fca28": "Dalam mode <span class=\"ui\">Ketik</span>, Anda juga dapat memulai baris dengan gabungan ayatnya, misalnya <code>2-3 …</code>.",
+  "50b37754200f": "Membuat atau memecah gabungan ayat menandai pemeriksaan dan penyelarasan ayat-ayat itu untuk ditinjau. Tidak ada yang dihapus. Lihat <a href=\"tr-edit-after-check\">Menyunting ayat yang sudah diperiksa atau diselaraskan</a>.",
+  "2a9614442c0b": "Gabungan ayat tidak dapat dibuat di tampilan <span class=\"ui\">Ayat</span>.",
+  "e2cade4b6fa9": "Open Bible Stories memiliki bingkai, bukan nomor ayat, sehingga tidak memiliki gabungan ayat.",
+  "fa2c6f1d53f1": "Mode Tempatkan nomor ayat untuk Titus 2:9–10 setelah digabung: nomor 9 dan 10 berdampingan pada kata pertama, Exhorta, sehingga kedua ayat itu menjadi satu gabungan."
+}

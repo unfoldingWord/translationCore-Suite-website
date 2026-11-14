@@ -1,0 +1,14 @@
+{
+  "f882d1692c25": "Sep 27, 2026 — one + Add a project button on Home · translationCore 4 Help",
+  "22889dff5dd5": "Home now has one <span class=\"ui\">+ Add a project</span> button instead of three. It opens a dialog where you choose a new Bible, new Open Bible Stories, or an import. The Home heading is now <span class=\"ui\">Your projects</span>.",
+  "7e4b91991b86": "What changed",
+  "0b05f77e4428": "Home's heading is now <span class=\"ui\">Your projects</span> (it was \"Your Bibles\").",
+  "58b1575818d7": "One blue <span class=\"ui\">+ Add a project</span> button replaces the separate buttons for a new Bible, new Open Bible Stories and import.",
+  "f92b05182fa1": "<span class=\"ui\">+ Add a project</span> opens a dialog with three cards: <span class=\"ui\">New Bible</span>, <span class=\"ui\">New Open Bible Stories</span> and <span class=\"ui\">Import a project</span>. See <a href=\"gs-home\">The Home screen</a>.",
+  "56254fba4c31": "Each card opens the same form as before: <a href=\"bp-new-bible\">Create a Bible project</a>, <a href=\"obs-create\">Start an Open Bible Stories project</a>, <a href=\"bp-import\">Import a project</a>.",
+  "180b65cd249f": "Import step 1 has a <span class=\"ui\">← Back</span> button that returns to the three cards.",
+  "8dec9d8ba023": "With no projects yet, Home says \"No projects yet. Select + Add a project to start.\"",
+  "80d5aaf1c8eb": "Keyboard: Tab moves through the cards, Enter or Space opens one, and Esc closes the dialog.",
+  "24b8408d001b": "After a form closes, the keyboard focus doesn't return to <span class=\"ui\">+ Add a project</span>.",
+  "2c9c6bcf5f5f": "The <span class=\"ui\">New Bible</span> form can be taller than a small window. Scroll inside it to reach <span class=\"ui\">Create Bible →</span>."
+}

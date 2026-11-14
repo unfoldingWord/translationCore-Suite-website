@@ -1,0 +1,11 @@
+{
+  "27ac6039a7a9": "Opmerkingen voor Windows, macOS en Linux · translationCore 4 Help",
+  "d0c7ab9751d6": "Testversies zijn nog niet ondertekend, dus je systeem kan de eerste keer een waarschuwing geven.",
+  "ed98f85183a9": "Wat je kunt verwachten",
+  "20db2dc87caf": "SmartScreen kan een waarschuwing geven: klik op <strong>More info › Run anyway</strong> (Meer informatie › Toch uitvoeren). Misschien heb je de Microsoft Visual C++-runtime nodig. De gewone USFM-export wordt misschien niet gedownload.",
+  "50d2cfa2722c": "Ga de eerste keer naar <strong>System Settings › Privacy &amp; Security</strong> (Systeeminstellingen › Privacy en beveiliging) en klik op <strong>Open Anyway</strong> (Open toch). Sluit tC4 af voordat je een andere versie installeert.",
+  "3520c5b035eb": "Pak het bestand uit en voer <code>start-tc4.sh</code> uit.",
+  "6dbabc36f7bd": "Volg <a href=\"gs-install\">tC4 installeren en starten</a>.",
+  "58fdb41bf2e3": "Als je systeem het blokkeert, volg dan de stappen hierboven om het \"toch te openen\".",
+  "59ed570323af": "Laat maar één exemplaar van tC4 tegelijk draaien."
+}

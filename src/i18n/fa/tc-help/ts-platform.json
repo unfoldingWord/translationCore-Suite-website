@@ -1,0 +1,11 @@
+{
+  "27ac6039a7a9": "نکته‌هایی دربارهٔ Windows، macOS و Linux · راهنمای translationCore 4",
+  "d0c7ab9751d6": "نسخه‌های آزمایشی هنوز امضا نشده‌اند، پس ممکن است سیستم شما بار اول هشدار دهد.",
+  "ed98f85183a9": "چه انتظاری داشته باشید",
+  "20db2dc87caf": "ممکن است SmartScreen هشدار دهد: روی <strong>More info › Run anyway</strong> کلیک کنید. شاید به Microsoft Visual C++ runtime نیاز داشته باشید. ممکن است خروجی USFM ساده دانلود نشود.",
+  "50d2cfa2722c": "بار اول، به <strong>System Settings › Privacy &amp; Security</strong> بروید و روی <strong>Open Anyway</strong> کلیک کنید. پیش از نصب نسخهٔ دیگر، tC4 را کاملاً ببندید.",
+  "3520c5b035eb": "فایل را از حالت فشرده خارج کنید و <code>start-tc4.sh</code> را اجرا کنید.",
+  "6dbabc36f7bd": "مراحل <a href=\"gs-install\">نصب و اجرای tC4</a> را دنبال کنید.",
+  "58fdb41bf2e3": "اگر سیستم شما جلوی آن را گرفت، مراحل «open anyway» (به‌هرحال باز شود) را که در بالا آمده است دنبال کنید.",
+  "59ed570323af": "هر بار فقط یک نسخه از tC4 را اجرا کنید."
+}

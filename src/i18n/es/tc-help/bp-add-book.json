@@ -1,0 +1,16 @@
+{
+  "a7446f300ed7": "Agregar un libro · Ayuda de translationCore 4",
+  "173d4fc7a677": "Las fuentes en inglés para redactar vienen con tC4, así que puede empezar sin conexión a internet.",
+  "04693dee9eda": "En Inicio, haga clic en la ficha <span class=\"ui\">Agregar un libro</span> en la tarjeta de su proyecto.",
+  "fc9747845e76": "Haga clic en <span class=\"ui\">Empezar un libro en blanco</span>.",
+  "02fed80d8af4": "Elija el libro en la lista <span class=\"ui\">Libro</span> (1).",
+  "c370b74c248f": "Para agregar varios libros, haga clic en <span class=\"ui\">Elegir varios a la vez →</span> (2) y luego en cada libro. <span class=\"ui\">Elegir un libro →</span> vuelve a la lista.",
+  "68a890a39a9a": "Haga clic en <span class=\"ui\">Crear libro</span> (3), o en <span class=\"ui\">Crear {n} libros</span>.",
+  "d73766911c3a": "El libro nuevo se abre en <span class=\"ui\">Comprender</span> en el capítulo 1, para que primero pueda leer el pasaje y sus ayudas.",
+  "39992d6bf57a": "Para cancelar, haga clic en <span class=\"ui\">← Atrás</span> o en la ✕. No se agrega nada.",
+  "6066ccda969f": "Un libro que ya está en el proyecto muestra ✓ y no se puede elegir de nuevo.",
+  "b64ffcaf8616": "El primer paso también ofrece <span class=\"ui\">Agregar libros desde archivos USFM</span>: “Elige uno o más archivos USFM. Cada archivo se convierte en un libro, con el texto del archivo como borrador.”",
+  "afa1bbefd65b": "Practique con un libro corto, como Tito, Filemón o 3 Juan.",
+  "27dbafdecdc9": "Todavía no se pueden redactar las introducciones de los libros. Tampoco se puede quitar un libro todavía.",
+  "d5b73d148408": "El diálogo Agregar un libro para Sample Titus, en el paso del libro. La lista Libro (1) muestra Génesis GEN, luego Elegir varios a la vez → (2), la línea Fuentes para redactar: unfoldingWord ULT + UST v91 — instaladas con la aplicación, y ← Atrás y Crear libro (3)."
+}

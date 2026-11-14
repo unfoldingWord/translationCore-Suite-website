@@ -1,0 +1,16 @@
+{
+  "2cb8183fcd0b": "Vérifier avec les Mots de traduction · Aide de translationCore 4",
+  "f8b008126386": "Servez-vous-en pour vous assurer que chaque terme est traduit correctement, et de la même façon partout où il apparaît.",
+  "89604295b1b7": "Vérifier un terme",
+  "50bd5b9f5db9": "Cliquez sur <span class=\"ui\">Vérifier</span>, puis sur <span class=\"ui\">Commencer la vérification →</span> sur la carte <span class=\"ui\">Mots de traduction</span>.",
+  "cdd56a2b7b1c": "Lisez le terme en haut. Il est surligné dans les cartes sources : la langue originale, le texte passerelle littéral et le texte simplifié (UST ou GST). Cliquez sur <span class=\"ui\">En savoir plus</span> pour lire ce qu’il veut dire. L’article s’ouvre dans un panneau à droite. Fermez-le avec ✕.",
+  "d54a05521846": "Sous <span class=\"ui\">Votre traduction</span>, touchez le ou les mots qui traduisent le terme surligné.",
+  "737aba652a84": "Pour arrêter, cliquez sur <span class=\"ui\">← Retour à la traduction</span> en bas à gauche. La prochaine fois, <span class=\"ui\">Vérifier</span> ouvrira les Mots de traduction là où vous vous êtes arrêté.",
+  "05e33bb36d32": "<span class=\"ui\">Trier</span> <span class=\"ui\">Par mot</span> regroupe tous les endroits où un terme est employé : vous voyez ainsi si vous avez traduit « grâce » de la même façon à chaque fois. <span class=\"ui\">Par verset</span> parcourt le livre dans l’ordre.",
+  "0614c935d23a": "<span class=\"ui\">⚑ Marquer</span> signale un élément pour y revenir. <span class=\"ui\">✎ Ajouter un commentaire</span> laisse une remarque pour votre équipe. Voir <a href=\"ck-bookmarks\">Marquer une vérification</a> et <a href=\"ck-comments\">Écrire un commentaire de vérification</a>.",
+  "778d734f3abb": "<strong>Remarque :</strong> un verset pas encore rédigé ne peut pas être vérifié. Rédigez-le d’abord dans Traduire.",
+  "1dbb172a6232": "La liste des vérifications vient d’une version des <strong>Liens des mots de traduction</strong> (pour l’anglais, <code>en_twl</code>, fourni avec l’application). Les articles viennent des <strong>Mots de traduction</strong> (<code>en_tw</code>).",
+  "af2e13e3bbd7": "Certains livres n’ont pas encore de vérification des Mots de traduction (par exemple Ézéchiel), tant qu’une version des Liens ne les inclut pas.",
+  "815d4cf3dd27": "Si un lien renvoie à un article qui n’existe pas dans votre langue de vérification, cet élément est masqué et ne compte pas dans la progression.",
+  "69c53fbb8fa4": "Mots de traduction pour Tite, élément 1 sur 182 : « Paul » dans Tite 1:1. Les repères montrent Tous les outils de vérification, les filtres, le mot, En savoir plus, le grec, le texte passerelle littéral, le texte simplifié (UST), Retour à la traduction, la liste des vérifications groupée par mot, votre décision, Précédent et Suivant, Votre traduction et Ajouter un commentaire."
+}

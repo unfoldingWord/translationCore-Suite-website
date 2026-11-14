@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "Màn hình Dịch · Trợ giúp translationCore 4",
+  "b5e20a3b5c23": "Mỗi hàng đặt một phần của văn bản nguồn cạnh bản dịch của bạn cho phần đó.",
+  "ccd3b0577ccf": "Mở một sách, rồi nhấp vào <span class=\"ui\">Dịch</span> ở phía trên.",
+  "6eb73fcf4caa": "Chọn văn bản nguồn bằng các thẻ phía trên: <span class=\"ui\">ULT</span> (sát nghĩa), <span class=\"ui\">UST</span> (đơn giản hóa) hoặc nguyên ngữ (<span class=\"ui\">Tiếng Hy Lạp</span> hoặc <span class=\"ui\">Tiếng Híp-ri</span>). Dòng bên dưới các thẻ cho biết tên văn bản và phiên bản.",
+  "cba9851fabf8": "Chọn <span class=\"ui\">Phần</span> để soạn nháp cả một phần cùng lúc, hoặc <span class=\"ui\">Câu</span> để soạn nháp từng câu một.",
+  "c7138b6f2ae2": "Nhấp vào <span class=\"ui\">Soạn nháp phần</span> bên cạnh phần bạn muốn. Gõ văn bản, rồi dùng <span class=\"ui\">Đặt số câu</span>. Xem <a href=\"tr-draft-section\">Soạn nháp một phần</a>.",
+  "6f6d5b88466d": "Nhấp vào <span class=\"ui\">Lưu phần này</span>. Để giữ nguyên phần đó như cũ, hãy nhấp vào <span class=\"ui\">Hủy</span>.",
+  "fb24ef6c8a86": "Mở rộng không gian",
+  "8c8975cae9b6": "Nút ở góc trên bên trái của trang hiện hoặc ẩn danh sách sách.",
+  "d034ae5cfc60": "Ở góc trên bên phải của trang, <span class=\"ui\">Bật/tắt bảng trợ giúp</span> hiện hoặc ẩn tài liệu trợ giúp. Kéo đường phân cách dọc để thay đổi độ rộng của bảng.",
+  "4d761027a250": "Bảng trợ giúp",
+  "ddbdbe454552": "Bảng hiển thị tài liệu trợ giúp cho phần bạn đang làm: <span class=\"ui\">Ghi chú</span>, <span class=\"ui\">Từ ngữ</span>, <span class=\"ui\">Câu hỏi</span>, văn bản đơn giản hóa (<span class=\"ui\">UST</span>) và <span class=\"ui\">Nhận xét</span> từ chế độ Thấu hiểu. Nhấp vào một thẻ trợ giúp thì các từ liên quan sẽ được tô sáng trong văn bản nguồn. Xem <a href=\"tr-helps-panel\">Bảng trợ giúp trong chế độ Dịch</a>.",
+  "2ac8369ebd1d": "Chế độ Dịch ghi nhớ lựa chọn <span class=\"ui\">Phần</span> hoặc <span class=\"ui\">Câu</span> của bạn cho từng dự án.",
+  "a17f0c7ae079": "Màn hình Dịch cho Tít 1 với phần 1–3 đang mở để soạn nháp. Các nhãn chỉ vào các thẻ văn bản nguồn (ULT, UST, tiếng Hy Lạp), nút chuyển chế độ với Dịch được chọn, nút chuyển Phần hoặc Câu, các thẻ của bảng trợ giúp, trạng thái lưu, các nút chương, phân đoạn nguồn, các bước soạn nháp (Gõ chữ, Đặt số câu), Lưu phần này, nút Soạn nháp phần tiếp theo và một thẻ trợ giúp."
+}

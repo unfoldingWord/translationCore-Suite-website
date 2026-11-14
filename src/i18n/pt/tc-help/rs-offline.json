@@ -1,0 +1,16 @@
+{
+  "393d05508d24": "Trabalhar off-line · Ajuda do translationCore 4",
+  "d8bfb8b37fc5": "Tudo o que você precisa para traduzir e verificar com as ajudas em inglês vem com o aplicativo, e seus projetos ficam no seu computador.",
+  "c4c35b6853eb": "Trabalhe normalmente. Não é preciso internet.",
+  "edea9ef59ef5": "Quando uma etapa precisa da internet, o tC4 pergunta \"Conectar à internet?\". Clique em <span class=\"ui\">Ativar internet</span> (1), ou em <span class=\"ui\">Agora não</span> para continuar off-line.",
+  "e733286320b0": "Para desligar a internet de novo, clique no botão redondo da conta no canto superior direito e desative <span class=\"ui\">Usar a internet</span> (1). Fechar o tC4 também desliga a internet.",
+  "3412a451d70b": "O que precisa da internet",
+  "566ac9959449": "<a href=\"rs-upgrade-helps\">Atualizar as ajudas fixadas</a> e <a href=\"rs-upgrade-texts\">Atualizar os textos bíblicos</a>",
+  "2cd392e6b7c7": "Baixar um recurso ausente em <a href=\"rs-guided-fix\">Corrigir um recurso ausente</a>",
+  "91b2d9dfb331": "Entrar e compartilhar no Door43",
+  "9bc597905732": "Traduzir, verificar, alinhar, exportar e importar funcionam off-line.",
+  "8140e4dc8fcb": "Nada dos seus projetos é enviado quando você ativa a internet para fazer downloads.",
+  "33b717beaef2": "Faça cópias de segurança regulares da sua pasta de projetos. Veja <a href=\"st-where-projects-live\">Onde seus projetos ficam guardados</a>.",
+  "98787b2803eb": "A janela Conectar à internet?: Esta etapa precisa da internet para ler os textos-fonte que o Door43 oferece e suas versões. Nada dos seus projetos é enviado. O tC4 usará a internet até você desativá-la no menu da conta ou fechar o tC4. Agora não, e Ativar internet, marcado com 1.",
+  "f332176c6971": "O menu da conta: a conta do Door43, Usar a internet com o botão desativado (marcado com 1) e a linha Desativado. Qualquer etapa que precise da internet pedirá primeiro., Ajuda e guias, Idioma do aplicativo, Relatar um problema, Sobre o translationCore."
+}

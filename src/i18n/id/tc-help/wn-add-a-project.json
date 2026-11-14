@@ -1,0 +1,14 @@
+{
+  "f882d1692c25": "27 Sep 2026 — satu tombol + Tambah proyek di Beranda · Bantuan translationCore 4",
+  "22889dff5dd5": "Beranda kini memiliki satu tombol <span class=\"ui\">+ Tambah proyek</span>, bukan tiga. Tombol ini membuka dialog tempat Anda memilih Alkitab baru, Open Bible Stories baru, atau impor. Judul Beranda kini <span class=\"ui\">Proyek Anda</span>.",
+  "7e4b91991b86": "Apa yang berubah",
+  "0b05f77e4428": "Judul Beranda kini <span class=\"ui\">Proyek Anda</span> (sebelumnya \"Your Bibles\").",
+  "58b1575818d7": "Satu tombol biru <span class=\"ui\">+ Tambah proyek</span> menggantikan tombol terpisah untuk Alkitab baru, Open Bible Stories baru, dan impor.",
+  "f92b05182fa1": "<span class=\"ui\">+ Tambah proyek</span> membuka dialog dengan tiga kartu: <span class=\"ui\">Alkitab Baru</span>, <span class=\"ui\">Open Bible Stories Baru</span> dan <span class=\"ui\">Impor proyek</span>. Lihat <a href=\"gs-home\">Layar Beranda</a>.",
+  "56254fba4c31": "Setiap kartu membuka formulir yang sama seperti sebelumnya: <a href=\"bp-new-bible\">Membuat proyek Alkitab</a>, <a href=\"obs-create\">Memulai proyek Open Bible Stories</a>, <a href=\"bp-import\">Mengimpor proyek</a>.",
+  "180b65cd249f": "Langkah 1 impor memiliki tombol <span class=\"ui\">← Kembali</span> yang membawa Anda kembali ke tiga kartu itu.",
+  "8dec9d8ba023": "Jika belum ada proyek, Beranda bertuliskan \"Belum ada proyek. Pilih + Tambah proyek untuk memulai.\"",
+  "80d5aaf1c8eb": "Papan ketik: Tab berpindah antar kartu, Enter atau Spasi membuka kartu, dan Esc menutup dialog.",
+  "24b8408d001b": "Setelah formulir ditutup, fokus papan ketik tidak kembali ke <span class=\"ui\">+ Tambah proyek</span>.",
+  "2c9c6bcf5f5f": "Formulir <span class=\"ui\">Alkitab Baru</span> bisa lebih tinggi daripada jendela yang kecil. Gulir di dalamnya untuk mencapai <span class=\"ui\">Buat Alkitab →</span>."
+}

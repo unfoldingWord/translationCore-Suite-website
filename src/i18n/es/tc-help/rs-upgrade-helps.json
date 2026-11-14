@@ -1,0 +1,12 @@
+{
+  "144d61aa04df": "Actualizar las ayudas fijadas · Ayuda de translationCore 4",
+  "ecd3d1db71ca": "Un proyecto conserva las versiones exactas con las que empezó, para que las revisiones se mantengan estables. Actualizar siempre es decisión suya.",
+  "259052d9165e": "Cada conjunto muestra <span class=\"ui\">✓ Actualizado</span> o \"Actualizar N recurso(s)\" con cada cambio, por ejemplo <code>en_tn v86 → v91</code>.",
+  "b84f82f5c6bd": "Haga clic en \"Actualizar N recurso(s)\", lea la confirmación y haga clic en <span class=\"ui\">Actualizar</span>.",
+  "0be217637c39": "Para cancelar, haga clic en <span class=\"ui\">Conservar la versión actual</span>.",
+  "b49d3f3e0d3c": "Las decisiones que coinciden con una revisión de la nueva versión se conservan. Las demás vuelven como trabajo pendiente. No se elimina nada.",
+  "c91781710cf1": "Un proyecto nuevo ya usa las ayudas que vienen con la aplicación, así que dice <span class=\"ui\">✓ Actualizado</span>.",
+  "43e6b4d60747": "Un proyecto que revisa en otro idioma muestra ese idioma como conjunto principal y el inglés como conjunto de respaldo.",
+  "55378d00e458": "tC4 no busca actualizaciones por sí solo.",
+  "c26d654cec50": "Después de Buscar actualizaciones en un proyecto creado con ayudas más antiguas: Conjunto principal · en y Conjunto de respaldo · en ofrecen cada uno Actualizar 4 recurso(s), en_tn v86 → v91, en_tw v87 → v91, en_ta v86 → v91, en_tq v89 → v91. Debajo, los textos bíblicos."
+}

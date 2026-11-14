@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Muhtasari wa Community Checking · Msaada wa translationCore 4",
+  "32f4bed68332": "Utumie kusoma kitabu kwa ujumla, au kukisoma kwa sauti pamoja na jamii yako.",
+  "f407ab1cd68e": "Muhtasari na kuhamisha",
+  "dcc507361ac5": "Bofya <span class=\"ui\">Check</span>, kisha <span class=\"ui\">Open →</span> kwenye kadi ya <span class=\"ui\">Community Checking</span>.",
+  "95eb586f7dfe": "Sogeza muhtasari. Mistari ambayo bado haijaandikiwa rasimu inaonyeshwa kama \"[ verse not yet drafted ]\".",
+  "f283b735ac27": "Katika <span class=\"ui\">Page setup</span>, chagua <span class=\"ui\">Columns</span> (1 au 2), <span class=\"ui\">Spacing</span> (<span class=\"ui\">Single</span> au <span class=\"ui\">Double</span>) na <span class=\"ui\">Paper size</span> (<span class=\"ui\">A4</span> au <span class=\"ui\">Letter</span>). Washa au zima <span class=\"ui\">Drop-cap chapters</span> na <span class=\"ui\">Verse numbers</span>.",
+  "66a07da4a05a": "Bofya <span class=\"ui\">Export</span> ili kuhifadhi nakala. Tazama <a href=\"bp-export-pdf\">Hamisha kitabu kama PDF</a>, <a href=\"bp-export-usfm\">Hamisha kitabu kama USFM</a> na <a href=\"bp-export-burrito\">Hamisha mradi kama Scripture Burrito</a>.",
+  "a95f2176183a": "Ili kurudi, bofya <span class=\"ui\">← All checking tools</span>.",
+  "d80f07c55306": "Nafasi ya <span class=\"ui\">Double</span> inaacha nafasi kwa wakaguzi kuandika kati ya mistari.",
+  "e161f48410c3": "Mipangilio ya ukurasa inabadilisha muhtasari na kinachohamishwa pekee, si tafsiri yako.",
+  "1913f785b5a4": "<span class=\"ui\">Drop-cap chapters</span> ikiwa imewashwa, namba kubwa ya sura inaanza mstari wa 1, kwa hiyo mstari wa 1 hauna namba yake ndogo. Zima herufi kubwa za mwanzo ili kuionyesha.",
+  "df1ceace7eba": "translationCore haikumbuki mipangilio ya ukurasa unapoondoka kwenye skrini hii. Iweke tena kabla ya kuhamisha.",
+  "d19d1de53268": "<span class=\"ui\">Footnotes</span> imefifishwa na bado haiwezi kuwashwa.",
+  "79ce1f17e1a6": "Community Checking kwa Tito. Lebo zinaonyesha namba kubwa ya sura (drop cap) bila namba ndogo ya mstari wa 1 kando yake, kichwa cha kitabu, All checking tools, Export, muhtasari wa ukurasa, mistari ambayo bado haijaandikiwa rasimu, Page setup na dokezo la Incomplete draft."
+}

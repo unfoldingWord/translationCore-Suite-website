@@ -1,0 +1,13 @@
+{
+  "4b6a6a014b40": "Als opslaan mislukt · translationCore 4 Help",
+  "747f2583a77a": "De opslagstatus rechtsboven toont <span class=\"ui\">Saved</span>, <span class=\"ui\">Saving…</span>, <span class=\"ui\">Unsaved changes</span> of <span class=\"ui\">Save failed — retry</span>.",
+  "e3580bd75749": "Zie je <span class=\"ui\">Save failed — retry</span>, klik dan één keer op <span class=\"ui\">Retry</span> en wacht.",
+  "2d40c64dbf9d": "Mislukt het weer, blijf dan op het scherm. Naar een andere modus gaan kan geweigerd worden tot het opslaan lukt.",
+  "2fd17609c503": "Als je tC4 probeert te sluiten met niet-opgeslagen wijzigingen, krijg je een waarschuwing. Blijf, en probeer <span class=\"ui\">Retry</span> nog een keer.",
+  "8e2daa28aeb0": "Blijft het mislukken, schrijf dan de melding op en vraag om hulp.",
+  "893b07b094b5": "Vaak op <span class=\"ui\">Retry</span> klikken helpt niet. De app probeert het telkens één keer.",
+  "9e57e0b22b6f": "In een geïmporteerd project kan het opslaan van de eerste tekst in een leeg vers elke keer mislukken. Retry lost dat niet op. Kopieer je tekst naar een veilige plek voordat je tC4 sluit, want het vers komt leeg terug. Ook annuleren bij zo'n vers na het typen kan dezelfde melding geven.",
+  "e5f60e2765f9": "<span class=\"ui\">← All checking tools</span> werkt nog terwijl er een probleem met opslaan te zien is.",
+  "f7028df78512": "Als de melding onder de opslagstatus zegt <strong>This project was synced, so the app must open it again</strong>, klik dan op Home, open het project opnieuw en voer je laatste wijziging opnieuw in. Retry helpt in dat geval niet. Zie <a href=\"ts-protect-messages\">Meldingen die je project beschermen</a>.",
+  "978fdc3be81d": "De opslagstatus rechtsboven met Save failed — retry en een knop Retry."
+}

@@ -1,0 +1,14 @@
+{
+  "359d3bd718d5": "用 Translation Notes 检查 · translationCore 4 帮助",
+  "34dabdfbc2ff": "每一项都是一条链接到 Translation Academy 课程的注释。其他注释仍留在辅助资源面板中。",
+  "37ed9dc0480b": "检查一条注释",
+  "c2ed52ecfaef": "点击 <span class=\"ui\">Check</span>，然后点击 <span class=\"ui\">Translation Notes</span> 卡片上的 <span class=\"ui\">Start checking →</span>。",
+  "aa2a2d64b884": "阅读 <span class=\"ui\">What to check</span>（要检查的内容）。它所讲的词语会在下方的源文本卡片中高亮显示：原文、通用语言直译文本（例如 <span class=\"ui\">Gateway · unfoldingWord Literal Text</span>）和简化文本（<span class=\"ui\">Gateway · UST</span>，在某些通用语言中为 <span class=\"ui\">GST</span>）。",
+  "af9960d2e388": "要深入了解这个问题，请点击注释下方的 <span class=\"ui\">Learn more</span>。Translation Academy 课程会在右侧的面板中打开。点击 ✕ 关闭。",
+  "009010512001": "在 <span class=\"ui\">Your translation</span> 下，点选翻译高亮引文的那个词或那几个词。",
+  "540bd764162b": "要停止，请点击左下角的 <span class=\"ui\">← Back to translating</span>。",
+  "b46b87bfb0b1": "<span class=\"ui\">Sort</span> 中的 <span class=\"ui\">By verse</span> 会按顺序过一遍整卷书。<span class=\"ui\">By category</span> 会把关于同一问题的所有注释放在一起，例如所有的隐喻。",
+  "3a9f02b502fa": "注释使用的是项目的检查语言。请参阅<a href=\"rs-checking-language\">更改检查语言</a>。",
+  "4352b92c4356": "如果你在判定之后修改了某节经文，translationCore 会请你重新查看该判定。不会丢失任何内容。",
+  "e3c4462a8aa2": "提多书的 Translation Notes，第 1 项（共 157 项）：提多书 1:1 中的引文“for the faith of the chosen people of God and knowledge of the truth”。标注指向 All checking tools、Sort、引文、What to check、希腊文、通用语言直译文本、简化文本（UST）、Back to translating、检查列表、你的判定、Previous 和 Next、Your translation 以及 Add a comment。"
+}

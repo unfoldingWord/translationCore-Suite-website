@@ -1,0 +1,13 @@
+{
+  "a6b2052d66fa": "Source tabs — gateway texts and the original language · translationCore 4 Help",
+  "409e4552518f": "Your translation stays the same when you switch; only the source column changes.",
+  "3dece7da8454": "In <span class=\"ui\">Translate</span>, look at the tabs above the source column.",
+  "c999c767379e": "Click <span class=\"ui\">ULT</span> (the literal text), <span class=\"ui\">UST</span> (the simplified text) or <span class=\"ui\">Greek</span>. An Old Testament book has <span class=\"ui\">Hebrew</span> instead of Greek.",
+  "db1b4818efb2": "The caption under the tabs names the text and its version.",
+  "2ce85b8042c3": "The sections follow the selected source. In Titus 1, ULT and UST start with 1–3, while Greek shows the whole chapter as 1–16.",
+  "252056729e99": "Words in curly braces, such as {and}, are part of the source text. They mark words added to make the meaning clear.",
+  "883201366f8a": "Some gateway languages name the first two tabs differently, for example <span class=\"ui\">GLT</span> and <span class=\"ui\">GST</span>.",
+  "2e5e7739fb44": "The same tabs are in <span class=\"ui\">Understand</span>.",
+  "fa9f82f61cc2": "If a text is missing, the column says \"This source is not available for this book.\" See <a href=\"rs-source-texts\">Browse and download source texts</a>.",
+  "a038d25e701e": "The top of Translate on Titus 1 with the Greek tab selected. Its caption reads unfoldingWord Greek New Testament · v0.34 · pinned. The Greek source shows TITUS 1:1–16, and the draft column shows Draft section 1–16 beside it."
+}

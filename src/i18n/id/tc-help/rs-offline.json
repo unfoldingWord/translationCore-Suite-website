@@ -1,0 +1,16 @@
+{
+  "393d05508d24": "Bekerja secara offline · Bantuan translationCore 4",
+  "d8bfb8b37fc5": "Semua yang Anda perlukan untuk menerjemahkan dan memeriksa dengan bantuan bahasa Inggris disertakan bersama aplikasi, dan proyek Anda tetap berada di komputer Anda.",
+  "c4c35b6853eb": "Bekerjalah seperti biasa. Internet tidak diperlukan.",
+  "edea9ef59ef5": "Saat suatu langkah memerlukan internet, tC4 bertanya \"Nyalakan internet?\". Klik <span class=\"ui\">Nyalakan internet</span> (1), atau <span class=\"ui\">Jangan sekarang</span> untuk tetap offline.",
+  "e733286320b0": "Untuk mematikan internet lagi, klik tombol akun bundar di kanan atas dan matikan <span class=\"ui\">Gunakan internet</span> (1). Menutup tC4 juga mematikannya.",
+  "3412a451d70b": "Yang memerlukan internet",
+  "566ac9959449": "<a href=\"rs-upgrade-helps\">Memperbarui bantuan yang disematkan</a> dan <a href=\"rs-upgrade-texts\">Memperbarui teks Alkitab</a>",
+  "2cd392e6b7c7": "Mengunduh sumber daya yang hilang di <a href=\"rs-guided-fix\">Memperbaiki sumber daya yang hilang</a>",
+  "91b2d9dfb331": "Masuk dan berbagi di Door43",
+  "9bc597905732": "Menerjemahkan, memeriksa, menyelaraskan, mengekspor, dan mengimpor semuanya berfungsi secara offline.",
+  "8140e4dc8fcb": "Tidak ada apa pun dari proyek Anda yang dikirim saat Anda menyalakan internet untuk mengunduh.",
+  "33b717beaef2": "Buat cadangan folder proyek Anda secara rutin. Lihat <a href=\"st-where-projects-live\">Tempat proyek Anda disimpan</a>.",
+  "98787b2803eb": "Dialog Nyalakan internet?: Langkah ini memerlukan internet untuk membaca teks sumber yang ditawarkan Door43 dan versinya. Tidak ada dari proyek Anda yang dikirim. tC4 akan menggunakan internet sampai Anda mematikannya di menu akun, atau menutup tC4. Jangan sekarang, dan Nyalakan internet, ditandai 1.",
+  "f332176c6971": "Menu akun: akun Door43, Gunakan internet dengan sakelar mati (ditandai 1) dan baris Mati. Langkah yang membutuhkan internet akan meminta izin terlebih dahulu., Bantuan dan panduan, Bahasa aplikasi, Laporkan masalah, Tentang translationCore."
+}

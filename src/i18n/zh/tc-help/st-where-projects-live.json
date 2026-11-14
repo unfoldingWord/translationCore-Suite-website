@@ -1,0 +1,12 @@
+{
+  "e4359c86424d": "项目的存放位置 · translationCore 4 帮助",
+  "3eab40f3847e": "项目卡片上的“Only on this computer”（仅在这台电脑上）(1) 表示该项目只存放在这个文件夹中。",
+  "30baa24967e0": "文件夹",
+  "02c7ab4c886a": "备份你的项目",
+  "1a3b4a6ebb72": "关闭 tC4。",
+  "e025bbb3943b": "把整个 <code>tc4-projects</code> 文件夹复制到 U 盘或其他备份位置。",
+  "9aba78ed16f6": "卸载 tC4 会保留你的项目。",
+  "103374590ee0": "要把一个项目转移到另一台电脑，请使用 <span class=\"ui\">Save or receive work by USB</span>，或<a href=\"bp-export-burrito\">导出为 Scripture Burrito</a>，然后在那台电脑上用 <span class=\"ui\">+ Add a project</span> › <span class=\"ui\">Receive work from a file</span> 打开它。这比复制文件夹更安全。",
+  "a667363ac5b9": "tC4 打开时，请不要更改该文件夹中的文件。tC4 会发现这种情况，并停下来以保护项目。请参阅<a href=\"ts-protect-messages\">保护项目的提示信息</a>。",
+  "05aa89ccda13": "主页上的一张圣经项目卡片。es-419 · 2 books · 2 in progress · Only on this computer 这一行标为 1。右侧是 Share on Door43、Save or receive work by USB 和 Settings。"
+}

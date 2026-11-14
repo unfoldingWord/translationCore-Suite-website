@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "Skrini ya Translate · Msaada wa translationCore 4",
+  "b5e20a3b5c23": "Kila safu inaweka sehemu ya maandishi chanzo kando ya tafsiri yako ya sehemu hiyo.",
+  "ccd3b0577ccf": "Fungua kitabu, kisha ubofye <span class=\"ui\">Translate</span> juu.",
+  "6eb73fcf4caa": "Chagua maandishi chanzo kwa vichupo vilivyo juu yake: <span class=\"ui\">ULT</span> (halisi), <span class=\"ui\">UST</span> (rahisi) au lugha asilia (<span class=\"ui\">Greek</span> au <span class=\"ui\">Hebrew</span>). Mstari ulio chini ya vichupo unataja maandishi hayo na toleo lake.",
+  "cba9851fabf8": "Chagua <span class=\"ui\">Section</span> ili kuandika rasimu ya sehemu nzima kwa wakati mmoja, au <span class=\"ui\">Verse</span> ili kuandika mstari mmoja kwa wakati.",
+  "c7138b6f2ae2": "Bofya <span class=\"ui\">Draft section</span> kando ya sehemu unayotaka. Andika maandishi, kisha tumia <span class=\"ui\">Place verse numbers</span>. Tazama <a href=\"tr-draft-section\">Andika rasimu ya sehemu</a>.",
+  "6f6d5b88466d": "Bofya <span class=\"ui\">Save section</span>. Ili kuiacha sehemu kama ilivyokuwa, bofya <span class=\"ui\">Cancel</span>.",
+  "fb24ef6c8a86": "Pata nafasi zaidi",
+  "8c8975cae9b6": "Kitufe kilicho juu upande wa kushoto wa ukurasa kinaonyesha au kuficha orodha ya vitabu.",
+  "d034ae5cfc60": "Juu upande wa kulia wa ukurasa, <span class=\"ui\">Toggle helps panel</span> inaonyesha au kuficha misaada. Buruta kigawanyiko cha wima ili kubadilisha upana wa paneli.",
+  "4d761027a250": "Paneli ya misaada",
+  "ddbdbe454552": "Paneli inaonyesha msaada kwa sehemu unayoishughulikia: <span class=\"ui\">Notes</span>, <span class=\"ui\">Words</span>, <span class=\"ui\">Questions</span>, maandishi rahisi (<span class=\"ui\">UST</span>) na <span class=\"ui\">Comments</span> kutoka Understand. Bofya kadi ya msaada na maneno inayoyahusu yataangaziwa katika maandishi chanzo. Tazama <a href=\"tr-helps-panel\">Paneli ya misaada katika Translate</a>.",
+  "2ac8369ebd1d": "Translate inakumbuka chaguo lako la <span class=\"ui\">Section</span> au <span class=\"ui\">Verse</span> kwa kila mradi.",
+  "a17f0c7ae079": "Skrini ya Translate kwa Tito 1, sehemu ya 1–3 ikiwa imefunguliwa kwa kuandika rasimu. Lebo zinaonyesha vichupo vya maandishi chanzo (ULT, UST, Greek), swichi ya Modes ikiwa Translate imechaguliwa, swichi ya Section au Verse, vichupo vya paneli ya misaada, hali ya kuhifadhi, vitufe vya sura, kifungu cha chanzo, hatua za kuandika rasimu (Type, Place verse numbers), Save section, kitufe cha Draft section kinachofuata, na kadi ya msaada."
+}

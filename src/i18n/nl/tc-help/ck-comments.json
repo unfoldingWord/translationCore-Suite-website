@@ -1,0 +1,10 @@
+{
+  "477a2177da05": "Een opmerking bij een controlepunt schrijven · translationCore 4 Help",
+  "5c84068ecc6a": "Gebruik dit om vast te leggen waarom je iets hebt besloten, of om een vraag voor een consulent te noteren.",
+  "f5d2ad61cdd4": "Klik in een controletool op <span class=\"ui\">✎ Add a comment</span>.",
+  "76f4ae1c1a1e": "Typ je notitie in het vak <span class=\"ui\">My comment on this check</span>.",
+  "a637ffd12deb": "Klik op <span class=\"ui\">Done</span>. Het punt krijgt een ✎ in de lijst en telt mee onder het filter <span class=\"ui\">Commented</span>.",
+  "eeea49f682bc": "Klik op <span class=\"ui\">Hide comment</span> om het vak te sluiten zonder wijzigingen. Klik op <span class=\"ui\">Delete comment</span> om een opmerking te verwijderen.",
+  "de74e8024a35": "Opmerkingen bij controlepunten kun je verwijderen; opmerkingen in <span class=\"ui\">Understand</span> niet. Zie <a href=\"un-user-comments\">Een eigen opmerking schrijven</a>.",
+  "46cc700d8522": "Een controlepunt met het opmerkingenvak open: de knop zegt nu Hide comment, het vak heeft de titel My comment on this check en vraagt Say what you decided, or what to ask your team about this check. Daaronder staan Done en Delete comment."
+}

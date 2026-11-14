@@ -1,0 +1,17 @@
+{
+  "0fcd91d58b19": "Een vers bewerken dat je al gecontroleerd of uitgelijnd hebt · translationCore 4 Help",
+  "c1ba7e1a0bf9": "Controles en uitlijningen zijn gekoppeld aan de precieze woorden van een vers. Als die woorden veranderen, markeert tC4 wat misschien niet meer klopt.",
+  "bab305fa9966": "Wijzig in <span class=\"ui\">Translate</span> een vers dat je al gecontroleerd of uitgelijnd hebt.",
+  "cf4ff9ae160d": "Ga naar <span class=\"ui\">Check</span> en open de controletool. Een melding bovenaan zegt hoeveel besluiten opnieuw bekeken moeten worden.",
+  "1ad836e88066": "Klik op het filter <span class=\"ui\">Invalid</span> om die punten te zien, en neem voor elk punt opnieuw een besluit.",
+  "8adaab7c37c9": "Open <span class=\"ui\">Align</span> voor het vers. Woorden die je hebt veranderd, staan weer in de woordenbank. Plaats ze en klik opnieuw op <span class=\"ui\">✓ Mark valid</span>.",
+  "9e7f896a239f": "Een controlebesluit waarvan de woorden veranderd zijn, wordt <strong>Invalid</strong>. Het blijft bewaard en wordt niet verwijderd.",
+  "3d5c7795898c": "In Align blijven koppelingen met woorden die je niet hebt veranderd bewaard. Het vers staat weer op to do.",
+  "c69cb0af2d36": "Een koppeling blijft op het woord waarop ze geplaatst is, ook als je ervoor woorden toevoegt of verwijdert. Verwijder je een gekoppeld woord, dan verdwijnt de koppeling ook.",
+  "52199ccf3ef4": "Als je een woord verandert dat meer dan eens voorkomt en tC4 niet kan zien welk exemplaar je hebt gehouden, wordt het vers gemarkeerd om opnieuw te bekijken. Open het in Align, controleer de koppelingen en klik opnieuw op <span class=\"ui\">✓ Mark valid</span>.",
+  "02c774e022a1": "Een vers dat opnieuw bekeken moet worden, toont in Align een melding bovenaan het vers en is gemarkeerd in de verslijst.",
+  "223edf8f0d6d": "Een versgroep maken of weer splitsen heeft hetzelfde effect op die verzen.",
+  "8c8ae7daabbf": "Een controletool kan weer openen bij het punt waar je was. Gebruik het filter <span class=\"ui\">Invalid</span> om alle punten te vinden die opnieuw bekeken moeten worden.",
+  "e395662b6ada": "De melding bovenaan een controletool: 1 decision(s) no longer match the draft text and need re-review. Nothing was discarded.",
+  "a3c0c8a79510": "De woordenbank van Align na een bewerking: WORD BANK · YOUR TRANSLATION, 25 of 26 words placed, en het veranderde woord belief dat wacht om opnieuw geplaatst te worden."
+}

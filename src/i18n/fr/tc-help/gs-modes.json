@@ -1,0 +1,16 @@
+{
+  "13d6112f254d": "Comprendre, Traduire et Vérifier — les trois modes · Aide de translationCore 4",
+  "22c05e04d926": "Votre position dans le livre ne change pas quand vous changez de mode, et les projets Open Bible Stories ont les mêmes trois modes.",
+  "61aee9109a1b": "Ouvrez un livre ou une histoire depuis l’accueil.",
+  "128bfef94f36": "Cliquez sur <span class=\"ui\">Comprendre</span>, <span class=\"ui\">Traduire</span> ou <span class=\"ui\">Vérifier</span> au milieu de la barre du haut. Le mode où vous êtes est coloré.",
+  "cf7e68e6b38d": "À quoi sert chaque mode",
+  "08d61dfdd7ca": "<strong><span class=\"ui\">Comprendre</span> :</strong> lisez le passage avec ses notes, ses liens de mots et ses questions, et écrivez vos propres commentaires. Voir <a href=\"un-read-passage\">Lire un passage avant de le traduire</a>.",
+  "79ebbb5807f3": "<strong><span class=\"ui\">Traduire</span> :</strong> rédigez votre traduction à côté des textes sources. Voir <a href=\"tr-screen\">L’écran Traduire</a>.",
+  "c0cac543b795": "<strong><span class=\"ui\">Vérifier</span> :</strong> vérifiez votre brouillon avec les Notes de traduction et les Mots de traduction, alignez les mots et prévisualisez le livre. Voir <a href=\"ck-tool-picker\">Choisir un outil de vérification</a>.",
+  "29c21f035696": "Beaucoup d’équipes suivent cet ordre, mais vous pouvez changer de mode à tout moment.",
+  "20b3650806b8": "Un livre ou une histoire que vous ouvrez pour la première fois commence dans <span class=\"ui\">Comprendre</span>. Ensuite, tC4 l’ouvre dans le dernier mode utilisé.",
+  "7ae9ea51f3a9": "<span class=\"ui\">Vérifier</span> revient au dernier outil de vérification utilisé. Pour en choisir un autre, cliquez sur <span class=\"ui\">← Tous les outils de vérification</span> en haut à gauche.",
+  "89c9737cc63f": "Changer de mode enregistre un point de contrôle si quelque chose a changé. Voir <a href=\"gs-save\">Enregistrement et points de contrôle</a>.",
+  "4ffefe6c913a": "L’exportation n’est pas un mode à part. Elle se trouve dans <span class=\"ui\">Vérifier</span> › <span class=\"ui\">Vérification communautaire</span>. Voir <a href=\"bp-export-pdf\">Exporter un livre en PDF</a>.",
+  "20f0ff816d20": "Le sélecteur au milieu de la barre du haut : Comprendre, Traduire (sélectionné, coloré en bleu clair) et Vérifier."
+}

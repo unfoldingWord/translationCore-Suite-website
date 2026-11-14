@@ -1,0 +1,20 @@
+{
+  "92833ce9e8b2": "Mengganti bahasa pemeriksaan · Bantuan translationCore 4",
+  "68427c9028dd": "Pemeriksaan memakai catatan dan artikel kata dari satu bahasa gerbang.",
+  "5aa71e16aef1": "Jika bahasanya belum ada dalam daftar, unduh dulu. Lihat <a href=\"rs-source-texts\">Mengunduh teks sumber</a>.",
+  "c03214fc86f3": "Di bawah <span class=\"ui\">Bahasa pemeriksaan</span>, klik bahasa yang Anda inginkan. Bahasa yang sedang dipakai ditandai <span class=\"ui\">Saat ini</span> (1).",
+  "379f666918d8": "Baca konfirmasinya. Konfirmasi itu menyebutkan berapa keputusan yang dipertahankan dan berapa yang kembali menjadi pekerjaan.",
+  "42260194b915": "Klik \"Ubah ke …\" untuk mengonfirmasi. Bahasa yang baru kini ditandai <span class=\"ui\">Saat ini</span>.",
+  "ea856a88e0c5": "Untuk membatalkan, klik \"Pertahankan …\" pada konfirmasi.",
+  "79bd6b234469": "Kelengkapan mencakup <strong>Tautan Kata Penerjemahan</strong> (<code>_twl</code>) jika bahasa itu menerbitkannya. Unduh paketnya agar Tautan terpasang; untuk bahasa-bahasa itu aplikasi tidak beralih ke Tautan bahasa Inggris.",
+  "252b7ea72f2c": "Beberapa organisasi bahasa gerbang menerbitkan artikel kata tetapi tidak menerbitkan repositori Tautan. Untuk bahasa itu, pemeriksaan memakai daftar Tautan <strong>bahasa Inggris</strong> dengan artikel kata dari bahasa itu. Dua baris bahasa Arab bisa muncul: pilih organisasi yang tertulis di bawah nama bahasa.",
+  "4f43d14a1c34": "Setelah Anda mengubah bahasa, item Kata Penerjemahan dibangun ulang dari sematan Tautan yang baru. Keputusan hanya dipertahankan jika pemeriksaan yang sama masih ada.",
+  "589e7d510f4b": "Bahasa yang sedang dipakai untuk pemeriksaan tidak ditawarkan lagi sebagai pilihan baru.",
+  "15bd0b9b5396": "Saat tC4 meminta Anda mengonfirmasi perubahan bahasa pemeriksaan, kedua tombol pilihan berdampingan.",
+  "736157ec9cf8": "Keputusan hanya dipertahankan jika catatan yang baru memiliki pemeriksaan yang sama pada kata-kata yang sama. Catatan dalam bahasa lain sering dibagi secara berbeda, jadi mungkin hanya sedikit yang dipertahankan. Itu wajar.",
+  "65e0f34827da": "Tidak ada yang dihapus. Keputusan yang tidak dipertahankan tidak lagi dihitung, dan pemeriksaan itu kembali menjadi Belum selesai. Kitab yang sudah selesai mungkin tidak lagi selesai.",
+  "1a41374668d3": "Set bahasa itu harus lengkap: catatan, kata, dan akademi.",
+  "393c252ea8a7": "Konfirmasi menyebut setiap bahasa seperti dalam daftar, misalnya \"Español (Latinoamérica)\". Jika dua paket memiliki nama yang sama, seperti dua baris Français, masing-masing juga menyebutkan pemiliknya.",
+  "2431cd8e2c7a": "Bagian Bahasa pemeriksaan di Pengaturan proyek: Proyek ini diperiksa dalam English · unfoldingWord., baris English ditandai SAAT INI (1), dan Kelola teks sumber →.",
+  "6f7c4d536d9a": "Konfirmasi: Ubah bahasa pemeriksaan ke English? 4 keputusan di Titus dibuat berdasarkan catatan yang akan Anda tinggalkan. Titus · Kata Penerjemahan: 2 dipertahankan, 0 untuk diperiksa lagi. Titus · Catatan Penerjemahan: 0 dipertahankan, 1 untuk diperiksa lagi. Pertahankan Español (Latinoamérica), dan Ubah ke English."
+}

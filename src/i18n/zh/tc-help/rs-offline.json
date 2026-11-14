@@ -1,0 +1,16 @@
+{
+  "393d05508d24": "离线工作 · translationCore 4 帮助",
+  "d8bfb8b37fc5": "使用英文辅助资源进行翻译和检查所需的一切，都随应用一起提供，你的项目也保存在你的电脑上。",
+  "c4c35b6853eb": "照常工作即可，不需要联网。",
+  "edea9ef59ef5": "当某个步骤需要联网时，tC4 会询问“Turn on the internet?”（打开互联网连接？）。点击 <span class=\"ui\">Turn on internet</span>（1），或点击 <span class=\"ui\">Not now</span> 继续保持离线。",
+  "e733286320b0": "要再次关闭互联网连接，请点击右上角的圆形账户按钮，然后关闭 <span class=\"ui\">Use the internet</span>（1）。关闭 tC4 也会关闭互联网连接。",
+  "3412a451d70b": "哪些操作需要联网",
+  "566ac9959449": "<a href=\"rs-upgrade-helps\">更新固定版本的辅助资源</a>和<a href=\"rs-upgrade-texts\">更新经文文本</a>",
+  "2cd392e6b7c7": "在<a href=\"rs-guided-fix\">修复缺失的资源</a>中下载缺失的资源",
+  "91b2d9dfb331": "登录 Door43 以及在 Door43 上分享",
+  "9bc597905732": "翻译、检查、对齐、导出和导入都可以离线进行。",
+  "8140e4dc8fcb": "为下载而打开互联网连接时，不会发送你项目中的任何内容。",
+  "33b717beaef2": "请定期备份你的项目文件夹。请参阅<a href=\"st-where-projects-live\">项目的存放位置</a>。",
+  "98787b2803eb": "Turn on the internet? 对话框：这一步需要联网，以便读取 Door43 提供的源文本及其版本。不会发送你项目中的任何内容。tC4 会一直使用互联网，直到你在账户菜单中关闭它，或关闭 tC4。下方是 Not now 和标为 1 的 Turn on internet。",
+  "f332176c6971": "账户菜单：Door43 账户、开关处于关闭状态的 Use the internet（标为 1）以及说明行 Off. A step that needs the internet asks first.（已关闭。需要联网的步骤会先询问。），还有 Help and guides、App language、Report a problem、About translationCore。"
+}

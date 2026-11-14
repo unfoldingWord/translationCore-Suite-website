@@ -1,0 +1,9 @@
+{
+  "language": "زبان",
+  "onThisPage": "اس صفحے پر",
+  "noResults": "“{query}” سے ملتا کوئی موضوع نہیں ملا۔ کوئی اور لفظ آزمائیں، جیسے align، check، story یا offline۔",
+  "seeAll": "تمام نتائج دیکھیں ←",
+  "resultsOne": "“{query}” کے لیے 1 موضوع",
+  "resultsMany": "“{query}” کے لیے {count} موضوعات",
+  "searchPrompt": "ایک یا دو لفظ لکھیں، جیسے “align”، “bookmark” یا “verse span”۔"
+}

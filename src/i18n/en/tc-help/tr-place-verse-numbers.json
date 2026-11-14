@@ -1,0 +1,17 @@
+{
+  "4376ec103233": "Place verse numbers · translationCore 4 Help",
+  "5eca11c21193": "After typing a section, click each verse number, then click the word where that verse begins.",
+  "dbe8b6820c98": "Each verse number is a small orange marker, and numbers you haven't placed yet wait in the <span class=\"ui\">To place</span> box.",
+  "0ebe78d1b672": "In the section editor, click <span class=\"ui\">Place verse numbers</span>.",
+  "3b3fea276e32": "Click a number in the <span class=\"ui\">To place</span> box (1). The box says \"Click a verse number, then click the word that begins the verse.\"",
+  "0f18a5341cd8": "The box now says \"Click the word where verse 10 begins\". Click that word in the text.",
+  "d02dd9bad9b1": "Repeat for every number, then click <span class=\"ui\">Save section</span>.",
+  "cb344d0f23be": "To go back to typing, click <span class=\"ui\">Type</span>. The numbers you placed are kept. <span class=\"ui\">Cancel</span> closes the editor without saving.",
+  "ca6abd1aaedf": "To move a number that is already placed, click it in the text, then click another word.",
+  "42739399ed72": "If a number lands on a nearby word as soon as you click it, click it again and click the right word.",
+  "fac2a16d248a": "When you click a placed number, the box still says \"Every verse is placed. Click a verse number to move where its verse begins.\" Follow the line under it: \"Click the word where verse 10 begins\".",
+  "0ab63b894abe": "A number can't pass another number, and the first number of the section can't move.",
+  "62b7e7cf49e0": "Putting a number on the word where another verse begins joins them into a span. See <a href=\"tr-verse-spans\">Make or break a verse span</a>.",
+  "ddaf79c7ea52": "Place verse numbers mode for Titus 2:9–10. Verse 9 is fixed at the start of the text, and the number 10 waits in the To place box, marked 1, with the hint Click a verse number, then click the word that begins the verse.",
+  "a22a81f22a81": "The same section after clicking the 10: the To place box says Click the word where verse 10 begins."
+}

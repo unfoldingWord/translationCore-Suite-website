@@ -1,0 +1,14 @@
+{
+  "f882d1692c25": "27 sep 2026: één knop + Add a project op Home · translationCore 4 Help",
+  "22889dff5dd5": "Home heeft nu één knop <span class=\"ui\">+ Add a project</span> in plaats van drie. Die opent een venster waarin je kiest voor een nieuwe Bijbel, een nieuw project voor Open Bible Stories, of een import. De kop van Home is nu <span class=\"ui\">Your projects</span>.",
+  "7e4b91991b86": "Wat er veranderd is",
+  "0b05f77e4428": "De kop van Home is nu <span class=\"ui\">Your projects</span> (eerst was het \"Your Bibles\").",
+  "58b1575818d7": "Eén blauwe knop <span class=\"ui\">+ Add a project</span> vervangt de losse knoppen voor een nieuwe Bijbel, nieuwe Open Bible Stories en importeren.",
+  "f92b05182fa1": "<span class=\"ui\">+ Add a project</span> opent een venster met drie kaarten: <span class=\"ui\">New Bible</span>, <span class=\"ui\">New Open Bible Stories</span> en <span class=\"ui\">Import a project</span>. Zie <a href=\"gs-home\">Het scherm Home</a>.",
+  "56254fba4c31": "Elke kaart opent hetzelfde formulier als eerst: <a href=\"bp-new-bible\">Een Bijbelproject maken</a>, <a href=\"obs-create\">Een Open Bible Stories-project starten</a>, <a href=\"bp-import\">Een project importeren</a>.",
+  "180b65cd249f": "Stap 1 van het importeren heeft een knop <span class=\"ui\">← Back</span> die teruggaat naar de drie kaarten.",
+  "8dec9d8ba023": "Als er nog geen projecten zijn, zegt Home \"No projects yet. Select + Add a project to start.\"",
+  "80d5aaf1c8eb": "Toetsenbord: met Tab ga je langs de kaarten, met Enter of de spatiebalk open je er een, en met Esc sluit je het venster.",
+  "24b8408d001b": "Nadat een formulier is gesloten, gaat de toetsenbordfocus niet terug naar <span class=\"ui\">+ Add a project</span>.",
+  "2c9c6bcf5f5f": "Het formulier <span class=\"ui\">New Bible</span> kan hoger zijn dan een klein venster. Scrol erin om bij <span class=\"ui\">Create Bible →</span> te komen."
+}

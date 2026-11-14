@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "پیش‌نمایش بازبینی گروهی · راهنمای translationCore 4",
+  "32f4bed68332": "از آن برای خواندن کتاب به صورت یک کل، یا خواندن بلند آن با جامعه‌تان، استفاده کنید.",
+  "f407ab1cd68e": "پیش‌نمایش و خروجی",
+  "dcc507361ac5": "روی <span class=\"ui\">Check</span> کلیک کنید، سپس روی <span class=\"ui\">Open →</span> در کارت <span class=\"ui\">Community Checking</span>.",
+  "95eb586f7dfe": "پیش‌نمایش را پیمایش کنید. آیه‌هایی که هنوز پیش‌نویس نشده‌اند به صورت «[ verse not yet drafted ]» نشان داده می‌شوند.",
+  "f283b735ac27": "در <span class=\"ui\">Page setup</span>، <span class=\"ui\">Columns</span> (۱ یا ۲)، <span class=\"ui\">Spacing</span> (<span class=\"ui\">Single</span> یا <span class=\"ui\">Double</span>) و <span class=\"ui\">Paper size</span> (<span class=\"ui\">A4</span> یا <span class=\"ui\">Letter</span>) را انتخاب کنید. <span class=\"ui\">Drop-cap chapters</span> و <span class=\"ui\">Verse numbers</span> را روشن یا خاموش کنید.",
+  "66a07da4a05a": "برای ذخیرهٔ یک نسخه، روی <span class=\"ui\">Export</span> کلیک کنید. <a href=\"bp-export-pdf\">خروجی گرفتن از کتاب به صورت PDF</a>، <a href=\"bp-export-usfm\">خروجی گرفتن از کتاب به صورت USFM</a> و <a href=\"bp-export-burrito\">خروجی گرفتن از پروژه به صورت Scripture Burrito</a> را ببینید.",
+  "a95f2176183a": "برای بازگشت، روی <span class=\"ui\">← All checking tools</span> کلیک کنید.",
+  "d80f07c55306": "فاصله‌گذاری <span class=\"ui\">Double</span> برای بازبین‌ها جا می‌گذارد تا میان سطرها بنویسند.",
+  "e161f48410c3": "تنظیمات صفحه فقط پیش‌نمایش و خروجی را تغییر می‌دهد، نه ترجمهٔ شما را.",
+  "1913f785b5a4": "وقتی <span class=\"ui\">Drop-cap chapters</span> روشن است، شمارهٔ بزرگ فصل آیهٔ ۱ را شروع می‌کند، پس آیهٔ ۱ شمارهٔ کوچک خودش را ندارد. برای نشان دادن آن، حرف بزرگ آغازین را خاموش کنید.",
+  "df1ceace7eba": "translationCore وقتی از این صفحه بیرون می‌روید تنظیمات صفحه را نگه نمی‌دارد. پیش از خروجی گرفتن دوباره آن را تنظیم کنید.",
+  "d19d1de53268": "<span class=\"ui\">Footnotes</span> خاکستری است و هنوز نمی‌توان آن را روشن کرد.",
+  "79ce1f17e1a6": "Community Checking برای تیتوس. برچسب‌ها این بخش‌ها را نشان می‌دهند: شمارهٔ بزرگ فصل (حرف بزرگ آغازین) بدون شمارهٔ کوچک آیهٔ ۱ کنار آن، عنوان کتاب، All checking tools، Export، پیش‌نمایش صفحه، آیه‌هایی که هنوز پیش‌نویس نشده‌اند، Page setup و یادداشت Incomplete draft."
+}

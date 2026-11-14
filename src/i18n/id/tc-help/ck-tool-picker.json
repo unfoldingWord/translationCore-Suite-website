@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "Memilih alat pemeriksaan · Bantuan translationCore 4",
+  "5aab95d571be": "Setiap alat pemeriksaan membawa Anda menelusuri seluruh kitab satu kali, satu item demi satu item. translationCore mengingat posisi Anda di setiap alat.",
+  "0e70b0e894cc": "Membuka alat",
+  "edfdb403ebaa": "Buka sebuah kitab, lalu klik <span class=\"ui\">Periksa</span> di bagian atas.",
+  "e1de982504aa": "Lihat kartu-kartunya. Setiap kartu menunjukkan berapa banyak item yang sudah selesai dan item mana yang berikutnya.",
+  "f0d077c72286": "Klik <span class=\"ui\">Mulai memeriksa →</span> pada kartu yang Anda inginkan, atau <span class=\"ui\">Lanjutkan →</span> jika Anda sudah mulai. Pada Pemeriksaan Komunitas, tautannya adalah <span class=\"ui\">Buka →</span>.",
+  "7843b655da84": "Untuk kembali ke daftar ini, klik <span class=\"ui\">← Semua alat pemeriksaan</span> di kiri atas alat.",
+  "d78a20319fa6": "Lain kali Anda mengklik <span class=\"ui\">Periksa</span>, translationCore membuka alat pemeriksaan yang terakhir Anda pakai.",
+  "3a1d2391f3d2": "Alat-alatnya",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Kata Penerjemahan</a>: istilah kunci, satu demi satu.",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Catatan Penerjemahan</a>: tempat-tempat yang ditunjuk oleh catatan penerjemahan.",
+  "8bfdd2ed6811": "<a href=\"al-open\">Selaraskan</a>: tautkan kata-kata Anda ke bahasa asli. Kartu ini menghitung ayat yang sudah didraf, jadi kitab yang belum ada drafnya menampilkan <span class=\"ui\">Belum ada item di kitab ini</span>.",
+  "7def275b185b": "<a href=\"ck-community-checking\">Pemeriksaan Komunitas</a>: baca seluruh kitab seperti halaman cetak dan ekspor untuk para peninjau.",
+  "fa2c72678197": "Proyek cerita tidak memiliki kartu Selaraskan.",
+  "d228c7b705aa": "Jika sebuah kartu menampilkan <span class=\"ui\">Perlu diunduh</span> atau <span class=\"ui\">Tidak tersedia offline</span>, klik <span class=\"ui\">Perbaiki ini…</span>. Lihat <a href=\"rs-guided-fix\">Memperbaiki sumber daya yang hilang</a>. Alat-alat lainnya tetap berfungsi selama Anda memperbaikinya.",
+  "b756c9f3a838": "<strong>Catatan:</strong> Hanya ayat yang sudah didraf yang dapat diperiksa. Susun draf terlebih dahulu, lalu kembali ke sini."
+}

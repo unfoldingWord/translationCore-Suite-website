@@ -1,0 +1,11 @@
+{
+  "27ac6039a7a9": "Windows、macOS 和 Linux 说明 · translationCore 4 帮助",
+  "d0c7ab9751d6": "测试版本尚未签名，因此第一次运行时，你的系统可能会发出警告。",
+  "ed98f85183a9": "可能遇到的情况",
+  "20db2dc87caf": "SmartScreen 可能会发出警告：请点击 <strong>More info › Run anyway</strong>（更多信息 › 仍要运行）。你可能需要安装 Microsoft Visual C++运行库。纯文本 USFM 导出可能无法下载。",
+  "50d2cfa2722c": "第一次运行时，请前往 <strong>System Settings › Privacy &amp; Security</strong>（系统设置 › 隐私与安全性），点击 <strong>Open Anyway</strong>（仍要打开）。安装其他版本之前，请先退出 tC4。",
+  "3520c5b035eb": "解压后运行 <code>start-tc4.sh</code>。",
+  "6dbabc36f7bd": "请按照<a href=\"gs-install\">安装并启动 tC4</a> 操作。",
+  "58fdb41bf2e3": "如果系统阻止运行，请按照上面“仍要打开”的步骤操作。",
+  "59ed570323af": "一次只运行一个 tC4。"
+}

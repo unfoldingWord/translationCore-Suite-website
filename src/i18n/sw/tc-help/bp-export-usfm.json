@@ -1,0 +1,17 @@
+{
+  "a96d11edfa6b": "Hamisha kitabu kama USFM (kilichooanishwa au cha kawaida) · Msaada wa translationCore 4",
+  "f94a9df0cb10": "USFM ni muundo wa kawaida wa maandishi kwa tafsiri za Biblia.",
+  "1e94ef8ceb99": "Bofya <span class=\"ui\">Export</span> (1), kisha <span class=\"ui\">USFM, aligned</span> (2) au <span class=\"ui\">USFM, plain</span>.",
+  "f9b0a11478e5": "Nichague ipi?",
+  "db946efab3d8": "<strong><span class=\"ui\">USFM, aligned</span></strong> inajumuisha viungo vyako na lugha asilia, kwa ajili ya zana zinazosoma uoanishaji. Oanisha mistari kwanza. Tazama <a href=\"al-link-words\">Unganisha maneno yako na chanzo</a>.",
+  "dd38b1bfdf16": "<strong><span class=\"ui\">USFM, plain</span></strong> ni maandishi yako tu.",
+  "53ede8bc7c3b": "Mradi wako haubadiliki.",
+  "ffb0917a26ef": "Kundi la mistari iliyounganishwa linaandikwa kama mstari mmoja, kwa mfano <code>\\v 2-3</code>.",
+  "1b8ddfde1a2c": "Mistari ambayo haijaandikiwa rasimu inaandikwa kama <code>___</code>.",
+  "46717a73e9ca": "Mistari ya kichwa (<code>\\h</code>, <code>\\toc1</code>–<code>\\toc3</code>, <code>\\mt</code>) ina msimbo wa kitabu, kama <code>TIT</code>, si jina la kitabu. Ihariri ikiwa programu nyingine inahitaji jina.",
+  "1d6a4dcee725": "<span class=\"ui\">USFM, aligned</span> inaandika uoanishaji wa kila mstari ambao uoanishaji wake uko sawa na wa sasa. Mstari unaohitaji kupitiwa upya unaandikwa bila uoanishaji wake, na paneli inasema <strong>Your alignment of these verses is not in the file</strong> na kuiorodhesha. Pitia upya mistari hiyo katika Align na uhamishe tena. Uhamishaji unaofuata unaondoa ujumbe huo.",
+  "8e797de8362c": "Mistari uliyoileta ikiwa na uoanishaji inaandikwa kama ilivyoletwa hasa.",
+  "d7ba70e5d6d8": "<span class=\"ui\">USFM, plain</span> na PDF hazijumuishi uoanishaji kamwe, kwa hiyo haziwahi kuonyesha ujumbe huu.",
+  "44afc7d304ce": "Kuhifadhi juu ya faili iliyopo kunaibadilisha bila kuuliza. Chagua jina jipya la faili ikiwa unataka kubaki na faili ya zamani.",
+  "caf999f3879c": "Community Checking ikiwa na menyu ya Export wazi. Export imewekwa namba 1, na USFM, aligned imewekwa namba 2; USFM, plain iko chini yake kidogo."
+}

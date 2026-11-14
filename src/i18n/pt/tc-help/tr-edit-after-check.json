@@ -1,0 +1,17 @@
+{
+  "0fcd91d58b19": "Editar um versículo que você já verificou ou alinhou · Ajuda do translationCore 4",
+  "c1ba7e1a0bf9": "As verificações e os alinhamentos estão ligados às palavras exatas de um versículo; por isso, quando essas palavras mudam, o tC4 marca o que pode não servir mais.",
+  "bab305fa9966": "Mude em <span class=\"ui\">Traduzir</span> um versículo que você já verificou ou alinhou.",
+  "cf4ff9ae160d": "Vá para <span class=\"ui\">Verificar</span> e abra a ferramenta de verificação. Um aviso no alto diz quantas decisões precisam de revisão.",
+  "1ad836e88066": "Clique no filtro <span class=\"ui\">Inválido</span> para ver esses itens e decida cada um de novo.",
+  "8adaab7c37c9": "Abra <span class=\"ui\">Alinhar</span> para o versículo. As palavras que você mudou voltaram para o banco de palavras. Posicione-as e clique de novo em <span class=\"ui\">✓ Marcar como válido</span>.",
+  "9e7f896a239f": "Uma decisão de verificação cujas palavras mudaram passa a ser <strong>Inválido</strong>. Ela é mantida, não excluída.",
+  "3d5c7795898c": "Em Alinhar, os links das palavras que você não mudou são mantidos. O versículo volta a aparecer como a fazer.",
+  "c69cb0af2d36": "Um link fica na palavra em que foi colocado, mesmo que você acrescente ou remova palavras antes dela. Se você apagar uma palavra ligada, o link dela também some.",
+  "52199ccf3ef4": "Se você mudar uma palavra que aparece mais de uma vez e o tC4 não conseguir saber qual cópia você manteve, o versículo é marcado para revisão. Abra-o em Alinhar, confira os links e clique de novo em <span class=\"ui\">✓ Marcar como válido</span>.",
+  "02c774e022a1": "Um versículo que precisa de revisão mostra um aviso no alto do versículo em Alinhar e fica marcado na lista de versículos.",
+  "223edf8f0d6d": "Criar ou desfazer um intervalo de versículos tem o mesmo efeito nesses versículos.",
+  "8c8ae7daabbf": "Uma ferramenta de verificação pode abrir de novo no item em que você estava. Use o filtro <span class=\"ui\">Inválido</span> para encontrar todos os itens que precisam de revisão.",
+  "e395662b6ada": "O aviso no alto de uma ferramenta de verificação: 1 decisão(ões) não correspondem mais ao texto do rascunho e precisam ser revisadas. Nada foi descartado.",
+  "a3c0c8a79510": "O banco de palavras de Alinhar depois de uma edição: BANCO DE PALAVRAS · SUA TRADUÇÃO, 25 de 26 palavras posicionadas, e a palavra alterada belief esperando para ser posicionada de novo."
+}

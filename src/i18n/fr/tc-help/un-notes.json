@@ -1,0 +1,13 @@
+{
+  "01a53e588c40": "Notes de traduction et articles de l’Académie de traduction · Aide de translationCore 4",
+  "0671ee584d38": "Beaucoup de notes renvoient à un article de l’Académie de traduction, une courte leçon sur une question de traduction comme les métaphores ou les noms abstraits.",
+  "d1a1a2a4e8d2": "Dans <span class=\"ui\">Comprendre</span>, cliquez sur une section pour la sélectionner.",
+  "f568ce10b811": "Dans le panneau d’aides, cliquez sur <span class=\"ui\">Notes</span>. Les notes sont regroupées sous des titres comme <span class=\"ui\">INTRODUCTION</span> et <span class=\"ui\">VERSET 1</span>. Pointez une carte pour surligner son expression dans le passage.",
+  "df79ebb34868": "Cliquez sur le lien d’article d’une note : il porte le nom réel de l’article de l’Académie de traduction, par exemple <span class=\"ui\">Noms abstraits →</span>. L’article s’ouvre sous les notes avec un bouton de fermeture.",
+  "eccd45ba7618": "L’introduction du chapitre se trouve sous <span class=\"ui\">INTRODUCTION</span>. Cliquez sur <span class=\"ui\">Afficher plus</span> pour la lire en entier.",
+  "25dad734607e": "Les notes sont dans la langue de vérification du projet. Si vous voyez « Affiché depuis le repli en anglais », les notes dans cette langue ne sont pas sur cet ordinateur, donc les notes en anglais sont affichées. Voir <a href=\"rs-checking-language\">Changer la langue de vérification</a>.",
+  "2decfe0af6a1": "Les liens d’articles portent le nom de l’article de l’Académie de traduction lui-même (par exemple <span class=\"ui\">Noms abstraits →</span>), et non l’étiquette générique <span class=\"ui\">Académie de traduction →</span>.",
+  "75ae79166212": "Si un article manque, le panneau indique « Les ressources épinglées ne contiennent pas l’article de cette vérification. » La note s’affiche quand même.",
+  "5fa1648a1e84": "Ces mêmes notes deviennent des éléments de vérification dans <a href=\"ck-translation-notes\">Vérifier avec les Notes de traduction</a>.",
+  "76e2d8ec0e70": "L’onglet Notes dans Comprendre, sur Tite 1. Les notes sont regroupées sous INTRODUCTION et VERSET 1. Les liens d’articles portent le vrai nom, comme Noms abstraits →. Il n’y a pas d’étiquettes NOTE."
+}

@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "选择检查工具 · translationCore 4 帮助",
+  "5aab95d571be": "每个检查工具都会带你把整卷书过一遍，一次一项。translationCore 会记住你在每个工具中的位置。",
+  "0e70b0e894cc": "打开工具",
+  "edfdb403ebaa": "打开一卷书，然后点击顶部的 <span class=\"ui\">Check</span>。",
+  "e1de982504aa": "查看各张卡片。每张卡片都显示已处理了多少项，以及下一项是哪一个。",
+  "f0d077c72286": "点击你要使用的卡片上的 <span class=\"ui\">Start checking →</span>；如果已经开始，则点击 <span class=\"ui\">Continue →</span>。在 Community Checking 上，链接是 <span class=\"ui\">Open →</span>。",
+  "7843b655da84": "要回到这个列表，请点击工具左上角的 <span class=\"ui\">← All checking tools</span>。",
+  "d78a20319fa6": "下次点击 <span class=\"ui\">Check</span> 时，translationCore 会打开你上次使用的检查工具。",
+  "3a1d2391f3d2": "各个工具",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Translation Words</a>：关键词，一次一个。",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Translation Notes</a>：翻译注释所指向的地方。",
+  "8bfdd2ed6811": "<a href=\"al-open\">Align</a>：把你的词语与原文关联起来。这张卡片统计的是已起草的经节，所以没有任何已起草内容的书卷会显示 <span class=\"ui\">No items in this book yet</span>。",
+  "7def275b185b": "<a href=\"ck-community-checking\">Community Checking</a>：以印刷页面的形式阅读整卷书，并导出给审阅者。",
+  "fa2c72678197": "故事项目没有 Align 卡片。",
+  "d228c7b705aa": "如果卡片显示 <span class=\"ui\">Needs downloading</span> 或 <span class=\"ui\">Unavailable offline</span>，请点击 <span class=\"ui\">Fix this…</span>。请参阅<a href=\"rs-guided-fix\">修复缺失的资源</a>。修复期间，其他工具仍可使用。",
+  "b756c9f3a838": "<strong>注意：</strong>只有已起草的经节才能检查。请先起草，再回来检查。"
+}

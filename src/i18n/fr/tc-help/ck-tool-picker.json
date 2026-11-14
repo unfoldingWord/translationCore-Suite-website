@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "Choisir un outil de vérification · Aide de translationCore 4",
+  "5aab95d571be": "Chaque outil de vérification vous fait parcourir tout le livre une fois, un élément à la fois. translationCore retient votre position dans chaque outil.",
+  "0e70b0e894cc": "Ouvrir un outil",
+  "edfdb403ebaa": "Ouvrez un livre, puis cliquez sur <span class=\"ui\">Vérifier</span> en haut.",
+  "e1de982504aa": "Regardez les cartes. Chacune indique combien d’éléments sont réglés et lequel vient ensuite.",
+  "f0d077c72286": "Cliquez sur <span class=\"ui\">Commencer la vérification →</span> sur la carte voulue, ou sur <span class=\"ui\">Continuer →</span> si vous avez déjà commencé. Sur Vérification communautaire, le lien est <span class=\"ui\">Ouvrir →</span>.",
+  "7843b655da84": "Pour revenir à cette liste, cliquez sur <span class=\"ui\">← Tous les outils de vérification</span> en haut à gauche de l’outil.",
+  "d78a20319fa6": "La prochaine fois que vous cliquerez sur <span class=\"ui\">Vérifier</span>, translationCore ouvrira le dernier outil de vérification utilisé.",
+  "3a1d2391f3d2": "Les outils",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Mots de traduction</a> : les termes clés, un à la fois.",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Notes de traduction</a> : les endroits que signale une note de traduction.",
+  "8bfdd2ed6811": "<a href=\"al-open\">Aligner</a> : reliez vos mots à la langue originale. Cette carte compte les versets rédigés : un livre où rien n’est rédigé affiche donc <span class=\"ui\">Aucun élément dans ce livre pour l’instant</span>.",
+  "7def275b185b": "<a href=\"ck-community-checking\">Vérification communautaire</a> : lisez tout le livre comme une page imprimée et exportez-le pour les relecteurs.",
+  "fa2c72678197": "Un projet d’histoires n’a pas de carte Aligner.",
+  "d228c7b705aa": "Si une carte indique <span class=\"ui\">Téléchargement nécessaire</span> ou <span class=\"ui\">Indisponible hors ligne</span>, cliquez sur <span class=\"ui\">Résoudre…</span>. Voir <a href=\"rs-guided-fix\">Résoudre une ressource manquante</a>. Les autres outils continuent de fonctionner pendant ce temps.",
+  "b756c9f3a838": "<strong>Remarque :</strong> seuls les versets rédigés peuvent être vérifiés. Rédigez d’abord, puis revenez."
+}

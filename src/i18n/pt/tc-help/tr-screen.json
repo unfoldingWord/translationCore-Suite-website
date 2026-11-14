@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "A tela Traduzir · Ajuda do translationCore 4",
+  "b5e20a3b5c23": "Cada linha coloca uma seção do texto-fonte ao lado da sua tradução dela.",
+  "ccd3b0577ccf": "Abra um livro e clique em <span class=\"ui\">Traduzir</span> no alto.",
+  "6eb73fcf4caa": "Escolha o texto-fonte com as abas acima dele: <span class=\"ui\">ULT</span> (literal), <span class=\"ui\">UST</span> (simplificado) ou a língua original (<span class=\"ui\">Grego</span> ou <span class=\"ui\">Hebraico</span>). A linha abaixo das abas diz o nome do texto e a versão dele.",
+  "cba9851fabf8": "Escolha <span class=\"ui\">Seção</span> para redigir uma seção inteira de uma vez, ou <span class=\"ui\">Versículo</span> para redigir um versículo por vez.",
+  "c7138b6f2ae2": "Clique em <span class=\"ui\">Redigir seção</span> ao lado da seção que você quer. Digite o texto e depois use <span class=\"ui\">Posicionar números dos versículos</span>. Veja <a href=\"tr-draft-section\">Redigir uma seção</a>.",
+  "6f6d5b88466d": "Clique em <span class=\"ui\">Salvar seção</span>. Para deixar a seção como estava, clique em <span class=\"ui\">Cancelar</span>.",
+  "fb24ef6c8a86": "Abrir espaço",
+  "8c8975cae9b6": "O botão no canto superior esquerdo da página mostra ou esconde a lista de livros.",
+  "d034ae5cfc60": "No canto superior direito da página, <span class=\"ui\">Alternar painel de ajudas</span> mostra ou esconde as ajudas. Arraste o divisor vertical para mudar a largura do painel.",
+  "4d761027a250": "O painel de ajudas",
+  "ddbdbe454552": "O painel mostra ajudas para a seção em que você está trabalhando: <span class=\"ui\">Notas</span>, <span class=\"ui\">Palavras</span>, <span class=\"ui\">Perguntas</span>, o texto simplificado (<span class=\"ui\">UST</span>) e os <span class=\"ui\">Comentários</span> de Compreender. Clique em um cartão de ajuda e as palavras de que ele trata ficam destacadas no texto-fonte. Veja <a href=\"tr-helps-panel\">O painel de ajudas em Traduzir</a>.",
+  "2ac8369ebd1d": "Traduzir lembra se você escolheu <span class=\"ui\">Seção</span> ou <span class=\"ui\">Versículo</span> em cada projeto.",
+  "a17f0c7ae079": "A tela Traduzir para Tito 1 com a seção 1–3 aberta para redação. As indicações apontam para as abas de texto-fonte (ULT, UST, grego), a chave de modos com Traduzir selecionado, a chave Seção ou Versículo, as abas do painel de ajudas, o status de salvamento, os botões de capítulo, a passagem da fonte, os passos de redação (Digitar, Posicionar números dos versículos), Salvar seção, o botão Redigir seção seguinte e um cartão de ajuda."
+}

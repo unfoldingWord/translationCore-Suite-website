@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "翻译界面 · translationCore 4 帮助",
+  "b5e20a3b5c23": "每一行把源文本的一个段落和你对它的翻译并排放在一起。",
+  "ccd3b0577ccf": "打开一卷书，然后点击顶部的 <span class=\"ui\">Translate</span>。",
+  "6eb73fcf4caa": "用源文本上方的标签页选择源文本：<span class=\"ui\">ULT</span>（直译）、<span class=\"ui\">UST</span>（简化）或原文（<span class=\"ui\">Greek</span> 或 <span class=\"ui\">Hebrew</span>）。标签页下方的一行写明文本名称及其版本。",
+  "cba9851fabf8": "选择 <span class=\"ui\">Section</span> 一次起草整个段落，或选择 <span class=\"ui\">Verse</span> 一次起草一节。",
+  "c7138b6f2ae2": "点击你要起草的段落旁边的 <span class=\"ui\">Draft section</span>。输入文字，然后使用 <span class=\"ui\">Place verse numbers</span>。请参阅<a href=\"tr-draft-section\">起草一个段落</a>。",
+  "6f6d5b88466d": "点击 <span class=\"ui\">Save section</span>。要让段落保持原样，请点击 <span class=\"ui\">Cancel</span>。",
+  "fb24ef6c8a86": "腾出空间",
+  "8c8975cae9b6": "页面左上角的按钮用于显示或隐藏书卷列表。",
+  "d034ae5cfc60": "在页面右上角，<span class=\"ui\">Toggle helps panel</span> 用于显示或隐藏辅助资源。拖动竖向分隔线可以改变面板宽度。",
+  "4d761027a250": "辅助资源面板",
+  "ddbdbe454552": "面板显示你正在处理的段落的辅助资源：<span class=\"ui\">Notes</span>、<span class=\"ui\">Words</span>、<span class=\"ui\">Questions</span>、简化文本（<span class=\"ui\">UST</span>），以及来自理解模式的 <span class=\"ui\">Comments</span>。点击一张辅助资源卡片，它所讲的词语会在源文本中高亮显示。请参阅<a href=\"tr-helps-panel\">翻译模式中的辅助资源面板</a>。",
+  "2ac8369ebd1d": "翻译模式会为每个项目记住你选择的是 <span class=\"ui\">Section</span> 还是 <span class=\"ui\">Verse</span>。",
+  "a17f0c7ae079": "提多书 1 章的翻译界面，第 1–3 节的段落已打开以供起草。标注指向源文本标签页（ULT、UST、Greek）、选中了 Translate 的 Modes 切换开关、Section 或 Verse 切换开关、辅助资源面板的标签页、保存状态、章按钮、源经文、起草步骤（Type、Place verse numbers）、Save section、下一个 Draft section 按钮和一张辅助资源卡片。"
+}

@@ -1,0 +1,17 @@
+{
+  "0fcd91d58b19": "Sửa một câu bạn đã kiểm tra hoặc căn chỉnh · Trợ giúp translationCore 4",
+  "c1ba7e1a0bf9": "Các mục kiểm tra và căn chỉnh gắn với chính xác các từ của một câu, nên khi những từ đó thay đổi, tC4 sẽ đánh dấu những gì có thể không còn phù hợp.",
+  "bab305fa9966": "Thay đổi trong <span class=\"ui\">Dịch</span> một câu mà bạn đã kiểm tra hoặc căn chỉnh.",
+  "cf4ff9ae160d": "Vào <span class=\"ui\">Kiểm tra</span> và mở công cụ kiểm tra. Một thông báo ở phía trên cho biết có bao nhiêu quyết định cần xem lại.",
+  "1ad836e88066": "Nhấp vào bộ lọc <span class=\"ui\">Không hợp lệ</span> để xem các mục đó, và quyết định lại từng mục.",
+  "8adaab7c37c9": "Mở <span class=\"ui\">Căn chỉnh</span> cho câu đó. Các từ bạn đã thay đổi sẽ quay về ngân hàng từ. Hãy đặt chúng vào và nhấp lại vào <span class=\"ui\">✓ Đánh dấu hợp lệ</span>.",
+  "9e7f896a239f": "Một quyết định kiểm tra có từ bị thay đổi sẽ trở thành <strong>Không hợp lệ</strong>. Quyết định đó được giữ lại, không bị xóa.",
+  "3d5c7795898c": "Trong Căn chỉnh, các liên kết tới những từ bạn không thay đổi vẫn được giữ. Câu đó lại hiện ở trạng thái cần làm.",
+  "c69cb0af2d36": "Một liên kết vẫn ở trên từ mà nó đã được đặt, ngay cả khi bạn thêm hoặc xóa các từ phía trước. Nếu bạn xóa một từ đã liên kết, liên kết của nó cũng mất theo.",
+  "52199ccf3ef4": "Nếu bạn thay đổi một từ xuất hiện nhiều lần, và tC4 không biết bạn đã giữ lại bản nào, câu đó sẽ được đánh dấu để xem lại. Hãy mở câu đó trong Căn chỉnh, kiểm tra các liên kết, và nhấp lại vào <span class=\"ui\">✓ Đánh dấu hợp lệ</span>.",
+  "02c774e022a1": "Câu cần xem lại sẽ hiện một thông báo ở đầu câu trong Căn chỉnh và được đánh dấu trong danh sách câu.",
+  "223edf8f0d6d": "Việc gộp hoặc tách nhóm câu cũng có tác dụng tương tự đối với các câu đó.",
+  "8c8ae7daabbf": "Một công cụ kiểm tra có thể mở lại ở mục bạn đang xem. Hãy dùng bộ lọc <span class=\"ui\">Không hợp lệ</span> để tìm mọi mục cần xem lại.",
+  "e395662b6ada": "Thông báo ở đầu một công cụ kiểm tra: 1 quyết định không còn khớp với văn bản bản nháp và cần xem lại. Không có gì bị loại bỏ.",
+  "a3c0c8a79510": "Ngân hàng từ của Căn chỉnh sau khi sửa: NGÂN HÀNG TỪ · BẢN DỊCH CỦA BẠN, đã đặt 25 trên 26 từ, và từ belief đã thay đổi đang chờ được đặt lại."
+}

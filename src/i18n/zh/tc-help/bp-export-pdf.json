@@ -1,0 +1,11 @@
+{
+  "4720b0d24d63": "将书卷导出为 PDF · translationCore 4 帮助",
+  "2798a01adbaa": "文件名中包含书卷代码和当天的日期。",
+  "296c22d5869b": "可选：设置页面（纸张大小、分栏、间距）。请参阅<a href=\"ck-community-checking\">社区检查预览与页面设置</a>。",
+  "2cab4f333825": "点击 <span class=\"ui\">Export</span> (1)，然后点击 <span class=\"ui\">Export PDF</span> (2)。",
+  "f12ec931faa5": "尚未起草的经节会打印为“[ verse not yet drafted ]”。书卷开头或结尾尚未起草的章会被省略。",
+  "5febb95ab85f": "如果书卷中没有任何已起草的内容，tC4 会告诉你，并且不会生成文件。",
+  "7fb34b0c18d9": "纸张大小和间距不会被记住，每次都需要重新设置。",
+  "86f68bd349db": "目前还不会打印脚注。",
+  "282716ae7eab": "打开了 Export 菜单的 Community Checking。Export 标为 1，第一项 Export PDF 标为 2。其他选项是 USFM, aligned、USFM, plain 和 Scripture Burrito (.zip)。"
+}

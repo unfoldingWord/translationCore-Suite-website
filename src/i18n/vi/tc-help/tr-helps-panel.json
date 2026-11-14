@@ -1,0 +1,22 @@
+{
+  "b49c82d49c5f": "Bảng trợ giúp trong chế độ Dịch · Trợ giúp translationCore 4",
+  "3d9b8979a962": "Trong khi bạn soạn nháp, bảng trợ giúp hiển thị ghi chú, liên kết từ, câu hỏi, văn bản đơn giản hóa và nhận xét của chính bạn cho các câu đang được chọn. Ghi chú được nhóm dưới các tiêu đề phần và câu, và các thẻ từ mở ra với đoạn đầu tiên của bài viết tương ứng.",
+  "df70fd1625f8": "Bảng này nằm ở bên phải của <span class=\"ui\">Dịch</span>, cạnh bản nháp của bạn.",
+  "af3dfe77d9a4": "Nếu bảng bị ẩn, hãy nhấp vào <span class=\"ui\">Bật/tắt bảng trợ giúp</span> ở góc trên bên phải của chương.",
+  "48c67ad415f4": "Nhấp vào một thẻ.",
+  "980289211f26": "Mở trình soạn thảo phần hoặc câu. Bảng sẽ thu hẹp lại chỉ còn các câu bạn đang sửa.",
+  "f951e1ba14e3": "Các thẻ",
+  "1d25ef42dfa1": "<strong><span class=\"ui\">Ghi chú</span>:</strong> ghi chú dịch thuật, được nhóm dưới các tiêu đề viết hoa như <span class=\"ui\">GIỚI THIỆU</span> và <span class=\"ui\">CÂU 1</span>. Mỗi ghi chú có bài viết Học viện dịch thuật sẽ liên kết bằng tên thật của bài viết (ví dụ <span class=\"ui\">Abstract Nouns →</span>), chứ không phải một nhãn chung chung.",
+  "680855295e6f": "<strong><span class=\"ui\">Từ ngữ</span>:</strong> các thuật ngữ chính. Mỗi thẻ hiển thị đoạn đầu tiên của bài viết Từ ngữ dịch thuật và <span class=\"ui\">Đọc bài viết →</span>. Nhấp vào một thẻ để tô sáng mọi chỗ từ đó xuất hiện trong phần.",
+  "b7e2c851b894": "<strong><span class=\"ui\">Câu hỏi</span>:</strong> các câu hỏi kèm câu trả lời, để kiểm tra ý nghĩa bản nháp của bạn.",
+  "61fbe4d4f999": "<strong><span class=\"ui\">UST</span>:</strong> văn bản đơn giản hóa của chương. Một số ngôn ngữ cầu nối đặt tên khác cho thẻ này, chẳng hạn <span class=\"ui\">GST</span>.",
+  "677b73d21e67": "<strong><span class=\"ui\">Nhận xét</span>:</strong> các nhận xét bạn đã viết trong <span class=\"ui\">Thấu hiểu</span>. Khi không có nhận xét nào, thẻ sẽ ghi \"Không có gì trong chương này.\"",
+  "dfa182fcb244": "Tài liệu trợ giúp đi theo chỗ bạn đã nhấp: một phần ở chế độ <span class=\"ui\">Phần</span>, một câu ở chế độ <span class=\"ui\">Câu</span>, hoặc một khung hình câu chuyện. Chúng vẫn ở đó sau khi bạn nhấp <span class=\"ui\">Lưu</span>, cho đến khi bạn nhấp vào chỗ khác hoặc rời chương.",
+  "389f7dc7c683": "Trỏ chuột vào một thẻ Ghi chú để tô sáng cụm từ của nó trong văn bản nguồn; nhấp vào thẻ để giữ phần tô sáng.",
+  "2ae564edc954": "Nhấp vào một thẻ Từ ngữ để tô sáng mọi từ khớp trong phần bạn đang đọc.",
+  "5e55e030c14d": "Ghi chú dài có <span class=\"ui\">Hiển thị thêm</span> và <span class=\"ui\">Hiển thị bớt</span>.",
+  "2fdf64a3a145": "Kéo đường phân cách dọc giữa bản nháp và tài liệu trợ giúp để làm bảng rộng hơn hoặc hẹp hơn. <span class=\"ui\">Bật/tắt bảng trợ giúp</span> hiện hoặc ẩn hoàn toàn bảng (chỉ một nút; không có nút mở rộng riêng).",
+  "2c005b25598b": "Các bài viết trợ giúp mở ra với nút đóng nổi phía trên một đường phân cách, và hiển thị gọn gàng các chỗ xuống dòng, chữ số mũ và gạch chân từ nguồn.",
+  "92e84f73cbfc": "Mỗi tài liệu trợ giúp được giải thích trong mục <a href=\"section-understand\">Thấu hiểu</a>.",
+  "bdf1e518f4c6": "Bảng trợ giúp ở Tít 1 với thẻ Từ ngữ được chọn. Mỗi thẻ từ hiển thị đoạn đầu tiên của bài viết Từ ngữ dịch thuật và liên kết Đọc bài viết →. Không có nhãn KEY WORD."
+}

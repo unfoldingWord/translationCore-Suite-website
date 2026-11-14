@@ -1,0 +1,15 @@
+{
+  "fa9b9d341efe": "Créer ou séparer une plage de versets · Aide de translationCore 4",
+  "f530bcc1d6ff": "Une plage de versets (on parle aussi de pont de versets) est un groupe de deux versets ou plus traduits comme un seul bloc, par exemple <code>2-3</code>.",
+  "95ad44313a34": "Ouvrez la section avec son étiquette <span class=\"ui\">Rédiger la section {span}</span>, tapez le texte, et cliquez sur <span class=\"ui\">Placer les numéros de verset</span>.",
+  "3fcf8b283cb1": "Cliquez sur le numéro le plus élevé dans le texte, par exemple 10.",
+  "ed04b4022fbd": "Cliquez sur le mot où commence le verset précédent (9). L’info-bulle indique « Joindre le verset 10 au verset 9 à … ».",
+  "00965f803729": "Cliquez sur <span class=\"ui\">Enregistrer la section</span>. Les versets sont enregistrés comme une seule plage, numérotée 2-3.",
+  "37da7d58596b": "Séparer une plage",
+  "8040a4812e1b": "Rouvrez la section, cliquez sur <span class=\"ui\">Placer les numéros de verset</span>, cliquez sur le 10, puis sur le mot où le verset 10 doit commencer. Cliquez ensuite sur <span class=\"ui\">Enregistrer la section</span>.",
+  "3a781f8fca28": "En mode <span class=\"ui\">Saisir</span>, vous pouvez aussi commencer une ligne par la plage, par exemple <code>2-3 …</code>.",
+  "50b37754200f": "Créer ou séparer une plage signale les vérifications et les alignements de ces versets pour qu’ils soient revus. Rien n’est supprimé. Voir <a href=\"tr-edit-after-check\">Modifier un verset déjà vérifié ou aligné</a>.",
+  "2a9614442c0b": "Les plages ne peuvent pas être créées dans la vue <span class=\"ui\">Verset</span>.",
+  "e2cade4b6fa9": "Les Open Bible Stories ont des cadres et non des numéros de verset : elles n’ont donc pas de plages.",
+  "fa2c6f1d53f1": "Le mode Placer les numéros de verset pour Tite 2:9-10 après la réunion : les numéros 9 et 10 sont côte à côte sur le premier mot, Exhorta, si bien que les deux versets forment une seule plage."
+}

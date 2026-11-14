@@ -1,0 +1,14 @@
+{
+  "cfc94f2ad007": "项目设置 · translationCore 4 帮助",
+  "5c31a5d7af92": "更改你需要的设置：",
+  "05947a56b8f2": "<span class=\"ui\">Text direction</span>（文字方向）：<span class=\"ui\">Left to right</span>（从左到右）或 <span class=\"ui\">Right to left</span>（从右到左）。",
+  "c3f7bd798553": "<span class=\"ui\">Checking language</span>（检查语言）(1)。请参阅<a href=\"rs-checking-language\">更改检查语言</a>。",
+  "bdf0ed5d6154": "<span class=\"ui\">Manage source texts →</span>（管理源文本）(2)。请参阅<a href=\"rs-source-texts\">下载源文本</a>。",
+  "58d3a2eeb7ed": "<span class=\"ui\">Script font</span>（文字字体）(3)：显示译文所用的字体。",
+  "12b7031960a9": "点击 <span class=\"ui\">Save changes</span>。",
+  "152e8dbab82d": "要取消，请点击 <span class=\"ui\">Cancel</span> 或 ✕，或按 Esc。不会保存任何内容。",
+  "b27935a0af63": "设置只在主页卡片上，不在顶部栏中。要回到主页，请点击左上角的项目名称。",
+  "f5efa05091cf": "可用的字体有 Noto Sans（默认）、Charis SIL、Scheherazade New（阿拉伯文字）、Awami Nastaliq（波斯体）和 Padauk（缅甸文字）。请选择能正确显示你的语言文字的那一种。",
+  "e4ebe7b1659a": "这个版本中不能更改名称和语言。项目设置中它们显示为灰色，并注明“Renaming arrives with a later increment.”（重命名功能将在之后的版本中提供。）",
+  "caca25561146": "Sample Titus · 1 book 的项目设置。Bible name、Language name 和 Code 显示为灰色，并注明 Renaming arrives with a later increment。Text direction 为 Left to right。Checking language 为 English，标有 CURRENT (1)。Manage source texts → (2)。Script font 为 Noto Sans (default) (3)。Cancel 和 Save changes。"
+}

@@ -1,0 +1,15 @@
+{
+  "fa9b9d341efe": "Crear o deshacer un rango de versículos · Ayuda de translationCore 4",
+  "f530bcc1d6ff": "Un rango de versículos (también llamado puente de versículos) son dos o más versículos traducidos como una sola unidad, por ejemplo <code>2-3</code>.",
+  "95ad44313a34": "Abra la sección con su etiqueta <span class=\"ui\">Redactar la sección {span}</span>, escriba el texto y haga clic en <span class=\"ui\">Ubicar los números de versículo</span>.",
+  "3fcf8b283cb1": "Haga clic en el número posterior dentro del texto, por ejemplo 10.",
+  "ed04b4022fbd": "Haga clic en la palabra donde empieza el versículo anterior (9). La información emergente dice “Unir el versículo 10 al versículo 9 en …”.",
+  "00965f803729": "Haga clic en <span class=\"ui\">Guardar sección</span>. Los versículos se guardan como un solo rango, numerado 2-3.",
+  "37da7d58596b": "Deshacer un rango",
+  "8040a4812e1b": "Abra la sección otra vez, haga clic en <span class=\"ui\">Ubicar los números de versículo</span>, haga clic en el 10 y luego en la palabra donde debe empezar el versículo 10. Después haga clic en <span class=\"ui\">Guardar sección</span>.",
+  "3a781f8fca28": "En el modo <span class=\"ui\">Escribir</span> también puede empezar una línea con el rango, por ejemplo <code>2-3 …</code>.",
+  "50b37754200f": "Crear o deshacer un rango marca las revisiones y alineaciones de esos versículos para repasarlas. No se borra nada. Vea <a href=\"tr-edit-after-check\">Editar un versículo que ya revisó o alineó</a>.",
+  "2a9614442c0b": "No se pueden crear rangos en la vista <span class=\"ui\">Versículo</span>.",
+  "e2cade4b6fa9": "Las historias de Open Bible Stories tienen cuadros, no números de versículo, así que no tienen rangos.",
+  "fa2c6f1d53f1": "El modo Ubicar los números de versículo para Tito 2:9–10 después de unirlos: los números 9 y 10 están uno al lado del otro en la primera palabra, Exhorta, así que los dos versículos forman un solo rango."
+}

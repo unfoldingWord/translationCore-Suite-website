@@ -1,0 +1,16 @@
+{
+  "13d6112f254d": "Compreender, Traduzir e Verificar — os três modos · Ajuda do translationCore 4",
+  "22c05e04d926": "Seu lugar no livro continua o mesmo quando você troca de modo, e os projetos de Open Bible Stories têm os mesmos três modos.",
+  "61aee9109a1b": "Abra um livro ou uma história a partir do Início.",
+  "128bfef94f36": "Clique em <span class=\"ui\">Compreender</span>, <span class=\"ui\">Traduzir</span> ou <span class=\"ui\">Verificar</span> no meio da barra superior. O modo em que você está fica preenchido.",
+  "cf7e68e6b38d": "Para que serve cada modo",
+  "08d61dfdd7ca": "<strong><span class=\"ui\">Compreender</span>:</strong> leia a passagem com as notas, os links de palavras e as perguntas, e escreva seus próprios comentários. Veja <a href=\"un-read-passage\">Ler uma passagem antes de traduzir</a>.",
+  "79ebbb5807f3": "<strong><span class=\"ui\">Traduzir</span>:</strong> redija sua tradução ao lado dos textos-fonte. Veja <a href=\"tr-screen\">A tela Traduzir</a>.",
+  "c0cac543b795": "<strong><span class=\"ui\">Verificar</span>:</strong> verifique seu rascunho com Notas de Tradução e Palavras de Tradução, alinhe as palavras e veja a prévia do livro. Veja <a href=\"ck-tool-picker\">Escolher uma ferramenta de verificação</a>.",
+  "29c21f035696": "Muitas equipes seguem essa ordem, mas você pode trocar a qualquer momento.",
+  "20b3650806b8": "Um livro ou uma história que você abre pela primeira vez começa em <span class=\"ui\">Compreender</span>. Depois disso, o tC4 o abre no modo que você usou por último.",
+  "7ae9ea51f3a9": "<span class=\"ui\">Verificar</span> volta para a ferramenta de verificação que você usou por último. Para escolher outra, clique em <span class=\"ui\">← Todas as ferramentas de verificação</span> no canto superior esquerdo.",
+  "89c9737cc63f": "Trocar de modo salva um ponto de controle, se algo mudou. Veja <a href=\"gs-save\">Salvamento e pontos de controle</a>.",
+  "4ffefe6c913a": "Exportar não é um modo separado. Fica em <span class=\"ui\">Verificar</span> › <span class=\"ui\">Verificação comunitária</span>. Veja <a href=\"bp-export-pdf\">Exportar um livro em PDF</a>.",
+  "20f0ff816d20": "A chave no meio da barra superior: Compreender, Traduzir (selecionado, preenchido em azul-claro) e Verificar."
+}

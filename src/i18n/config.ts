@@ -89,12 +89,12 @@ export function localePath(locale: string, slug: PageSlug): string {
 }
 
 /** Rewrite root-relative internal links inside an HTML string so in-copy
- *  links (e.g. href="/desktop/#downloads") stay within the current locale.
- *  English-only pages (e.g. /license/) and /tc-help/ are left at the root. */
+ *  links (e.g. href="/desktop/#downloads", href="/tc-help/") stay within the
+ *  current locale. English-only pages (e.g. /license/) are left at the root. */
 export function localizeLinks(html: string, locale: string): string {
   if (locale === defaultLocale) return html;
   const internal = new Set(localizedSlugs.map((s) => `/${slugPaths[s]}`));
   return html.replace(/href="(\/[^"#]*)(#[^"]*)?"/g, (m, path, hash = '') =>
-    internal.has(path) ? `href="/${locale}${path}${hash}"` : m
+    internal.has(path) || path.startsWith('/tc-help/') ? `href="/${locale}${path}${hash}"` : m
   );
 }

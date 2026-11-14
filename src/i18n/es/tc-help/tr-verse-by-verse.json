@@ -1,0 +1,14 @@
+{
+  "7161ee1494a3": "Redactar o corregir un solo versículo · Ayuda de translationCore 4",
+  "924f10cde3b8": "La vista por versículo es práctica para correcciones pequeñas y para los traductores que prefieren trabajar un versículo a la vez.",
+  "2e916581c6b1": "En <span class=\"ui\">Traducir</span>, haga clic en <span class=\"ui\">Versículo</span> en el selector encima de su traducción.",
+  "3a741eaf2d05": "Para un versículo vacío, haga clic en su botón punteado <span class=\"ui\">Redactar el versículo {n}</span>. Para un versículo ya redactado, haga clic en su texto.",
+  "f0f1b05904d7": "Escriba en el editor.",
+  "967d0e1e904d": "Haga clic en <span class=\"ui\">Guardar versículo</span>, o haga clic fuera del editor.",
+  "c1b69e650e2b": "Para descartar su cambio, haga clic en <span class=\"ui\">Cancelar</span>.",
+  "66522b86c05a": "El panel de ayudas sigue al versículo que está editando.",
+  "c949d8f44bd1": "Para crear un rango de versículos, use la vista <span class=\"ui\">Sección</span>. Vea <a href=\"tr-verse-spans\">Crear o deshacer un rango de versículos</a>.",
+  "d40609f9c65f": "Un versículo de poesía se abre con todos sus versos. <strong>Shift+Enter</strong> empieza una línea nueva; Tab y Enter guardan y cierran el editor. Vea <a href=\"tr-formatting\">Párrafos y poesía</a>.",
+  "e0173097549a": "La vista por versículo de Tito 3:1–2: Versículo está seleccionado en el selector Sección / Versículo, y los versículos vacíos muestran los botones punteados Redactar el versículo 1 y Redactar el versículo 2.",
+  "8e82740d866e": "El editor de versículo abierto en Tito 3:1: el lugar del versículo dice Editando abajo, el editor tiene el título REDACTANDO 1 con texto en español escrito, y debajo están Guardar versículo y Cancelar."
+}

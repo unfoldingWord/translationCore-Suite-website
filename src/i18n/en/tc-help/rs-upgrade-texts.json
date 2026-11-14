@@ -1,0 +1,11 @@
+{
+  "697a77e25d71": "Update scripture texts · translationCore 4 Help",
+  "7d304b628f19": "Look under <span class=\"ui\">Scripture texts</span>. Each text with a newer release has its own row.",
+  "13cfc493d0b5": "Click <span class=\"ui\">Upgrade</span> on a row, read the confirmation, and confirm.",
+  "c721d8228039": "If everything is current, it says <span class=\"ui\">✓ Every scripture text is up to date</span>.",
+  "27e6e457e88b": "<strong>Gateway Bible:</strong> nothing in your work changes. The source pane shows the new text.",
+  "22029a371600": "<strong>Greek or Hebrew text:</strong> alignments are kept, but the affected verses lose their valid mark so you can check them again. See <a href=\"al-mark-valid\">Mark an alignment done</a>.",
+  "a87d9146c991": "Only the texts your books need are offered. A New Testament project is never offered the Hebrew text.",
+  "9fda5f68266e": "Save any open alignment edit first.",
+  "530420a6fe12": "The Scripture texts list after Check for updates: Original-language text hbo_uhb v2.1.30 → v3.0.0, and Gateway Bible en_ult and en_ust v89 → v91, each with Upgrade."
+}

@@ -1,0 +1,13 @@
+{
+  "54fe55bdb262": "Fix a missing resource · translationCore 4 Help",
+  "b480ad9d366e": "You usually see this with a project imported or copied from another computer. The tool card shows <span class=\"ui\">Needs downloading</span> or <span class=\"ui\">Unavailable offline</span>.",
+  "b91410d35d0d": "In <span class=\"ui\">Check</span>, click <span class=\"ui\">Fix this…</span> on the tool card.",
+  "06f159e608c8": "Choose one way:",
+  "9600fc54f60d": "<strong>1 · Download the pinned version.</strong> Needs the internet.",
+  "e7d4a21bf202": "<strong>2 · Use a version that is installed.</strong> Click a version, check how many decisions carry over, then click <span class=\"ui\">Re-pin</span>.",
+  "84e5e8fe0953": "<strong>3 · Sideload it from a file.</strong> Drop a Scripture Burrito zip of that exact release.",
+  "610a3e20320c": "To cancel, click <span class=\"ui\">Close</span> or the ✕. Nothing changes.",
+  "3dcb2c8b44de": "Offline, use option 2 or 3, or turn on the internet. See <a href=\"rs-offline\">Working offline</a>.",
+  "e6373a1d0492": "A tool that isn't ready never blocks the rest of your work.",
+  "870406ae3c19": "Translation Words needs a resource that is not on this computer. The project pins es-419_twl · v18 for Titus. 1 · Download the pinned version, with Download it. 2 · Use a version that is installed: no other version of es-419_twl is installed on this computer. 3 · Sideload it from a file, with a drop zone for the zip. Close."
+}

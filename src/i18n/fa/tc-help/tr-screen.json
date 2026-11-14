@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "صفحهٔ ترجمه · راهنمای translationCore 4",
+  "b5e20a3b5c23": "هر ردیف یک بخش از متن مبدأ را کنار ترجمهٔ شما از آن می‌گذارد.",
+  "ccd3b0577ccf": "یک کتاب را باز کنید، سپس روی <span class=\"ui\">Translate</span> در بالا کلیک کنید.",
+  "6eb73fcf4caa": "متن مبدأ را با زبانه‌های بالای آن انتخاب کنید: <span class=\"ui\">ULT</span> (تحت‌اللفظی)، <span class=\"ui\">UST</span> (ساده‌شده) یا زبان اصلی (<span class=\"ui\">Greek</span> یا <span class=\"ui\">Hebrew</span>). سطر زیر زبانه‌ها نام متن و نسخهٔ آن را می‌آورد.",
+  "cba9851fabf8": "<span class=\"ui\">Section</span> را برای پیش‌نویس یک بخش کامل در یک‌جا انتخاب کنید، یا <span class=\"ui\">Verse</span> را برای پیش‌نویس آیه به آیه.",
+  "c7138b6f2ae2": "روی <span class=\"ui\">Draft section</span> کنار بخشی که می‌خواهید کلیک کنید. متن را بنویسید، سپس از <span class=\"ui\">Place verse numbers</span> استفاده کنید. <a href=\"tr-draft-section\">پیش‌نویس یک بخش</a> را ببینید.",
+  "6f6d5b88466d": "روی <span class=\"ui\">Save section</span> کلیک کنید. برای اینکه بخش همان‌طور که بود بماند، روی <span class=\"ui\">Cancel</span> کلیک کنید.",
+  "fb24ef6c8a86": "جا باز کنید",
+  "8c8975cae9b6": "دکمهٔ بالا سمت چپ صفحه فهرست کتاب‌ها را نشان می‌دهد یا پنهان می‌کند.",
+  "d034ae5cfc60": "در بالا سمت راست صفحه، <span class=\"ui\">Toggle helps panel</span> کمک‌ها را نشان می‌دهد یا پنهان می‌کند. برای تغییر پهنای پنل، خط جداکنندهٔ عمودی را بکشید.",
+  "4d761027a250": "پنل کمک‌ها",
+  "ddbdbe454552": "پنل برای بخشی که روی آن کار می‌کنید کمک نشان می‌دهد: <span class=\"ui\">Notes</span>، <span class=\"ui\">Words</span>، <span class=\"ui\">Questions</span>، متن ساده‌شده (<span class=\"ui\">UST</span>) و <span class=\"ui\">Comments</span> از حالت فهم. روی یک کارت کمک کلیک کنید تا واژه‌هایی که دربارهٔ آن‌هاست در متن مبدأ پررنگ شوند. <a href=\"tr-helps-panel\">پنل کمک‌ها در حالت ترجمه</a> را ببینید.",
+  "2ac8369ebd1d": "حالت ترجمه انتخاب شما میان <span class=\"ui\">Section</span> یا <span class=\"ui\">Verse</span> را برای هر پروژه به یاد می‌سپارد.",
+  "a17f0c7ae079": "صفحهٔ ترجمه برای تیتوس ۱ با بخش ۱–۳ باز برای پیش‌نویس. برچسب‌ها این بخش‌ها را نشان می‌دهند: زبانه‌های متن مبدأ (ULT، UST، Greek)، کلید حالت‌ها با Translate انتخاب‌شده، کلید Section یا Verse، زبانه‌های پنل کمک‌ها، وضعیت ذخیره، دکمه‌های فصل، متن مبدأ، مراحل پیش‌نویس (Type، Place verse numbers)، Save section، دکمهٔ Draft section بعدی، و یک کارت کمک."
+}

@@ -1,0 +1,14 @@
+{
+  "a468001b6df7": "Xuất câu chuyện dưới dạng PDF hoặc Markdown · Trợ giúp translationCore 4",
+  "0f29d9d6694a": "<strong>Xuất PDF:</strong> một bản để đọc dành cho người xem lại, có hoặc không có hình ảnh.",
+  "9bf5238223e9": "<strong>Câu chuyện bằng Markdown (.zip):</strong> các tệp câu chuyện dùng cho những công cụ Open Bible Stories khác.",
+  "24350718eb1d": "<strong>Scripture Burrito (.zip):</strong> toàn bộ dự án. Xem <a href=\"bp-export-burrito\">Xuất dự án dưới dạng Scripture Burrito</a>.",
+  "ee25f850300e": "Mở một câu chuyện và nhấp <span class=\"ui\">Kiểm tra</span>, rồi nhấp <span class=\"ui\">Mở →</span> trên <span class=\"ui\">Kiểm tra cộng đồng</span>.",
+  "cd1b84c31406": "Tùy chọn: chọn bố cục và hình ảnh. Xem <a href=\"obs-community-checking\">Xem trước và xuất câu chuyện</a>.",
+  "f882c57168b5": "Nhấp <span class=\"ui\">Xuất</span> (1), rồi chọn một định dạng (2).",
+  "cbe483bf884a": "Hãy soạn nháp ít nhất tiêu đề hoặc một khung hình trước khi xuất PDF.",
+  "c02654738f7c": "Để lưu một tệp PDF thứ hai với bố cục khác, hãy đổi bố cục, xuất lại và đặt tên mới.",
+  "b6f55effd7d7": "Nếu bạn thấy \"Ứng dụng không thể in tệp PDF cùng với hình ảnh…\", hãy tắt <span class=\"ui\">Hình ảnh</span> và xuất lại.",
+  "8aec4a792c94": "Trên Linux, cửa sổ lưu mở ở thư mục <strong>Downloads</strong> của bạn. Nếu bạn không thấy các nút của cửa sổ, hãy nhấn <strong>Enter</strong> để lưu hoặc <strong>Esc</strong> để hủy.",
+  "81c4c63c64df": "Kiểm tra cộng đồng cho một câu chuyện với trình đơn Xuất đang mở. Xuất được đánh số 1. Trình đơn, đánh số 2, có Xuất PDF, Câu chuyện bằng Markdown (.zip) và Scripture Burrito (.zip)."
+}

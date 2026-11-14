@@ -1,0 +1,16 @@
+{
+  "2cb8183fcd0b": "Memeriksa dengan Kata Penerjemahan · Bantuan translationCore 4",
+  "f8b008126386": "Gunakan untuk memastikan setiap istilah diterjemahkan dengan benar, dan dengan cara yang sama di setiap tempat istilah itu muncul.",
+  "89604295b1b7": "Memeriksa istilah",
+  "50bd5b9f5db9": "Klik <span class=\"ui\">Periksa</span>, lalu <span class=\"ui\">Mulai memeriksa →</span> pada kartu <span class=\"ui\">Kata Penerjemahan</span>.",
+  "cdd56a2b7b1c": "Baca istilah di bagian atas. Istilah itu disorot di kartu sumber: bahasa asli, teks harfiah bahasa gerbang, dan teks yang disederhanakan (UST atau GST). Klik <span class=\"ui\">Pelajari lebih lanjut</span> untuk membaca artinya. Artikelnya terbuka di panel sebelah kanan. Tutup dengan ✕.",
+  "d54a05521846": "Di bawah <span class=\"ui\">Terjemahan Anda</span>, ketuk kata atau kata-kata yang menerjemahkan istilah yang disorot.",
+  "737aba652a84": "Untuk berhenti, klik <span class=\"ui\">← Kembali menerjemahkan</span> di kiri bawah. Lain kali, <span class=\"ui\">Periksa</span> membuka Kata Penerjemahan di tempat Anda berhenti.",
+  "05e33bb36d32": "<span class=\"ui\">Urutkan</span> <span class=\"ui\">Berdasarkan kata</span> mengumpulkan setiap tempat sebuah istilah dipakai, sehingga Anda dapat melihat apakah Anda menerjemahkan \"kasih karunia\" dengan cara yang sama setiap kali. <span class=\"ui\">Berdasarkan ayat</span> menelusuri kitab secara berurutan.",
+  "0614c935d23a": "<span class=\"ui\">⚑ Tandai</span> memberi penanda pada item agar Anda dapat kembali ke sana. <span class=\"ui\">✎ Tambah komentar</span> meninggalkan catatan untuk tim Anda. Lihat <a href=\"ck-bookmarks\">Memasang penanda pada pemeriksaan</a> dan <a href=\"ck-comments\">Menulis komentar pemeriksaan</a>.",
+  "778d734f3abb": "<strong>Catatan:</strong> Ayat yang belum didraf tidak dapat diperiksa. Susun drafnya di Terjemahkan terlebih dahulu.",
+  "1dbb172a6232": "Daftar pemeriksaan berasal dari rilis <strong>Translation Words Links</strong> (untuk bahasa Inggris, <code>en_twl</code> yang disertakan dalam aplikasi). Artikelnya berasal dari <strong>Translation Words</strong> (<code>en_tw</code>).",
+  "af2e13e3bbd7": "Beberapa kitab belum memiliki pemeriksaan Kata Penerjemahan (misalnya Yehezkiel), sampai sebuah rilis Links mencakupnya.",
+  "815d4cf3dd27": "Jika sebuah tautan menunjuk ke artikel yang tidak ada dalam bahasa pemeriksaan Anda, item itu disembunyikan dan tidak dihitung dalam kemajuan.",
+  "69c53fbb8fa4": "Kata Penerjemahan untuk Titus, item 1 dari 182: “Paul” di Titus 1:1. Label menunjuk ke Semua alat pemeriksaan, filter, kata itu, Pelajari lebih lanjut, Yunani, teks harfiah bahasa gerbang, teks yang disederhanakan (UST), Kembali menerjemahkan, daftar pemeriksaan yang dikelompokkan berdasarkan kata, keputusan Anda, Sebelumnya dan Berikutnya, Terjemahan Anda, dan Tambah komentar."
+}

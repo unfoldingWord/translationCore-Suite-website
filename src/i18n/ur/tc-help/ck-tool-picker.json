@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "جانچ کا ٹول منتخب کریں · translationCore 4 مدد",
+  "5aab95d571be": "جانچ کا ہر ٹول آپ کو پوری کتاب میں ایک بار لے جاتا ہے، ایک وقت میں ایک نکتہ۔ translationCore ہر ٹول میں آپ کی جگہ یاد رکھتا ہے۔",
+  "0e70b0e894cc": "ٹول کھولیں",
+  "edfdb403ebaa": "کوئی کتاب کھولیں، پھر اوپر <span class=\"ui\">Check</span> پر کلک کریں۔",
+  "e1de982504aa": "کارڈز دیکھیں۔ ہر کارڈ بتاتا ہے کہ کتنے نکات طے ہو چکے ہیں اور اگلا کون سا ہے۔",
+  "f0d077c72286": "جس کارڈ پر کام کرنا ہے اس پر <span class=\"ui\">Start checking →</span> پر کلک کریں، یا اگر آپ شروع کر چکے ہیں تو <span class=\"ui\">Continue →</span> پر۔ Community Checking پر لنک <span class=\"ui\">Open →</span> ہے۔",
+  "7843b655da84": "اس فہرست پر واپس آنے کے لیے ٹول کے اوپر بائیں طرف <span class=\"ui\">← All checking tools</span> پر کلک کریں۔",
+  "d78a20319fa6": "اگلی بار جب آپ <span class=\"ui\">Check</span> پر کلک کریں گے تو translationCore وہی جانچ کا ٹول کھولے گا جو آپ نے آخری بار استعمال کیا تھا۔",
+  "3a1d2391f3d2": "ٹولز",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Translation Words</a>: اہم اصطلاحات، ایک وقت میں ایک۔",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Translation Notes</a>: وہ مقامات جن کی طرف ترجمے کا کوئی نوٹ اشارہ کرتا ہے۔",
+  "8bfdd2ed6811": "<a href=\"al-open\">Align</a>: اپنے الفاظ کو اصل زبان سے جوڑیں۔ یہ کارڈ مسودہ لکھی گئی آیات گنتا ہے، اس لیے جس کتاب میں کسی چیز کا مسودہ نہ ہو اس پر <span class=\"ui\">No items in this book yet</span> لکھا آتا ہے۔",
+  "7def275b185b": "<a href=\"ck-community-checking\">Community Checking</a>: پوری کتاب کو چھپے ہوئے صفحے کی طرح پڑھیں اور جائزہ لینے والوں کے لیے اسے ایکسپورٹ کریں۔",
+  "fa2c72678197": "کہانی کے پروجیکٹ میں Align کارڈ نہیں ہوتا۔",
+  "d228c7b705aa": "اگر کسی کارڈ پر <span class=\"ui\">Needs downloading</span> یا <span class=\"ui\">Unavailable offline</span> لکھا ہو تو <span class=\"ui\">Fix this…</span> پر کلک کریں۔ دیکھیں <a href=\"rs-guided-fix\">غائب وسیلے کو ٹھیک کریں</a>۔ جب آپ اسے ٹھیک کر رہے ہوں، باقی ٹولز کام کرتے رہتے ہیں۔",
+  "b756c9f3a838": "<strong>نوٹ:</strong> صرف انہی آیات کی جانچ ہو سکتی ہے جن کا مسودہ لکھا جا چکا ہو۔ پہلے مسودہ لکھیں، پھر واپس آئیں۔"
+}

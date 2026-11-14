@@ -1,0 +1,14 @@
+{
+  "cfc94f2ad007": "প্রকল্পের সেটিংস · translationCore 4 সহায়তা",
+  "5c31a5d7af92": "যা দরকার তা বদলান:",
+  "05947a56b8f2": "<span class=\"ui\">Text direction</span>: <span class=\"ui\">Left to right</span> বা <span class=\"ui\">Right to left</span>।",
+  "c3f7bd798553": "<span class=\"ui\">Checking language</span> (1)। দেখুন <a href=\"rs-checking-language\">যাচাইয়ের ভাষা বদলান</a>।",
+  "bdf0ed5d6154": "<span class=\"ui\">Manage source texts →</span> (2)। দেখুন <a href=\"rs-source-texts\">উৎস পাঠ ডাউনলোড করুন</a>।",
+  "58d3a2eeb7ed": "<span class=\"ui\">Script font</span> (3): যে ফন্টে আপনার অনুবাদ দেখা যায়।",
+  "12b7031960a9": "<span class=\"ui\">Save changes</span>-এ ক্লিক করুন।",
+  "152e8dbab82d": "বাতিল করতে <span class=\"ui\">Cancel</span> বা ✕-এ ক্লিক করুন, বা Esc চাপুন। কিছুই সংরক্ষিত হয় না।",
+  "b27935a0af63": "সেটিংস শুধু হোমের কার্ডে আছে, ওপরের বারে নেই। হোমে ফিরতে ওপরে বাঁ দিকে প্রকল্পের নামে ক্লিক করুন।",
+  "f5efa05091cf": "ফন্টগুলো হলো Noto Sans (ডিফল্ট), Charis SIL, Scheherazade New (আরবি লিপি), Awami Nastaliq (নাস্তালিক) এবং Padauk (মিয়ানমার)। যেটি আপনার অক্ষরগুলো সঠিকভাবে দেখায় সেটি বেছে নিন।",
+  "e4ebe7b1659a": "এই সংস্করণে নাম ও ভাষা বদলানো যায় না। প্রকল্পের সেটিংসে এগুলো ধূসর দেখায়, সাথে নোট \"Renaming arrives with a later increment.\"",
+  "caca25561146": "Sample Titus · 1 book-এর প্রকল্পের সেটিংস। Bible name, Language name ও Code ধূসর, সাথে Renaming arrives with a later increment। Text direction Left to right। Checking language English, CURRENT চিহ্নিত (1)। Manage source texts → (2)। Script font Noto Sans (default) (3)। Cancel ও Save changes।"
+}

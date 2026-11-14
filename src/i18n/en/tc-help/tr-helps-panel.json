@@ -1,0 +1,22 @@
+{
+  "b49c82d49c5f": "The helps panel in Translate · translationCore 4 Help",
+  "3d9b8979a962": "While you draft, the helps panel shows the notes, word links, questions, simplified text and your own comments for the verses in focus. Notes are grouped under section and verse headings, and word cards open with the first paragraph of their article.",
+  "df70fd1625f8": "It sits on the right of <span class=\"ui\">Translate</span>, next to your draft.",
+  "af3dfe77d9a4": "If the panel is hidden, click <span class=\"ui\">Toggle helps panel</span> at the top right of the chapter.",
+  "48c67ad415f4": "Click a tab.",
+  "980289211f26": "Open a section or verse editor. The panel narrows to the verses you are editing.",
+  "f951e1ba14e3": "The tabs",
+  "1d25ef42dfa1": "<strong><span class=\"ui\">Notes</span>:</strong> translation notes, grouped under uppercase headings such as <span class=\"ui\">INTRODUCTION</span> and <span class=\"ui\">VERSE 1</span>. Each note that has a Translation Academy article links by the article's real name (for example <span class=\"ui\">Abstract Nouns →</span>), not a generic label.",
+  "680855295e6f": "<strong><span class=\"ui\">Words</span>:</strong> key terms. Each card shows the first paragraph of the Translation Words article and <span class=\"ui\">Read the article →</span>. Click a card to highlight every occurrence of that word in the section.",
+  "b7e2c851b894": "<strong><span class=\"ui\">Questions</span>:</strong> questions with answers, to test your draft's meaning.",
+  "61fbe4d4f999": "<strong><span class=\"ui\">UST</span>:</strong> the simplified text of the chapter. Some gateway languages give this tab another name, such as <span class=\"ui\">GST</span>.",
+  "677b73d21e67": "<strong><span class=\"ui\">Comments</span>:</strong> comments you wrote in <span class=\"ui\">Understand</span>. It says \"Nothing in this chapter.\" when there are none.",
+  "dfa182fcb244": "The helps follow what you clicked: a section in <span class=\"ui\">Section</span> mode, a verse in <span class=\"ui\">Verse</span> mode, or a story frame. They stay on it after you click <span class=\"ui\">Save</span>, until you click another one or leave the chapter.",
+  "389f7dc7c683": "Point at a Notes card to highlight its phrase in the source; click it to keep the highlight.",
+  "2ae564edc954": "Click a Words card to highlight every matching word across the section you are reading.",
+  "5e55e030c14d": "Long notes have <span class=\"ui\">Show more</span> and <span class=\"ui\">Show less</span>.",
+  "2fdf64a3a145": "Drag the vertical divider between your draft and the helps to make the panel wider or narrower. <span class=\"ui\">Toggle helps panel</span> shows or hides the panel completely (one button; there is no separate widen control).",
+  "2c005b25598b": "Helps articles open with a floating close control above a divider, and render line breaks, superscripts and underlines from the source cleanly.",
+  "92e84f73cbfc": "Each help is explained in the <a href=\"section-understand\">Understand</a> section.",
+  "bdf1e518f4c6": "The helps panel on Titus 1 with the Words tab selected. Each word card shows the first paragraph of its Translation Words article and a Read the article → link. There are no KEY WORD badges."
+}

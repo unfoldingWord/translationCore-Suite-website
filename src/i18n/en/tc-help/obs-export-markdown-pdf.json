@@ -1,0 +1,14 @@
+{
+  "a468001b6df7": "Export stories as PDF or Markdown · translationCore 4 Help",
+  "0f29d9d6694a": "<strong>Export PDF:</strong> a reading copy for reviewers, with or without pictures.",
+  "9bf5238223e9": "<strong>Story Markdown (.zip):</strong> the story files for other Open Bible Stories tools.",
+  "24350718eb1d": "<strong>Scripture Burrito (.zip):</strong> the whole project. See <a href=\"bp-export-burrito\">Export a project as a Scripture Burrito</a>.",
+  "ee25f850300e": "Open a story and click <span class=\"ui\">Check</span>, then <span class=\"ui\">Open →</span> on <span class=\"ui\">Community Checking</span>.",
+  "cd1b84c31406": "Optional: choose the layout and pictures. See <a href=\"obs-community-checking\">Story preview and export</a>.",
+  "f882c57168b5": "Click <span class=\"ui\">Export</span> (1), then pick a format (2).",
+  "cbe483bf884a": "Draft at least the title or one frame before you export a PDF.",
+  "c02654738f7c": "To save a second PDF with another layout, change the layout, export again and give it a new name.",
+  "b6f55effd7d7": "If you see \"The app could not print the PDF with its pictures…\", turn <span class=\"ui\">Pictures</span> off and export again.",
+  "8aec4a792c94": "On Linux the save window opens in your <strong>Downloads</strong> folder. If you can't see its buttons, press <strong>Enter</strong> to save or <strong>Esc</strong> to cancel.",
+  "81c4c63c64df": "Community Checking for a story with the Export menu open. Export is marked 1. The menu, marked 2, has Export PDF, Story Markdown (.zip) and Scripture Burrito (.zip)."
+}

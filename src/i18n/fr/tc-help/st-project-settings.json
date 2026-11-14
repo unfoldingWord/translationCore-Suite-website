@@ -1,0 +1,14 @@
+{
+  "cfc94f2ad007": "Paramètres du projet · Aide de translationCore 4",
+  "5c31a5d7af92": "Changez ce dont vous avez besoin :",
+  "05947a56b8f2": "<span class=\"ui\">Sens du texte</span> : <span class=\"ui\">De gauche à droite</span> ou <span class=\"ui\">De droite à gauche</span>.",
+  "c3f7bd798553": "<span class=\"ui\">Langue de vérification</span> (1). Voir <a href=\"rs-checking-language\">Changer la langue de vérification</a>.",
+  "bdf0ed5d6154": "<span class=\"ui\">Gérer les textes sources →</span> (2). Voir <a href=\"rs-source-texts\">Télécharger des textes sources</a>.",
+  "58d3a2eeb7ed": "<span class=\"ui\">Police du texte</span> (3) : la police dans laquelle votre traduction s’affiche.",
+  "12b7031960a9": "Cliquez sur <span class=\"ui\">Enregistrer les modifications</span>.",
+  "152e8dbab82d": "Pour annuler, cliquez sur <span class=\"ui\">Annuler</span> ou sur le ✕, ou appuyez sur Échap. Rien n’est enregistré.",
+  "b27935a0af63": "Les paramètres se trouvent seulement sur la carte de l’accueil, pas dans la barre du haut. Pour revenir à l’accueil, cliquez sur le nom du projet en haut à gauche.",
+  "f5efa05091cf": "Les polices sont Noto Sans (par défaut), Charis SIL, Scheherazade New (écriture arabe), Awami Nastaliq (nastaliq) et Padauk (birman). Choisissez celle qui affiche correctement vos lettres.",
+  "e4ebe7b1659a": "Le nom et la langue ne peuvent pas être changés dans cette version. Les paramètres du projet les affichent grisés, avec la remarque « Le renommage arrivera dans un incrément ultérieur. »",
+  "caca25561146": "Paramètres du projet pour Exemple Tite · 1 livre. Nom de la Bible, Nom de la langue et Code sont grisés, avec Le renommage arrivera dans un incrément ultérieur. Sens du texte De gauche à droite. Langue de vérification anglais, marquée ACTUELLE (1). Gérer les textes sources → (2). Police du texte Noto Sans (par défaut) (3). Annuler et Enregistrer les modifications."
+}

@@ -1,0 +1,17 @@
+{
+  "0fcd91d58b19": "Editar un versículo que ya revisó o alineó · Ayuda de translationCore 4",
+  "c1ba7e1a0bf9": "Las revisiones y las alineaciones dependen de las palabras exactas de un versículo, así que cuando esas palabras cambian, tC4 marca lo que quizás ya no encaje.",
+  "bab305fa9966": "Cambie en <span class=\"ui\">Traducir</span> un versículo que ya revisó o alineó.",
+  "cf4ff9ae160d": "Vaya a <span class=\"ui\">Revisar</span> y abra la herramienta de revisión. Un aviso en la parte superior dice cuántas decisiones hay que repasar.",
+  "1ad836e88066": "Haga clic en el filtro <span class=\"ui\">No válidos</span> para ver esos elementos, y decida cada uno de nuevo.",
+  "8adaab7c37c9": "Abra <span class=\"ui\">Alinear</span> para el versículo. Las palabras que cambió vuelven al banco de palabras. Ubíquelas y haga clic de nuevo en <span class=\"ui\">✓ Marcar válido</span>.",
+  "9e7f896a239f": "Una decisión de revisión cuyas palabras cambiaron pasa a <strong>No válido</strong>. Se conserva; no se borra.",
+  "3d5c7795898c": "En Alinear, se conservan los enlaces de las palabras que no cambió. El versículo vuelve a aparecer como pendiente.",
+  "c69cb0af2d36": "Un enlace se queda en la palabra donde se ubicó, aunque agregue o quite palabras antes de ella. Si borra una palabra enlazada, su enlace también desaparece.",
+  "52199ccf3ef4": "Si cambia una palabra que aparece más de una vez y tC4 no puede saber cuál de ellas conservó, el versículo se marca para repasarlo. Ábralo en Alinear, revise los enlaces y haga clic de nuevo en <span class=\"ui\">✓ Marcar válido</span>.",
+  "02c774e022a1": "Un versículo que hay que repasar muestra un aviso en la parte superior del versículo en Alinear y aparece marcado en la lista de versículos.",
+  "223edf8f0d6d": "Crear o deshacer un rango de versículos tiene el mismo efecto en esos versículos.",
+  "8c8ae7daabbf": "Una herramienta de revisión puede volver a abrirse en el elemento donde estaba. Use el filtro <span class=\"ui\">No válidos</span> para encontrar todos los elementos que hay que repasar.",
+  "e395662b6ada": "El aviso en la parte superior de una herramienta de revisión: 1 decisión(es) ya no coinciden con el texto del borrador y deben repasarse. No se descartó nada.",
+  "a3c0c8a79510": "El banco de palabras de Alinear después de una edición: BANCO DE PALABRAS · TU TRADUCCIÓN, 25 de 26 palabras ubicadas, y la palabra cambiada belief esperando a que se ubique de nuevo."
+}

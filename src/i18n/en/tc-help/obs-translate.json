@@ -1,0 +1,16 @@
+{
+  "5af4889f5ac7": "Translate a story · translationCore 4 Help",
+  "a10337e72f9e": "Stories are drafted part by part: the title, each frame, then the reference.",
+  "984b4856ee89": "Open a story and click <span class=\"ui\">Translate</span>.",
+  "8995602f6958": "Click <span class=\"ui\">Draft the title</span> (1) and type the title.",
+  "7533633a8c2c": "Click <span class=\"ui\">Save</span>.",
+  "d80905a60fc6": "For each frame, click \"Draft frame N\" (2), look at the picture and the English text, and type your translation. Click <span class=\"ui\">Save</span> (1).",
+  "b886423ff2ad": "At the end, click <span class=\"ui\">Draft the reference</span> and translate the line \"A Bible story from: …\".",
+  "66edcca3d388": "To change a saved part, click its text. To cancel, click <span class=\"ui\">Cancel</span>.",
+  "bf95ea47b7f4": "The story's percent drafted on the left goes up as you save parts.",
+  "118fa9449fd3": "Notes, words and questions for the frame are in the helps panel on the right. They stay on that frame after you click <span class=\"ui\">Save</span>. The Comments tab shows the newest comment of that frame.",
+  "94591424f449": "The frame box is as tall as the picture and text beside it. Longer text scrolls inside the box; drag its corner to make it taller.",
+  "0c398604d8c4": "Stories have no verse numbers or spans.",
+  "ec94e642294e": "Story 1 in Translate. The gateway column shows Gateway story · v9 · pinned, the title The Creation and frame 1 with its picture. In your column, Draft the title is marked 1 and Draft frame 1 is marked 2.",
+  "1cc4c1aeb82e": "Frame 2 open for drafting beside the English frame text. The box is headed Drafting frame 2, is as tall as the frame beside it, and holds Entonces Dios dijo: «¡Que haya luz!». Y hubo luz. Save is marked 1, next to Cancel."
+}

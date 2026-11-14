@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "Change the app language · translationCore 4 Help",
+  "17845592efa5": "Choose the language of the buttons, menus and messages in tC4. Until you choose one, tC4 follows the language of this computer; after you pick, it keeps that choice.",
+  "45563e5c8a97": "Your translation and your projects do not change.",
+  "ee049a6941eb": "Click the round person icon at the top right (1), then <span class=\"ui\">App language</span> (2). The menu is the same on Home and inside a project.",
+  "dc7b6c5db74e": "Click the <span class=\"ui\">Language</span> box and choose a language.",
+  "3727c4ee54ba": "The whole app switches to that language right away, so you can see what it looks like before you decide.",
+  "11954b3e0c6e": "Click <span class=\"ui\">Apply</span> to keep it. In Spanish the button reads <span class=\"ui\">Aplicar</span>.",
+  "c83abfae8b10": "To go back to the language you had, click <span class=\"ui\">Cancel</span> or ✕ instead. translationCore remembers your choice the next time you open it.",
+  "73cdc5d82a85": "What changes and what doesn't",
+  "f321bc45749b": "Changes: menus, buttons, labels and dialogs, such as <span class=\"ui\">Understand</span>, <span class=\"ui\">Translate</span> and <span class=\"ui\">Check</span> at the top of a project.",
+  "2b6bca26ac47": "Doesn't change: your translation, the source texts (such as the ULT) and the translation helps (notes, words and questions). These stay in the language they were written in. To choose the language of the checking helps, see <a href=\"rs-checking-language\">Checking language</a>.",
+  "029f491d3863": "Languages in the list",
+  "22afbdc189d0": "English, Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский and Tiếng Việt. The first four came with <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a>; the next five with <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a>.",
+  "aa3bf50cfe0b": "Find English again",
+  "d3f81c8b784c": "If you can't read the current language, the person icon is always at the top right, and <span class=\"ui\">App language</span> is in the account menu (after Help and guides). English is always first in the list.",
+  "54513425bd7d": "The account menu, open while signed in to Door43: the Door43 account name, Use the internet (on), Help and guides, App language (English), Report a problem, About translationCore and Sign out of Door43. Badge 1 is on the round person icon at the top right. Badge 2 is on App language.",
+  "171294dd60a6": "The App language dialog with the Language list open: English (checked), Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский and Tiếng Việt.",
+  "e58555e59c08": "Home behind the App language dialog after choosing Español (Latinoamérica). The whole screen has already switched to Spanish, and the dialog&#x27;s buttons now read Cancelar and Aplicar."
+}

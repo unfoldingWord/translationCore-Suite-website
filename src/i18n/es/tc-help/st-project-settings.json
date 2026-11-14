@@ -1,0 +1,14 @@
+{
+  "cfc94f2ad007": "Configuración del proyecto · Ayuda de translationCore 4",
+  "5c31a5d7af92": "Cambie lo que necesite:",
+  "05947a56b8f2": "<span class=\"ui\">Dirección del texto</span>: <span class=\"ui\">De izquierda a derecha</span> o <span class=\"ui\">De derecha a izquierda</span>.",
+  "c3f7bd798553": "<span class=\"ui\">Idioma de revisión</span> (1). Vea <a href=\"rs-checking-language\">Cambiar el idioma de revisión</a>.",
+  "bdf0ed5d6154": "<span class=\"ui\">Administrar textos fuente →</span> (2). Vea <a href=\"rs-source-texts\">Descargar textos fuente</a>.",
+  "58d3a2eeb7ed": "<span class=\"ui\">Fuente del texto</span> (3): la fuente con la que se muestra su traducción.",
+  "12b7031960a9": "Haga clic en <span class=\"ui\">Guardar cambios</span>.",
+  "152e8dbab82d": "Para cancelar, haga clic en <span class=\"ui\">Cancelar</span> o en la ✕, o pulse Esc. No se guarda nada.",
+  "b27935a0af63": "La configuración está solo en la tarjeta de Inicio, no en la barra superior. Para volver a Inicio, haga clic en el nombre del proyecto, arriba a la izquierda.",
+  "f5efa05091cf": "Las fuentes son Noto Sans (predeterminada), Charis SIL, Scheherazade New (escritura árabe), Awami Nastaliq (nastaliq) y Padauk (birmano). Elija la que muestre bien sus letras.",
+  "e4ebe7b1659a": "En esta versión no se pueden cambiar el nombre ni el idioma. La configuración del proyecto los muestra en gris, con la nota “Cambiar el nombre llegará en un incremento posterior.”",
+  "caca25561146": "Configuración del proyecto para Sample Titus · 1 libro. Nombre de la Biblia, Nombre del idioma y Código están en gris, con Cambiar el nombre llegará en un incremento posterior. Dirección del texto De izquierda a derecha. Idioma de revisión Inglés, marcado como ACTUAL (1). Administrar textos fuente → (2). Fuente del texto Noto Sans (predeterminada) (3). Cancelar y Guardar cambios."
+}

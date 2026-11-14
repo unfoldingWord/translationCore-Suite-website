@@ -1,0 +1,22 @@
+{
+  "b49c82d49c5f": "翻译模式中的辅助资源面板 · translationCore 4 帮助",
+  "3d9b8979a962": "起草时，辅助资源面板会显示当前经节的注释、词汇链接、问题、简化文本以及你自己的评论。注释按段落和经节标题分组，词汇卡片打开时会显示其文章的第一段。",
+  "df70fd1625f8": "它位于 <span class=\"ui\">Translate</span> 的右侧，在你的草稿旁边。",
+  "af3dfe77d9a4": "如果面板被隐藏，请点击该章右上角的 <span class=\"ui\">Toggle helps panel</span>。",
+  "48c67ad415f4": "点击一个标签页。",
+  "980289211f26": "打开段落编辑器或单节编辑器。面板会缩小到你正在编辑的经节。",
+  "f951e1ba14e3": "各标签页",
+  "1d25ef42dfa1": "<strong><span class=\"ui\">Notes</span>：</strong>翻译注释，按大写标题分组，例如 <span class=\"ui\">INTRODUCTION</span> 和 <span class=\"ui\">VERSE 1</span>。每条带有 Translation Academy 文章的注释，都会以文章的实际名称链接（例如 <span class=\"ui\">Abstract Nouns →</span>），而不是通用标签。",
+  "680855295e6f": "<strong><span class=\"ui\">Words</span>：</strong>关键词。每张卡片显示 Translation Words 文章的第一段和 <span class=\"ui\">Read the article →</span>。点击卡片，会高亮显示该词在段落中的每一处出现。",
+  "b7e2c851b894": "<strong><span class=\"ui\">Questions</span>：</strong>带答案的问题，用来检验草稿的意思。",
+  "61fbe4d4f999": "<strong><span class=\"ui\">UST</span>：</strong>本章的简化文本。有些通用语言会给这个标签页起别的名称，例如 <span class=\"ui\">GST</span>。",
+  "677b73d21e67": "<strong><span class=\"ui\">Comments</span>：</strong>你在 <span class=\"ui\">Understand</span> 中写的评论。没有评论时会显示“Nothing in this chapter.”（本章没有内容。）",
+  "dfa182fcb244": "辅助资源跟随你点击的内容：<span class=\"ui\">Section</span> 模式下的段落、<span class=\"ui\">Verse</span> 模式下的经节，或故事画面。点击 <span class=\"ui\">Save</span> 后，它们仍停留在该处，直到你点击另一处或离开本章。",
+  "389f7dc7c683": "把鼠标指向 Notes 卡片，会在源文本中高亮显示对应的短语；点击它可以保持高亮。",
+  "2ae564edc954": "点击 Words 卡片，会在你正在阅读的段落中高亮显示所有相符的词。",
+  "5e55e030c14d": "较长的注释有 <span class=\"ui\">Show more</span> 和 <span class=\"ui\">Show less</span>。",
+  "2fdf64a3a145": "拖动草稿和辅助资源之间的竖向分隔线，可以让面板变宽或变窄。<span class=\"ui\">Toggle helps panel</span> 用于完全显示或隐藏面板（只有这一个按钮，没有单独的加宽控件）。",
+  "2c005b25598b": "辅助资源文章打开时，分隔线上方有一个浮动的关闭控件，并且会清晰地显示源文件中的换行、上标和下划线。",
+  "92e84f73cbfc": "每种辅助资源的说明见<a href=\"section-understand\">理解</a>部分。",
+  "bdf1e518f4c6": "提多书 1 章的辅助资源面板，已选中 Words 标签页。每张词汇卡片显示其 Translation Words 文章的第一段和 Read the article → 链接。没有 KEY WORD 徽标。"
+}

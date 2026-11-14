@@ -1,0 +1,16 @@
+{
+  "a7446f300ed7": "Ajouter un livre · Aide de translationCore 4",
+  "173d4fc7a677": "Les sources de rédaction en anglais sont fournies avec tC4 : vous pouvez donc commencer sans connexion Internet.",
+  "04693dee9eda": "Sur l’accueil, cliquez sur la vignette <span class=\"ui\">Ajouter un livre</span> de la carte de votre projet.",
+  "fc9747845e76": "Cliquez sur <span class=\"ui\">Commencer un livre vierge</span>.",
+  "02fed80d8af4": "Choisissez le livre dans la liste <span class=\"ui\">Livre</span> (1).",
+  "c370b74c248f": "Pour ajouter plusieurs livres, cliquez sur <span class=\"ui\">En choisir plusieurs à la fois →</span> (2) puis sur chaque livre. <span class=\"ui\">Choisir un seul livre →</span> revient à la liste.",
+  "68a890a39a9a": "Cliquez sur <span class=\"ui\">Créer le livre</span> (3), ou sur <span class=\"ui\">Créer {n} livres</span>.",
+  "d73766911c3a": "Le nouveau livre s’ouvre dans <span class=\"ui\">Comprendre</span> au chapitre 1 : vous pouvez ainsi lire d’abord le passage et ses aides.",
+  "39992d6bf57a": "Pour annuler, cliquez sur <span class=\"ui\">← Retour</span> ou sur le ✕. Rien n’est ajouté.",
+  "6066ccda969f": "Un livre qui est déjà dans le projet affiche ✓ et ne peut pas être choisi de nouveau.",
+  "b64ffcaf8616": "La première étape propose aussi <span class=\"ui\">Ajouter des livres depuis des fichiers USFM</span> : « Choisissez un ou plusieurs fichiers USFM. Chaque fichier devient un livre, avec le texte du fichier comme brouillon. »",
+  "afa1bbefd65b": "Pour vous exercer, prenez un livre court comme Tite, Philémon ou 3 Jean.",
+  "27dbafdecdc9": "Les introductions des livres ne peuvent pas encore être rédigées. Il n’est pas encore possible non plus de retirer un livre.",
+  "d5b73d148408": "La fenêtre Ajouter un livre pour Exemple Tite, à l’étape du livre. La liste Livre (1) affiche Genèse GEN, puis En choisir plusieurs à la fois → (2), la ligne Sources de rédaction : unfoldingWord ULT + UST v91 — installées avec l’application, puis ← Retour et Créer le livre (3)."
+}

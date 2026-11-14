@@ -1,0 +1,11 @@
+{
+  "27ac6039a7a9": "Notas sobre Windows, macOS y Linux · Ayuda de translationCore 4",
+  "d0c7ab9751d6": "Las versiones de prueba todavía no están firmadas, así que su sistema puede mostrarle una advertencia la primera vez.",
+  "ed98f85183a9": "Qué esperar",
+  "20db2dc87caf": "SmartScreen puede mostrar una advertencia: haga clic en <strong>Más información › Ejecutar de todas formas</strong>. Es posible que necesite el runtime de Microsoft Visual C++. Es posible que la exportación USFM sin alinear no se descargue.",
+  "50d2cfa2722c": "La primera vez, vaya a <strong>Configuración del Sistema › Privacidad y seguridad</strong> y haga clic en <strong>Abrir igualmente</strong>. Cierre tC4 antes de instalar otra versión.",
+  "3520c5b035eb": "Descomprima el archivo y ejecute <code>start-tc4.sh</code>.",
+  "6dbabc36f7bd": "Siga <a href=\"gs-install\">Instalar e iniciar tC4</a>.",
+  "58fdb41bf2e3": "Si su sistema lo bloquea, siga los pasos de \"abrir de todas formas\" que aparecen arriba.",
+  "59ed570323af": "Ejecute solo una copia de tC4 a la vez."
+}

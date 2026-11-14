@@ -1,0 +1,22 @@
+{
+  "b49c82d49c5f": "Le panneau d’aides dans Traduire · Aide de translationCore 4",
+  "3d9b8979a962": "Pendant que vous rédigez, le panneau d’aides montre les notes, les liens de mots, les questions, le texte simplifié et vos propres commentaires pour les versets en cours. Les notes sont regroupées sous des titres de section et de verset, et les cartes de mots s’ouvrent sur le premier paragraphe de leur article.",
+  "df70fd1625f8": "Il se trouve à droite de <span class=\"ui\">Traduire</span>, à côté de votre brouillon.",
+  "af3dfe77d9a4": "Si le panneau est masqué, cliquez sur <span class=\"ui\">Afficher ou masquer le panneau d’aides</span> en haut à droite du chapitre.",
+  "48c67ad415f4": "Cliquez sur un onglet.",
+  "980289211f26": "Ouvrez un éditeur de section ou de verset. Le panneau se limite alors aux versets que vous modifiez.",
+  "f951e1ba14e3": "Les onglets",
+  "1d25ef42dfa1": "<strong><span class=\"ui\">Notes</span> :</strong> les notes de traduction, regroupées sous des titres en majuscules comme <span class=\"ui\">INTRODUCTION</span> et <span class=\"ui\">VERSET 1</span>. Chaque note qui a un article de l’Académie de traduction y renvoie par le vrai nom de l’article (par exemple <span class=\"ui\">Abstract Nouns →</span>), et non par une étiquette générale.",
+  "680855295e6f": "<strong><span class=\"ui\">Mots</span> :</strong> les termes clés. Chaque carte montre le premier paragraphe de l’article des Mots de traduction et <span class=\"ui\">Lire l’article →</span>. Cliquez sur une carte pour surligner chaque occurrence de ce mot dans la section.",
+  "b7e2c851b894": "<strong><span class=\"ui\">Questions</span> :</strong> des questions avec leurs réponses, pour tester le sens de votre brouillon.",
+  "61fbe4d4f999": "<strong><span class=\"ui\">UST</span> :</strong> le texte simplifié du chapitre. Certaines langues passerelles donnent un autre nom à cet onglet, comme <span class=\"ui\">GST</span>.",
+  "677b73d21e67": "<strong><span class=\"ui\">Commentaires</span> :</strong> les commentaires que vous avez écrits dans <span class=\"ui\">Comprendre</span>. L’onglet affiche « Rien dans ce chapitre. » quand il n’y en a pas.",
+  "dfa182fcb244": "Les aides suivent ce sur quoi vous avez cliqué : une section en mode <span class=\"ui\">Section</span>, un verset en mode <span class=\"ui\">Verset</span>, ou un cadre d’histoire. Elles y restent après que vous avez cliqué sur <span class=\"ui\">Enregistrer</span>, jusqu’à ce que vous cliquiez sur un autre élément ou quittiez le chapitre.",
+  "389f7dc7c683": "Pointez une carte Notes pour surligner son expression dans la source ; cliquez dessus pour garder le surlignage.",
+  "2ae564edc954": "Cliquez sur une carte Mots pour surligner chaque mot correspondant dans toute la section que vous lisez.",
+  "5e55e030c14d": "Les notes longues ont <span class=\"ui\">Afficher plus</span> et <span class=\"ui\">Afficher moins</span>.",
+  "2fdf64a3a145": "Faites glisser la séparation verticale entre votre brouillon et les aides pour élargir ou rétrécir le panneau. <span class=\"ui\">Afficher ou masquer le panneau d’aides</span> affiche ou masque complètement le panneau (un seul bouton ; il n’y a pas de commande séparée pour l’élargir).",
+  "2c005b25598b": "Les articles d’aide s’ouvrent avec un bouton de fermeture flottant au-dessus d’une ligne de séparation, et affichent proprement les sauts de ligne, les exposants et les soulignements de la source.",
+  "92e84f73cbfc": "Chaque aide est expliquée dans la partie <a href=\"section-understand\">Comprendre</a>.",
+  "bdf1e518f4c6": "Le panneau d’aides sur Tite 1 avec l’onglet Mots sélectionné. Chaque carte de mot montre le premier paragraphe de son article des Mots de traduction et un lien Lire l’article →. Il n’y a pas de badge MOT CLÉ."
+}

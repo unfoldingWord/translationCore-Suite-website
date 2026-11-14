@@ -1,0 +1,17 @@
+{
+  "4376ec103233": "Placer les numéros de verset · Aide de translationCore 4",
+  "5eca11c21193": "Après avoir tapé une section, cliquez sur chaque numéro de verset, puis sur le mot où commence ce verset.",
+  "dbe8b6820c98": "Chaque numéro de verset est un petit repère orange, et les numéros pas encore placés attendent dans la zone <span class=\"ui\">À placer</span>.",
+  "0ebe78d1b672": "Dans l’éditeur de section, cliquez sur <span class=\"ui\">Placer les numéros de verset</span>.",
+  "3b3fea276e32": "Cliquez sur un numéro dans la zone <span class=\"ui\">À placer</span> (1). La zone indique « Cliquez sur un numéro de verset, puis sur le mot qui commence le verset. »",
+  "0f18a5341cd8": "La zone indique maintenant « Cliquez sur le mot où commence le verset 10 ». Cliquez sur ce mot dans le texte.",
+  "d02dd9bad9b1": "Recommencez pour chaque numéro, puis cliquez sur <span class=\"ui\">Enregistrer la section</span>.",
+  "cb344d0f23be": "Pour revenir à la saisie, cliquez sur <span class=\"ui\">Saisir</span>. Les numéros placés sont conservés. <span class=\"ui\">Annuler</span> ferme l’éditeur sans enregistrer.",
+  "ca6abd1aaedf": "Pour déplacer un numéro déjà placé, cliquez dessus dans le texte, puis sur un autre mot.",
+  "42739399ed72": "Si un numéro se pose sur un mot voisin dès que vous cliquez dessus, cliquez de nouveau dessus, puis sur le bon mot.",
+  "fac2a16d248a": "Quand vous cliquez sur un numéro déjà placé, la zone indique toujours « Tous les versets sont placés. Cliquez sur un numéro de verset pour déplacer le début de son verset. » Suivez la ligne en dessous : « Cliquez sur le mot où commence le verset 10 ».",
+  "0ab63b894abe": "Un numéro ne peut pas dépasser un autre numéro, et le premier numéro de la section ne peut pas être déplacé.",
+  "62b7e7cf49e0": "Mettre un numéro sur le mot où commence un autre verset réunit les deux en une plage. Voir <a href=\"tr-verse-spans\">Créer ou séparer une plage de versets</a>.",
+  "ddaf79c7ea52": "Le mode Placer les numéros de verset pour Tite 2:9-10. Le verset 9 est fixé au début du texte, et le numéro 10 attend dans la zone À placer, marquée 1, avec l’indication Cliquez sur un numéro de verset, puis sur le mot qui commence le verset.",
+  "a22a81f22a81": "La même section après un clic sur le 10 : la zone À placer indique Cliquez sur le mot où commence le verset 10."
+}

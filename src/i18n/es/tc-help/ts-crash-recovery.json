@@ -1,0 +1,15 @@
+{
+  "fd7bfead716f": "Si la aplicación se cerró de forma inesperada o la ventana quedó en blanco · Ayuda de translationCore 4",
+  "55b76d8a66e8": "tC4 registra cada paso que cambia un proyecto. Si se detiene a mitad de uno, lo termina o lo limpia en el siguiente inicio, así que no queda ningún proyecto dañado.",
+  "78bd5ab8337d": "Si la ventana queda en blanco o deja de responder",
+  "87388e67fa24": "Abra el menú <strong>Window</strong> y haga clic en <strong>Reload</strong>, o presione Ctrl+R.",
+  "b5fd05422653": "tC4 vuelve a Inicio. Abra su proyecto de nuevo.",
+  "699657357b3c": "Si ve \"Esta pantalla no se pudo mostrar.\", haga clic en <strong>Volver al inicio</strong> y luego abra el proyecto de nuevo.",
+  "3ab37d80c428": "Si tC4 se cerró",
+  "a09dba536852": "Inicie tC4 de nuevo.",
+  "8b0d89d59a34": "Compruebe que sus proyectos están en Inicio.",
+  "e0c604da4f04": "Si se interrumpió una importación, importe el archivo de nuevo.",
+  "f38932ff0291": "Reload lo lleva a Inicio. Sus proyectos siguen ahí.",
+  "814d83120c04": "<strong>Toggle Developer Tools</strong> es para los desarrolladores. Usted no lo necesita.",
+  "b55e6bd5d484": "El menú Window de la aplicación de escritorio, con Reload Ctrl+R, Force Reload Ctrl+Shift+R y Toggle Developer Tools Ctrl+Shift+I."
+}

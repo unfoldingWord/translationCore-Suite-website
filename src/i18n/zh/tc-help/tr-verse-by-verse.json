@@ -1,0 +1,14 @@
+{
+  "7161ee1494a3": "起草或修改单节 · translationCore 4 帮助",
+  "924f10cde3b8": "单节视图适合做小的修改，也适合喜欢一次处理一节的译者。",
+  "2e916581c6b1": "在 <span class=\"ui\">Translate</span> 中，点击译文上方切换开关中的 <span class=\"ui\">Verse</span>。",
+  "3a741eaf2d05": "对于空的经节，点击它的虚线按钮 <span class=\"ui\">Draft verse {n}</span>。对于已起草的经节，点击它的文字。",
+  "f0f1b05904d7": "在编辑器中输入。",
+  "967d0e1e904d": "点击 <span class=\"ui\">Save verse</span>，或点击编辑器以外的地方。",
+  "c1b69e650e2b": "要放弃修改，请改为点击 <span class=\"ui\">Cancel</span>。",
+  "66522b86c05a": "辅助资源面板会跟随你正在编辑的经节。",
+  "c949d8f44bd1": "要合并节范围，请使用 <span class=\"ui\">Section</span> 视图。请参阅<a href=\"tr-verse-spans\">合并或拆分节范围</a>。",
+  "d40609f9c65f": "诗歌经节打开时会显示它的所有行。<strong>Shift+Enter</strong> 开始新的一行；Tab 和 Enter 会保存并关闭编辑器。请参阅<a href=\"tr-formatting\">分段与诗歌</a>。",
+  "e0173097549a": "提多书 3:1–2 的单节视图：Section / Verse 切换开关中已选中 Verse，空的经节显示虚线按钮 Draft verse 1 和 Draft verse 2。",
+  "8e82740d866e": "为提多书 3:1 打开的单节编辑器：经节位置显示 Editing below，编辑器标题为 DRAFTING 1，里面已输入西班牙语文字，下方是 Save verse 和 Cancel。"
+}

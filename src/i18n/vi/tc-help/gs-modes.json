@@ -1,0 +1,16 @@
+{
+  "13d6112f254d": "Thấu hiểu, Dịch và Kiểm tra — ba chế độ · Trợ giúp translationCore 4",
+  "22c05e04d926": "Vị trí của bạn trong sách vẫn giữ nguyên khi bạn chuyển chế độ, và dự án Open Bible Stories cũng có ba chế độ như vậy.",
+  "61aee9109a1b": "Mở một sách hoặc câu chuyện từ Trang chủ.",
+  "128bfef94f36": "Nhấp vào <span class=\"ui\">Thấu hiểu</span>, <span class=\"ui\">Dịch</span> hoặc <span class=\"ui\">Kiểm tra</span> ở giữa thanh trên cùng. Chế độ bạn đang ở được tô màu.",
+  "cf7e68e6b38d": "Mỗi chế độ dùng để làm gì",
+  "08d61dfdd7ca": "<strong><span class=\"ui\">Thấu hiểu</span>:</strong> đọc phân đoạn cùng với ghi chú, liên kết từ và câu hỏi, và viết nhận xét của riêng bạn. Xem <a href=\"un-read-passage\">Đọc phân đoạn trước khi dịch</a>.",
+  "79ebbb5807f3": "<strong><span class=\"ui\">Dịch</span>:</strong> soạn nháp bản dịch bên cạnh văn bản nguồn. Xem <a href=\"tr-screen\">Màn hình Dịch</a>.",
+  "c0cac543b795": "<strong><span class=\"ui\">Kiểm tra</span>:</strong> kiểm tra bản nháp với Ghi chú dịch thuật và Từ ngữ dịch thuật, căn chỉnh từ, và xem trước sách. Xem <a href=\"ck-tool-picker\">Chọn công cụ kiểm tra</a>.",
+  "29c21f035696": "Nhiều nhóm làm theo thứ tự đó, nhưng bạn có thể chuyển bất cứ lúc nào.",
+  "20b3650806b8": "Sách hoặc câu chuyện bạn mở lần đầu sẽ bắt đầu ở chế độ <span class=\"ui\">Thấu hiểu</span>. Sau đó, tC4 mở nó ở chế độ bạn dùng gần nhất.",
+  "7ae9ea51f3a9": "<span class=\"ui\">Kiểm tra</span> quay lại công cụ kiểm tra bạn dùng gần nhất. Để chọn công cụ khác, hãy nhấp vào <span class=\"ui\">← Tất cả công cụ kiểm tra</span> ở góc trên bên trái.",
+  "89c9737cc63f": "Khi chuyển chế độ, tC4 lưu một điểm kiểm tra nếu có gì thay đổi. Xem <a href=\"gs-save\">Lưu và điểm kiểm tra</a>.",
+  "4ffefe6c913a": "Xuất không phải là một chế độ riêng. Chức năng này nằm trong <span class=\"ui\">Kiểm tra</span> › <span class=\"ui\">Kiểm tra cộng đồng</span>. Xem <a href=\"bp-export-pdf\">Xuất sách thành PDF</a>.",
+  "20f0ff816d20": "Nút chuyển ở giữa thanh trên cùng: Thấu hiểu, Dịch (đang được chọn, tô màu xanh nhạt) và Kiểm tra."
+}

@@ -1,0 +1,16 @@
+{
+  "393d05508d24": "Travailler hors ligne · Aide de translationCore 4",
+  "d8bfb8b37fc5": "Tout ce qu’il faut pour traduire et vérifier avec les aides en anglais est fourni avec l’application, et vos projets restent sur votre ordinateur.",
+  "c4c35b6853eb": "Travaillez normalement. Internet n’est pas nécessaire.",
+  "edea9ef59ef5": "Quand une étape a besoin d’Internet, tC4 demande « Activer Internet ? ». Cliquez sur <span class=\"ui\">Activer Internet</span> (1), ou sur <span class=\"ui\">Pas maintenant</span> pour rester hors ligne.",
+  "e733286320b0": "Pour désactiver de nouveau Internet, cliquez sur le bouton rond du compte en haut à droite et désactivez <span class=\"ui\">Utiliser Internet</span> (1). Fermer tC4 le désactive aussi.",
+  "3412a451d70b": "Ce qui a besoin d’Internet",
+  "566ac9959449": "<a href=\"rs-upgrade-helps\">Mettre à jour les aides épinglées</a> et <a href=\"rs-upgrade-texts\">Mettre à jour les textes bibliques</a>",
+  "2cd392e6b7c7": "Télécharger une ressource manquante dans <a href=\"rs-guided-fix\">Résoudre une ressource manquante</a>",
+  "91b2d9dfb331": "Se connecter et partager sur Door43",
+  "9bc597905732": "Traduire, vérifier, aligner, exporter et importer fonctionnent tous hors ligne.",
+  "8140e4dc8fcb": "Rien de vos projets n’est envoyé quand vous activez Internet pour des téléchargements.",
+  "33b717beaef2": "Faites régulièrement des sauvegardes de votre dossier de projets. Voir <a href=\"st-where-projects-live\">Où vos projets sont enregistrés</a>.",
+  "98787b2803eb": "La boîte de dialogue Activer Internet ? : Cette étape a besoin d’Internet pour lire les textes sources que Door43 propose et leurs versions. Rien de vos projets n’est envoyé. tC4 utilisera Internet jusqu’à ce que vous le désactiviez dans le menu du compte, ou que vous fermiez tC4. Pas maintenant, et Activer Internet, marqué 1.",
+  "f332176c6971": "Le menu du compte : le compte Door43, Utiliser Internet avec son interrupteur désactivé (marqué 1) et la ligne Désactivé. Une étape qui a besoin d’Internet le demande d’abord., Aide et guides, Langue de l’application, Signaler un problème, À propos de translationCore."
+}

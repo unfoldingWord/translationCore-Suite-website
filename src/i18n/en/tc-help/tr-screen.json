@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "The Translate screen · translationCore 4 Help",
+  "b5e20a3b5c23": "Each row puts a section of the source text next to your translation of it.",
+  "ccd3b0577ccf": "Open a book, then click <span class=\"ui\">Translate</span> at the top.",
+  "6eb73fcf4caa": "Choose the source text with the tabs above it: <span class=\"ui\">ULT</span> (literal), <span class=\"ui\">UST</span> (simplified) or the original language (<span class=\"ui\">Greek</span> or <span class=\"ui\">Hebrew</span>). The line under the tabs names the text and its version.",
+  "cba9851fabf8": "Choose <span class=\"ui\">Section</span> to draft a whole section at once, or <span class=\"ui\">Verse</span> to draft one verse at a time.",
+  "c7138b6f2ae2": "Click <span class=\"ui\">Draft section</span> beside the section you want. Type the text, then use <span class=\"ui\">Place verse numbers</span>. See <a href=\"tr-draft-section\">Draft a section</a>.",
+  "6f6d5b88466d": "Click <span class=\"ui\">Save section</span>. To leave the section as it was, click <span class=\"ui\">Cancel</span>.",
+  "fb24ef6c8a86": "Make room",
+  "8c8975cae9b6": "The button at the top left of the page shows or hides the book list.",
+  "d034ae5cfc60": "At the top right of the page, <span class=\"ui\">Toggle helps panel</span> shows or hides the helps. Drag the vertical divider to change the panel width.",
+  "4d761027a250": "The helps panel",
+  "ddbdbe454552": "The panel shows help for the section you are working on: <span class=\"ui\">Notes</span>, <span class=\"ui\">Words</span>, <span class=\"ui\">Questions</span>, the simplified text (<span class=\"ui\">UST</span>) and <span class=\"ui\">Comments</span> from Understand. Click a help card and the words it is about are highlighted in the source text. See <a href=\"tr-helps-panel\">The helps panel in Translate</a>.",
+  "2ac8369ebd1d": "Translate remembers your choice of <span class=\"ui\">Section</span> or <span class=\"ui\">Verse</span> for each project.",
+  "a17f0c7ae079": "The Translate screen for Titus 1 with section 1–3 open for drafting. Labels point to the source text tabs (ULT, UST, Greek), the Modes switch with Translate selected, the Section or Verse switch, the helps panel tabs, the save status, the chapter buttons, the source passage, the drafting steps (Type, Place verse numbers), Save section, the next Draft section button, and a help card."
+}

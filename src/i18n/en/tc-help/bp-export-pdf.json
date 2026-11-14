@@ -1,0 +1,11 @@
+{
+  "4720b0d24d63": "Export a book as PDF · translationCore 4 Help",
+  "2798a01adbaa": "The file name carries the book code and today's date.",
+  "296c22d5869b": "Optional: set the page setup (paper size, columns, spacing). See <a href=\"ck-community-checking\">Community Checking preview and page setup</a>.",
+  "2cab4f333825": "Click <span class=\"ui\">Export</span> (1), then <span class=\"ui\">Export PDF</span> (2).",
+  "f12ec931faa5": "Undrafted verses print as \"[ verse not yet drafted ]\". Undrafted chapters at the start or end are left out.",
+  "5febb95ab85f": "If nothing in the book is drafted, tC4 says so and makes no file.",
+  "7fb34b0c18d9": "The paper size and spacing aren't remembered. Set them each time.",
+  "86f68bd349db": "Footnotes aren't printed yet.",
+  "282716ae7eab": "Community Checking with the Export menu open. Export is marked 1, and Export PDF, the first item, is marked 2. The other items are USFM, aligned, USFM, plain and Scripture Burrito (.zip)."
+}

@@ -1,0 +1,20 @@
+{
+  "7ef680c2ab89": "Abrir a ferramenta Alinhar · Ajuda do translationCore 4",
+  "5e6b62c8398f": "As ferramentas de verificação usam essas ligações para destacar suas palavras, e uma exportação USFM alinhada as leva junto.",
+  "bb0ae2797229": "Abrir Alinhar",
+  "e45cb668c003": "Clique em <span class=\"ui\">Verificar</span> e depois em <span class=\"ui\">Iniciar verificação →</span> no cartão <span class=\"ui\">Alinhar</span>.",
+  "d282158fcc1e": "Escolha um versículo na lista de versículos à esquerda. Os versículos que ainda não foram redigidos aparecem em cinza.",
+  "e3b884563832": "Ligue suas palavras aos cartões de palavras. Veja <a href=\"al-link-words\">Ligar suas palavras à fonte</a>.",
+  "88485c019666": "Quando o versículo estiver pronto, clique em <span class=\"ui\">✓ Marcar como válido</span>. Veja <a href=\"al-mark-valid\">Marcar um alinhamento como concluído</a>.",
+  "9e63a70b7cb6": "Para sair, clique em <span class=\"ui\">← Todas as ferramentas de verificação</span> no canto superior esquerdo, ou em <span class=\"ui\">← Voltar à tradução</span> no canto inferior esquerdo.",
+  "301a064f6f16": "Nesta tela",
+  "ad5c7353eb70": "<span class=\"ui\">Ponte · ULT</span> alinha com o texto ponte que você consegue ler. Suas palavras já trazem a ligação com a língua original. <span class=\"ui\">Original · grego</span> alinha diretamente com as palavras gregas. Veja <a href=\"al-modes\">Alinhar ao texto do idioma ponte ou à língua original</a>.",
+  "7fe4b76804a6": "<span class=\"ui\">Sugerir links</span> começa desativado. Ative-o para receber ligações propostas a partir dos versículos que você já alinhou. Veja <a href=\"al-suggestions\">Sugestões de alinhamento</a>.",
+  "50f0d72fb224": "Acima do banco de palavras, um contador mostra quantas palavras do versículo já foram posicionadas.",
+  "e1bb27c319b7": "<span class=\"ui\">Como funciona o alinhamento</span> abre uma explicação curta.",
+  "e01ac24b75fc": "<strong>Observação:</strong> Alinhar é para livros da Bíblia. Projetos de histórias não têm o cartão Alinhar.",
+  "939bebcfbfc5": "Versículos que você importou com alinhamentos",
+  "bb519f9da8e1": "Se um livro veio de um arquivo USFM que já tinha alinhamentos, os versículos alinhados abrem em Alinhar com o aviso <strong>Este versículo já tem um alinhamento</strong>. Você ainda não pode alterar esses versículos em Alinhar. O tC4 mantém o alinhamento deles como foi importado e o grava sem mudanças na exportação USFM alinhada.",
+  "b70cc1d616d4": "Os cartões da fonte sempre seguem o texto na língua original que o seu projeto usa. Se uma ligação salva aponta para uma palavra que esse texto não tem, a ligação é removida, as palavras dela voltam para o banco de palavras e o versículo é marcado para revisão.",
+  "4298e3a1f848": "Um versículo em Alinhar de um livro que foi adicionado a partir de um arquivo USFM alinhado. O aviso diz Este versículo já tem um alinhamento. Tito foi adicionado a partir de um arquivo que já contém alinhamentos. O tC4 mantém o alinhamento deste versículo como está. Você ainda não pode alterá-lo no tC4."
+}

@@ -1,0 +1,17 @@
+{
+  "a96d11edfa6b": "Exportar um livro em USFM (alinhado ou sem alinhamento) · Ajuda do translationCore 4",
+  "f94a9df0cb10": "USFM é o formato de texto padrão para traduções da Bíblia.",
+  "1e94ef8ceb99": "Clique em <span class=\"ui\">Exportar</span> (1) e depois em <span class=\"ui\">USFM, alinhado</span> (2) ou <span class=\"ui\">USFM, sem alinhamento</span>.",
+  "f9b0a11478e5": "Qual escolher?",
+  "db946efab3d8": "<strong><span class=\"ui\">USFM, alinhado</span></strong> inclui os seus links com a língua original, para ferramentas que leem alinhamentos. Alinhe os versículos primeiro. Veja <a href=\"al-link-words\">Ligar suas palavras à fonte</a>.",
+  "dd38b1bfdf16": "<strong><span class=\"ui\">USFM, sem alinhamento</span></strong> é só o seu texto.",
+  "53ede8bc7c3b": "Seu projeto não muda.",
+  "ffb0917a26ef": "Um intervalo de versículos unidos é gravado como um só versículo, por exemplo <code>\\v 2-3</code>.",
+  "1b8ddfde1a2c": "Os versículos não redigidos são gravados como <code>___</code>.",
+  "46717a73e9ca": "As linhas de cabeçalho (<code>\\h</code>, <code>\\toc1</code>–<code>\\toc3</code>, <code>\\mt</code>) contêm o código do livro, como <code>TIT</code>, e não o nome do livro. Edite-as se outro programa precisar do nome.",
+  "1d6a4dcee725": "<span class=\"ui\">USFM, alinhado</span> grava o alinhamento de cada versículo cujo alinhamento está em dia. Um versículo que precisa de revisão é gravado sem o alinhamento, e o painel diz <strong>Seu alinhamento destes versículos não está no arquivo</strong> e lista esses versículos. Revise-os em Alinhar e exporte de novo. A próxima exportação apaga a mensagem.",
+  "8e797de8362c": "Os versículos que você importou com alinhamentos são gravados exatamente como foram importados.",
+  "d7ba70e5d6d8": "<span class=\"ui\">USFM, sem alinhamento</span> e PDF nunca incluem alinhamentos, por isso nunca mostram essa mensagem.",
+  "44afc7d304ce": "Salvar por cima de um arquivo que já existe substitui esse arquivo sem perguntar. Escolha um novo nome de arquivo se quiser manter o antigo.",
+  "caf999f3879c": "Verificação comunitária com o menu Exportar aberto. Exportar está marcado com 1, e USFM, alinhado está marcado com 2; USFM, sem alinhamento fica logo abaixo."
+}

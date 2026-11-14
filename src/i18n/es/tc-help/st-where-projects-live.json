@@ -1,0 +1,12 @@
+{
+  "e4359c86424d": "Dónde se guardan sus proyectos · Ayuda de translationCore 4",
+  "3eab40f3847e": "“Solo en esta computadora” (1) en la tarjeta de un proyecto significa que el proyecto está guardado solo en esta carpeta.",
+  "30baa24967e0": "Carpeta",
+  "02c7ab4c886a": "Hacer una copia de seguridad de sus proyectos",
+  "1a3b4a6ebb72": "Cierre tC4.",
+  "e025bbb3943b": "Copie toda la carpeta <code>tc4-projects</code> a una memoria USB o a otro lugar de respaldo.",
+  "9aba78ed16f6": "Si desinstala tC4, sus proyectos se conservan.",
+  "103374590ee0": "Para pasar un proyecto a otra computadora, use <span class=\"ui\">Guardar o recibir trabajo por USB</span>, o <a href=\"bp-export-burrito\">exporte un Scripture Burrito</a> y ábralo allá con <span class=\"ui\">+ Agregar un proyecto</span> › <span class=\"ui\">Recibir trabajo desde un archivo</span>. Es más seguro que copiar carpetas.",
+  "a667363ac5b9": "No cambie archivos en la carpeta mientras tC4 está abierto. tC4 lo nota y se detiene para proteger el proyecto. Vea <a href=\"ts-protect-messages\">Mensajes que protegen su proyecto</a>.",
+  "05aa89ccda13": "La tarjeta de un proyecto bíblico en Inicio. La línea es-419 · 2 libros · 2 en curso · Solo en esta computadora está marcada con 1. Compartir en Door43, Guardar o recibir trabajo por USB y Configuración están a la derecha."
+}

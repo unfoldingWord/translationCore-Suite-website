@@ -1,0 +1,17 @@
+{
+  "a96d11edfa6b": "Xuất sách thành USFM (đã căn chỉnh hoặc văn bản thuần) · Trợ giúp translationCore 4",
+  "f94a9df0cb10": "USFM là định dạng văn bản tiêu chuẩn cho các bản dịch Kinh Thánh.",
+  "1e94ef8ceb99": "Nhấp vào <span class=\"ui\">Xuất</span> (1), rồi <span class=\"ui\">USFM, đã căn chỉnh</span> (2) hoặc <span class=\"ui\">USFM, văn bản thuần</span>.",
+  "f9b0a11478e5": "Chọn loại nào?",
+  "db946efab3d8": "<strong><span class=\"ui\">USFM, đã căn chỉnh</span></strong> bao gồm các liên kết của bạn với nguyên ngữ, dành cho những công cụ đọc được căn chỉnh. Hãy căn chỉnh các câu trước. Xem <a href=\"al-link-words\">Liên kết từ của bạn với nguồn</a>.",
+  "dd38b1bfdf16": "<strong><span class=\"ui\">USFM, văn bản thuần</span></strong> chỉ có văn bản của bạn.",
+  "53ede8bc7c3b": "Dự án của bạn không thay đổi.",
+  "ffb0917a26ef": "Một nhóm câu đã gộp được ghi thành một câu, ví dụ <code>\\v 2-3</code>.",
+  "1b8ddfde1a2c": "Các câu chưa soạn nháp được ghi là <code>___</code>.",
+  "46717a73e9ca": "Các dòng tiêu đề (<code>\\h</code>, <code>\\toc1</code>–<code>\\toc3</code>, <code>\\mt</code>) chứa mã sách, chẳng hạn <code>TIT</code>, chứ không phải tên sách. Hãy sửa các dòng này nếu một chương trình khác cần tên sách.",
+  "1d6a4dcee725": "<span class=\"ui\">USFM, đã căn chỉnh</span> ghi căn chỉnh của mỗi câu có căn chỉnh còn cập nhật. Câu nào cần xem lại sẽ được ghi mà không kèm căn chỉnh, và bảng sẽ báo <strong>Căn chỉnh của bạn cho các câu này không có trong tệp</strong> cùng danh sách các câu đó. Hãy xem lại những câu đó trong Căn chỉnh rồi xuất lại. Lần xuất tiếp theo sẽ xóa thông báo này.",
+  "8e797de8362c": "Các câu bạn đã nhập kèm căn chỉnh được ghi đúng như khi được nhập.",
+  "d7ba70e5d6d8": "<span class=\"ui\">USFM, văn bản thuần</span> và PDF không bao giờ có căn chỉnh, nên không bao giờ hiện thông báo này.",
+  "44afc7d304ce": "Lưu đè lên một tệp đã có sẽ thay thế tệp đó mà không hỏi. Hãy chọn tên tệp mới nếu bạn muốn giữ tệp cũ.",
+  "caf999f3879c": "Kiểm tra cộng đồng với trình đơn Xuất đang mở. Xuất được đánh số 1, và USFM, đã căn chỉnh được đánh số 2; USFM, văn bản thuần nằm ngay bên dưới."
+}

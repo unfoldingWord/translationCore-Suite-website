@@ -1,0 +1,17 @@
+{
+  "a96d11edfa6b": "Exporter un livre en USFM (aligné ou simple) · Aide de translationCore 4",
+  "f94a9df0cb10": "USFM est le format de texte standard pour les traductions de la Bible.",
+  "1e94ef8ceb99": "Cliquez sur <span class=\"ui\">Exporter</span> (1), puis sur <span class=\"ui\">USFM, aligné</span> (2) ou <span class=\"ui\">USFM, simple</span>.",
+  "f9b0a11478e5": "Lequel choisir ?",
+  "db946efab3d8": "<strong><span class=\"ui\">USFM, aligné</span></strong> contient vos liens vers la langue originale, pour les outils qui lisent les alignements. Alignez d’abord les versets. Voir <a href=\"al-link-words\">Relier vos mots à la source</a>.",
+  "dd38b1bfdf16": "<strong><span class=\"ui\">USFM, simple</span></strong> contient seulement votre texte.",
+  "53ede8bc7c3b": "Votre projet ne change pas.",
+  "ffb0917a26ef": "Une plage de versets réunis est écrite comme un seul verset, par exemple <code>\\v 2-3</code>.",
+  "1b8ddfde1a2c": "Les versets non rédigés sont écrits sous la forme <code>___</code>.",
+  "46717a73e9ca": "Les lignes d’en-tête (<code>\\h</code>, <code>\\toc1</code>–<code>\\toc3</code>, <code>\\mt</code>) contiennent le code du livre, comme <code>TIT</code>, et non le nom du livre. Modifiez-les si un autre programme a besoin du nom.",
+  "1d6a4dcee725": "<span class=\"ui\">USFM, aligné</span> écrit l’alignement de chaque verset dont l’alignement est à jour. Un verset à revoir est écrit sans son alignement ; le panneau affiche alors <strong>Votre alignement de ces versets n’est pas dans le fichier</strong> et en donne la liste. Revoyez ces versets dans Aligner et exportez de nouveau. L’exportation suivante efface le message.",
+  "8e797de8362c": "Les versets que vous avez importés avec leurs alignements sont écrits exactement comme ils ont été importés.",
+  "d7ba70e5d6d8": "<span class=\"ui\">USFM, simple</span> et le PDF ne contiennent jamais d’alignements ; ils n’affichent donc jamais ce message.",
+  "44afc7d304ce": "Enregistrer par-dessus un fichier existant le remplace sans rien demander. Choisissez un nouveau nom de fichier si vous voulez garder l’ancien.",
+  "caf999f3879c": "Vérification communautaire avec le menu Exporter ouvert. Exporter est marqué 1, et USFM, aligné est marqué 2 ; USFM, simple est juste en dessous."
+}

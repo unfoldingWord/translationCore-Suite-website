@@ -1,0 +1,19 @@
+{
+  "8acbc3565c3a": "Soạn nháp một phần · Trợ giúp translationCore 4",
+  "e884672aa2a3": "Bạn gõ liền một mạch cả phần, theo cách bạn sẽ nói, rồi thêm số câu sau.",
+  "373905fa673d": "Trong <span class=\"ui\">Dịch</span>, hãy chắc chắn rằng nút chuyển phía trên bản dịch của bạn đang ở <span class=\"ui\">Phần</span>.",
+  "3328663ae42d": "Trên hàng bạn muốn, nhấp vào nút <span class=\"ui\">Soạn nháp phần {span}</span> ở góc trên bên phải của hàng đó (1). Đây là một nút nhỏ bo tròn, luôn hiển thị.",
+  "3f5705e15b4a": "Trình soạn thảo mở ra ở chế độ <span class=\"ui\">Gõ chữ</span>. Hãy gõ bản dịch của bạn cho cả phần.",
+  "2f27795e51f7": "Nhấp vào <span class=\"ui\">Đặt số câu</span> và đặt mỗi số vào chỗ câu đó bắt đầu. Xem <a href=\"tr-place-verse-numbers\">Đặt số câu</a>.",
+  "9ff595806235": "Nhấp vào <span class=\"ui\">Lưu phần này</span>.",
+  "dd51008cfa25": "Để đóng trình soạn thảo mà không lưu, hãy nhấp vào <span class=\"ui\">Hủy</span>.",
+  "e8bd62ab6bae": "Trình soạn thảo cao bằng phân đoạn nguồn bên cạnh. Văn bản dài hơn sẽ cuộn bên trong ô. Để làm ô cao hơn, hãy kéo góc của ô.",
+  "a2c7feffadbe": "Để thay đổi một phần đã lưu, hãy nhấp lại vào nhãn <span class=\"ui\">Soạn nháp phần {span}</span> của phần đó. Nhấp vào văn bản đã lưu sẽ không mở trình soạn thảo.",
+  "13ec65ee89e4": "Bạn có thể tự gõ số câu: bắt đầu một dòng bằng số câu, ví dụ <code>5 no nos salvó…</code>.",
+  "96b5ba2eb54e": "Số câu đầu tiên của một phần luôn ở đầu phần.",
+  "216c556a0556": "Sau khi trình soạn thảo mở ra, hãy chờ một chút rồi mới gõ, và kiểm tra phần đầu văn bản trước khi lưu.",
+  "e6f7c7888349": "Khi một trình soạn thảo đang mở, không thể dùng nút chuyển <span class=\"ui\">Phần</span> / <span class=\"ui\">Câu</span>.",
+  "8113693e524a": "Số câu nào bạn để lại trong ô <span class=\"ui\">Cần đặt</span> sẽ được lưu thành một câu trống.",
+  "ac06415394d5": "Một hàng phần còn trống: TÍT 2:9–10 ở bên trái, và Soạn nháp phần 9–10 ở góc trên bên phải, được đánh số 1.",
+  "a85065e98273": "Trình soạn thảo phần đang mở bên cạnh văn bản nguồn của Tít 2:9–10: SOẠN BẢN NHÁP 9–10, với Gõ chữ được chọn, gợi ý Enter để xuống đoạn, Tab để ngắt dòng thơ, các câu 9 và 10 đã gõ, cùng Lưu phần này và Hủy. Thẻ này cao bằng phân đoạn nguồn bên cạnh."
+}

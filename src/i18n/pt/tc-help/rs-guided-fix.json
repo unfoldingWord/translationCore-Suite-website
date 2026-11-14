@@ -1,0 +1,13 @@
+{
+  "54fe55bdb262": "Corrigir um recurso ausente · Ajuda do translationCore 4",
+  "b480ad9d366e": "Isso costuma acontecer com um projeto importado ou copiado de outro computador. O cartão da ferramenta mostra <span class=\"ui\">Precisa ser baixado</span> ou <span class=\"ui\">Indisponível off-line</span>.",
+  "b91410d35d0d": "Em <span class=\"ui\">Verificar</span>, clique em <span class=\"ui\">Corrigir isto…</span> no cartão da ferramenta.",
+  "06f159e608c8": "Escolha uma opção:",
+  "9600fc54f60d": "<strong>1 · Baixar a versão fixada.</strong> Precisa da internet.",
+  "e7d4a21bf202": "<strong>2 · Usar uma versão instalada.</strong> Clique em uma versão, veja quantas decisões são mantidas e depois clique em <span class=\"ui\">Refixar</span>.",
+  "84e5e8fe0953": "<strong>3 · Instalar localmente a partir de um arquivo.</strong> Solte um zip de Scripture Burrito dessa versão exata.",
+  "610a3e20320c": "Para cancelar, clique em <span class=\"ui\">Fechar</span> ou no ✕. Nada muda.",
+  "3dcb2c8b44de": "Off-line, use a opção 2 ou 3, ou ative a internet. Veja <a href=\"rs-offline\">Trabalhar off-line</a>.",
+  "e6373a1d0492": "Uma ferramenta que não está pronta nunca bloqueia o resto do seu trabalho.",
+  "870406ae3c19": "Palavras de Tradução precisa de um recurso que não está neste computador. O projeto fixa es-419_twl · v18 para Tito. 1 · Baixar a versão fixada, com Baixar. 2 · Usar uma versão instalada: nenhuma outra versão de es-419_twl está instalada neste computador. 3 · Instalar localmente a partir de um arquivo, com uma área para soltar o zip. Fechar."
+}

@@ -1,0 +1,9 @@
+{
+  "ecfc708977e6": "Switch project or go back Home · translationCore 4 Help",
+  "fdcdcd76e3fc": "The top left always shows the project you have open, with its initials, name and language code.",
+  "35b12d46a060": "With a project open, click the project name at the top left. Its tooltip says <span class=\"ui\">Switch project</span>.",
+  "8fcfcb55f641": "Home opens. If you changed anything, tC4 saves a checkpoint as you leave.",
+  "97b1e2fff1e4": "Click a book or story tile in any project to open it.",
+  "8c84eb16c1b2": "To move to another book in the same project, you don't need Home: use the book list on the left of <span class=\"ui\">Translate</span> or <span class=\"ui\">Understand</span>. See <a href=\"bp-open-book\">Open a book and move between chapters</a>.",
+  "3b85d755e10f": "The left of the top bar: the translationCore logo and the project button with the initials ST, the name Sample Titus and the language code es."
+}

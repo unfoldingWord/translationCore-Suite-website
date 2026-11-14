@@ -1,0 +1,12 @@
+{
+  "144d61aa04df": "Atualizar as ajudas fixadas · Ajuda do translationCore 4",
+  "ecd3d1db71ca": "Um projeto mantém as versões exatas com que começou, para que as verificações fiquem estáveis. Atualizar é sempre uma escolha sua.",
+  "259052d9165e": "Cada conjunto mostra <span class=\"ui\">✓ Atualizado</span> ou \"Atualizar N recurso(s)\" com cada mudança, por exemplo <code>en_tn v86 → v91</code>.",
+  "b84f82f5c6bd": "Clique em \"Atualizar N recurso(s)\", leia a confirmação e clique em <span class=\"ui\">Atualizar</span>.",
+  "0be217637c39": "Para cancelar, clique em <span class=\"ui\">Manter o lançamento atual</span>.",
+  "b49d3f3e0d3c": "As decisões que correspondem a uma verificação na nova versão são mantidas. As demais voltam como trabalho a fazer. Nada é excluído.",
+  "c91781710cf1": "Um projeto novo já usa as ajudas que vêm com o aplicativo, então ele mostra <span class=\"ui\">✓ Atualizado</span>.",
+  "43e6b4d60747": "Um projeto que verifica em outro idioma mostra esse idioma como o conjunto principal e o inglês como alternativa.",
+  "55378d00e458": "O tC4 não procura atualizações sozinho.",
+  "c26d654cec50": "Depois de Verificar atualizações em um projeto feito com ajudas mais antigas: Conjunto principal · en e Conjunto alternativo · en oferecem, cada um, Atualizar 4 recurso(s), en_tn v86 → v91, en_tw v87 → v91, en_ta v86 → v91, en_tq v89 → v91. Textos bíblicos abaixo."
+}

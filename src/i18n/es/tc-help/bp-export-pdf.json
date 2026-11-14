@@ -1,0 +1,11 @@
+{
+  "4720b0d24d63": "Exportar un libro como PDF · Ayuda de translationCore 4",
+  "2798a01adbaa": "El nombre del archivo lleva el código del libro y la fecha de hoy.",
+  "296c22d5869b": "Opcional: ajuste la configuración de página (tamaño del papel, columnas, espaciado). Vea <a href=\"ck-community-checking\">Vista previa en Revisión comunitaria y configuración de página</a>.",
+  "2cab4f333825": "Haga clic en <span class=\"ui\">Exportar</span> (1) y luego en <span class=\"ui\">Exportar PDF</span> (2).",
+  "f12ec931faa5": "Los versículos sin redactar se imprimen como “[ versículo aún sin redactar ]”. Los capítulos sin redactar al principio o al final se omiten.",
+  "5febb95ab85f": "Si no hay nada redactado en el libro, tC4 lo indica y no crea ningún archivo.",
+  "7fb34b0c18d9": "El tamaño del papel y el espaciado no se recuerdan. Ajústelos cada vez.",
+  "86f68bd349db": "Las notas al pie todavía no se imprimen.",
+  "282716ae7eab": "Revisión comunitaria con el menú Exportar abierto. Exportar está marcado con 1, y Exportar PDF, la primera opción, con 2. Las otras opciones son USFM, alineado; USFM, sin alinear; y Scripture Burrito (.zip)."
+}

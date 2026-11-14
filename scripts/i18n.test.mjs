@@ -19,7 +19,7 @@ test('localizeLinks keeps in-copy links inside the locale, fragments included', 
   const s = '<a href="/desktop/#downloads">x</a> <a href="/">h</a> <a href="/license/">l</a> <a href="/tc-help/">t</a> <a href="https://x.org/">e</a>';
   assert.equal(
     localizeLinks(s, 'sw'),
-    '<a href="/sw/desktop/#downloads">x</a> <a href="/sw/">h</a> <a href="/license/">l</a> <a href="/tc-help/">t</a> <a href="https://x.org/">e</a>'
+    '<a href="/sw/desktop/#downloads">x</a> <a href="/sw/">h</a> <a href="/license/">l</a> <a href="/sw/tc-help/">t</a> <a href="https://x.org/">e</a>'
   );
   assert.equal(localizeLinks(s, 'en'), s);
 });

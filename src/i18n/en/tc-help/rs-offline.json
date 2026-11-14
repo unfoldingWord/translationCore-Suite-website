@@ -1,0 +1,16 @@
+{
+  "393d05508d24": "Working offline · translationCore 4 Help",
+  "d8bfb8b37fc5": "Everything you need to translate and check with the English helps comes with the app, and your projects stay on your computer.",
+  "c4c35b6853eb": "Work as usual. No internet is needed.",
+  "edea9ef59ef5": "When a step needs the internet, tC4 asks \"Turn on the internet?\". Click <span class=\"ui\">Turn on internet</span> (1), or <span class=\"ui\">Not now</span> to stay offline.",
+  "e733286320b0": "To turn the internet off again, click the round account button at the top right and switch off <span class=\"ui\">Use the internet</span> (1). Closing tC4 also turns it off.",
+  "3412a451d70b": "What needs the internet",
+  "566ac9959449": "<a href=\"rs-upgrade-helps\">Update pinned helps</a> and <a href=\"rs-upgrade-texts\">Update scripture texts</a>",
+  "2cd392e6b7c7": "Downloading a missing resource in <a href=\"rs-guided-fix\">Fix a missing resource</a>",
+  "91b2d9dfb331": "Signing in and sharing on Door43",
+  "9bc597905732": "Translating, checking, aligning, exporting and importing all work offline.",
+  "8140e4dc8fcb": "Nothing from your projects is sent when you turn the internet on for downloads.",
+  "33b717beaef2": "Keep regular backups of your projects folder. See <a href=\"st-where-projects-live\">Where your projects are stored</a>.",
+  "98787b2803eb": "The Turn on the internet? dialog: This step needs the internet to read the source texts Door43 offers and their versions. Nothing from your projects is sent. tC4 will use the internet until you turn it off in the account menu, or close tC4. Not now, and Turn on internet, marked 1.",
+  "f332176c6971": "The account menu: the Door43 account, Use the internet with its switch off (marked 1) and the line Off. A step that needs the internet asks first., Help and guides, App language, Report a problem, About translationCore."
+}

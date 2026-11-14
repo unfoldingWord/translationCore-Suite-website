@@ -1,0 +1,14 @@
+{
+  "f882d1692c25": "27/9/2026 — một nút + Thêm dự án trên Trang chủ · Trợ giúp translationCore 4",
+  "22889dff5dd5": "Trang chủ nay chỉ có một nút <span class=\"ui\">+ Thêm dự án</span> thay vì ba nút. Nút này mở một hộp thoại để bạn chọn Kinh Thánh mới, Open Bible Stories mới, hoặc nhập dự án. Tiêu đề của Trang chủ nay là <span class=\"ui\">Các dự án của bạn</span>.",
+  "7e4b91991b86": "Những gì đã thay đổi",
+  "0b05f77e4428": "Tiêu đề của Trang chủ nay là <span class=\"ui\">Các dự án của bạn</span> (trước đây là \"Your Bibles\").",
+  "58b1575818d7": "Một nút màu xanh <span class=\"ui\">+ Thêm dự án</span> thay thế các nút riêng cho Kinh Thánh mới, Open Bible Stories mới và nhập dự án.",
+  "f92b05182fa1": "<span class=\"ui\">+ Thêm dự án</span> mở một hộp thoại có ba thẻ: <span class=\"ui\">Kinh Thánh mới</span>, <span class=\"ui\">Open Bible Stories mới</span> và <span class=\"ui\">Nhập một dự án</span>. Xem <a href=\"gs-home\">Màn hình Trang chủ</a>.",
+  "56254fba4c31": "Mỗi thẻ mở cùng một biểu mẫu như trước: <a href=\"bp-new-bible\">Tạo dự án Kinh Thánh</a>, <a href=\"obs-create\">Bắt đầu dự án Open Bible Stories</a>, <a href=\"bp-import\">Nhập một dự án</a>.",
+  "180b65cd249f": "Bước 1 của việc nhập có nút <span class=\"ui\">← Quay lại</span> để trở về ba thẻ.",
+  "8dec9d8ba023": "Khi chưa có dự án nào, Trang chủ ghi \"Chưa có dự án nào. Chọn + Thêm dự án để bắt đầu.\"",
+  "80d5aaf1c8eb": "Bàn phím: phím Tab di chuyển qua các thẻ, Enter hoặc phím cách mở một thẻ, và Esc đóng hộp thoại.",
+  "24b8408d001b": "Sau khi một biểu mẫu đóng, tiêu điểm bàn phím không quay lại nút <span class=\"ui\">+ Thêm dự án</span>.",
+  "2c9c6bcf5f5f": "Biểu mẫu <span class=\"ui\">Kinh Thánh mới</span> có thể cao hơn một cửa sổ nhỏ. Hãy cuộn bên trong biểu mẫu để đến nút <span class=\"ui\">Tạo Kinh Thánh →</span>."
+}

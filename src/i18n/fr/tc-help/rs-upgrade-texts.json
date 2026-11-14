@@ -1,0 +1,11 @@
+{
+  "697a77e25d71": "Mettre à jour les textes bibliques · Aide de translationCore 4",
+  "7d304b628f19": "Regardez sous <span class=\"ui\">Textes bibliques</span>. Chaque texte qui a une version plus récente a sa propre ligne.",
+  "13cfc493d0b5": "Cliquez sur <span class=\"ui\">Mettre à niveau</span> sur une ligne, lisez la confirmation, puis confirmez.",
+  "c721d8228039": "Si tout est à jour, il est écrit <span class=\"ui\">✓ Tous les textes bibliques sont à jour</span>.",
+  "27e6e457e88b": "<strong>Bible passerelle :</strong> rien ne change dans votre travail. Le volet source affiche le nouveau texte.",
+  "22029a371600": "<strong>Texte grec ou hébreu :</strong> les alignements sont gardés, mais les versets concernés perdent leur marque de validité pour que vous puissiez les vérifier de nouveau. Voir <a href=\"al-mark-valid\">Marquer un alignement comme terminé</a>.",
+  "a87d9146c991": "Seuls les textes dont vos livres ont besoin sont proposés. Un projet du Nouveau Testament ne se voit jamais proposer le texte hébreu.",
+  "9fda5f68266e": "Enregistrez d’abord toute modification d’alignement en cours.",
+  "530420a6fe12": "La liste des textes bibliques après Rechercher des mises à jour : Texte en langue originale hbo_uhb v2.1.30 → v3.0.0, et Bible passerelle en_ult et en_ust v89 → v91, chacun avec Mettre à niveau."
+}

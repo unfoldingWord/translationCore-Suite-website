@@ -1,0 +1,16 @@
+{
+  "7a8acf688ca5": "La pantalla Traducir · Ayuda de translationCore 4",
+  "b5e20a3b5c23": "Cada fila pone una sección del texto fuente junto a su traducción de esa sección.",
+  "ccd3b0577ccf": "Abra un libro y luego haga clic en <span class=\"ui\">Traducir</span>, en la parte superior.",
+  "6eb73fcf4caa": "Elija el texto fuente con las pestañas que están encima: <span class=\"ui\">ULT</span> (literal), <span class=\"ui\">UST</span> (simplificado) o el idioma original (<span class=\"ui\">Griego</span> o <span class=\"ui\">Hebreo</span>). La línea debajo de las pestañas indica el nombre del texto y su versión.",
+  "cba9851fabf8": "Elija <span class=\"ui\">Sección</span> para redactar una sección completa a la vez, o <span class=\"ui\">Versículo</span> para redactar un versículo a la vez.",
+  "c7138b6f2ae2": "Haga clic en <span class=\"ui\">Redactar la sección</span> junto a la sección que quiere. Escriba el texto y luego use <span class=\"ui\">Ubicar los números de versículo</span>. Vea <a href=\"tr-draft-section\">Redactar una sección</a>.",
+  "6f6d5b88466d": "Haga clic en <span class=\"ui\">Guardar sección</span>. Para dejar la sección como estaba, haga clic en <span class=\"ui\">Cancelar</span>.",
+  "fb24ef6c8a86": "Hacer espacio",
+  "8c8975cae9b6": "El botón de la parte superior izquierda de la página muestra u oculta la lista de libros.",
+  "d034ae5cfc60": "En la parte superior derecha de la página, <span class=\"ui\">Mostrar u ocultar el panel de ayudas</span> muestra u oculta las ayudas. Arrastre el divisor vertical para cambiar el ancho del panel.",
+  "4d761027a250": "El panel de ayudas",
+  "ddbdbe454552": "El panel muestra ayuda para la sección en la que está trabajando: <span class=\"ui\">Notas</span>, <span class=\"ui\">Palabras</span>, <span class=\"ui\">Preguntas</span>, el texto simplificado (<span class=\"ui\">UST</span>) y los <span class=\"ui\">Comentarios</span> de Comprender. Haga clic en una tarjeta de ayuda y las palabras a las que se refiere se resaltan en el texto fuente. Vea <a href=\"tr-helps-panel\">El panel de ayudas en Traducir</a>.",
+  "2ac8369ebd1d": "Traducir recuerda si eligió <span class=\"ui\">Sección</span> o <span class=\"ui\">Versículo</span> en cada proyecto.",
+  "a17f0c7ae079": "La pantalla Traducir de Tito 1 con la sección 1–3 abierta para redactar. Las etiquetas señalan las pestañas de texto fuente (ULT, UST, griego), el selector de modos con Traducir seleccionado, el selector Sección o Versículo, las pestañas del panel de ayudas, el estado de guardado, los botones de capítulo, el pasaje fuente, los pasos de redacción (Escribir, Ubicar los números de versículo), Guardar sección, el botón Redactar la sección siguiente y una tarjeta de ayuda."
+}

@@ -1,0 +1,13 @@
+{
+  "4b6a6a014b40": "Saat penyimpanan gagal · Bantuan translationCore 4",
+  "747f2583a77a": "Indikator di kanan atas menampilkan <span class=\"ui\">Disimpan</span>, <span class=\"ui\">Menyimpan…</span>, <span class=\"ui\">Perubahan belum disimpan</span> atau <span class=\"ui\">Gagal menyimpan — coba lagi</span>.",
+  "e3580bd75749": "Jika Anda melihat <span class=\"ui\">Gagal menyimpan — coba lagi</span>, klik <span class=\"ui\">Coba lagi</span> sekali lalu tunggu.",
+  "2d40c64dbf9d": "Jika gagal lagi, tetaplah di layar itu. Berpindah ke mode lain mungkin ditolak sampai penyimpanan berhasil.",
+  "2fd17609c503": "Jika Anda mencoba menutup tC4 saat ada perubahan yang belum disimpan, aplikasi memperingatkan Anda. Tetaplah di sana, lalu coba <span class=\"ui\">Coba lagi</span> sekali lagi.",
+  "8e2daa28aeb0": "Jika terus gagal, catat pesannya dan minta bantuan.",
+  "893b07b094b5": "Mengklik <span class=\"ui\">Coba lagi</span> berkali-kali tidak membantu. Aplikasi mencoba satu kali setiap kalinya.",
+  "9e57e0b22b6f": "Dalam proyek yang diimpor, menulis teks pertama ke dalam ayat yang kosong bisa selalu gagal disimpan. Coba lagi tidak akan memperbaikinya. Salin teks Anda ke tempat yang aman sebelum menutup tC4, karena ayat itu akan kembali kosong. Membatalkan ayat seperti itu setelah mengetik bisa menampilkan pesan yang sama.",
+  "e5f60e2765f9": "<span class=\"ui\">← Semua alat pemeriksaan</span> tetap berfungsi saat ada masalah penyimpanan.",
+  "f7028df78512": "Jika pesan di bawah indikator penyimpanan bertuliskan <strong>Proyek ini telah disinkronkan, jadi aplikasi harus membukanya lagi</strong>, klik Beranda, buka proyek lagi, lalu buat lagi perubahan terakhir Anda. Dalam hal itu Coba lagi tidak akan membantu. Lihat <a href=\"ts-protect-messages\">Pesan yang melindungi proyek Anda</a>.",
+  "978fdc3be81d": "Indikator penyimpanan di kanan atas menampilkan Gagal menyimpan — coba lagi, dengan tombol Coba lagi."
+}

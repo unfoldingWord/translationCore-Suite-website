@@ -1,0 +1,9 @@
+{
+  "language": "Lugha",
+  "onThisPage": "Kwenye ukurasa huu",
+  "noResults": "Hakuna mada inayolingana na “{query}”. Jaribu neno jingine, kama oanisha, kagua, hadithi au intaneti.",
+  "seeAll": "Ona matokeo yote →",
+  "resultsOne": "Mada 1 kwa “{query}”",
+  "resultsMany": "Mada {count} kwa “{query}”",
+  "searchPrompt": "Andika neno moja au mawili, kama “oanisha”, “alama” au “kundi la mistari”."
+}

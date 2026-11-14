@@ -11,7 +11,10 @@
     "check:locales": "node scripts/check-locales.mjs",
     "check:routes": "node scripts/check-routes.mjs",
     "review": "node scripts/review-strings.mjs",
-    "test": "node --test scripts/*.test.mjs"
+    "test": "node --test scripts/*.test.mjs",
+    "tc-help:extract": "node scripts/tc-help-i18n.mjs extract",
+    "tc-help:todo": "node scripts/tc-help-i18n.mjs todo",
+    "tc-help:check": "node scripts/tc-help-i18n.mjs check"
   },
   "dependencies": {
     "astro": "^5.0.0"

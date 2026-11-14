@@ -1,0 +1,13 @@
+{
+  "a6b2052d66fa": "Onglets sources — textes passerelles et langue originale · Aide de translationCore 4",
+  "409e4552518f": "Votre traduction ne change pas quand vous changez d’onglet ; seule la colonne source change.",
+  "3dece7da8454": "Dans <span class=\"ui\">Traduire</span>, regardez les onglets au-dessus de la colonne source.",
+  "c999c767379e": "Cliquez sur <span class=\"ui\">ULT</span> (le texte littéral), <span class=\"ui\">UST</span> (le texte simplifié) ou <span class=\"ui\">Grec</span>. Un livre de l’Ancien Testament a <span class=\"ui\">Hébreu</span> à la place du grec.",
+  "db1b4818efb2": "La légende sous les onglets donne le nom du texte et sa version.",
+  "2ce85b8042c3": "Les sections suivent la source sélectionnée. Dans Tite 1, la ULT et la UST commencent par 1-3, alors que le grec montre tout le chapitre en 1-16.",
+  "252056729e99": "Les mots entre accolades, comme {and}, font partie du texte source. Ils signalent des mots ajoutés pour rendre le sens clair.",
+  "883201366f8a": "Certaines langues passerelles nomment autrement les deux premiers onglets, par exemple <span class=\"ui\">GLT</span> et <span class=\"ui\">GST</span>.",
+  "2e5e7739fb44": "Les mêmes onglets se trouvent dans <span class=\"ui\">Comprendre</span>.",
+  "fa9f82f61cc2": "S’il manque un texte, la colonne indique « Cette source n’est pas disponible pour ce livre. » Voir <a href=\"rs-source-texts\">Parcourir et télécharger des textes sources</a>.",
+  "a038d25e701e": "Le haut de Traduire sur Tite 1 avec l’onglet Grec sélectionné. Sa légende indique unfoldingWord Greek New Testament · v0.34 · épinglée. La source grecque montre TITE 1:1-16, et la colonne du brouillon montre Rédiger la section 1-16 à côté."
+}
