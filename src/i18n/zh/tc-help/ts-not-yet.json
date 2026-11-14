@@ -16,9 +16,9 @@
   "387ef0843443": "自动检查更新",
   "c33a1c0c16ff": "不可用。请使用 <span class=\"ui\">Check for updates</span>。请参阅<a href=\"rs-upgrade-helps\">更新固定版本的辅助资源</a>。",
   "5934a6ce0efc": "导入到已有的项目",
-  "f0b05c159b0d": "仅限 USFM 书卷，使用<a href=\"bp-add-book\">添加书卷 </a>› <span class=\"ui\">Add books from USFM files</span>。其他导入都会创建新项目。",
+  "f0b05c159b0d": "仅限 USFM 书卷，使用<a href=\"bp-add-book\">添加书卷</a> › <span class=\"ui\">Add books from USFM files</span>。其他导入都会创建新项目。",
   "fd6d0fde2d06": "从 Door43 打开项目、团队同步",
-  "218412ab8e16": "可用：<span class=\"ui\">+ Add a project</span>› <span class=\"ui\">Open a project from Door43</span>，然后使用 <span class=\"ui\">Sync with Door43</span>。请参阅<a href=\"ts-team-sync\">团队在多台电脑上协作</a>。",
+  "218412ab8e16": "可用：<span class=\"ui\">+ Add a project</span> › <span class=\"ui\">Open a project from Door43</span>，然后使用 <span class=\"ui\">Sync with Door43</span>。请参阅<a href=\"ts-team-sync\">团队在多台电脑上协作</a>。",
   "6c6eedace3d8": "从右向左书写的文字和复杂文字",
   "00040bab8a78": "可用"
 }

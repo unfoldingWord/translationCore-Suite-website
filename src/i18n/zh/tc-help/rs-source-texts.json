@@ -5,7 +5,7 @@
   "87c2a0c6f088": "选择 <span class=\"ui\">Book</span>（书卷）。",
   "619a3f60dc35": "查看 <span class=\"ui\">Package contents</span>（语言包内容）。点击一张卡片可以不下载它，再点击一次可以重新加入。",
   "b2d5c7505186": "点击 <span class=\"ui\">⇣ Download package</span>。当显示“✓ {book} · {language} is ready”（{book} · {language} 已就绪）时，点击 <span class=\"ui\">Close</span>。",
-  "8b9d01dac0a2": "下载语言包时，对话框底部会显示 <span class=\"ui\">Downloading…</span> 和正在获取的存储库，以及一个 <span class=\"ui\">Cancel</span> 按钮。即使你选择另一卷书，或返回语言列表，它们也会一直显示。点击 <span class=\"ui\">Cancel</span> 可以停止下载。",
+  "8b9d01dac0a2": "下载语言包时，对话框底部会显示 <span class=\"ui\">Downloading …</span> 和正在获取的存储库，以及一个 <span class=\"ui\">Cancel</span> 按钮。即使你选择另一卷书，或返回语言列表，它们也会一直显示。点击 <span class=\"ui\">Cancel</span> 可以停止下载。",
   "8b8f02c8633e": "要不下载就离开，请点击 <span class=\"ui\">Close</span> 或 ✕。关闭对话框不会停止已经开始的下载；再次打开 <span class=\"ui\">Get source texts</span> 可以查看或取消下载。",
   "2fc42d3c75b4": "对大多数通用语言来说，语言包除了 Translation Words 之外，还包括一个 <strong>Translation Words Links</strong> 存储库（<code>…_twl</code>）。请保持选中，以便检查功能完成安装。",
   "acf775b53543": "两行可能同名，例如两行 Français。名称下方的组织可以区分它们。",

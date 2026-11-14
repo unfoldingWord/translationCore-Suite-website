@@ -32,7 +32,7 @@
   "d59e994d2b56": "如果 Door43 上的 <code>format.json</code> 被删除或损坏，tC4 会放回这台电脑上的副本，提示消息会加上：<span class=\"ui\">A project file was deleted or damaged on Door43, so tC4 put your copy back.</span>（Door43 上有一个项目文件被删除或损坏，因此 tC4 放回了你的副本。）",
   "b663aaae15f0": "圣经项目和 Open Bible Stories 项目的打开和同步方式相同。",
   "3e0d08417bcc": "不要在电脑之间手动复制项目文件夹。为了保护项目，tC4 会拒绝打开这样的文件夹。",
-  "ea6c2a6fb28b": "Equipo Ejemplo—Tito y Jonás 的项目卡片，带有 ON DOOR43 徽章，显示 Shared at facilitator-zq/sample_burrito，有 Sync with Door43、Save or receive work by USB 和 Settings 按钮，以及约拿书和提多书两卷书。",
+  "ea6c2a6fb28b": "Equipo Ejemplo — Tito y Jonás 的项目卡片，带有 ON DOOR43 徽章，显示 Shared at facilitator-zq/sample_burrito，有 Sync with Door43、Save or receive work by USB 和 Settings 按钮，以及约拿书和提多书两卷书。",
   "0e3096ffb940": "Open a project from Door43 对话框：项目从 git.door43.org 打开，Door43 存储库为 facilitator-zq/sample_burrito，并说明 tC4 会先检查每个文件，然后才添加项目。按钮为 Cancel 和 Open project。",
   "9b0724b50f4e": "Turn on the internet? 对话框：这一步需要联网，以便从 Door43 获取项目的完整副本并检查其文件。不会发送你项目中的任何内容。按钮为 Not now 和 Turn on internet。",
   "0bbe5deba2f4": "打开过程中的对话框：正在下载此项目使用的 en_tn v91，此版本之后还剩 8 个版本，下方有进度条。可以点击 Cancel，Open project 按钮显示为 Opening…。",
