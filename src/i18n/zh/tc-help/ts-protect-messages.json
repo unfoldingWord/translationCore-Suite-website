@@ -36,7 +36,7 @@
   "acf48d627fb7": "“The app stopped to protect your project.”（应用已停止，以保护你的项目。）",
   "2bde3acc8553": "请寻求帮助。",
   "b4f03d963934": "“A pre-release version of translationCore pinned the Translation Words links…”（translationCore 的预发布版本固定了 Translation Words Links…）",
-  "b2d4cdbf234e": "请在此版本的 tC4 中重新创建项目。旧的链接列表固定无法使用。",
+  "b2d4cdbf234e": "请在此版本的 tC4 中重新创建项目。原先固定使用的 Links 版本引用已无法使用。",
   "2a112cc9cde3": "寻求帮助时，请记下代码，或给消息拍一张照片。",
   "df40f7731441": "红框下方的检查可能仍显示为绿色。请以红框为准：这个文件无法导入。",
   "d6c108f69ca8": "导入第 3 步（共 3 步）“Review what was found”（查看找到的内容），针对一个被截断的 translationCore 3 zip 文件。红框中写着 This file cannot be imported（无法导入此文件），titus-project.zip 不是完整的 zip 文件，代码为 import.damaged.truncated，并说明不会用此文件创建任何内容。下方有 ← Choose other files、Cancel，以及显示为灰色的 Import as a new Bible。"

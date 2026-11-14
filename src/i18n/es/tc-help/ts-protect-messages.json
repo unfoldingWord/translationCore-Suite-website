@@ -32,7 +32,7 @@
   "05fd819661d4": "\"La aplicación no pudo imprimir el PDF…\"",
   "029c20cd22b2": "Cierre tC4, ábralo de nuevo y vuelva a exportar. Para las historias, inténtelo con <span class=\"ui\">Imágenes</span> desactivado.",
   "e84292b751a0": "\"Este proyecto se sincronizó, así que la aplicación debe abrirlo de nuevo.\"",
-  "ff0ccbc7450f": "Una sincronización cambió el proyecto mientras estaba abierto. Haga clic en Inicio, abra el proyecto de nuevo y vuelva a hacer su último cambio. Inicio se cierra con un solo clic aunque ese guardado no haya terminado.",
+  "ff0ccbc7450f": "Una sincronización cambió el proyecto mientras estaba abierto. Haga clic en Inicio, abra el proyecto de nuevo y vuelva a hacer su último cambio. Un clic en Inicio cierra el proyecto y lo lleva de vuelta a Inicio, aunque ese guardado no haya terminado.",
   "acf48d627fb7": "\"La aplicación se detuvo para proteger tu proyecto.\"",
   "2bde3acc8553": "Pida ayuda.",
   "b4f03d963934": "\"Una versión preliminar de translationCore fijó los enlaces de Palabras de traducción…\"",
