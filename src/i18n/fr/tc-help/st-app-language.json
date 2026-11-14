@@ -1,0 +1,20 @@
+{
+  "1587bac57159": "Changer la langue de l’application · Aide de translationCore 4",
+  "17845592efa5": "Choisissez la langue des boutons, des menus et des messages de tC4. Tant que vous n’en avez pas choisi une, tC4 suit la langue de cet ordinateur ; une fois votre choix fait, il le garde.",
+  "45563e5c8a97": "Votre traduction et vos projets ne changent pas.",
+  "ee049a6941eb": "Cliquez sur l’icône ronde de personne en haut à droite (1), puis sur <span class=\"ui\">Langue de l’application</span> (2). Le menu est le même sur l’accueil et dans un projet.",
+  "dc7b6c5db74e": "Cliquez sur la zone <span class=\"ui\">Langue</span> et choisissez une langue.",
+  "3727c4ee54ba": "Toute l’application passe tout de suite à cette langue : vous voyez ainsi à quoi elle ressemble avant de décider.",
+  "11954b3e0c6e": "Cliquez sur <span class=\"ui\">Appliquer</span> pour la garder. En espagnol, le bouton s’appelle <span class=\"ui\">Aplicar</span>.",
+  "c83abfae8b10": "Pour revenir à la langue que vous aviez, cliquez plutôt sur <span class=\"ui\">Annuler</span> ou sur ✕. translationCore retient votre choix pour la prochaine ouverture.",
+  "73cdc5d82a85": "Ce qui change et ce qui ne change pas",
+  "f321bc45749b": "Ce qui change : les menus, les boutons, les étiquettes et les fenêtres, comme <span class=\"ui\">Comprendre</span>, <span class=\"ui\">Traduire</span> et <span class=\"ui\">Vérifier</span> en haut d’un projet.",
+  "2b6bca26ac47": "Ce qui ne change pas : votre traduction, les textes sources (comme la ULT) et les aides à la traduction (notes, mots et questions). Ils restent dans la langue dans laquelle ils ont été écrits. Pour choisir la langue des aides à la vérification, voir <a href=\"rs-checking-language\">Langue de vérification</a>.",
+  "029f491d3863": "Les langues de la liste",
+  "22afbdc189d0": "English, Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский et Tiếng Việt. Les quatre premières sont arrivées avec <a href=\"https://github.com/unfoldingWord/translationCore4/issues/522\">#522</a> ; les cinq suivantes avec <a href=\"https://github.com/unfoldingWord/translationCore4/issues/622\">#622</a>.",
+  "aa3bf50cfe0b": "Retrouver l’anglais",
+  "d3f81c8b784c": "Si vous ne savez pas lire la langue affichée, l’icône de personne est toujours en haut à droite, et <span class=\"ui\">Langue de l’application</span> se trouve dans le menu du compte (après Aide et guides). English est toujours en premier dans la liste.",
+  "54513425bd7d": "Le menu du compte, ouvert avec une connexion à Door43 : le nom du compte Door43, Utiliser Internet (activé), Aide et guides, Langue de l’application (English), Signaler un problème, À propos de translationCore et Se déconnecter de Door43. Le badge 1 est sur l’icône ronde de personne en haut à droite. Le badge 2 est sur Langue de l’application.",
+  "171294dd60a6": "La fenêtre Langue de l’application avec la liste Langue ouverte : English (coché), Español (Latinoamérica), Français, हिन्दी, Português (Brasil), Bahasa Indonesia, Українська, Русский et Tiếng Việt.",
+  "e58555e59c08": "L’accueil derrière la fenêtre Langue de l’application après le choix d’Español (Latinoamérica). Tout l’écran est déjà passé en espagnol, et les boutons de la fenêtre indiquent maintenant Cancelar et Aplicar."
+}

@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Pratinjau Pemeriksaan Komunitas · Bantuan translationCore 4",
+  "32f4bed68332": "Gunakan untuk membaca kitab secara utuh, atau untuk membacakannya dengan suara keras bersama komunitas Anda.",
+  "f407ab1cd68e": "Pratinjau dan ekspor",
+  "dcc507361ac5": "Klik <span class=\"ui\">Periksa</span>, lalu <span class=\"ui\">Buka →</span> pada kartu <span class=\"ui\">Pemeriksaan Komunitas</span>.",
+  "95eb586f7dfe": "Gulir pratinjaunya. Ayat yang belum didraf tampil sebagai \"[ ayat belum didraf ]\".",
+  "f283b735ac27": "Di <span class=\"ui\">Tata letak halaman</span>, pilih <span class=\"ui\">Kolom</span> (1 atau 2), <span class=\"ui\">Spasi</span> (<span class=\"ui\">Tunggal</span> atau <span class=\"ui\">Ganda</span>), dan <span class=\"ui\">Ukuran kertas</span> (<span class=\"ui\">A4</span> atau <span class=\"ui\">Letter</span>). Nyalakan atau matikan <span class=\"ui\">Huruf awal besar (drop-cap) pasal</span> dan <span class=\"ui\">Nomor ayat</span>.",
+  "66a07da4a05a": "Klik <span class=\"ui\">Ekspor</span> untuk menyimpan salinan. Lihat <a href=\"bp-export-pdf\">Mengekspor kitab sebagai PDF</a>, <a href=\"bp-export-usfm\">Mengekspor kitab sebagai USFM</a>, dan <a href=\"bp-export-burrito\">Mengekspor proyek sebagai Scripture Burrito</a>.",
+  "a95f2176183a": "Untuk kembali, klik <span class=\"ui\">← Semua alat pemeriksaan</span>.",
+  "d80f07c55306": "Spasi <span class=\"ui\">Ganda</span> memberi ruang bagi peninjau untuk menulis di antara baris.",
+  "e161f48410c3": "Tata letak halaman hanya mengubah pratinjau dan hasil ekspor, bukan terjemahan Anda.",
+  "1913f785b5a4": "Saat <span class=\"ui\">Huruf awal besar (drop-cap) pasal</span> menyala, nomor pasal yang besar mengawali ayat 1, sehingga ayat 1 tidak memiliki nomor kecil sendiri. Matikan pengaturan itu untuk menampilkannya.",
+  "df1ceace7eba": "translationCore tidak menyimpan tata letak halaman saat Anda meninggalkan layar ini. Atur lagi sebelum Anda mengekspor.",
+  "d19d1de53268": "<span class=\"ui\">Catatan kaki</span> tampil abu-abu dan belum dapat dinyalakan.",
+  "79ce1f17e1a6": "Pemeriksaan Komunitas untuk Titus. Label menunjuk ke nomor pasal yang besar (drop cap) tanpa nomor ayat 1 kecil di sampingnya, judul kitab, Semua alat pemeriksaan, Ekspor, pratinjau halaman, ayat-ayat yang belum didraf, Tata letak halaman, dan catatan Draf belum lengkap."
+}

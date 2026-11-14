@@ -1,0 +1,10 @@
+{
+  "477a2177da05": "Escribir un comentario de revisión · Ayuda de translationCore 4",
+  "5c84068ecc6a": "Úselo para anotar por qué decidió algo, o una pregunta para un consultor.",
+  "f5d2ad61cdd4": "En una herramienta de revisión, haga clic en <span class=\"ui\">✎ Agregar un comentario</span>.",
+  "76f4ae1c1a1e": "Escriba su nota en el cuadro <span class=\"ui\">Mi comentario sobre esta revisión</span>.",
+  "a637ffd12deb": "Haga clic en <span class=\"ui\">Listo</span>. El elemento tiene un ✎ en la lista y se cuenta en el filtro <span class=\"ui\">Comentados</span>.",
+  "eeea49f682bc": "Para cerrar el cuadro sin cambios, haga clic en <span class=\"ui\">Ocultar comentario</span>. Para quitar un comentario, haga clic en <span class=\"ui\">Eliminar comentario</span>.",
+  "de74e8024a35": "Los comentarios de revisión se pueden borrar; los comentarios de <span class=\"ui\">Comprender</span> no. Vea <a href=\"un-user-comments\">Escribir un comentario de usuario</a>.",
+  "46cc700d8522": "Un elemento de revisión con su cuadro de comentario abierto: el botón ahora dice Ocultar comentario, el cuadro se titula Mi comentario sobre esta revisión y pide Di qué decidiste, o qué preguntarle a tu equipo sobre esta revisión. Debajo están Listo y Eliminar comentario."
+}

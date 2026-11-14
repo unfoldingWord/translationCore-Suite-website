@@ -1,0 +1,18 @@
+{
+  "cf6395dc9a05": "Elegir una herramienta de revisión · Ayuda de translationCore 4",
+  "5aab95d571be": "Cada herramienta de revisión lo lleva una vez por todo el libro, un elemento a la vez. translationCore recuerda su lugar en cada herramienta.",
+  "0e70b0e894cc": "Abrir una herramienta",
+  "edfdb403ebaa": "Abra un libro y luego haga clic en <span class=\"ui\">Revisar</span>, en la parte superior.",
+  "e1de982504aa": "Mire las tarjetas. Cada una muestra cuántos elementos están resueltos y cuál sigue.",
+  "f0d077c72286": "Haga clic en <span class=\"ui\">Empezar a revisar →</span> en la tarjeta que quiere, o en <span class=\"ui\">Continuar →</span> si ya empezó. En Revisión comunitaria el enlace es <span class=\"ui\">Abrir →</span>.",
+  "7843b655da84": "Para volver a esta lista, haga clic en <span class=\"ui\">← Todas las herramientas de revisión</span>, arriba a la izquierda de la herramienta.",
+  "d78a20319fa6": "La próxima vez que haga clic en <span class=\"ui\">Revisar</span>, translationCore abrirá la última herramienta de revisión que usó.",
+  "3a1d2391f3d2": "Las herramientas",
+  "edf95aa147b6": "<a href=\"ck-translation-words\">Palabras de traducción</a>: los términos clave, uno a la vez.",
+  "a159c17f8077": "<a href=\"ck-translation-notes\">Notas de traducción</a>: los lugares que señala una nota de traducción.",
+  "8bfdd2ed6811": "<a href=\"al-open\">Alinear</a>: enlace sus palabras con el idioma original. Esta tarjeta cuenta los versículos redactados, así que un libro sin nada redactado dice <span class=\"ui\">Aún no hay elementos en este libro</span>.",
+  "7def275b185b": "<a href=\"ck-community-checking\">Revisión comunitaria</a>: lea todo el libro como una página impresa y expórtelo para los revisores.",
+  "fa2c72678197": "Un proyecto de historias no tiene la tarjeta Alinear.",
+  "d228c7b705aa": "Si una tarjeta dice <span class=\"ui\">Necesita descargarse</span> o <span class=\"ui\">No disponible sin conexión</span>, haga clic en <span class=\"ui\">Resolver esto…</span>. Vea <a href=\"rs-guided-fix\">Resolver un recurso faltante</a>. Las otras herramientas siguen funcionando mientras lo resuelve.",
+  "b756c9f3a838": "<strong>Nota:</strong> Solo se pueden revisar los versículos redactados. Primero redacte y luego vuelva."
+}

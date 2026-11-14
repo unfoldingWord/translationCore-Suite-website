@@ -1,0 +1,13 @@
+{
+  "01a53e588c40": "Ghi chú dịch thuật và bài viết Học viện dịch thuật · Trợ giúp translationCore 4",
+  "0671ee584d38": "Nhiều ghi chú liên kết đến một bài viết Học viện dịch thuật, là một bài học ngắn về một vấn đề dịch thuật như ẩn dụ hoặc danh từ trừu tượng.",
+  "d1a1a2a4e8d2": "Trong <span class=\"ui\">Thấu hiểu</span>, nhấp vào một phần để chọn phần đó.",
+  "f568ce10b811": "Trong bảng trợ giúp, nhấp <span class=\"ui\">Ghi chú</span>. Ghi chú được nhóm dưới các tiêu đề như <span class=\"ui\">GIỚI THIỆU</span> và <span class=\"ui\">CÂU 1</span>. Trỏ chuột vào một thẻ để tô sáng cụm từ của thẻ đó trong phân đoạn.",
+  "df79ebb34868": "Nhấp vào liên kết bài viết trên một ghi chú — liên kết này ghi đúng tên bài viết Học viện dịch thuật, ví dụ <span class=\"ui\">Abstract Nouns →</span>. Bài viết mở ra bên dưới các ghi chú, có nút đóng.",
+  "eccd45ba7618": "Phần giới thiệu chương nằm dưới <span class=\"ui\">GIỚI THIỆU</span>. Nhấp <span class=\"ui\">Hiển thị thêm</span> để đọc toàn bộ.",
+  "25dad734607e": "Ghi chú được hiển thị bằng ngôn ngữ kiểm tra của dự án. Nếu bạn thấy \"Hiển thị từ phương án dự phòng tiếng Anh\", nghĩa là ghi chú bằng ngôn ngữ đó không có trên máy tính này, nên ghi chú tiếng Anh được hiển thị. Xem <a href=\"rs-checking-language\">Đổi ngôn ngữ kiểm tra</a>.",
+  "2decfe0af6a1": "Liên kết bài viết ghi đúng tên bài viết Học viện dịch thuật (ví dụ <span class=\"ui\">Abstract Nouns →</span>), chứ không phải nhãn chung chung <span class=\"ui\">Học viện dịch thuật →</span>.",
+  "75ae79166212": "Nếu thiếu một bài viết, bảng sẽ ghi \"Các tài nguyên đã ghim không chứa bài viết cho mục kiểm tra này.\" Ghi chú vẫn được hiển thị.",
+  "5fa1648a1e84": "Cũng những ghi chú này trở thành các mục kiểm tra trong <a href=\"ck-translation-notes\">Kiểm tra với Ghi chú dịch thuật</a>.",
+  "76e2d8ec0e70": "Thẻ Ghi chú trong chế độ Thấu hiểu ở Tít 1. Ghi chú được nhóm dưới GIỚI THIỆU và CÂU 1. Liên kết bài viết dùng tên thật, như Abstract Nouns →. Không có nhãn NOTE."
+}

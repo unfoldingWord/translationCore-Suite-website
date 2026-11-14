@@ -1,0 +1,16 @@
+{
+  "2cb8183fcd0b": "Revisar con Palabras de traducción · Ayuda de translationCore 4",
+  "f8b008126386": "Úsela para asegurarse de que cada término esté bien traducido, y de la misma manera en todos los lugares donde aparece.",
+  "89604295b1b7": "Revisar un término",
+  "50bd5b9f5db9": "Haga clic en <span class=\"ui\">Revisar</span> y luego en <span class=\"ui\">Empezar a revisar →</span> en la tarjeta <span class=\"ui\">Palabras de traducción</span>.",
+  "cdd56a2b7b1c": "Lea el término en la parte superior. Aparece resaltado en las tarjetas de la fuente: el idioma original, el texto literal en el idioma puente y el texto simplificado (UST o GST). Haga clic en <span class=\"ui\">Más información</span> para leer lo que significa. El artículo se abre en un panel a la derecha. Ciérrelo con ✕.",
+  "d54a05521846": "Debajo de <span class=\"ui\">Tu traducción</span>, toque la palabra o las palabras que traducen el término resaltado.",
+  "737aba652a84": "Para terminar, haga clic en <span class=\"ui\">← Volver a traducir</span>, abajo a la izquierda. La próxima vez, <span class=\"ui\">Revisar</span> abre Palabras de traducción donde lo dejó.",
+  "05e33bb36d32": "<span class=\"ui\">Ordenar</span> <span class=\"ui\">Por palabra</span> junta todos los lugares donde se usa un término, para que vea si tradujo “gracia” de la misma manera cada vez. <span class=\"ui\">Por versículo</span> recorre el libro en orden.",
+  "0614c935d23a": "<span class=\"ui\">⚑ Marcar</span> pone un marcador en un elemento para volver a él. <span class=\"ui\">✎ Agregar un comentario</span> deja una nota para su equipo. Vea <a href=\"ck-bookmarks\">Poner un marcador en una revisión</a> y <a href=\"ck-comments\">Escribir un comentario de revisión</a>.",
+  "778d734f3abb": "<strong>Nota:</strong> Un versículo que todavía no está redactado no se puede revisar. Primero redáctelo en Traducir.",
+  "1dbb172a6232": "La lista de revisión viene de una versión de <strong>Enlaces de palabras de traducción</strong> (para el inglés, <code>en_twl</code>, que viene con la aplicación). Los artículos vienen de <strong>Palabras de traducción</strong> (<code>en_tw</code>).",
+  "af2e13e3bbd7": "Algunos libros todavía no tienen revisión de Palabras de traducción (por ejemplo Ezequiel), hasta que una versión de los Enlaces los incluya.",
+  "815d4cf3dd27": "Si un enlace apunta a un artículo que su idioma de revisión no tiene, ese elemento se oculta y no cuenta en el progreso.",
+  "69c53fbb8fa4": "Palabras de traducción para Tito, elemento 1 de 182: “Paul” en Tito 1:1. Las etiquetas señalan Todas las herramientas de revisión, los filtros, la palabra, Más información, el griego, el texto literal en el idioma puente, el texto simplificado (UST), Volver a traducir, la lista de revisión agrupada por palabra, su decisión, Anterior y Siguiente, Tu traducción y Agregar un comentario."
+}

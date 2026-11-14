@@ -1,0 +1,14 @@
+{
+  "a468001b6df7": "تصدير القصص بصيغة PDF أو Markdown · مساعدة translationCore 4",
+  "0f29d9d6694a": "<strong>تصدير PDF:</strong> نسخة للقراءة للمراجعين، مع الصور أو بدونها.",
+  "9bf5238223e9": "<strong>قصص بصيغة Markdown (.zip):</strong> ملفات القصص لأدوات Open Bible Stories الأخرى.",
+  "24350718eb1d": "<strong>Scripture Burrito (.zip):</strong> المشروع كاملًا. راجع <a href=\"bp-export-burrito\">تصدير مشروع بصيغة Scripture Burrito</a>.",
+  "ee25f850300e": "افتح قصة وانقر على <span class=\"ui\">مراجعة</span>، ثم <span class=\"ui\">فتح →</span> في <span class=\"ui\">مراجعة المجتمع</span>.",
+  "cd1b84c31406": "اختياري: اختر التخطيط والصور. راجع <a href=\"obs-community-checking\">معاينة القصة وتصديرها</a>.",
+  "f882c57168b5": "انقر على <span class=\"ui\">تصدير</span> (1)، ثم اختر صيغة (2).",
+  "cbe483bf884a": "صُغ العنوان أو إطارًا واحدًا على الأقل قبل أن تصدّر ملف PDF.",
+  "c02654738f7c": "لحفظ ملف PDF ثانٍ بتخطيط آخر، غيّر التخطيط، وصدّر مرة أخرى، وأعطه اسمًا جديدًا.",
+  "b6f55effd7d7": "إذا رأيت «تعذر على التطبيق طباعة ملف PDF مع صوره…»، فأوقف <span class=\"ui\">الصور</span> وصدّر مرة أخرى.",
+  "8aec4a792c94": "على Linux، تُفتح نافذة الحفظ في مجلد <strong>Downloads</strong> (التنزيلات). إذا لم ترَ أزرارها، فاضغط <strong>Enter</strong> للحفظ أو <strong>Esc</strong> للإلغاء.",
+  "81c4c63c64df": "مراجعة المجتمع لقصة مع قائمة التصدير مفتوحة. زر تصدير عليه الرقم 1. والقائمة، وعليها الرقم 2، فيها تصدير PDF، وقصص بصيغة Markdown (.zip)، وScripture Burrito (.zip)."
+}

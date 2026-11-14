@@ -32,7 +32,7 @@
   "0b5bb0efbb71": "O banco de palavras sempre corresponde ao texto atual do versículo, e um clique em um cartão posiciona apenas as palavras mostradas como selecionadas. Veja <a href=\"al-link-words\">Ligar suas palavras à fonte</a>.",
   "c0827594b1ce": "Uma ligação fica na sua palavra quando você edita o versículo. Apagar uma palavra ligada remove a ligação dela. Uma mudança que deixa incerto qual cópia de uma palavra repetida você manteve marca o versículo para revisão. Veja <a href=\"tr-edit-after-check\">Editar um versículo que você já verificou ou alinhou</a>.",
   "87abbdb721f2": "Uma única regra decide quais alinhamentos precisam de revisão, para a lista de versículos, o aviso, ✓ Marcar como válido, a importação do translationCore 3 e a exportação alinhada.",
-  "dc9ba75f43c5": "Os cartões de fonte seguem o texto no idioma original do seu projeto, como no translationCore 3.",
+  "dc9ba75f43c5": "Os cartões de fonte seguem o texto na língua original do seu projeto, como no translationCore 3.",
   "0a4202f32c33": "Versículos importados com alinhamentos são mantidos como foram importados e mostram \"Este versículo já tem um alinhamento\". Veja <a href=\"al-open\">Abrir a ferramenta Alinhar</a>.",
   "3478d88173fb": "As sugestões usam as mesmas palavras do banco de palavras e funcionam melhor para o hebraico.",
   "d3d1489fd4c6": "<strong>USFM, alinhado</strong> informa cada versículo cujo alinhamento precisa de revisão e que não está no arquivo: \"Seu alinhamento destes versículos não está no arquivo\". Veja <a href=\"bp-export-usfm\">Exportar um livro em USFM</a>.",

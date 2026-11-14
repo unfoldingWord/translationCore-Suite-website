@@ -1,0 +1,12 @@
+{
+  "e4359c86424d": "Onde seus projetos ficam guardados · Ajuda do translationCore 4",
+  "3eab40f3847e": "\"Apenas neste computador\" (1) no cartão de um projeto quer dizer que o projeto está guardado só nesta pasta.",
+  "30baa24967e0": "Pasta",
+  "02c7ab4c886a": "Fazer backup dos seus projetos",
+  "1a3b4a6ebb72": "Feche o tC4.",
+  "e025bbb3943b": "Copie a pasta <code>tc4-projects</code> inteira para um pendrive ou outro lugar de backup.",
+  "9aba78ed16f6": "Desinstalar o tC4 mantém seus projetos.",
+  "103374590ee0": "Para levar um projeto para outro computador, use <span class=\"ui\">Salvar ou receber trabalho por USB</span>, ou <a href=\"bp-export-burrito\">exporte um Scripture Burrito</a> e abra-o lá com <span class=\"ui\">+ Adicionar um projeto</span> › <span class=\"ui\">Receber trabalho de um arquivo</span>. Isso é mais seguro do que copiar pastas.",
+  "a667363ac5b9": "Não mude arquivos na pasta enquanto o tC4 estiver aberto. O tC4 percebe e para, para proteger o projeto. Veja <a href=\"ts-protect-messages\">Mensagens que protegem seu projeto</a>.",
+  "05aa89ccda13": "O cartão de um projeto da Bíblia no Início. A linha es-419 · 2 livros · 2 em andamento · Apenas neste computador está marcada com 1. Compartilhar no Door43, Salvar ou receber trabalho por USB e Configurações ficam à direita."
+}

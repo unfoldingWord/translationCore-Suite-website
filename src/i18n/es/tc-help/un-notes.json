@@ -1,0 +1,13 @@
+{
+  "01a53e588c40": "Notas de traducción y artículos de la Academia de traducción · Ayuda de translationCore 4",
+  "0671ee584d38": "Muchas notas enlazan a un artículo de la Academia de traducción, una lección corta sobre un tema de traducción, como las metáforas o los sustantivos abstractos.",
+  "d1a1a2a4e8d2": "En <span class=\"ui\">Comprender</span>, haga clic en una sección para seleccionarla.",
+  "f568ce10b811": "En el panel de ayudas, haga clic en <span class=\"ui\">Notas</span>. Las notas se agrupan bajo encabezados como <span class=\"ui\">INTRODUCCIÓN</span> y <span class=\"ui\">VERSÍCULO 1</span>. Ponga el puntero sobre una tarjeta para resaltar su frase en el pasaje.",
+  "df79ebb34868": "Haga clic en el enlace al artículo de una nota: nombra el artículo real de la Academia de traducción, por ejemplo <span class=\"ui\">Abstract Nouns →</span>. El artículo se abre debajo de las notas con un control para cerrarlo.",
+  "eccd45ba7618": "La introducción del capítulo está bajo <span class=\"ui\">INTRODUCCIÓN</span>. Haga clic en <span class=\"ui\">Mostrar más</span> para leerla completa.",
+  "25dad734607e": "Las notas están en el idioma de revisión del proyecto. Si ve \"Mostrado desde el respaldo en inglés\", las notas en ese idioma no están en esta computadora, así que se muestran las notas en inglés. Vea <a href=\"rs-checking-language\">Cambiar el idioma de revisión</a>.",
+  "2decfe0af6a1": "Los enlaces a artículos nombran el propio artículo de la Academia de traducción (por ejemplo <span class=\"ui\">Abstract Nouns →</span>), no una etiqueta genérica <span class=\"ui\">Academia de traducción →</span>.",
+  "75ae79166212": "Si falta un artículo, el panel dice \"Los recursos fijados no traen el artículo de esta revisión.\" La nota se sigue mostrando.",
+  "5fa1648a1e84": "Las mismas notas se convierten en elementos de revisión en <a href=\"ck-translation-notes\">Revisar con Notas de traducción</a>.",
+  "76e2d8ec0e70": "La pestaña Notas en Comprender, en Tito 1. Las notas se agrupan bajo INTRODUCCIÓN y VERSÍCULO 1. Los enlaces a artículos usan el nombre real, como Abstract Nouns →. No hay etiquetas NOTA."
+}

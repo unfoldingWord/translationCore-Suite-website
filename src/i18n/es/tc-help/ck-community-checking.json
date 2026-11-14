@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Vista previa en Revisión comunitaria · Ayuda de translationCore 4",
+  "32f4bed68332": "Úsela para leer el libro completo, o para leerlo en voz alta con su comunidad.",
+  "f407ab1cd68e": "Vista previa y exportación",
+  "dcc507361ac5": "Haga clic en <span class=\"ui\">Revisar</span> y luego en <span class=\"ui\">Abrir →</span> en la tarjeta <span class=\"ui\">Revisión comunitaria</span>.",
+  "95eb586f7dfe": "Desplácese por la vista previa. Los versículos que todavía no están redactados aparecen como “[ versículo aún sin redactar ]”.",
+  "f283b735ac27": "En <span class=\"ui\">Configurar página</span>, elija <span class=\"ui\">Columnas</span> (1 o 2), <span class=\"ui\">Espaciado</span> (<span class=\"ui\">Sencillo</span> o <span class=\"ui\">Doble</span>) y <span class=\"ui\">Tamaño del papel</span> (<span class=\"ui\">A4</span> o <span class=\"ui\">Carta</span>). Active o desactive <span class=\"ui\">Capítulos con letra capital</span> y <span class=\"ui\">Números de versículo</span>.",
+  "66a07da4a05a": "Haga clic en <span class=\"ui\">Exportar</span> para guardar una copia. Vea <a href=\"bp-export-pdf\">Exportar un libro como PDF</a>, <a href=\"bp-export-usfm\">Exportar un libro como USFM</a> y <a href=\"bp-export-burrito\">Exportar un proyecto como Scripture Burrito</a>.",
+  "a95f2176183a": "Para volver, haga clic en <span class=\"ui\">← Todas las herramientas de revisión</span>.",
+  "d80f07c55306": "El espaciado <span class=\"ui\">Doble</span> deja espacio para que los revisores escriban entre líneas.",
+  "e161f48410c3": "La configuración de página cambia solo la vista previa y la exportación, no su traducción.",
+  "1913f785b5a4": "Con <span class=\"ui\">Capítulos con letra capital</span> activado, el número grande del capítulo empieza el versículo 1, así que el versículo 1 no tiene su propio número pequeño. Desactive la letra capital para mostrarlo.",
+  "df1ceace7eba": "translationCore no conserva la configuración de página cuando sale de esta pantalla. Vuelva a ajustarla antes de exportar.",
+  "d19d1de53268": "<span class=\"ui\">Notas al pie</span> aparece en gris y todavía no se puede activar.",
+  "79ce1f17e1a6": "Revisión comunitaria para Tito. Las etiquetas señalan el número grande del capítulo (letra capital) sin un número 1 pequeño de versículo a su lado, el título del libro, Todas las herramientas de revisión, Exportar, la vista previa de la página, los versículos aún sin redactar, Configurar página y la nota Borrador incompleto."
+}
