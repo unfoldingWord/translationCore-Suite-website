@@ -1,0 +1,9 @@
+{
+  "language": "Taal",
+  "onThisPage": "Op deze pagina",
+  "noResults": "Geen onderwerpen gevonden voor “{query}”. Probeer een ander woord, zoals uitlijnen, controleren, verhaal of offline.",
+  "seeAll": "Alle resultaten bekijken →",
+  "resultsOne": "1 onderwerp voor “{query}”",
+  "resultsMany": "{count} onderwerpen voor “{query}”",
+  "searchPrompt": "Typ een of twee woorden, zoals “uitlijnen”, “bladwijzer” of “versgroep”."
+}

@@ -1,5 +1,5 @@
 {
-  "0a68ae08fec4": "Tandai penyelarasan selesai · Bantuan translationCore 4",
+  "0a68ae08fec4": "Menandai penyelarasan selesai · Bantuan translationCore 4",
   "713d1218f9a9": "Setelah sebuah ayat diselaraskan, tandai ayat itu valid. Ayat itu dihitung dalam kemajuan ayat yang diselaraskan. Anda juga dapat mengembalikan setiap kata yang sudah ditempatkan pada ayat itu ke bank kata.",
   "73920c43d088": "Artinya \"penyelarasan ayat ini sudah selesai\", meskipun beberapa kata tetap di bank kata.",
   "b0a4929a4563": "Selesaikan penautan kata-kata dalam ayat, lalu konfirmasi atau tolak setiap saran.",
@@ -10,8 +10,8 @@
   "1253bfd93fb0": "Konfirmasi pada dialog, misalnya <span class=\"ui\">Hapus penjajaran Titus 1:1?</span> Dialog itu menyebutkan berapa kata yang sudah ditempatkan akan kembali ke bank kata, dan bahwa setiap kartu tetap memuat kata aslinya.",
   "f7341b652e2a": "Setelah dihapus, kata-kata yang sudah ditempatkan kembali ke bank kata sebagai kartu terpisah, dan <span class=\"ui\">Hapus penjajaran</span> berwarna abu-abu sampai Anda menempatkan kata lagi.",
   "96a2f18d2c9b": "Hitungan di bagian atas daftar (\"0 dari 9 ayat diselaraskan\") bertambah untuk setiap ayat yang Anda tandai.",
-  "1c635dc349f2": "Jika nanti Anda mengedit ayat itu, tandanya dicabut dan ayat itu perlu dilihat lagi. Lihat <a href=\"tr-edit-after-check\">Mengedit ayat yang sudah diperiksa atau diselaraskan</a>.",
-  "711170ac5cca": "Meningkatkan teks Yunani atau Ibrani juga mencabut tanda-tanda itu. Lihat <a href=\"rs-upgrade-texts\">Perbarui teks Alkitab</a>.",
+  "1c635dc349f2": "Jika nanti Anda mengedit ayat itu, tandanya dicabut dan ayat itu perlu dilihat lagi. Lihat <a href=\"tr-edit-after-check\">Menyunting ayat yang sudah diperiksa atau diselaraskan</a>.",
+  "711170ac5cca": "Meningkatkan teks Yunani atau Ibrani juga mencabut tanda-tanda itu. Lihat <a href=\"rs-upgrade-texts\">Memperbarui teks Alkitab</a>.",
   "f098152b82de": "Baris bawah Selaraskan: ← Sebelumnya, ✓ Tandai valid, Berikutnya →, dan Hapus penjajaran.",
   "060def52271a": "Dialog konfirmasi: Hapus penjajaran Titus 1:1? dengan Batal dan tombol merah Hapus penjajaran."
 }

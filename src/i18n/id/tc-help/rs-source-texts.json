@@ -1,5 +1,5 @@
 {
-  "2444fbf270b8": "Unduh teks sumber · Bantuan translationCore 4",
+  "2444fbf270b8": "Mengunduh teks sumber · Bantuan translationCore 4",
   "3d6eae5d0cf6": "Bahasa gerbang adalah bahasa yang dibaca tim Anda untuk teks sumber dan bantuan. Bahasa Inggris disertakan bersama aplikasi.",
   "7d17ef831dae": "Di bawah <span class=\"ui\">Pilih bahasa gerbang Anda</span>, klik sebuah bahasa (1). Jika \"Nyalakan internet?\" muncul, klik <span class=\"ui\">Nyalakan internet</span>. Lihat <a href=\"rs-offline\">Bekerja secara offline</a>.",
   "87c2a0c6f088": "Pilih <span class=\"ui\">Kitab</span>.",
@@ -10,7 +10,7 @@
   "2fc42d3c75b4": "Untuk sebagian besar bahasa gerbang, paket menyertakan repositori <strong>Tautan Kata Penerjemahan</strong> (<code>…_twl</code>) selain Kata Penerjemahan. Biarkan tetap terpilih agar pemasangan untuk pemeriksaan dapat selesai.",
   "acf775b53543": "Dua baris bisa memiliki nama yang sama, seperti dua baris Français. Organisasi di bawah nama itulah yang membedakannya.",
   "1c359191fab9": "Versi dalam daftar adalah yang terbaru di Door43, bukan yang dipakai proyek Anda.",
-  "84b941e238b1": "Untuk memeriksa dalam bahasa yang diunduh, pilih bahasa itu di <a href=\"st-project-settings\">Pengaturan proyek</a>. Lihat <a href=\"rs-checking-language\">Ubah bahasa pemeriksaan</a>.",
+  "84b941e238b1": "Untuk memeriksa dalam bahasa yang diunduh, pilih bahasa itu di <a href=\"st-project-settings\">Pengaturan proyek</a>. Lihat <a href=\"rs-checking-language\">Mengganti bahasa pemeriksaan</a>.",
   "ab9ab2d35728": "Saat offline, dialog bertuliskan \"tC4 tidak membaca daftar teks sumber Door43.\" dengan <span class=\"ui\">Baca daftar</span>. Baris di bawahnya, \"Organisasi ini tidak menerbitkan apa pun yang dapat digunakan tC4…\", hanya berarti daftar itu belum dibaca.",
   "2827fe51be40": "Jika ada unduhan yang gagal, dialog menampilkan daftarnya.",
   "7dd6ae7b823d": "Dapatkan teks sumber. Sumber daya yang disematkan dengan Periksa pembaruan, lalu Pilih bahasa gerbang Anda: English (unfoldingWord, catatan v91, kata v91, akademi v91), Español (Latinoamérica) (es-419_gl, ditandai 1), dua baris bernama Français (Xenizo dan MVHS), dan Русский."

@@ -5,7 +5,7 @@
   "0b05f77e4428": "Judul Beranda kini <span class=\"ui\">Proyek Anda</span> (sebelumnya \"Your Bibles\").",
   "58b1575818d7": "Satu tombol biru <span class=\"ui\">+ Tambah proyek</span> menggantikan tombol terpisah untuk Alkitab baru, Open Bible Stories baru, dan impor.",
   "f92b05182fa1": "<span class=\"ui\">+ Tambah proyek</span> membuka dialog dengan tiga kartu: <span class=\"ui\">Alkitab Baru</span>, <span class=\"ui\">Open Bible Stories Baru</span> dan <span class=\"ui\">Impor proyek</span>. Lihat <a href=\"gs-home\">Layar Beranda</a>.",
-  "56254fba4c31": "Setiap kartu membuka formulir yang sama seperti sebelumnya: <a href=\"bp-new-bible\">Buat proyek Alkitab</a>, <a href=\"obs-create\">Mulai proyek Open Bible Stories</a>, <a href=\"bp-import\">Impor proyek</a>.",
+  "56254fba4c31": "Setiap kartu membuka formulir yang sama seperti sebelumnya: <a href=\"bp-new-bible\">Membuat proyek Alkitab</a>, <a href=\"obs-create\">Memulai proyek Open Bible Stories</a>, <a href=\"bp-import\">Mengimpor proyek</a>.",
   "180b65cd249f": "Langkah 1 impor memiliki tombol <span class=\"ui\">← Kembali</span> yang membawa Anda kembali ke tiga kartu itu.",
   "8dec9d8ba023": "Jika belum ada proyek, Beranda bertuliskan \"Belum ada proyek. Pilih + Tambah proyek untuk memulai.\"",
   "80d5aaf1c8eb": "Papan ketik: Tab berpindah antar kartu, Enter atau Spasi membuka kartu, dan Esc menutup dialog.",
