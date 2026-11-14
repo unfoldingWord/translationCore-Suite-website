@@ -1,5 +1,5 @@
 {
-  "52a4809abfd1": "امکاناتی که tC4 ندارد · راهنمای translationCore 4",
+  "52a4809abfd1": "قابلیت‌هایی که tC4 ندارد · راهنمای translationCore 4",
   "ad565d9d01d0": "امکان",
   "06b7ee09b1ff": "در این نسخه",
   "11d6b8c6884c": "تغییر نام پروژه یا تغییر زبان آن",
@@ -17,8 +17,8 @@
   "c33a1c0c16ff": "در دسترس نیست. از <span class=\"ui\">Check for updates</span> استفاده کنید. <a href=\"rs-upgrade-helps\">به‌روزرسانی کمک‌های ثابت‌شده</a> را ببینید.",
   "5934a6ce0efc": "وارد کردن به یک پروژهٔ موجود",
   "f0b05c159b0d": "فقط کتاب‌های USFM، با <a href=\"bp-add-book\">افزودن کتاب</a> › <span class=\"ui\">Add books from USFM files</span>. وارد کردن‌های دیگر پروژهٔ تازه می‌سازند.",
-  "fd6d0fde2d06": "باز کردن پروژه از Door43، همگام‌سازی تیمی",
-  "218412ab8e16": "کار می‌کند: <span class=\"ui\">+ Add a project</span> › <span class=\"ui\">Open a project from Door43</span>، سپس <span class=\"ui\">Sync with Door43</span>. <a href=\"ts-team-sync\">کار تیمی روی چند رایانه</a> را ببینید.",
+  "fd6d0fde2d06": "باز کردن پروژه از Door43، همگام‌سازی گروهی",
+  "218412ab8e16": "کار می‌کند: <span class=\"ui\">+ Add a project</span> › <span class=\"ui\">Open a project from Door43</span>، سپس <span class=\"ui\">Sync with Door43</span>. <a href=\"ts-team-sync\">کار گروهی روی چند رایانه</a> را ببینید.",
   "6c6eedace3d8": "خط‌های راست‌به‌چپ و خط‌های پیچیده",
   "00040bab8a78": "کار می‌کند"
 }
