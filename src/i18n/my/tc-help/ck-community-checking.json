@@ -1,0 +1,16 @@
+{
+  "14414824dfdc": "Community Checking အစမ်းကြည့်ခြင်း · translationCore 4 အကူအညီ",
+  "32f4bed68332": "ကျမ်းကို တစ်ခုလုံးအဖြစ် ဖတ်ရန် သို့မဟုတ် သင့်အသိုင်းအဝိုင်းနှင့်အတူ အသံထွက်ဖတ်ရန် ၎င်းကို အသုံးပြုပါ။",
+  "f407ab1cd68e": "အစမ်းကြည့်ခြင်းနှင့် ထုတ်ယူခြင်း",
+  "dcc507361ac5": "<span class=\"ui\">Check</span> ကို နှိပ်ပါ၊ ထို့နောက် <span class=\"ui\">Community Checking</span> ကတ်ပေါ်ရှိ <span class=\"ui\">Open →</span> ကို နှိပ်ပါ။",
+  "95eb586f7dfe": "အစမ်းကြည့်ကွက်ကို ဆွဲရွှေ့ကြည့်ပါ။ မူကြမ်း မရေးရသေးသော အခန်းငယ်များကို \"[ verse not yet drafted ]\" ဟု ပြသည်။",
+  "f283b735ac27": "<span class=\"ui\">Page setup</span> တွင် <span class=\"ui\">Columns</span> (1 သို့မဟုတ် 2)၊ <span class=\"ui\">Spacing</span> (<span class=\"ui\">Single</span> သို့မဟုတ် <span class=\"ui\">Double</span>) နှင့် <span class=\"ui\">Paper size</span> (<span class=\"ui\">A4</span> သို့မဟုတ် <span class=\"ui\">Letter</span>) ကို ရွေးပါ။ <span class=\"ui\">Drop-cap chapters</span> နှင့် <span class=\"ui\">Verse numbers</span> ကို ဖွင့်ပါ သို့မဟုတ် ပိတ်ပါ။",
+  "66a07da4a05a": "မိတ္တူတစ်စောင် သိမ်းရန် <span class=\"ui\">Export</span> ကို နှိပ်ပါ။ <a href=\"bp-export-pdf\">ကျမ်းတစ်စောင်ကို PDF အဖြစ် ထုတ်ယူခြင်း</a>၊ <a href=\"bp-export-usfm\">ကျမ်းတစ်စောင်ကို USFM အဖြစ် ထုတ်ယူခြင်း</a> နှင့် <a href=\"bp-export-burrito\">ပရောဂျက်ကို Scripture Burrito အဖြစ် ထုတ်ယူခြင်း</a> ကို ကြည့်ပါ။",
+  "a95f2176183a": "ပြန်သွားရန် <span class=\"ui\">← All checking tools</span> ကို နှိပ်ပါ။",
+  "d80f07c55306": "<span class=\"ui\">Double</span> စာကြောင်းအကွာသည် ပြန်လည်သုံးသပ်သူများ စာကြောင်းများကြားတွင် ရေးနိုင်ရန် နေရာ ချန်ပေးသည်။",
+  "e161f48410c3": "စာမျက်နှာ သတ်မှတ်ချက်သည် အစမ်းကြည့်ကွက်နှင့် ထုတ်ယူမှုကိုသာ ပြောင်းလဲပြီး သင့်ဘာသာပြန်ကို မပြောင်းလဲပါ။",
+  "1913f785b5a4": "<span class=\"ui\">Drop-cap chapters</span> ဖွင့်ထားလျှင် အခန်းကြီးနံပါတ် အကြီးက အခန်းငယ် 1 ကို စတင်ပေးသဖြင့် အခန်းငယ် 1 တွင် ကိုယ်ပိုင် နံပါတ်ငယ် မရှိပါ။ ၎င်းကို ပြရန် drop cap ကို ပိတ်ပါ။",
+  "df1ceace7eba": "ဤမျက်နှာပြင်မှ ထွက်သောအခါ translationCore က စာမျက်နှာ သတ်မှတ်ချက်ကို မမှတ်ထားပါ။ ထုတ်ယူခြင်းမပြုမီ ထပ်မံ သတ်မှတ်ပါ။",
+  "d19d1de53268": "<span class=\"ui\">Footnotes</span> ကို မီးခိုးရောင်ဖြင့် ပိတ်ထားပြီး မဖွင့်နိုင်သေးပါ။",
+  "79ce1f17e1a6": "တိတုကျမ်းအတွက် Community Checking။ အညွှန်းများက ဘေးတွင် အခန်းငယ် 1 နံပါတ်ငယ် မပါသော အခန်းကြီးနံပါတ် အကြီး (drop cap)၊ ကျမ်းခေါင်းစဉ်၊ All checking tools၊ Export၊ စာမျက်နှာ အစမ်းကြည့်ကွက်၊ မူကြမ်း မရေးရသေးသော အခန်းငယ်များ၊ Page setup နှင့် Incomplete draft မှတ်ချက်ကို ညွှန်ပြသည်။"
+}
