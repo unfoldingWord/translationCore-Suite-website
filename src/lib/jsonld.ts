@@ -27,12 +27,12 @@ export const DEFINITION =
  *  facts, update that page's date only. Strings shared by every page (the
  *  header, the footer, `ui.json`) change every page: update them all. */
 export const PAGE_UPDATED: Record<PageSlug, string> = {
-  home: '2026-11-06',
-  desktop: '2026-11-06',
+  home: '2026-11-16',
+  desktop: '2026-11-16',
   mobile: '2026-11-06',
   resources: '2026-11-06',
   training: '2026-11-06',
-  'previous-version': '2026-11-06',
+  'previous-version': '2026-11-16',
   license: '2026-11-06',
   privacy: '2026-11-06',
   '404': '2026-11-06',
@@ -148,7 +148,7 @@ export function desktopNode(inLanguage: string) {
     '@type': 'SoftwareApplication',
     '@id': DESKTOP_ID,
     name: 'translationCore Desktop',
-    alternateName: 'translationCore v4 Beta',
+    alternateName: 'translationCore v4',
     description:
       'A free, open-source workspace to draft, check, align, and share Bible translations, with unfoldingWord resources built in. Works offline.',
     url: `${SITE_URL}/desktop/`,

@@ -9,7 +9,7 @@
   "p2": "ایک ہی ایپ میں ترجمے کا مسودہ لکھیں، جانچیں، اصل سے ملائیں اور شیئر کریں۔ انٹرنیٹ کے بغیر بھی کام کرتی ہے۔",
   "a": "ڈاؤن لوڈ",
   "a2": "صارف گائیڈ",
-  "span": "نیا: translationCore v4 Beta &middot; Windows، Mac، Linux"
+  "span": "نیا: translationCore v4 &middot; Windows، Mac، Linux"
  },
  "screenshot": {
   "alt": "translationCore Desktop ترجمہ موڈ میں",
@@ -65,7 +65,7 @@
   "p": "قابلِ اعتماد وسائل پر مبنی رہنمائی، آپ کی زبان میں۔"
  },
  "downloads": {
-  "h2": "translationCore v4 Beta ڈاؤن لوڈ کریں",
+  "h2": "translationCore v4 ڈاؤن لوڈ کریں",
   "p": "اپنا کمپیوٹر منتخب کریں۔",
   "h3": "Windows",
   "p2": "انسٹالر (.exe)، 64-bit",
@@ -79,12 +79,12 @@
   "p6": "زپ فائل (.zip)، 64-bit",
   "p7": "زپ فائل کو کھولیں (unzip کریں) اور <code>start-tc4.sh</code> چلائیں۔",
   "a3": "Linux کے لیے ڈاؤن لوڈ کریں",
-  "p8": "<strong>نیا: translationCore v4 Beta۔</strong> اپنے پروجیکٹس کی کاپیوں پر آزمائیں اور بیک اپ رکھیں۔",
+  "p8": "<strong>نیا: translationCore v4۔</strong> بائبل اور Open Bible Stories کا مسودہ لکھیں، جانچیں اور شائع کریں۔",
   "p9": "مدد چاہیے؟ <a href=\"/tc-help/\">ہیلپ سائٹ</a> یا <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">ریلیز نوٹس</a> دیکھیں۔"
  },
  "previous": {
   "h2": "پہلے والا translationCore چاہیے؟",
-  "p": "پچھلا ورژن اس وقت تک دستیاب رہے گا جب تک v4 Beta مستحکم نہ ہو جائے۔",
+  "p": "پچھلا ورژن اب بھی دستیاب ہے۔",
   "a": "پچھلے ورژن پر جائیں"
  },
  "open": {

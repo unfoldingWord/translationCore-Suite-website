@@ -9,7 +9,7 @@
   "p2": "Escreva, revise, alinhe e compartilhe uma tradução em um só aplicativo. Funciona off-line.",
   "a": "Baixar",
   "a2": "Guia do usuário",
-  "span": "Novidade: translationCore v4 Beta &middot; Windows, Mac, Linux"
+  "span": "Novidade: translationCore v4 &middot; Windows, Mac, Linux"
  },
  "screenshot": {
   "alt": "translationCore Desktop no modo Traduzir",
@@ -65,7 +65,7 @@
   "p": "Receba orientação baseada em recursos confiáveis, na sua língua."
  },
  "downloads": {
-  "h2": "Baixe o translationCore v4 Beta",
+  "h2": "Baixe o translationCore v4",
   "p": "Escolha o seu computador.",
   "h3": "Windows",
   "p2": "Instalador (.exe), 64 bits",
@@ -79,12 +79,12 @@
   "p6": "Arquivo zip (.zip), 64 bits",
   "p7": "Descompacte o arquivo zip e execute <code>start-tc4.sh</code>.",
   "a3": "Baixar para Linux",
-  "p8": "<strong>Novidade: translationCore v4 Beta.</strong> Faça testes com cópias dos seus projetos e mantenha backups.",
+  "p8": "<strong>Novidade: translationCore v4.</strong> Escreva, revise e publique Bíblias e Open Bible Stories.",
   "p9": "Precisa de ajuda? Veja o <a href=\"/tc-help/\">site de ajuda</a> ou as <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">notas da versão</a>."
  },
  "previous": {
   "h2": "Precisa da versão anterior do translationCore?",
-  "p": "A versão anterior continua disponível até que a v4 Beta esteja estável.",
+  "p": "A versão anterior ainda está disponível.",
   "a": "Ir para a versão anterior"
  },
  "open": {

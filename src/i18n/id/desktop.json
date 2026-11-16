@@ -9,7 +9,7 @@
   "p2": "Susun draf, periksa, selaraskan, dan bagikan terjemahan dalam satu aplikasi. Dapat digunakan secara offline.",
   "a": "Unduh",
   "a2": "Panduan Pengguna",
-  "span": "Baru: translationCore v4 Beta &middot; Windows, Mac, Linux"
+  "span": "Baru: translationCore v4 &middot; Windows, Mac, Linux"
  },
  "screenshot": {
   "alt": "translationCore Desktop dalam mode Terjemahkan",
@@ -65,7 +65,7 @@
   "p": "Dapatkan arahan yang bersandar pada sumber tepercaya, dalam bahasa Anda."
  },
  "downloads": {
-  "h2": "Unduh translationCore v4 Beta",
+  "h2": "Unduh translationCore v4",
   "p": "Pilih komputer Anda.",
   "h3": "Windows",
   "p2": "Penginstal (.exe), 64-bit",
@@ -79,12 +79,12 @@
   "p6": "Zip (.zip), 64-bit",
   "p7": "Ekstrak file zip lalu jalankan <code>start-tc4.sh</code>.",
   "a3": "Unduh untuk Linux",
-  "p8": "<strong>Baru: translationCore v4 Beta.</strong> Ujilah dengan salinan proyek Anda dan simpan cadangannya.",
+  "p8": "<strong>Baru: translationCore v4.</strong> Susun draf, periksa, dan terbitkan Alkitab dan Open Bible Stories.",
   "p9": "Butuh bantuan? Lihat <a href=\"/tc-help/\">situs bantuan</a> atau <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">catatan rilis</a>."
  },
  "previous": {
   "h2": "Butuh translationCore versi sebelumnya?",
-  "p": "Versi sebelumnya tetap tersedia sampai v4 Beta stabil.",
+  "p": "Versi sebelumnya masih tersedia.",
   "a": "Ke versi sebelumnya"
  },
  "open": {

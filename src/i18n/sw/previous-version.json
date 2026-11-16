@@ -6,8 +6,8 @@
  "hero": {
   "p": "<a href=\"/\" style=\"color:#CDEBF1\">Nyumbani</a> &nbsp;/&nbsp; Toleo lililopita",
   "h1": "translationCore ya awali",
-  "p2": "Bado unahitaji toleo unalolifahamu? Litabaki hapa hadi v4 Beta itakapokuwa thabiti.",
-  "a": "Nenda kwenye translationCore v4 Beta"
+  "p2": "Bado unahitaji toleo unalolifahamu? Litabaki hapa hadi v4 itakapokuwa thabiti.",
+  "a": "Nenda kwenye translationCore v4"
  },
  "downloads": {
   "h2": "Pakua",
@@ -26,7 +26,7 @@
  },
  "open": {
   "h2": "Unatafuta toleo jipya zaidi?",
-  "p": "translationCore v4 Beta ndilo toleo letu la hivi karibuni.",
-  "a": "Nenda kwenye translationCore v4 Beta"
+  "p": "translationCore v4 ndilo toleo letu la hivi karibuni.",
+  "a": "Nenda kwenye translationCore v4"
  }
 }

@@ -29,7 +29,7 @@
   "span4": "<strong>导出</strong>与分享",
   "a": "下载桌面版",
   "a2": "了解更多",
-  "p3": "<strong>新版：</strong>我们最近推出了 translationCore v4 Beta。<a href=\"/previous-version/\">旧版本</a>",
+  "p3": "<strong>新版：</strong>我们最近推出了 translationCore v4。<a href=\"/previous-version/\">旧版本</a>",
   "alt": "起草一个段落，旁边附有注释",
   "p4": "起草一个段落，旁边附有注释。"
  },
@@ -94,7 +94,7 @@
  "start": {
   "h2": "开始使用",
   "h3": "桌面版",
-  "p": "支持 Windows、Mac 和 Linux。新版：translationCore v4 Beta。",
+  "p": "支持 Windows、Mac 和 Linux。新版：translationCore v4。",
   "a": "下载桌面版",
   "a2": "使用说明",
   "a3": "需要旧版本？",

@@ -6,8 +6,8 @@
  "hero": {
   "p": "<a href=\"/\" style=\"color:#CDEBF1\">Home</a> &nbsp;/&nbsp; Previous version",
   "h1": "The earlier translationCore",
-  "p2": "Still need the version you know? It stays here until v4 Beta is stable.",
-  "a": "Go to translationCore v4 Beta"
+  "p2": "Still need the version you know? It stays here until v4 is stable.",
+  "a": "Go to translationCore v4"
  },
  "downloads": {
   "h2": "Download",
@@ -26,7 +26,7 @@
  },
  "open": {
   "h2": "Looking for the newest version?",
-  "p": "translationCore v4 Beta is our latest release.",
-  "a": "Go to translationCore v4 Beta"
+  "p": "translationCore v4 is our latest release.",
+  "a": "Go to translationCore v4"
  }
 }

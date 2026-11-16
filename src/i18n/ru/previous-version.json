@@ -6,8 +6,8 @@
  "hero": {
   "p": "<a href=\"/\" style=\"color:#CDEBF1\">Главная</a> &nbsp;/&nbsp; Предыдущая версия",
   "h1": "Прежняя версия translationCore",
-  "p2": "Нужна привычная версия? Она останется здесь, пока v4 Beta не станет стабильной.",
-  "a": "Перейти к translationCore v4 Beta"
+  "p2": "Нужна привычная версия? Она останется здесь, пока v4 не станет стабильной.",
+  "a": "Перейти к translationCore v4"
  },
  "downloads": {
   "h2": "Скачать",
@@ -26,7 +26,7 @@
  },
  "open": {
   "h2": "Ищете новейшую версию?",
-  "p": "translationCore v4 Beta — наш последний выпуск.",
-  "a": "Перейти к translationCore v4 Beta"
+  "p": "translationCore v4 — наш последний выпуск.",
+  "a": "Перейти к translationCore v4"
  }
 }

@@ -6,8 +6,8 @@
  "hero": {
   "p": "<a href=\"/\" style=\"color:#CDEBF1\">Home</a> &nbsp;/&nbsp; Vorige versie",
   "h1": "De eerdere translationCore",
-  "p2": "Heb je de versie die je kent nog nodig? Die blijft hier staan tot v4 Beta stabiel is.",
-  "a": "Naar translationCore v4 Beta"
+  "p2": "Heb je de versie die je kent nog nodig? Die blijft hier staan tot v4 stabiel is.",
+  "a": "Naar translationCore v4"
  },
  "downloads": {
   "h2": "Downloaden",
@@ -26,7 +26,7 @@
  },
  "open": {
   "h2": "Op zoek naar de nieuwste versie?",
-  "p": "translationCore v4 Beta is onze nieuwste uitgave.",
-  "a": "Naar translationCore v4 Beta"
+  "p": "translationCore v4 is onze nieuwste uitgave.",
+  "a": "Naar translationCore v4"
  }
 }

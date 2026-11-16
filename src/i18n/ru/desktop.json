@@ -9,7 +9,7 @@
   "p2": "Пишите черновик, проверяйте, выравнивайте и делитесь переводом в одном приложении. Работает без интернета.",
   "a": "Скачать",
   "a2": "Руководство пользователя",
-  "span": "Новое: translationCore v4 Beta &middot; Windows, Mac, Linux"
+  "span": "Новое: translationCore v4 &middot; Windows, Mac, Linux"
  },
  "screenshot": {
   "alt": "translationCore Desktop в режиме «Перевод»",
@@ -65,7 +65,7 @@
   "p": "Получите ответ на основе надёжных ресурсов, на вашем языке."
  },
  "downloads": {
-  "h2": "Скачать translationCore v4 Beta",
+  "h2": "Скачать translationCore v4",
   "p": "Выберите свой компьютер.",
   "h3": "Windows",
   "p2": "Установщик (.exe), 64-бит",
@@ -79,12 +79,12 @@
   "p6": "Архив (.zip), 64-бит",
   "p7": "Распакуйте архив и запустите <code>start-tc4.sh</code>.",
   "a3": "Скачать для Linux",
-  "p8": "<strong>Новое: translationCore v4 Beta.</strong> Работайте с копиями проектов и храните резервные копии.",
+  "p8": "<strong>Новое: translationCore v4.</strong> Пишите черновик, проверяйте и публикуйте Библии и Open Bible Stories.",
   "p9": "Нужна помощь? Загляните на <a href=\"/tc-help/\">сайт помощи</a> или в <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">примечания к выпуску</a>."
  },
  "previous": {
   "h2": "Нужна прежняя версия translationCore?",
-  "p": "Предыдущая версия остаётся доступной, пока v4 Beta не станет стабильной.",
+  "p": "Предыдущая версия по-прежнему доступна.",
   "a": "Перейти к предыдущей версии"
  },
  "open": {

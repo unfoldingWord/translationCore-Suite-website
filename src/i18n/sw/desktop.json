@@ -9,7 +9,7 @@
   "p2": "Andika rasimu, kagua, oanisha na shiriki tafsiri katika programu moja. Inafanya kazi bila intaneti.",
   "a": "Pakua",
   "a2": "Mwongozo wa Mtumiaji",
-  "span": "Mpya: translationCore v4 Beta &middot; Windows, Mac, Linux"
+  "span": "Mpya: translationCore v4 &middot; Windows, Mac, Linux"
  },
  "screenshot": {
   "alt": "translationCore Desktop katika hali ya Tafsiri",
@@ -65,7 +65,7 @@
   "p": "Pata mwongozo unaotegemea rasilimali za kuaminika, katika lugha yako."
  },
  "downloads": {
-  "h2": "Pakua translationCore v4 Beta",
+  "h2": "Pakua translationCore v4",
   "p": "Chagua kompyuta yako.",
   "h3": "Windows",
   "p2": "Kisakinishi (.exe), biti 64",
@@ -79,12 +79,12 @@
   "p6": "Zip (.zip), biti 64",
   "p7": "Fungua faili ya zip kisha endesha <code>start-tc4.sh</code>.",
   "a3": "Pakua kwa Linux",
-  "p8": "<strong>Mpya: translationCore v4 Beta.</strong> Jaribu kwa nakala za miradi yako na uhifadhi nakala rudufu.",
+  "p8": "<strong>Mpya: translationCore v4.</strong> Andika rasimu, kagua na chapisha Biblia na Open Bible Stories.",
   "p9": "Unahitaji msaada? Tazama <a href=\"/tc-help/\">tovuti ya msaada</a> au <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">maelezo ya toleo</a>."
  },
  "previous": {
   "h2": "Unahitaji translationCore ya awali?",
-  "p": "Toleo lililopita litaendelea kupatikana hadi v4 Beta itakapokuwa thabiti.",
+  "p": "Toleo lililopita bado linapatikana.",
   "a": "Nenda kwenye toleo lililopita"
  },
  "open": {

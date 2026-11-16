@@ -29,7 +29,7 @@
   "span4": "<strong>Экспортируйте</strong> и делитесь",
   "a": "Скачать для компьютера",
   "a2": "Подробнее",
-  "p3": "<strong>Новое:</strong> мы недавно выпустили translationCore v4 Beta. <a href=\"/previous-version/\">Предыдущая версия</a>",
+  "p3": "<strong>Новое:</strong> мы недавно выпустили translationCore v4. <a href=\"/previous-version/\">Предыдущая версия</a>",
   "alt": "Черновик раздела с примечаниями рядом",
   "p4": "Черновик раздела с примечаниями рядом."
  },
@@ -94,7 +94,7 @@
  "start": {
   "h2": "Начать работу",
   "h3": "Для компьютера",
-  "p": "Windows, Mac и Linux. Новое: translationCore v4 Beta.",
+  "p": "Windows, Mac и Linux. Новое: translationCore v4.",
   "a": "Скачать для компьютера",
   "a2": "Инструкции",
   "a3": "Нужна предыдущая версия?",

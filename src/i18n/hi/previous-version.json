@@ -6,8 +6,8 @@
  "hero": {
   "p": "<a href=\"/\" style=\"color:#CDEBF1\">मुख्य पृष्ठ</a> &nbsp;/&nbsp; पिछला संस्करण",
   "h1": "translationCore का पिछला संस्करण",
-  "p2": "अब भी वही संस्करण चाहिए जिसे आप जानते हैं? यह तब तक यहाँ रहेगा जब तक v4 Beta स्थिर नहीं हो जाता।",
-  "a": "translationCore v4 Beta पर जाएँ"
+  "p2": "अब भी वही संस्करण चाहिए जिसे आप जानते हैं? यह तब तक यहाँ रहेगा जब तक v4 स्थिर नहीं हो जाता।",
+  "a": "translationCore v4 पर जाएँ"
  },
  "downloads": {
   "h2": "डाउनलोड",
@@ -26,7 +26,7 @@
  },
  "open": {
   "h2": "नवीनतम संस्करण ढूँढ रहे हैं?",
-  "p": "translationCore v4 Beta हमारा नवीनतम संस्करण है।",
-  "a": "translationCore v4 Beta पर जाएँ"
+  "p": "translationCore v4 हमारा नवीनतम संस्करण है।",
+  "a": "translationCore v4 पर जाएँ"
  }
 }

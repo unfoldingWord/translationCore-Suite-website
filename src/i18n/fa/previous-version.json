@@ -6,8 +6,8 @@
  "hero": {
   "p": "<a href=\"/\" style=\"color:#CDEBF1\">خانه</a> &nbsp;/&nbsp; نسخهٔ قبلی",
   "h1": "نسخهٔ قبلی translationCore",
-  "p2": "هنوز به نسخه‌ای که می‌شناسید نیاز دارید؟ تا پایدار شدن v4 Beta همین‌جا می‌ماند.",
-  "a": "رفتن به translationCore v4 Beta"
+  "p2": "هنوز به نسخه‌ای که می‌شناسید نیاز دارید؟ تا پایدار شدن v4 همین‌جا می‌ماند.",
+  "a": "رفتن به translationCore v4"
  },
  "downloads": {
   "h2": "دانلود",
@@ -26,7 +26,7 @@
  },
  "open": {
   "h2": "دنبال تازه‌ترین نسخه هستید؟",
-  "p": "translationCore v4 Beta تازه‌ترین نسخهٔ ماست.",
-  "a": "رفتن به translationCore v4 Beta"
+  "p": "translationCore v4 تازه‌ترین نسخهٔ ماست.",
+  "a": "رفتن به translationCore v4"
  }
 }

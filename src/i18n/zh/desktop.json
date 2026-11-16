@@ -9,7 +9,7 @@
   "p2": "在一个应用中起草、检查、对齐和分享译文。可离线使用。",
   "a": "下载",
   "a2": "用户指南",
-  "span": "新版：translationCore v4 Beta &middot; Windows、Mac、Linux"
+  "span": "新版：translationCore v4 &middot; Windows、Mac、Linux"
  },
  "screenshot": {
   "alt": "翻译模式下的 translationCore Desktop",
@@ -65,7 +65,7 @@
   "p": "以可信资源为根基，用你的语言获得指导。"
  },
  "downloads": {
-  "h2": "下载 translationCore v4 Beta",
+  "h2": "下载 translationCore v4",
   "p": "选择你的电脑系统。",
   "h3": "Windows",
   "p2": "安装程序（.exe），64 位",
@@ -79,12 +79,12 @@
   "p6": "压缩包（.zip），64 位",
   "p7": "解压后运行 <code>start-tc4.sh</code>。",
   "a3": "下载 Linux 版",
-  "p8": "<strong>新版：translationCore v4 Beta。</strong>请用项目副本测试，并保留备份。",
+  "p8": "<strong>新版：translationCore v4。</strong>起草、检查并发布圣经和 Open Bible Stories。",
   "p9": "需要帮助？请查看<a href=\"/tc-help/\">帮助网站</a>或<a href=\"https://github.com/unfoldingWord/translationCore4/releases\">版本说明</a>。"
  },
  "previous": {
   "h2": "需要旧版 translationCore？",
-  "p": "在 v4 Beta 稳定之前，旧版本仍可下载。",
+  "p": "旧版本仍然可用。",
   "a": "前往旧版本"
  },
  "open": {
