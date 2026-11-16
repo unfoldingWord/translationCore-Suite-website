@@ -4,7 +4,7 @@ export const PROTECTED = [
   'translationCore', 'unfoldingWord', 'translationNotes', 'translationWords', 'translationQuestions',
   'translationAcademy', 'BT Servant', 'Foundations BT', 'Open Bible Stories', 'Church-Based Training',
   'Door43', 'ULT', 'UST', 'GitHub', 'Discord', 'USFM', 'Scripture Burrito', 'Markdown', 'tcmobile.app',
-  'Google Play', 'App Store', 'start-tc4.sh',
+  'Google Play', 'App Store', 'v4', 'start-tc4.sh',
 ];
 // The Desktop help also keeps the app's short name.
 export const HELP_PROTECTED = [...PROTECTED, 'tC4'];
