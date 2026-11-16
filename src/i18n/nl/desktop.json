@@ -9,7 +9,7 @@
   "p2": "Een vertaling schrijven, controleren, uitlijnen en delen in één app. Werkt offline.",
   "a": "Downloaden",
   "a2": "Gebruikershandleiding",
-  "span": "Nieuw: translationCore v4 Beta &middot; Windows, Mac, Linux"
+  "span": "Nieuw: translationCore v4 &middot; Windows, Mac, Linux"
  },
  "screenshot": {
   "alt": "translationCore Desktop in de modus Vertalen",
@@ -79,12 +79,12 @@
   "p6": "Zip (.zip), 64-bit",
   "p7": "Pak het zip-bestand uit en voer <code>start-tc4.sh</code> uit.",
   "a3": "Downloaden voor Linux",
-  "p8": "<strong>Nieuw: translationCore v4 Beta.</strong> Test met kopieën van je projecten en maak back-ups.",
+  "p8": "<strong>Nieuw: translationCore v4.</strong> Test met kopieën van je projecten en maak back-ups.",
   "p9": "Hulp nodig? Zie de <a href=\"/tc-help/\">helpsite</a> of de <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">releasenotes</a>."
  },
  "previous": {
   "h2": "Heb je de eerdere translationCore nodig?",
-  "p": "De vorige versie blijft beschikbaar tot v4 Beta stabiel is.",
+  "p": "De vorige versie blijft beschikbaar tot v4 stabiel is.",
   "a": "Naar de vorige versie"
  },
  "open": {

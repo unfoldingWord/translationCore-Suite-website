@@ -9,7 +9,7 @@
   "p2": "اكتب الترجمة وراجعها وطابقها وشاركها في تطبيق واحد. يعمل دون اتصال بالإنترنت.",
   "a": "تنزيل",
   "a2": "دليل المستخدم",
-  "span": "جديد: translationCore v4 Beta &middot; Windows وMac وLinux"
+  "span": "جديد: translationCore v4 &middot; Windows وMac وLinux"
  },
  "screenshot": {
   "alt": "translationCore Desktop في وضع الترجمة",
@@ -79,12 +79,12 @@
   "p6": "ملف مضغوط (.zip)، 64 بت",
   "p7": "فكّ ضغط الملف وشغّل <code>start-tc4.sh</code>.",
   "a3": "تنزيل لـ Linux",
-  "p8": "<strong>جديد: translationCore v4 Beta.</strong> جرّبه على نسخ من مشاريعك واحتفظ بنسخ احتياطية.",
+  "p8": "<strong>جديد: translationCore v4.</strong> جرّبه على نسخ من مشاريعك واحتفظ بنسخ احتياطية.",
   "p9": "تحتاج إلى مساعدة؟ راجع <a href=\"/tc-help/\">موقع المساعدة</a> أو <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">ملاحظات الإصدار</a>."
  },
  "previous": {
   "h2": "تحتاج إلى الإصدار السابق من translationCore؟",
-  "p": "يبقى الإصدار السابق متاحًا حتى يستقر v4 Beta.",
+  "p": "يبقى الإصدار السابق متاحًا حتى يستقر v4.",
   "a": "انتقل إلى الإصدار السابق"
  },
  "open": {

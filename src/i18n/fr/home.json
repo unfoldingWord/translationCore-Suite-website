@@ -29,7 +29,7 @@
   "span4": "<strong>Exporter</strong> et partager",
   "a": "Télécharger Desktop",
   "a2": "En savoir plus",
-  "p3": "<strong>Nouveau :</strong> nous venons de lancer translationCore v4 Beta. <a href=\"/previous-version/\">Version précédente</a>",
+  "p3": "<strong>Nouveau :</strong> nous venons de lancer translationCore v4. <a href=\"/previous-version/\">Version précédente</a>",
   "alt": "Rédaction d’une section avec les notes à côté",
   "p4": "Rédaction d’une section avec les notes à côté."
  },
@@ -94,7 +94,7 @@
  "start": {
   "h2": "Commencer",
   "h3": "Ordinateur",
-  "p": "Windows, Mac et Linux. Nouveau : translationCore v4 Beta.",
+  "p": "Windows, Mac et Linux. Nouveau : translationCore v4.",
   "a": "Télécharger Desktop",
   "a2": "Instructions",
   "a3": "Vous cherchez la version précédente ?",

@@ -29,7 +29,7 @@
   "span4": "<strong>निर्यात करें</strong> और बाँटें",
   "a": "डेस्कटॉप डाउनलोड करें",
   "a2": "और जानें",
-  "p3": "<strong>नया:</strong> हमने हाल ही में translationCore v4 Beta जारी किया है। <a href=\"/previous-version/\">पिछला संस्करण</a>",
+  "p3": "<strong>नया:</strong> हमने हाल ही में translationCore v4 जारी किया है। <a href=\"/previous-version/\">पिछला संस्करण</a>",
   "alt": "साथ में टिप्पणियों के साथ एक खंड का मसौदा लिखते हुए",
   "p4": "साथ में टिप्पणियों के साथ एक खंड का मसौदा लिखते हुए।"
  },
@@ -94,7 +94,7 @@
  "start": {
   "h2": "शुरू करें",
   "h3": "डेस्कटॉप",
-  "p": "Windows, Mac और Linux। नया: translationCore v4 Beta।",
+  "p": "Windows, Mac और Linux। नया: translationCore v4।",
   "a": "डेस्कटॉप डाउनलोड करें",
   "a2": "निर्देश",
   "a3": "पिछला संस्करण ढूँढ रहे हैं?",

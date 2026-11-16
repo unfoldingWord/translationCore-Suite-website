@@ -6,8 +6,8 @@
  "hero": {
   "p": "<a href=\"/\" style=\"color:#CDEBF1\">Início</a> &nbsp;/&nbsp; Versão anterior",
   "h1": "A versão anterior do translationCore",
-  "p2": "Ainda precisa da versão que você conhece? Ela fica aqui até que a v4 Beta esteja estável.",
-  "a": "Ir para o translationCore v4 Beta"
+  "p2": "Ainda precisa da versão que você conhece? Ela fica aqui até que a v4 esteja estável.",
+  "a": "Ir para o translationCore v4"
  },
  "downloads": {
   "h2": "Baixar",
@@ -26,7 +26,7 @@
  },
  "open": {
   "h2": "Procurando a versão mais recente?",
-  "p": "O translationCore v4 Beta é a nossa versão mais recente.",
-  "a": "Ir para o translationCore v4 Beta"
+  "p": "O translationCore v4 é a nossa versão mais recente.",
+  "a": "Ir para o translationCore v4"
  }
 }

@@ -148,7 +148,7 @@ export function desktopNode(inLanguage: string) {
     '@type': 'SoftwareApplication',
     '@id': DESKTOP_ID,
     name: 'translationCore Desktop',
-    alternateName: 'translationCore v4 Beta',
+    alternateName: 'translationCore v4',
     description:
       'A free, open-source workspace to draft, check, align, and share Bible translations, with unfoldingWord resources built in. Works offline.',
     url: `${SITE_URL}/desktop/`,

@@ -9,7 +9,7 @@
   "p2": "پیش‌نویس، بازبینی، هم‌ترازسازی و اشتراک ترجمه در یک برنامه. بدون اینترنت هم کار می‌کند.",
   "a": "دانلود",
   "a2": "راهنمای کاربر",
-  "span": "تازه: translationCore v4 Beta &middot; Windows، Mac، Linux"
+  "span": "تازه: translationCore v4 &middot; Windows، Mac، Linux"
  },
  "screenshot": {
   "alt": "translationCore Desktop در حالت ترجمه",
@@ -79,12 +79,12 @@
   "p6": "فایل فشرده (.zip)، ۶۴ بیتی",
   "p7": "فایل zip را از حالت فشرده خارج کنید و <code>start-tc4.sh</code> را اجرا کنید.",
   "a3": "دانلود برای Linux",
-  "p8": "<strong>تازه: translationCore v4 Beta.</strong> آن را با نسخه‌ای از پروژه‌هایتان آزمایش کنید و نسخهٔ پشتیبان نگه دارید.",
+  "p8": "<strong>تازه: translationCore v4.</strong> آن را با نسخه‌ای از پروژه‌هایتان آزمایش کنید و نسخهٔ پشتیبان نگه دارید.",
   "p9": "کمک لازم دارید؟ <a href=\"/tc-help/\">سایت راهنما</a> یا <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">یادداشت‌های انتشار</a> را ببینید."
  },
  "previous": {
   "h2": "به نسخهٔ قبلی translationCore نیاز دارید؟",
-  "p": "نسخهٔ قبلی تا پایدار شدن v4 Beta در دسترس می‌ماند.",
+  "p": "نسخهٔ قبلی تا پایدار شدن v4 در دسترس می‌ماند.",
   "a": "رفتن به نسخهٔ قبلی"
  },
  "open": {

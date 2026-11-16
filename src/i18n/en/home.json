@@ -29,7 +29,7 @@
   "span4": "<strong>Export</strong> and share",
   "a": "Download Desktop",
   "a2": "Learn more",
-  "p3": "<strong>New:</strong> we recently rolled out translationCore v4 Beta. <a href=\"/previous-version/\">Previous version</a>",
+  "p3": "<strong>New:</strong> we recently rolled out translationCore v4. <a href=\"/previous-version/\">Previous version</a>",
   "alt": "Drafting a section with notes alongside",
   "p4": "Drafting a section with notes alongside."
  },
@@ -94,7 +94,7 @@
  "start": {
   "h2": "Get started",
   "h3": "Desktop",
-  "p": "Windows, Mac, and Linux. New: translationCore v4 Beta.",
+  "p": "Windows, Mac, and Linux. New: translationCore v4.",
   "a": "Download Desktop",
   "a2": "Instructions",
   "a3": "Looking for the previous version?",

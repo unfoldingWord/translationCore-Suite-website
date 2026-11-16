@@ -6,8 +6,8 @@
  "hero": {
   "p": "<a href=\"/\" style=\"color:#CDEBF1\">Beranda</a> &nbsp;/&nbsp; Versi sebelumnya",
   "h1": "translationCore versi sebelumnya",
-  "p2": "Masih membutuhkan versi yang Anda kenal? Versi itu tetap tersedia di sini sampai v4 Beta stabil.",
-  "a": "Ke translationCore v4 Beta"
+  "p2": "Masih membutuhkan versi yang Anda kenal? Versi itu tetap tersedia di sini sampai v4 stabil.",
+  "a": "Ke translationCore v4"
  },
  "downloads": {
   "h2": "Unduh",
@@ -26,7 +26,7 @@
  },
  "open": {
   "h2": "Mencari versi terbaru?",
-  "p": "translationCore v4 Beta adalah rilis terbaru kami.",
-  "a": "Ke translationCore v4 Beta"
+  "p": "translationCore v4 adalah rilis terbaru kami.",
+  "a": "Ke translationCore v4"
  }
 }

@@ -9,7 +9,7 @@
   "p2": "Draft, check, align, and share a translation in one app. Works offline.",
   "a": "Download",
   "a2": "User Guide",
-  "span": "New: translationCore v4 Beta &middot; Windows, Mac, Linux"
+  "span": "New: translationCore v4 &middot; Windows, Mac, Linux"
  },
  "screenshot": {
   "alt": "translationCore Desktop in Translate mode",
@@ -79,12 +79,12 @@
   "p6": "Zip (.zip), 64-bit",
   "p7": "Unpack the zip and run <code>start-tc4.sh</code>.",
   "a3": "Download for Linux",
-  "p8": "<strong>New: translationCore v4 Beta.</strong> Test with copies of your projects and keep backups.",
+  "p8": "<strong>New: translationCore v4.</strong> Test with copies of your projects and keep backups.",
   "p9": "Need help? See the <a href=\"/tc-help/\">help site</a> or the <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">release notes</a>."
  },
  "previous": {
   "h2": "Need the earlier translationCore?",
-  "p": "The previous version stays available until v4 Beta is stable.",
+  "p": "The previous version stays available until v4 is stable.",
   "a": "Go to the previous version"
  },
  "open": {

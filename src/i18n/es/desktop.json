@@ -9,7 +9,7 @@
   "p2": "Redacte, revise, alinee y comparta una traducción en una sola aplicación. Funciona sin conexión.",
   "a": "Descargar",
   "a2": "Guía del usuario",
-  "span": "Nuevo: translationCore v4 Beta &middot; Windows, Mac, Linux"
+  "span": "Nuevo: translationCore v4 &middot; Windows, Mac, Linux"
  },
  "screenshot": {
   "alt": "translationCore Desktop en el modo Traducir",
@@ -79,12 +79,12 @@
   "p6": "Archivo zip (.zip), 64 bits",
   "p7": "Descomprima el archivo zip y ejecute <code>start-tc4.sh</code>.",
   "a3": "Descargar para Linux",
-  "p8": "<strong>Nuevo: translationCore v4 Beta.</strong> Haga pruebas con copias de sus proyectos y guarde respaldos.",
+  "p8": "<strong>Nuevo: translationCore v4.</strong> Haga pruebas con copias de sus proyectos y guarde respaldos.",
   "p9": "¿Necesita ayuda? Consulte el <a href=\"/tc-help/\">sitio de ayuda</a> o las <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">notas de la versión</a>."
  },
  "previous": {
   "h2": "¿Necesita la versión anterior de translationCore?",
-  "p": "La versión anterior seguirá disponible hasta que v4 Beta sea estable.",
+  "p": "La versión anterior seguirá disponible hasta que v4 sea estable.",
   "a": "Ir a la versión anterior"
  },
  "open": {

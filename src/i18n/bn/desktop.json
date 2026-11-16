@@ -9,7 +9,7 @@
   "p2": "একটি অ্যাপেই অনুবাদের খসড়া, যাচাই, সমন্বয় ও ভাগ করুন। অফলাইনেও কাজ করে।",
   "a": "ডাউনলোড করুন",
   "a2": "ব্যবহারকারী নির্দেশিকা",
-  "span": "নতুন: translationCore v4 Beta &middot; Windows, Mac, Linux"
+  "span": "নতুন: translationCore v4 &middot; Windows, Mac, Linux"
  },
  "screenshot": {
   "alt": "অনুবাদ মোডে translationCore Desktop",
@@ -79,12 +79,12 @@
   "p6": "Zip (.zip), 64-বিট",
   "p7": "zip ফাইলটি খুলে <code>start-tc4.sh</code> চালান।",
   "a3": "Linux-এর জন্য ডাউনলোড করুন",
-  "p8": "<strong>নতুন: translationCore v4 Beta।</strong> আপনার প্রকল্পের কপি দিয়ে পরীক্ষা করুন এবং ব্যাকআপ রাখুন।",
+  "p8": "<strong>নতুন: translationCore v4।</strong> আপনার প্রকল্পের কপি দিয়ে পরীক্ষা করুন এবং ব্যাকআপ রাখুন।",
   "p9": "সাহায্য দরকার? <a href=\"/tc-help/\">সহায়তা সাইট</a> বা <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">রিলিজ নোট</a> দেখুন।"
  },
  "previous": {
   "h2": "translationCore-এর আগের সংস্করণ দরকার?",
-  "p": "v4 Beta স্থিতিশীল না হওয়া পর্যন্ত আগের সংস্করণটি পাওয়া যাবে।",
+  "p": "v4 স্থিতিশীল না হওয়া পর্যন্ত আগের সংস্করণটি পাওয়া যাবে।",
   "a": "আগের সংস্করণে যান"
  },
  "open": {

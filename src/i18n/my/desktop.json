@@ -9,7 +9,7 @@
   "p2": "အက်ပ်တစ်ခုတည်းတွင် ဘာသာပြန်ကို မူကြမ်းရေး၊ စစ်ဆေး၊ ချိန်ညှိ၊ မျှဝေပါ။ အင်တာနက်မရှိဘဲ အသုံးပြုနိုင်သည်။",
   "a": "ဒေါင်းလုဒ်လုပ်ရန်",
   "a2": "အသုံးပြုသူလမ်းညွှန်",
-  "span": "အသစ် - translationCore v4 Beta &middot; Windows, Mac, Linux"
+  "span": "အသစ် - translationCore v4 &middot; Windows, Mac, Linux"
  },
  "screenshot": {
   "alt": "ဘာသာပြန်မုဒ်ရှိ translationCore Desktop",
@@ -79,12 +79,12 @@
   "p6": "Zip (.zip)၊ 64-bit",
   "p7": "zip ဖိုင်ကို ဖြည်ပြီး <code>start-tc4.sh</code> ကို run ပါ။",
   "a3": "Linux အတွက် ဒေါင်းလုဒ်လုပ်ရန်",
-  "p8": "<strong>အသစ် - translationCore v4 Beta။</strong> သင့်ပရောဂျက်များ၏ မိတ္တူဖြင့် စမ်းသပ်ပြီး အရန်ကူးထားပါ။",
+  "p8": "<strong>အသစ် - translationCore v4။</strong> သင့်ပရောဂျက်များ၏ မိတ္တူဖြင့် စမ်းသပ်ပြီး အရန်ကူးထားပါ။",
   "p9": "အကူအညီ လိုပါသလား။ <a href=\"/tc-help/\">အကူအညီ ဝဘ်ဆိုက်</a> သို့မဟုတ် <a href=\"https://github.com/unfoldingWord/translationCore4/releases\">ထုတ်ပြန်ချက် မှတ်စုများ</a> ကို ကြည့်ပါ။"
  },
  "previous": {
   "h2": "translationCore ယခင်ဗားရှင်း လိုအပ်ပါသလား။",
-  "p": "v4 Beta တည်ငြိမ်သည်အထိ ယခင်ဗားရှင်းကို ဆက်လက် ရယူနိုင်ပါသည်။",
+  "p": "v4 တည်ငြိမ်သည်အထိ ယခင်ဗားရှင်းကို ဆက်လက် ရယူနိုင်ပါသည်။",
   "a": "ယခင်ဗားရှင်းသို့ သွားရန်"
  },
  "open": {

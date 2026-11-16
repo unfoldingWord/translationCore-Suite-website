@@ -29,7 +29,7 @@
   "span4": "<strong>صدّر</strong> وشارك",
   "a": "نزّل نسخة سطح المكتب",
   "a2": "اعرف المزيد",
-  "p3": "<strong>جديد:</strong> أطلقنا مؤخرًا translationCore v4 Beta. <a href=\"/previous-version/\">الإصدار السابق</a>",
+  "p3": "<strong>جديد:</strong> أطلقنا مؤخرًا translationCore v4. <a href=\"/previous-version/\">الإصدار السابق</a>",
   "alt": "كتابة مسودة قسم والملاحظات بجانبها",
   "p4": "كتابة مسودة قسم والملاحظات بجانبها."
  },
@@ -94,7 +94,7 @@
  "start": {
   "h2": "ابدأ الآن",
   "h3": "سطح المكتب",
-  "p": "Windows وMac وLinux. جديد: translationCore v4 Beta.",
+  "p": "Windows وMac وLinux. جديد: translationCore v4.",
   "a": "نزّل نسخة سطح المكتب",
   "a2": "التعليمات",
   "a3": "تبحث عن الإصدار السابق؟",
