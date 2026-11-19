@@ -66,11 +66,11 @@
       ],
       "labels": [
         "Align",
-        "Gateway · ULT",
         "Original · Greek",
-        "Original · Hebrew"
+        "Original · Hebrew",
+        "ULT"
       ],
-      "text": "Help › Align Align to the gateway text or the original language Align to the gateway words you can read (which already carry the link to the original), or directly to the Greek or Hebrew words. Either way, the saved links point to the original language. Steps In Align , open a verse. Click Gateway · ULT or Original · Greek . An Old Testament book shows Original · Hebrew . Link the words as usual. See Link your words to the source . Which to choose Gateway · ULT : \"Align to the gateway text you can read — its words already carry the original-language alignment.\" Easier if you don't read Greek or Hebrew. A card can hold a gateway phrase, such as \"of the chosen people\" over ἐκλεκτῶν. Original · Greek or Original · Hebrew : \"Align directly to the original-language words.\" The cards show only the original words. Words you already placed stay where they are when you switch. If the gateway text for a verse has no alignment data, gateway mode says \"The gateway lens needs the gateway source text with alignment data for this verse.\" Use the original-language mode instead. Related topics Open the Align tool Link your words to the source"
+      "text": "Help › Align Align to the gateway text or the original language Align to the gateway words you can read (which already carry the link to the original), or directly to the Greek or Hebrew words. Either way, the saved links point to the original language. Steps In Align , open a verse. Click the chip with your gateway Bible's abbreviation (for example, ULT ) or Original · Greek . An Old Testament book shows Original · Hebrew . Link the words as usual. See Link your words to the source . Which to choose Your gateway Bible's abbreviation (for example, ULT ): \"Align to the gateway text you can read — its words already carry the original-language alignment.\" Easier if you don't read Greek or Hebrew. A card can hold a gateway phrase, such as \"of the chosen people\" over ἐκλεκτῶν. Original · Greek or Original · Hebrew : \"Align directly to the original-language words.\" The cards show only the original words. Words you already placed stay where they are when you switch. If the gateway text for a verse has no alignment data, gateway mode says \"The gateway lens needs the gateway source text with alignment data for this verse.\" Use the original-language mode instead. Related topics Open the Align tool Link your words to the source"
     },
     {
       "id": "al-open",
@@ -91,16 +91,16 @@
       "labels": [
         "Align",
         "Check",
-        "Gateway · ULT",
         "How alignment works",
         "Original · Greek",
         "Start checking →",
         "Suggest links",
+        "ULT",
         "← All checking tools",
         "← Back to translating",
         "✓ Mark valid"
       ],
-      "text": "Help › Align Open the Align tool Align links each word of your translation to the original-language word it translates. Open it from Check. The checking tools use these links to highlight your words, and an aligned USFM export carries them. Open Align Click Check , then Start checking → on the Align card. Pick a verse in the verse list on the left. Verses that are not drafted yet are greyed out. Link your words to the word cards. See Link your words to the source . When the verse is done, click ✓ Mark valid . See Mark an alignment done . To leave, click ← All checking tools at the top left, or ← Back to translating at the bottom left. On this screen Gateway · ULT aligns to the gateway text you can read. Its words already carry the link to the original language. Original · Greek aligns straight to the Greek words. See Align to the gateway text or the original language . Suggest links is off at first. Turn it on to get links proposed from the verses you have already aligned. See Alignment suggestions . Above the word bank, a count shows how many of the verse's words are placed. How alignment works opens a short explanation. Note: Align is for Bible books. Story projects have no Align card. Verses you imported with alignments If a book came from a USFM file that already had alignments, its aligned verses open in Align with the notice This verse already holds an alignment . You can't change those verses in Align yet. tC4 keeps their alignment as it was imported and writes it unchanged into the aligned USFM export. Good to know The source cards always follow the original-language text your project uses. If a stored link points to a word that text doesn't have, the link is removed, its words go back to the word bank, and the verse is flagged for review. Related topics Link your words to the source Align a phrase (merge and split cards) Align to the gateway text or the original language Alignment suggestions Mark an alignment done Choose a checking tool"
+      "text": "Help › Align Open the Align tool Align links each word of your translation to the original-language word it translates. Open it from Check. The checking tools use these links to highlight your words, and an aligned USFM export carries them. Open Align Click Check , then Start checking → on the Align card. Pick a verse in the verse list on the left. Verses that are not drafted yet are greyed out. Link your words to the word cards. See Link your words to the source . When the verse is done, click ✓ Mark valid . See Mark an alignment done . To leave, click ← All checking tools at the top left, or ← Back to translating at the bottom left. On this screen The chip with your gateway Bible's abbreviation (for example, ULT ) aligns to the gateway text you can read. Its words already carry the link to the original language. Original · Greek aligns straight to the Greek words. See Align to the gateway text or the original language . Suggest links is off at first. Turn it on to get links proposed from the verses you have already aligned. See Alignment suggestions . Above the word bank, a count shows how many of the verse's words are placed. How alignment works opens a short explanation. Note: Align is for Bible books. Story projects have no Align card. Verses you imported with alignments If a book came from a USFM file that already had alignments, its aligned verses open in Align with the notice This verse already holds an alignment . You can't change those verses in Align yet. tC4 keeps their alignment as it was imported and writes it unchanged into the aligned USFM export. Good to know The source cards always follow the original-language text your project uses. If a stored link points to a word that text doesn't have, the link is removed, its words go back to the word bank, and the verse is flagged for review. Related topics Link your words to the source Align a phrase (merge and split cards) Align to the gateway text or the original language Alignment suggestions Mark an alignment done Choose a checking tool"
     },
     {
       "id": "al-phrases",
@@ -541,9 +541,6 @@
         "By verse",
         "Check",
         "Commented",
-        "GST",
-        "Gateway · UST",
-        "Gateway · unfoldingWord Literal Text",
         "Invalid",
         "Learn more",
         "Next →",
@@ -551,12 +548,14 @@
         "Start checking →",
         "To do",
         "Translation Notes",
+        "ULT",
+        "UST",
         "What to check",
         "Your translation",
         "← Back to translating",
         "✓ Mark valid"
       ],
-      "text": "Help › Check Check with Translation Notes Go through the hard places in the book, such as figures of speech or abstract nouns, and check how you translated each one. Each item is a note that links to a Translation Academy lesson. Other notes stay in the helps panel. Check a note Click Check , then Start checking → on the Translation Notes card. Read What to check . The words it is about are highlighted in the source cards below: the original language, the literal gateway text (for example Gateway · unfoldingWord Literal Text ) and the simplified text ( Gateway · UST , or GST in some gateway languages). To learn more about the issue, click Learn more under the note. The Translation Academy lesson opens in a panel on the right. Close it with ✕. Under Your translation , tap the word or words that translate the highlighted quote. Choose ✓ Mark valid , Invalid or To do . See Decide on a check item . Click Next → beside the marking buttons to go to the next item. Marking an item does not move you on. To stop, click ← Back to translating at the bottom left. The source cards The simplified card shows the gateway language's simplified Bible: the UST, or a GST such as the Indonesian one. Its words for the quote are highlighted too. It appears only when that simplified text is on your computer. tC4 does not show the English UST in place of a missing GST. See Download source texts . Open Bible Stories checks show the gateway story only. Find your way Sort By verse goes through the book in order. By category puts all the notes about one issue together, for example every metaphor. The filters show All , To do , Invalid , Bookmarked or Commented items. See Filter and sort check items . The notes are in your project's checking language. See Change the checking language . If you change a verse after you decided on it, translationCore asks you to look at that decision again. Nothing is lost. Related topics Choose a checking tool Decide on a check item (valid, invalid, to do) Filter and sort check items Write a check comment Translation notes and Translation Academy articles Change the checking language"
+      "text": "Help › Check Check with Translation Notes Go through the hard places in the book, such as figures of speech or abstract nouns, and check how you translated each one. Each item is a note that links to a Translation Academy lesson. Other notes stay in the helps panel. Check a note Click Check , then Start checking → on the Translation Notes card. Read What to check . The words it is about are highlighted in the source cards below: the original language, the literal gateway text and the simplified text. The gateway cards are headed by each Bible's abbreviation, such as ULT and UST in English. To learn more about the issue, click Learn more under the note. The Translation Academy lesson opens in a panel on the right. Close it with ✕. Under Your translation , tap the word or words that translate the highlighted quote. Choose ✓ Mark valid , Invalid or To do . See Decide on a check item . Click Next → beside the marking buttons to go to the next item. Marking an item does not move you on. To stop, click ← Back to translating at the bottom left. The source cards The simplified card shows the gateway language's simplified Bible: the UST, or a GST such as the Indonesian one. Its words for the quote are highlighted too. It appears only when that simplified text is on your computer. tC4 does not show the English UST in place of a missing GST. See Download source texts . Open Bible Stories checks show the gateway story only. Find your way Sort By verse goes through the book in order. By category puts all the notes about one issue together, for example every metaphor. The filters show All , To do , Invalid , Bookmarked or Commented items. See Filter and sort check items . The notes are in your project's checking language. See Change the checking language . If you change a verse after you decided on it, translationCore asks you to look at that decision again. Nothing is lost. Related topics Choose a checking tool Decide on a check item (valid, invalid, to do) Filter and sort check items Write a check comment Translation notes and Translation Academy articles Change the checking language"
     },
     {
       "id": "ck-translation-words",

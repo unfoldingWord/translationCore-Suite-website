@@ -3,7 +3,7 @@
   "34dabdfbc2ff": "Cada elemento es una nota que enlaza a una lección de la Academia de traducción. Las demás notas se quedan en el panel de ayudas.",
   "37ed9dc0480b": "Revisar una nota",
   "c2ed52ecfaef": "Haga clic en <span class=\"ui\">Revisar</span> y luego en <span class=\"ui\">Empezar a revisar →</span> en la tarjeta <span class=\"ui\">Notas de traducción</span>.",
-  "aa2a2d64b884": "Lea <span class=\"ui\">Qué revisar</span>. Las palabras de las que trata aparecen resaltadas en las tarjetas de la fuente, más abajo: el idioma original, el texto literal en el idioma puente (por ejemplo <span class=\"ui\">Puente · Texto Literal de unfoldingWord</span>) y el texto simplificado (<span class=\"ui\">Puente · UST</span>, o <span class=\"ui\">GST</span> en algunos idiomas puente).",
+  "9b388eba33d5": "Lea <span class=\"ui\">Qué revisar</span>. Las palabras de las que trata aparecen resaltadas en las tarjetas de la fuente, más abajo: el idioma original, el texto literal en el idioma puente y el texto simplificado. Las tarjetas del idioma puente llevan como encabezado la abreviatura de cada Biblia, como <span class=\"ui\">ULT</span> y <span class=\"ui\">UST</span> en inglés.",
   "af9960d2e388": "Para saber más sobre el problema, haga clic en <span class=\"ui\">Más información</span> debajo de la nota. La lección de la Academia de traducción se abre en un panel a la derecha. Ciérrela con ✕.",
   "009010512001": "Debajo de <span class=\"ui\">Tu traducción</span>, toque la palabra o las palabras que traducen la cita resaltada.",
   "540bd764162b": "Para terminar, haga clic en <span class=\"ui\">← Volver a traducir</span>, abajo a la izquierda.",

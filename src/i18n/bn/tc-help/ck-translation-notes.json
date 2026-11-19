@@ -3,7 +3,7 @@
   "34dabdfbc2ff": "প্রতিটি বিষয় হলো এমন একটি টীকা যা একটি Translation Academy পাঠের সাথে যুক্ত। অন্য টীকাগুলো সহায়িকা প্যানেলে থাকে।",
   "37ed9dc0480b": "একটি টীকা যাচাই করুন",
   "c2ed52ecfaef": "<span class=\"ui\">Check</span>-এ ক্লিক করুন, তারপর <span class=\"ui\">Translation Notes</span> কার্ডে <span class=\"ui\">Start checking →</span>-এ।",
-  "aa2a2d64b884": "<span class=\"ui\">What to check</span> পড়ুন। এটি যে শব্দগুলো নিয়ে, সেগুলো নিচের উৎস কার্ডগুলোতে হাইলাইট করা থাকে: মূল ভাষা, আক্ষরিক গেটওয়ে পাঠ (যেমন <span class=\"ui\">Gateway · unfoldingWord Literal Text</span>) এবং সরলীকৃত পাঠ (<span class=\"ui\">Gateway · UST</span>, বা কিছু গেটওয়ে ভাষায় <span class=\"ui\">GST</span>)।",
+  "9b388eba33d5": "<span class=\"ui\">What to check</span> পড়ুন। এটি যে শব্দগুলো নিয়ে, সেগুলো নিচের উৎস কার্ডগুলোতে হাইলাইট করা থাকে: মূল ভাষা, আক্ষরিক গেটওয়ে পাঠ এবং সরলীকৃত পাঠ। গেটওয়ে কার্ডগুলোর শিরোনাম প্রতিটি বাইবেলের সংক্ষিপ্ত নাম, যেমন ইংরেজিতে <span class=\"ui\">ULT</span> ও <span class=\"ui\">UST</span>।",
   "af9960d2e388": "বিষয়টি সম্পর্কে আরও জানতে টীকার নিচে <span class=\"ui\">Learn more</span>-এ ক্লিক করুন। Translation Academy পাঠটি ডান দিকের একটি প্যানেলে খোলে। ✕ দিয়ে এটি বন্ধ করুন।",
   "009010512001": "<span class=\"ui\">Your translation</span>-এর নিচে হাইলাইট করা উদ্ধৃতিটি যে শব্দ বা শব্দগুলো অনুবাদ করে সেগুলোতে ট্যাপ করুন।",
   "540bd764162b": "থামতে নিচে বাঁ দিকে <span class=\"ui\">← Back to translating</span>-এ ক্লিক করুন।",

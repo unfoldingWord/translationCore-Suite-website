@@ -1293,11 +1293,11 @@
       "ui_labels": [
         "Align",
         "Check",
-        "Gateway · ULT",
         "How alignment works",
         "Original · Greek",
         "Start checking →",
         "Suggest links",
+        "ULT",
         "← All checking tools",
         "← Back to translating",
         "✓ Mark valid"
@@ -1308,7 +1308,7 @@
         {
           "n": 1,
           "file": "img/al-open-1.png",
-          "caption": "The Align tool for a sample Spanish Titus, Titus 1:1. Labels point to All checking tools, How alignment works, the Align to switch (Gateway · ULT or Original · Greek), Suggest links (off), Previous and Next beside Mark valid, Back to translating, the verse list, Mark valid, the word cards and the word bank.",
+          "caption": "The Align tool for a sample Spanish Titus, Titus 1:1. Labels point to All checking tools, How alignment works, the Align to switch (ULT, the gateway Bible&#x27;s abbreviation, or Original · Greek), Suggest links (off), Previous and Next beside Mark valid, Back to translating, the verse list, Mark valid, the word cards and the word bank.",
           "exists": true
         },
         {
@@ -1395,9 +1395,9 @@
       "summary": "Align to the gateway words you can read (which already carry the link to the original), or directly to the Greek or Hebrew words.",
       "ui_labels": [
         "Align",
-        "Gateway · ULT",
         "Original · Greek",
-        "Original · Hebrew"
+        "Original · Hebrew",
+        "ULT"
       ],
       "steps": [],
       "expected": [],
@@ -1405,7 +1405,7 @@
         {
           "n": 1,
           "file": "img/al-modes-1.png",
-          "caption": "Align on Titus 1:1 with Original · Greek selected. The hint says Align directly to the original-language words. The source is headed Original language · Greek, and the cards below the word bank show only Greek words.",
+          "caption": "Align on Titus 1:1 with Original · Greek selected; the chip beside it reads ULT. The hint says Align directly to the original-language words. The source is headed Original language · Greek, and the cards below the word bank are headed by Greek words only.",
           "exists": true
         }
       ],

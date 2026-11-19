@@ -3,7 +3,7 @@
   "34dabdfbc2ff": "Mỗi mục là một ghi chú có liên kết đến một bài học Học viện dịch thuật. Các ghi chú khác vẫn ở trong bảng trợ giúp.",
   "37ed9dc0480b": "Kiểm tra một ghi chú",
   "c2ed52ecfaef": "Nhấp vào <span class=\"ui\">Kiểm tra</span>, rồi <span class=\"ui\">Bắt đầu kiểm tra →</span> trên thẻ <span class=\"ui\">Ghi chú dịch thuật</span>.",
-  "aa2a2d64b884": "Đọc <span class=\"ui\">Nội dung cần kiểm tra</span>. Các từ liên quan được tô sáng trong các thẻ nguồn bên dưới: nguyên ngữ, văn bản cầu nối sát nghĩa (ví dụ <span class=\"ui\">Cầu nối · unfoldingWord Literal Text</span>) và văn bản đơn giản hóa (<span class=\"ui\">Cầu nối · UST</span>, hoặc <span class=\"ui\">GST</span> ở một số ngôn ngữ cầu nối).",
+  "9b388eba33d5": "Đọc <span class=\"ui\">Nội dung cần kiểm tra</span>. Các từ liên quan được tô sáng trong các thẻ nguồn bên dưới: nguyên ngữ, văn bản cầu nối sát nghĩa và văn bản đơn giản hóa. Các thẻ cầu nối có tiêu đề là tên viết tắt của từng bản Kinh Thánh, như <span class=\"ui\">ULT</span> và <span class=\"ui\">UST</span> trong tiếng Anh.",
   "af9960d2e388": "Để tìm hiểu thêm về vấn đề này, hãy nhấp vào <span class=\"ui\">Tìm hiểu thêm</span> bên dưới ghi chú. Bài học Học viện dịch thuật sẽ mở trong một bảng ở bên phải. Đóng bảng bằng ✕.",
   "009010512001": "Bên dưới <span class=\"ui\">Bản dịch của bạn</span>, hãy chạm vào từ hoặc các từ dịch phần trích dẫn được tô sáng.",
   "540bd764162b": "Để dừng, hãy nhấp vào <span class=\"ui\">← Quay lại dịch</span> ở góc dưới bên trái.",

@@ -106,7 +106,7 @@
   "3d08e6482daf": "When a verse is aligned, mark it valid. It counts toward the verses-aligned progress.",
   "192e277ec74d": "Align to the gateway words you can read (which already carry the link to the original), or directly to the Greek or Hebrew words.",
   "d8d1ce995357": "Align links each word of your translation to the original-language word it translates. Open it from Check.",
-  "ca6791a3d267": "The Align tool for a sample Spanish Titus, Titus 1:1. Labels point to All checking tools, How alignment works, the Align to switch (Gateway · ULT or Original · Greek), Suggest links (off), Previous and Next beside Mark valid, Back to translating, the verse list, Mark valid, the word cards and the word bank.",
+  "407a0dd797f6": "The Align tool for a sample Spanish Titus, Titus 1:1. Labels point to All checking tools, How alignment works, the Align to switch (ULT, the gateway Bible's abbreviation, or Original · Greek), Suggest links (off), Previous and Next beside Mark valid, Back to translating, the verse list, Mark valid, the word cards and the word bank.",
   "1a257e9ed21e": "When several source words are translated together, merge their cards into one phrase card. SPLIT undoes it.",
   "2cf0d0ec33f9": "tC4 can learn from the verses you have already aligned and suggest links for the next ones. You confirm or reject each one.",
   "a8148e95b8ca": "<a href=\"/tc-help/\">Help</a> › <a href=\"section-bible-projects\">Bible projects</a>",

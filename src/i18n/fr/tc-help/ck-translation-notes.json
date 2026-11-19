@@ -3,7 +3,7 @@
   "34dabdfbc2ff": "Chaque élément est une note qui renvoie à une leçon de l’Académie de traduction. Les autres notes restent dans le panneau d’aides.",
   "37ed9dc0480b": "Vérifier une note",
   "c2ed52ecfaef": "Cliquez sur <span class=\"ui\">Vérifier</span>, puis sur <span class=\"ui\">Commencer la vérification →</span> sur la carte <span class=\"ui\">Notes de traduction</span>.",
-  "aa2a2d64b884": "Lisez <span class=\"ui\">Quoi vérifier</span>. Les mots concernés sont surlignés dans les cartes sources en dessous : la langue originale, le texte passerelle littéral (par exemple <span class=\"ui\">Passerelle · unfoldingWord Literal Text</span>) et le texte simplifié (<span class=\"ui\">Passerelle · UST</span>, ou <span class=\"ui\">GST</span> dans certaines langues passerelles).",
+  "9b388eba33d5": "Lisez <span class=\"ui\">Quoi vérifier</span>. Les mots concernés sont surlignés dans les cartes sources en dessous : la langue originale, le texte passerelle littéral et le texte simplifié. Les cartes du texte passerelle ont pour titre l’abréviation de chaque Bible, comme <span class=\"ui\">ULT</span> et <span class=\"ui\">UST</span> en anglais.",
   "af9960d2e388": "Pour en savoir plus sur la question, cliquez sur <span class=\"ui\">En savoir plus</span> sous la note. La leçon de l’Académie de traduction s’ouvre dans un panneau à droite. Fermez-la avec ✕.",
   "009010512001": "Sous <span class=\"ui\">Votre traduction</span>, touchez le ou les mots qui traduisent la citation surlignée.",
   "540bd764162b": "Pour arrêter, cliquez sur <span class=\"ui\">← Retour à la traduction</span> en bas à gauche.",

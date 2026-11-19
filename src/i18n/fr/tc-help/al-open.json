@@ -8,7 +8,7 @@
   "88485c019666": "Quand le verset est terminé, cliquez sur <span class=\"ui\">✓ Marquer valide</span>. Voir <a href=\"al-mark-valid\">Marquer un alignement comme terminé</a>.",
   "9e63a70b7cb6": "Pour sortir, cliquez sur <span class=\"ui\">← Tous les outils de vérification</span> en haut à gauche, ou sur <span class=\"ui\">← Retour à la traduction</span> en bas à gauche.",
   "301a064f6f16": "Sur cet écran",
-  "ad5c7353eb70": "<span class=\"ui\">Passerelle · ULT</span> aligne sur le texte passerelle que vous pouvez lire. Ses mots portent déjà le lien vers la langue originale. <span class=\"ui\">Original · grec</span> aligne directement sur les mots grecs. Voir <a href=\"al-modes\">Aligner sur le texte passerelle ou sur la langue originale</a>.",
+  "c0c148e69f4a": "La puce portant l’abréviation de votre Bible passerelle (par exemple, <span class=\"ui\">ULT</span>) aligne sur le texte passerelle que vous pouvez lire. Ses mots portent déjà le lien vers la langue originale. <span class=\"ui\">Original · grec</span> aligne directement sur les mots grecs. Voir <a href=\"al-modes\">Aligner sur le texte passerelle ou sur la langue originale</a>.",
   "7fe4b76804a6": "<span class=\"ui\">Suggérer des liens</span> est désactivé au départ. Activez-le pour recevoir des liens proposés à partir des versets que vous avez déjà alignés. Voir <a href=\"al-suggestions\">Suggestions d’alignement</a>.",
   "50f0d72fb224": "Au-dessus de la banque de mots, un compteur indique combien de mots du verset sont placés.",
   "e1bb27c319b7": "<span class=\"ui\">Comment fonctionne l’alignement</span> ouvre une courte explication.",
