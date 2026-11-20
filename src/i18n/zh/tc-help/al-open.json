@@ -8,7 +8,7 @@
   "88485c019666": "这节经文完成后，点击 <span class=\"ui\">✓ Mark valid</span>。请参阅<a href=\"al-mark-valid\">将对齐标记为完成</a>。",
   "9e63a70b7cb6": "要离开，请点击左上角的 <span class=\"ui\">← All checking tools</span>，或左下角的 <span class=\"ui\">← Back to translating</span>。",
   "301a064f6f16": "这个页面上有什么",
-  "ad5c7353eb70": "<span class=\"ui\">Gateway · ULT</span> 对齐到你能读懂的通用语言文本，它的词已经带有与原文的链接。<span class=\"ui\">Original · Greek</span> 直接对齐到希腊文的词。请参阅<a href=\"al-modes\">对齐到通用语言文本或原文</a>。",
+  "c0c148e69f4a": "显示你的通用语言圣经缩写的按钮（例如 <span class=\"ui\">ULT</span>）对齐到你能读懂的通用语言文本，它的词已经带有与原文的链接。<span class=\"ui\">Original · Greek</span> 直接对齐到希腊文的词。请参阅<a href=\"al-modes\">对齐到通用语言文本或原文</a>。",
   "7fe4b76804a6": "<span class=\"ui\">Suggest links</span> 一开始是关闭的。打开它，系统会根据你已经对齐的经节提出链接建议。请参阅<a href=\"al-suggestions\">对齐建议</a>。",
   "50f0d72fb224": "词库上方的计数显示这节经文中有多少词已经放置。",
   "e1bb27c319b7": "<span class=\"ui\">How alignment works</span> 会打开一段简短的说明。",

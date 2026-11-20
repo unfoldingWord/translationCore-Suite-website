@@ -106,7 +106,7 @@
   "3d08e6482daf": "一节经文对齐完成后，把它标记为有效。它会计入已对齐经节的进度。",
   "192e277ec74d": "你可以对齐到自己看得懂的通用语言词语（这些词语已经与原文相关联），也可以直接对齐到希腊文或希伯来文词语。",
   "d8d1ce995357": "对齐是把译文中的每个词与它所翻译的原文词语关联起来。请从 Check（检查）模式中打开。",
-  "ca6791a3d267": "西班牙语提多书示例中的对齐工具，提多书 1:1。标注指向 All checking tools、How alignment works、Align to 切换开关（Gateway · ULT 或 Original · Greek）、Suggest links（关闭）、Mark valid 旁边的 Previous 和 Next、Back to translating、经节列表、Mark valid、词语卡片和词库。",
+  "407a0dd797f6": "西班牙语提多书示例中的对齐工具，提多书 1:1。标注指向 All checking tools、How alignment works、Align to 切换开关（ULT，即通用语言圣经的缩写，或 Original · Greek）、Suggest links（关闭）、Mark valid 旁边的 Previous 和 Next、Back to translating、经节列表、Mark valid、词语卡片和词库。",
   "1a257e9ed21e": "如果几个源词合在一起翻译，就把它们的卡片合并成一张短语卡片。SPLIT 可以撤销合并。",
   "2cf0d0ec33f9": "tC4 可以从你已对齐的经节中学习，为接下来的经节建议关联。每条建议都由你确认或拒绝。",
   "a8148e95b8ca": "<a href=\"/tc-help/\">帮助</a> › <a href=\"section-bible-projects\">圣经项目</a>",

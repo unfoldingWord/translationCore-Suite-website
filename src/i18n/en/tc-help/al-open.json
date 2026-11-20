@@ -8,7 +8,7 @@
   "88485c019666": "When the verse is done, click <span class=\"ui\">✓ Mark valid</span>. See <a href=\"al-mark-valid\">Mark an alignment done</a>.",
   "9e63a70b7cb6": "To leave, click <span class=\"ui\">← All checking tools</span> at the top left, or <span class=\"ui\">← Back to translating</span> at the bottom left.",
   "301a064f6f16": "On this screen",
-  "ad5c7353eb70": "<span class=\"ui\">Gateway · ULT</span> aligns to the gateway text you can read. Its words already carry the link to the original language. <span class=\"ui\">Original · Greek</span> aligns straight to the Greek words. See <a href=\"al-modes\">Align to the gateway text or the original language</a>.",
+  "c0c148e69f4a": "The chip with your gateway Bible's abbreviation (for example, <span class=\"ui\">ULT</span>) aligns to the gateway text you can read. Its words already carry the link to the original language. <span class=\"ui\">Original · Greek</span> aligns straight to the Greek words. See <a href=\"al-modes\">Align to the gateway text or the original language</a>.",
   "7fe4b76804a6": "<span class=\"ui\">Suggest links</span> is off at first. Turn it on to get links proposed from the verses you have already aligned. See <a href=\"al-suggestions\">Alignment suggestions</a>.",
   "50f0d72fb224": "Above the word bank, a count shows how many of the verse's words are placed.",
   "e1bb27c319b7": "<span class=\"ui\">How alignment works</span> opens a short explanation.",

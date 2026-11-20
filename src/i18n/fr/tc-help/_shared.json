@@ -106,7 +106,7 @@
   "3d08e6482daf": "Quand un verset est aligné, marquez-le valide. Il compte alors dans la progression des versets alignés.",
   "192e277ec74d": "Alignez sur les mots passerelles que vous savez lire (ils portent déjà le lien vers l’original), ou directement sur les mots grecs ou hébreux.",
   "d8d1ce995357": "Aligner relie chaque mot de votre traduction au mot de la langue originale qu’il traduit. Ouvrez-le depuis Vérifier.",
-  "ca6791a3d267": "L’outil Aligner pour un exemple de Tite en espagnol, Tite 1:1. Les repères montrent Tous les outils de vérification, Comment fonctionne l’alignement, le sélecteur Aligner sur (Passerelle · ULT ou Original · grec), Suggérer des liens (désactivé), Précédent et Suivant à côté de Marquer valide, Retour à la traduction, la liste des versets, Marquer valide, les cartes de mots et la banque de mots.",
+  "407a0dd797f6": "L’outil Aligner pour un exemple de Tite en espagnol, Tite 1:1. Les repères montrent Tous les outils de vérification, Comment fonctionne l’alignement, le sélecteur Aligner sur (ULT, l’abréviation de la Bible passerelle, ou Original · grec), Suggérer des liens (désactivé), Précédent et Suivant à côté de Marquer valide, Retour à la traduction, la liste des versets, Marquer valide, les cartes de mots et la banque de mots.",
   "1a257e9ed21e": "Quand plusieurs mots sources sont traduits ensemble, fusionnez leurs cartes en une seule carte d’expression. SÉPARER annule la fusion.",
   "2cf0d0ec33f9": "tC4 peut apprendre des versets que vous avez déjà alignés et suggérer des liens pour les suivants. Vous confirmez ou rejetez chacun d’eux.",
   "a8148e95b8ca": "<a href=\"/tc-help/\">Aide</a> › <a href=\"section-bible-projects\">Projets bibliques</a>",
